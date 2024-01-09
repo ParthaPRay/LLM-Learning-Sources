@@ -1,5 +1,5 @@
-# LLM-Learning-Sources
-This repo contains a list of channels and sources from where LLMs should be learned.
+# LLM-Learning-Youtube-Sources
+This repo contains a list of Youtube channels and other sources from where LLMs should be learned.
 
 
 # Jeremy Howard
