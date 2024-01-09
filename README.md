@@ -6,8 +6,7 @@ This repo contains a list of Youtube channels and other sources from where LLMs 
 
 **Youtube:** https://www.youtube.com/@howardjeremyp
 
-
-# A Hackers' Guide to Language Models
+* A Hackers' Guide to Language Models
 
 **Youtube:** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 
