@@ -11,7 +11,7 @@ This repo contains a list of Youtube channels and other sources from where LLMs 
 **Youtube:** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 
 
-# https://course.fast.ai/
+# Free Course on (https://course.fast.ai/)
 
 **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
