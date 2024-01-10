@@ -76,6 +76,8 @@ www.heatonresearch.com
 * **AI Makerspace** https://www.youtube.com/@AI-Makerspace
 * **AssemblyAI** https://www.youtube.com/@AssemblyAI
 * **Entry Point AI** https://www.youtube.com/@EntryPointAI
+* **Julien Simon**
+  https://youtube.com/@juliensimonfr?si=Mv1zQNl0_j6ycmkb
 * **Steve (Builder.io)** https://www.youtube.com/@Steve8708
 * **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 * **AI Engineer** https://www.youtube.com/@aiDotEngineer
