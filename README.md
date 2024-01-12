@@ -1,9 +1,19 @@
 # LLM-Learning-Youtube-Sources
 This repo contains a list of Youtube channels and other sources from where LLMs should be learned.
 
-# Chats
+# Open Source LLMs for live chat
 
-* https://huggingface.co/spaces/mlabonne/phixtral-chat
+* Phixtral 
+https://huggingface.co/spaces/mlabonne/phixtral-chat
+
+* OpenChat
+
+https://github.com/imoneoi/openchat
+
+https://openchat.team/
+
+
+
 
 
 
