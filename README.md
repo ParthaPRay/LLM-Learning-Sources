@@ -1,8 +1,15 @@
 # LLM-Learning-Youtube-Sources
 This repo contains a list of Youtube channels and other sources from where LLMs should be learned.
 
+# Chats
 
-# Jeremy Howard
+* https://huggingface.co/spaces/mlabonne/phixtral-chat
+
+
+
+# Sources
+
+* Jeremy Howard
 
 **Youtube:** https://www.youtube.com/@howardjeremyp
 
@@ -11,11 +18,11 @@ This repo contains a list of Youtube channels and other sources from where LLMs 
 **Youtube:** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 
 
-# Free Course on (https://course.fast.ai/)
+* Free Course on (https://course.fast.ai/)
 
 **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
-# CS50
+* CS50
 
 This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.
 
@@ -24,14 +31,14 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 **Edx:** cs50.edx.org
 
 
-# Jeff Heaton
+* Jeff Heaton
 
 https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
 
 www.heatonresearch.com
 
 
-# FreeCodeCamp https://www.youtube.com/@freecodecamp
+* FreeCodeCamp https://www.youtube.com/@freecodecamp
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
 * **Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma** https://www.youtube.com/watch?v=xZDB1naRUlk
@@ -45,7 +52,7 @@ www.heatonresearch.com
 
 
 
-# Important Youtube Channels 
+* Important Youtube Channels 
 
 * **Matthew Berman** https://www.youtube.com/@matthew_berman
 * **AI Flux**  https://www.youtube.com/@aifluxchannel
@@ -61,13 +68,13 @@ www.heatonresearch.com
 
 
 
-# Google
+* Google
 
 **Google Cloud Skills Boost** https://www.cloudskillsboost.google/paths/118
 
 
 
-# Other Youtube Channels
+* Other Youtube Channels
 
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
