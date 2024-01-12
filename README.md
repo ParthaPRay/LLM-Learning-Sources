@@ -13,7 +13,10 @@ https://github.com/imoneoi/openchat
 https://openchat.team/
 
 
+# Open Source Code LLMs
 
+* Llma coder  https://github.com/ex3ndr/llama-coder
+* Tabby https://github.com/TabbyML/tabby
 
 
 
