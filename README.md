@@ -78,6 +78,7 @@ www.heatonresearch.com
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
 * **Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy** https://www.youtube.com/watch?v=kCc8FmEb1nY&t=17s&ab_channel=AndrejKarpathy
 * **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
+* **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
 
 
 
