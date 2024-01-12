@@ -48,6 +48,7 @@ www.heatonresearch.com
 # Important Youtube Channels 
 
 * **Matthew Berman** https://www.youtube.com/@matthew_berman
+* **AI Flux**  https://www.youtube.com/@aifluxchannel
 * **Julien Simon** https://www.youtube.com/@juliensimonfr
 * **AI Jason** https://www.youtube.com/@AIJasonZ
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
