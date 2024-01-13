@@ -8,10 +8,13 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
 * OpenChat
 
-https://github.com/imoneoi/openchat
+  https://github.com/imoneoi/openchat
+  
+  https://openchat.team/
 
-https://openchat.team/
+* Perplexity
 
+  https://www.perplexity.ai/
 
 # Open Source Code LLMs
 
