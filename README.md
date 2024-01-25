@@ -101,6 +101,7 @@ www.heatonresearch.com
 * Other Youtube Channels
 
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
+* **WorldofAI** https://www.youtube.com/@intheworldofai
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
@@ -120,5 +121,5 @@ www.heatonresearch.com
 * **Kurdiez** https://www.youtube.com/@kurdiez_en
 * **Whispering AI** https://www.youtube.com/@WhisperingAI/videos
 * **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
-* **WorldofAI** https://www.youtube.com/@intheworldofai
+
 
