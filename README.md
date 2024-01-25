@@ -16,10 +16,17 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
   https://www.perplexity.ai/
 
+
+# Blogs
+
+* https://huggingface.co/blog
+
+
 # Open Source Code LLMs
 
 * Llma coder  https://github.com/ex3ndr/llama-coder
 * Tabby https://github.com/TabbyML/tabby
+
 
 
 
