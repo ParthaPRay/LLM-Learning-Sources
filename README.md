@@ -120,4 +120,5 @@ www.heatonresearch.com
 * **Kurdiez** https://www.youtube.com/@kurdiez_en
 * **Whispering AI** https://www.youtube.com/@WhisperingAI/videos
 * **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
+* **WorldofAI** https://www.youtube.com/@intheworldofai
 
