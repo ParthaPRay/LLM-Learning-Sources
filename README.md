@@ -24,34 +24,9 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
 # Sources
 
-* Jeremy Howard
-
-**Youtube:** https://www.youtube.com/@howardjeremyp
-
-* A Hackers' Guide to Language Models
-
-**Youtube:** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
-
-
-* Free Course on (https://course.fast.ai/)
+* **Free Course on** (https://course.fast.ai/)
 
 **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
-
-* CS50
-
-This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.
-
-**Youtube Link:** https://www.youtube.com/@cs50
-
-**Edx:** cs50.edx.org
-
-
-* Jeff Heaton
-
-https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
-
-www.heatonresearch.com
-
 
 
 * **Important Youtube Channels** 
@@ -67,6 +42,8 @@ www.heatonresearch.com
 
 * **Other Youtube Channels**
 
+* **Jeremy Howard** https://www.youtube.com/@howardjeremyp
+* **A Hackers' Guide to Language Models** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
 * **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
 * **Matthew Berman** https://www.youtube.com/@matthew_berman
@@ -94,6 +71,24 @@ www.heatonresearch.com
 * **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
 * **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
 * **Rob Mulla** https://www.youtube.com/@robmulla
+
+
+
+* **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
+
+  www.heatonresearch.com
+
+  
+
+* **CS50**
+
+This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.
+
+ https://www.youtube.com/@cs50
+
+**Edx:** cs50.edx.org
+
+
 
 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
