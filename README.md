@@ -24,12 +24,7 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
 # Youtube Sources
 
-* **Free Course on** (https://course.fast.ai/)
 
-**Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
-
-
-* **Important Youtube Channels** 
 
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
@@ -86,6 +81,10 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 
 * **Edx:** cs50.edx.org
 
+
+* **Free Course on** (https://course.fast.ai/)
+
+**Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
