@@ -30,8 +30,7 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
 * **WorldofAI** https://www.youtube.com/@intheworldofai
 * **SkillCurb** https://www.youtube.com/@skillcurb
-
-
+* **Nicholas Renotte** https://github.com/nicknochnack
 
 
 
@@ -47,6 +46,7 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
 * **James Briggs** https://www.youtube.com/@jamesbriggs
+* **AI Anytime** https://www.youtube.com/@AIAnytime
 * **All About AI** https://www.youtube.com/@AllAboutAI
 * **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial
 * **AI Makerspace** https://www.youtube.com/@AI-Makerspace
