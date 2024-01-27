@@ -31,6 +31,9 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 * **WorldofAI** https://www.youtube.com/@intheworldofai
 * **SkillCurb** https://www.youtube.com/@skillcurb
 * **Nicholas Renotte** https://github.com/nicknochnack
+* **Trelus Research**
+https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
+  
 
 
 
