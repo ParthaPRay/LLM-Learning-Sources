@@ -22,14 +22,6 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 * https://huggingface.co/blog
 
 
-# Open Source Code LLMs
-
-* Llma coder  https://github.com/ex3ndr/llama-coder
-* Tabby https://github.com/TabbyML/tabby
-
-
-
-
 # Sources
 
 * Jeremy Howard
@@ -61,7 +53,50 @@ https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
 www.heatonresearch.com
 
 
-* FreeCodeCamp https://www.youtube.com/@freecodecamp
+
+* **Important Youtube Channels** 
+
+* **Mervin Praison** https://www.youtube.com/@MervinPraison
+* **Prompt Engineering** https://www.youtube.com/@engineerprompt
+* **WorldofAI** https://www.youtube.com/@intheworldofai
+* **SkillCurb** https://www.youtube.com/@skillcurb
+
+
+
+
+
+* **Other Youtube Channels**
+
+* **Leon Explains AI** https://www.youtube.com/@leonsaiagency
+* **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
+* **Matthew Berman** https://www.youtube.com/@matthew_berman
+* **AI Flux**  https://www.youtube.com/@aifluxchannel
+* **Julien Simon** https://www.youtube.com/@juliensimonfr
+* **AI Jason** https://www.youtube.com/@AIJasonZ
+* **Fahd Mirza** https://www.youtube.com/@fahdmirza
+* **Gao Dalie** https://www.youtube.com/@GaoDalie97
+* **Yeyu Lab** https://www.youtube.com/@yeyulab
+* **James Briggs** https://www.youtube.com/@jamesbriggs
+* **All About AI** https://www.youtube.com/@AllAboutAI
+* **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial
+* **AI Makerspace** https://www.youtube.com/@AI-Makerspace
+* **AssemblyAI** https://www.youtube.com/@AssemblyAI
+* **Entry Point AI** https://www.youtube.com/@EntryPointAI
+* **Julien Simon** https://youtube.com/@juliensimonfr?si=Mv1zQNl0_j6ycmkb
+* **Steve (Builder.io)** https://www.youtube.com/@Steve8708
+* **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+* **AI Engineer** https://www.youtube.com/@aiDotEngineer
+* **Venelin Valkov** https://www.youtube.com/@venelin_valkov/videos
+* **Kurdiez** https://www.youtube.com/@kurdiez_en
+* **Whispering AI** https://www.youtube.com/@WhisperingAI/videos
+* **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
+* **Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy** https://www.youtube.com/watch?v=kCc8FmEb1nY&t=17s&ab_channel=AndrejKarpathy
+* **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
+* **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
+* **Rob Mulla** https://www.youtube.com/@robmulla
+
+
+* **FreeCodeCamp** https://www.youtube.com/@freecodecamp
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
 * **Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma** https://www.youtube.com/watch?v=xZDB1naRUlk
@@ -75,51 +110,8 @@ www.heatonresearch.com
 
 
 
-* Important Youtube Channels 
-
-* **Matthew Berman** https://www.youtube.com/@matthew_berman
-* **AI Flux**  https://www.youtube.com/@aifluxchannel
-* **Julien Simon** https://www.youtube.com/@juliensimonfr
-* **AI Jason** https://www.youtube.com/@AIJasonZ
-* **Prompt Engineering** https://www.youtube.com/@engineerprompt
-* **Rob Mulla** https://www.youtube.com/@robmulla
-* **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
-* **WorldofAI** https://www.youtube.com/@intheworldofai
-* **Leon Explains AI** https://www.youtube.com/@leonsaiagency
-* **Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy** https://www.youtube.com/watch?v=kCc8FmEb1nY&t=17s&ab_channel=AndrejKarpathy
-* **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
-* **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
-
-
-
-* Google
+* **Google**
 
 **Google Cloud Skills Boost** https://www.cloudskillsboost.google/paths/118
-
-
-
-* Other Youtube Channels
-
-* **Mervin Praison** https://www.youtube.com/@MervinPraison
-* **WorldofAI** https://www.youtube.com/@intheworldofai
-* **Fahd Mirza** https://www.youtube.com/@fahdmirza
-* **Gao Dalie** https://www.youtube.com/@GaoDalie97
-* **Yeyu Lab** https://www.youtube.com/@yeyulab
-* **James Briggs** https://www.youtube.com/@jamesbriggs
-* **SkillCurb** https://www.youtube.com/@skillcurb
-* **All About AI** https://www.youtube.com/@AllAboutAI
-* **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial
-* **AI Makerspace** https://www.youtube.com/@AI-Makerspace
-* **AssemblyAI** https://www.youtube.com/@AssemblyAI
-* **Entry Point AI** https://www.youtube.com/@EntryPointAI
-* **Julien Simon**
-  https://youtube.com/@juliensimonfr?si=Mv1zQNl0_j6ycmkb
-* **Steve (Builder.io)** https://www.youtube.com/@Steve8708
-* **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
-* **AI Engineer** https://www.youtube.com/@aiDotEngineer
-* **Venelin Valkov** https://www.youtube.com/@venelin_valkov/videos
-* **Kurdiez** https://www.youtube.com/@kurdiez_en
-* **Whispering AI** https://www.youtube.com/@WhisperingAI/videos
-* **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
 
 
