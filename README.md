@@ -86,8 +86,7 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 
  https://www.youtube.com/@cs50
 
-**Edx:** cs50.edx.org
-
+* **Edx:** cs50.edx.org
 
 
 
