@@ -22,7 +22,7 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 * https://huggingface.co/blog
 
 
-# Sources
+# Youtube Sources
 
 * **Free Course on** (https://course.fast.ai/)
 
@@ -39,8 +39,6 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
 
 
-
-* **Other Youtube Channels**
 
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
 * **A Hackers' Guide to Language Models** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
