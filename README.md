@@ -34,7 +34,8 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 * **Trelus Research**
 https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
   
-
+* **Mat Williams**
+https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
 
 
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
