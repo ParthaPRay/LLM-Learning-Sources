@@ -68,7 +68,8 @@ https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
 * **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
 * **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
 * **Rob Mulla** https://www.youtube.com/@robmulla
-
+* **Edward Hu**
+https://edwardjhu.com/
 
 
 * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
