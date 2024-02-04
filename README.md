@@ -70,6 +70,8 @@ https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
 * **Rob Mulla** https://www.youtube.com/@robmulla
 * **Edward Hu**
 https://edwardjhu.com/
+* **Deploying AI**
+https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 
 
 * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
