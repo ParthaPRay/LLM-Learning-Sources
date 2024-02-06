@@ -37,6 +37,8 @@ https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
 * **Mat Williams**
 https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
 
+* **Connor Shorten**
+https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy
 
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
 * **A Hackers' Guide to Language Models** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
