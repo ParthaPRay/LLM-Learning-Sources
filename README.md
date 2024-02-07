@@ -50,6 +50,9 @@ https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy
 
 https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
 
+* **AI for Devs**
+https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
+
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
 * **A Hackers' Guide to Language Models** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
