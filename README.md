@@ -21,6 +21,12 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
 * https://huggingface.co/blog
 
+  
+
+# Materials
+
+https://www.promptingguide.ai/research/rag
+
 
 # Youtube Sources
 
