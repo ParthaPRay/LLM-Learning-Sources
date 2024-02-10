@@ -8,15 +8,15 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
   https://huggingface.co/blog/text-generation-inference-on-inferentia2
 
-        This tutorial shows how easy it is to deploy a state-of-the-art LLM, such as Zephyr 7B, on AWS Inferentia2 using Amazon SageMaker. Zephyr is a 7B fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on a mix of publicly available and synthetic datasets using Direct Preference Optimization (DPO), as described in detail in the technical report. The model is released under the Apache 2.0 license, ensuring wide accessibility and use.
+     This tutorial shows how easy it is to deploy a state-of-the-art LLM, such as **Zephyr 7B**, on **AWS Inferentia2** using **Amazon SageMaker**. Zephyr is a 7B _fine-tuned_ version of **mistralai/Mistral-7B-v0.1** that was trained on a mix of publicly available and synthetic datasets using **Direct Preference Optimization (DPO)**, as described in detail in the technical report. The model is released under the **Apache 2.0 license**, ensuring wide accessibility and use.
       
       We are going to show you how to:
       
-      Setup development environment
-      Retrieve the TGI Neuronx Image
-      Deploy Zephyr 7B to Amazon SageMaker
-      Run inference and chat with the model
-      Let’s get started.
+      1. Setup development environment
+      2. Retrieve the TGI Neuronx Image
+      3 .Deploy Zephyr 7B to Amazon SageMaker
+      4. Run inference and chat with the model
+      
 
 
   
