@@ -1,7 +1,8 @@
-# LLM-Learning-Youtube-Sources
-This repo contains a list of Youtube channels and other sources from where LLMs should be learned.
+# LLM-Learning-Sources
+This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
-# Blogs
+
+# Key Sources
 
 * Hugging Face Text Generation Inference available for AWS Inferentia2 
 
