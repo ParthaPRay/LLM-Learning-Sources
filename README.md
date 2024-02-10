@@ -17,7 +17,12 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
       3 .Deploy Zephyr 7B to Amazon SageMaker
       4. Run inference and chat with the model
 
-          
+
+* Phinetuning 2.0
+
+Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
+
+ https://huggingface.co/blog/g-ronimo/phinetuning
       
       
 
