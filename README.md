@@ -51,6 +51,7 @@ https://www.promptingguide.ai/research/rag
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
 * **WorldofAI** https://www.youtube.com/@intheworldofai
+* **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
 * **Nicholas Renotte** https://github.com/nicknochnack
 * **Trelus Research**
