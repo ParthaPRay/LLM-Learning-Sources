@@ -24,7 +24,10 @@ Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet co
 
  https://huggingface.co/blog/g-ronimo/phinetuning
       
-      
+* Awesome RAG 
+
+ RAG-VectorDB-Embedings-LlamaIndex-Langchain
+       https://github.com/lucifertrj/Awesome-RAG
 
 
   
