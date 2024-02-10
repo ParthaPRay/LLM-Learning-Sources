@@ -64,6 +64,10 @@ https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
 * **AI Flux**  https://www.youtube.com/@aifluxchannel
 * **Julien Simon** https://www.youtube.com/@juliensimonfr
 * **AI Jason** https://www.youtube.com/@AIJasonZ
+
+* **Decoder**
+
+https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
