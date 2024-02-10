@@ -30,6 +30,11 @@ Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet co
        https://github.com/lucifertrj/Awesome-RAG
 
 
+* What is LoRA?
+
+  Edward Hu
+  
+  https://edwardjhu.com/
   
 
 # Materials
