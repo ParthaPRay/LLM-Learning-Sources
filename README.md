@@ -1,29 +1,13 @@
 # LLM-Learning-Youtube-Sources
 This repo contains a list of Youtube channels and other sources from where LLMs should be learned.
 
-# Open Source LLMs for live chat
-
-* Phixtral 
-https://huggingface.co/spaces/mlabonne/phixtral-chat
-
-* OpenChat
-
-  https://github.com/imoneoi/openchat
-  
-  https://openchat.team/
-
-* Perplexity
-
-  https://www.perplexity.ai/
-
-
 # Blogs
 
-* https://huggingface.co/blog
-
-  Hugging Face Text Generation Inference available for AWS Inferentia2 
+* Hugging Face Text Generation Inference available for AWS Inferentia2 
 
   https://huggingface.co/blog/text-generation-inference-on-inferentia2
+
+
   
 
 # Materials
@@ -31,6 +15,8 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 https://www.promptingguide.ai/research/rag
 
 
+
+  
 # Youtube Sources
 
 
