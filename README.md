@@ -21,6 +21,9 @@ https://huggingface.co/spaces/mlabonne/phixtral-chat
 
 * https://huggingface.co/blog
 
+  Hugging Face Text Generation Inference available for AWS Inferentia2 
+
+  https://huggingface.co/blog/text-generation-inference-on-inferentia2
   
 
 # Materials
