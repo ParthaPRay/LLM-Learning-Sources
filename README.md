@@ -43,17 +43,16 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 * **Fine Tuning** 
 
   * Make LLM Fine Tuning 5x Faster with Unsloth, https://www.youtube.com/watch?v=sIFokbuATX4&ab_channel=AIAnytime
-
- * Fine Tune a Multimodal LLM "IDEFICS 9B" for Visual Question Answering, https://www.youtube.com/watch?v=usoTCfyQxjU&ab_channel=AIAnytime
-
-* Anyone can Fine Tune LLMs using LLaMA Factory: End-to-End Tutorial, https://www.youtube.com/watch?v=iMD7ba1hHgw&t=15s&ab_channel=AIAnytime
   
-* Fine Tune Phi-2 Model on Your Dataset, https://www.youtube.com/watch?v=eLy74j0KCrY&ab_channel=AIAnytime
-
-* LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, 
-https://www.youtube.com/watch?v=mrKuDK9dGlg
-
-* Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
+  * Fine Tune a Multimodal LLM "IDEFICS 9B" for Visual Question Answering, https://www.youtube.com/watch?v=usoTCfyQxjU&ab_channel=AIAnytime
+  
+  * Anyone can Fine Tune LLMs using LLaMA Factory: End-to-End Tutorial, https://www.youtube.com/watch?v=iMD7ba1hHgw&t=15s&ab_channel=AIAnytime
+  
+  * Fine Tune Phi-2 Model on Your Dataset, https://www.youtube.com/watch?v=eLy74j0KCrY&ab_channel=AIAnytime
+  
+  * LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, https://www.youtube.com/watch?v=mrKuDK9dGlg\
+  
+  * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
 
 
 
