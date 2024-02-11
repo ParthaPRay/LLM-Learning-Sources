@@ -40,6 +40,24 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * How TO Install Ollama Web UI | ChatGPT LIKE Interface, https://www.youtube.com/watch?v=bt4AR7sK9tk&ab_channel=DataScienceBasics
  
   * Ollama: The Easiest Way to Run Uncensored Llama 2 on a Mac, https://www.youtube.com/watch?v=tIRx-Sm3xDQ&ab_channel=IanWootten
+ 
+  * Using Ollama To Build a FULLY LOCAL "ChatGPT Clone"
+, https://www.youtube.com/watch?v=rIRkxZSn-A8&ab_channel=MatthewBerman
+
+  * Hugging Face GGUF Models locally with Ollama, https://www.youtube.com/watch?v=7BH4C6-HP14&t=8s&ab_channel=LearnDatawithMark
+ 
+  * Using the Chat Endpoint in the Ollama API, https://www.youtube.com/watch?v=QUJHEvCqhdw&ab_channel=MattWilliams
+ 
+  * Adding Custom Models to Ollama, https://www.youtube.com/watch?v=0ou51l-MLCo&t=211s&ab_channel=MattWilliams
+ 
+  * Finally Ollama has an OpenAI compatible API, 
+https://www.youtube.com/watch?v=38jlvmBdBrU&ab_channel=MattWilliams
+
+  * Hosting Ollama Starts With Environment Variables, 
+https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
+
+
+
 
 
 
