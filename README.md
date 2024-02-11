@@ -18,6 +18,23 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Building a local ChatGPT with Chainlit, Mixtral, and Ollama, https://www.youtube.com/watch?v=MiJQ_zlnBeo&ab_channel=LearnDatawithMark
     
   * Langroid: Chat to a CSV file using Mixtral (via Ollama), https://www.youtube.com/watch?v=XFTFEKYLxyU
+    
+  * Few Shot Prompting with Llama2 and Ollama, https://www.youtube.com/watch?v=ocfzGBnhhDE
+ 
+  * Hugging Face GGUF Models locally with Ollama, https://www.youtube.com/watch?v=7BH4C6-HP14&ab_channel=LearnDatawithMark
+ 
+  * Autogen: Ollama integration 🤯 Step by Step Tutorial. Mind-blowing!, https://www.youtube.com/watch?v=UQw04VW60U0&ab_channel=MervinPraison
+    
+  * Writing Better Code with Ollama, https://www.youtube.com/watch?v=NNBWmIve3fQ&ab_channel=MattWilliams
+ 
+  * Ollama meets LangChain, https://www.youtube.com/watch?v=k_1pOF1mj8k&ab_channel=SamWitteveen
+    
+  * Running Mixtral on your machine with Ollama, https://www.youtube.com/watch?v=rfr4p0srlqs&ab_channel=LearnDatawithMark
+    
+  * Running Mistral AI on your machine with Ollama, https://www.youtube.com/watch?v=NFgEgqua-fg&ab_channel=LearnDatawithMark
+
+
+
   
 
       
@@ -26,6 +43,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
     
   * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
+    
+  * User-Selected metadata in RAG Applications with Qdrant, https://www.youtube.com/watch?v=qcn7YAJfCeE&ab_channel=LearnDatawithMark
+
 
 
 
