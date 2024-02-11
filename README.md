@@ -16,8 +16,30 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
   
    https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
 
+* Building makemore Part 2: MLP, 
+https://www.youtube.com/watch?v=TCH_1BHY58I&ab_channel=AndrejKarpathy
+
+https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part2_mlp.ipynb
+
+* Building makemore Part 3: Activations & Gradients, BatchNorm, https://www.youtube.com/watch?v=P6sfmUTpUmc&ab_channel=AndrejKarpathy
+
+https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part3_bn.ipynb
+
+
+* Building makemore Part 4: Becoming a Backprop Ninja,  https://www.youtube.com/watch?v=q8SA3rM6ckI&ab_channel=AndrejKarpathy
+
+https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part4_backprop.ipynb
+
+
+* Building makemore Part 5: Building a WaveNet, https://www.youtube.com/watch?v=t3YJ5hKiMQ0&ab_channel=AndrejKarpathy
+
+https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part5_cnn1.ipynb
+
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
+* The spelled-out intro to language modeling: building makemore, 
+  https://www.youtube.com/watch?v=PaCmpygFfXo&ab_channel=AndrejKarpathy
+  
 * How to Build an LLM from Scratch | An Overview,
  https://www.youtube.com/watch?v=ZLbVdvOoTKM&pp=ygUdQ3JlYXRlIGEgTGFyZ2UgTGFuZ3VhZ2UgTW9kZWw%3D
   
