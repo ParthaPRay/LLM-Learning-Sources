@@ -21,7 +21,7 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   
 
       
-* **Awesome RAG** 
+* **RAG** 
 
   * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
     
@@ -29,6 +29,7 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
 
 
+# Hugging and Blogs
 
 * **Hugging Face Text Generation Inference available for AWS Inferentia2** 
 
@@ -49,6 +50,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
    Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
 
    https://huggingface.co/blog/g-ronimo/phinetuning
+
+
+
 
 * **What is LoRA?**
 
