@@ -135,6 +135,20 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
   * Fine Tune LLaMA 2 In FIVE MINUTES! - "Perform 10x Better For My Use Case", https://www.youtube.com/watch?v=74NSDMvYZ9Y&ab_channel=MatthewBerman
  
   * How to Fine-Tune Mistral 7B on Your Own Data, https://www.youtube.com/watch?v=kmkcNVvEz-k&ab_channel=brev
+    
+  * Fine-Tune Your Own Tiny-Llama on Custom Dataset, https://www.youtube.com/watch?v=OVqe6GTrDFM&ab_channel=PromptEngineering
+ 
+  * Fine-tune Mixtral 8x7B (MoE) on Custom Data - Step by Step Guide, https://www.youtube.com/watch?v=RzSDdosu_y8&ab_channel=PromptEngineering
+    
+  * Mistral: Easiest Way to Fine-Tune on Custom Data, https://www.youtube.com/watch?v=lCZRwrRvrWg&ab_channel=PromptEngineering
+    
+  * Custom Fine-tuning 30x Faster on T4 GPUs with UnSloth AI, https://www.youtube.com/watch?v=R4CUKAHShyE&ab_channel=PromptEngineering
+
+    https://unsloth.ai/introducing
+
+
+
+
 
 
 
@@ -248,12 +262,9 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
  
   * How to Build an OpenAI LLM on a Private Network with AWS, https://www.youtube.com/watch?v=6LGGQERxrQo&ab_channel=SingleStore
  
- 
-  * Amazon Bedrock: Generative AI on AWS without the Headaches, 
-https://www.youtube.com/watch?v=Yj_7FuFgPyI
+   * Amazon Bedrock: Generative AI on AWS without the Headaches, https://www.youtube.com/watch?v=Yj_7FuFgPyI
 
-  * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, 
-https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
+  * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
   * PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more), https://www.youtube.com/watch?v=XFiof0V3nhA&ab_channel=MatthewBerman
  
@@ -261,7 +272,16 @@ https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
  
   * Use OpenChat and LM Studio with LLMWare, https://www.youtube.com/watch?v=h2FDjUyvsKE&ab_channel=llmware
 
-  * https://www.youtube.com/watch?v=Bncvggy6m5Q&ab_channel=llmware, Compare Embedding Models for Side by Side Queries Using Postgres with LLMWare
+  * Compare Embedding Models for Side by Side Queries Using Postgres with LLMWare, https://www.youtube.com/watch?v=Bncvggy6m5Q&ab_channel=llmware
+    
+  * AutoGen Studio with 100% Local LLMs (LM Studio), https://www.youtube.com/watch?v=ob45YmYD2KI&ab_channel=PromptEngineering
+  
+  * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
+    
+  * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
+
+
+
 
 
 * **Prompt** 
