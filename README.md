@@ -5,7 +5,7 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 # Key Sources
 
 
-* **Ollama Model**
+* **Ollama**
 
   * Installing Ollama to Customize My Own LLM,    https://www.youtube.com/watch?v=xa8pTD16SnM&ab_channel=Decoder
   
@@ -36,6 +36,12 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
 
   * Ollama Web UI 🤯 How to run LLMs 100% LOCAL in EASY web interface? CRAZY!!🚀 (Step-by-Step Tutorial), https://www.youtube.com/watch?v=84vGNkW1A8s&ab_channel=MervinPraison
+ 
+  * How TO Install Ollama Web UI | ChatGPT LIKE Interface, https://www.youtube.com/watch?v=bt4AR7sK9tk&ab_channel=DataScienceBasics
+ 
+  * Ollama: The Easiest Way to Run Uncensored Llama 2 on a Mac, https://www.youtube.com/watch?v=tIRx-Sm3xDQ&ab_channel=IanWootten
+
+
 
 
 
@@ -69,7 +75,10 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
    
 * **RAG** 
 
-  * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
+* What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
+
+
+* RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
     
   * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
     
@@ -100,11 +109,6 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
 
     
-
-
-
-
-
 * **LLM Apps** 
 
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
@@ -182,6 +186,11 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
   * Amazon Bedrock: Generative AI on AWS without the Headaches, 
 https://www.youtube.com/watch?v=Yj_7FuFgPyI
 
+  * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, 
+https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
+
+  * PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more), https://www.youtube.com/watch?v=XFiof0V3nhA&ab_channel=MatthewBerman
+
 
 
 
@@ -202,6 +211,12 @@ https://www.youtube.com/watch?v=Yj_7FuFgPyI
  
    * Understanding Mixture of Experts, 
 https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+
+  * How To Install Uncensored Mixtral Locally For FREE! (EASY), 
+https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
+
+  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, 
+https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
 
     
