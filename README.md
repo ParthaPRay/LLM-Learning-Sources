@@ -55,6 +55,12 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
  
   * Fine tuning Whisper for Speech Transcription, https://www.youtube.com/watch?v=anplUNnkM68&ab_channel=TrelisResearch
+ 
+  * Direct Preference Optimization (DPO), https://www.youtube.com/watch?v=E5kzAbD8D0w&ab_channel=TrelisResearch
+ 
+  * Fine-tuning Language Models for Structured Responses with QLoRa, https://www.youtube.com/watch?v=OQdp-OeG1as&ab_channel=TrelisResearch
+
+
 
 
 
@@ -161,6 +167,11 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
 * Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment, https://www.youtube.com/watch?v=vYIlhgVHAls&ab_channel=AIAnytime
 
+* Serve a Custom LLM for Over 100 Customers, https://www.youtube.com/watch?v=1TU9ZrZhqw0&ab_channel=TrelisResearch
+
+* Long Context Summarization, https://www.youtube.com/watch?v=I83TH4x9keo&ab_channel=TrelisResearch
+
+* Function Calling Datasets, Training and Inference, https://www.youtube.com/watch?v=hHn_cV5WUDI&ab_channel=TrelisResearch
 
 
 
@@ -174,11 +185,16 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
   * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model
 ,   https://www.youtube.com/watch?v=gIz7Td6WfEo
-    
+
+   * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
+ 
+   * Understanding Mixture of Experts, 
+https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+
 
     
 
-# HuggingFace Blogs
+# HuggingFace
 
 * **Hugging Face Text Generation Inference available for AWS Inferentia2** 
 
