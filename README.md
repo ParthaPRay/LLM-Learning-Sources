@@ -77,6 +77,18 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * RAG Implementation using Zephyr 7B Beta LLM: Is this the best 7B LLM? https://www.youtube.com/watch?v=btuN-rrPhsM&ab_channel=AIAnytime
  
   * Better RAG with Merger Retriever (LOTR) and Re-ranking Retriever (Long Context Reorder), https://www.youtube.com/watch?v=uYZftCq2efg&ab_channel=AIAnytime
+ 
+  * Bert Score for Contextual Similarity for RAG Evaluation, https://youtube.com/watch?v=7AVjk2k8Mbs&ab_channel=AIAnytime
+ 
+  * Testing Framework Giskard for LLM and RAG Evaluation (Bias, Hallucination, and More), https://www.youtube.com/watch?v=KeY6qPAvyq0&ab_channel=AIAnytime
+ 
+  * Check Hallucination of LLMs and RAGs using Open Source Evaluation Model by Vectara, https://www.youtube.com/watch?v=O-VYDADgc68&ab_channel=AIAnytime
+ 
+  * Learn to Evaluate LLMs and RAG Approaches, https://www.youtube.com/watch?v=97ftVtITKfo&ab_channel=AIAnytime
+ 
+  * Evaluating Biases in LLMs using WEAT and Demographic Diversity Analysis, https://www.youtube.com/watch?v=eTenkUPsjko&ab_channel=AIAnytime
+
+
 
     
 
@@ -115,8 +127,14 @@ https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
   * Let's Build an AI News Anchor Generator App using Generative AI, 
 https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
 
+  * Screenshot to Code Generation: 10x Faster Frontend/UI Development, 
+https://www.youtube.com/watch?v=52Xq6AaRnT4&ab_channel=AIAnytime
 
+  * ComfyUI GUI for Image and Video Generation: Google Colab Setup, 
+https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
 
+  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, 
+https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
 
 * **Prompt** 
