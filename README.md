@@ -53,11 +53,12 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, https://www.youtube.com/watch?v=mrKuDK9dGlg\
   
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
+ 
+  * Fine tuning Whisper for Speech Transcription, https://www.youtube.com/watch?v=anplUNnkM68&ab_channel=TrelisResearch
 
 
 
-
-      
+   
 * **RAG** 
 
   * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
@@ -153,6 +154,13 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
   * Install and Run Mistral 7B on AWS, https://www.youtube.com/watch?v=aSh66tG1B5o&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
   * Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers), https://www.youtube.com/watch?v=rQq1m2aJ_fk&ab_channel=AIAnytime
+ 
+  * Enterprise Chat App using Azure Cognitive Search and Azure OpenAI: End-to-End Tutorial, https://www.youtube.com/watch?v=hkSnPhhjm1Y&ab_channel=AIAnytime
+
+* Containerizing LLM-Powered Apps: Part 1 of the Chatbot Deployment, https://www.youtube.com/watch?v=7CeAJ0EbzDA&ab_channel=AIAnytime
+
+* Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment, https://www.youtube.com/watch?v=vYIlhgVHAls&ab_channel=AIAnytime
+
 
 
 
@@ -170,7 +178,7 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
     
 
-# Hugging Blogs
+# HuggingFace Blogs
 
 * **Hugging Face Text Generation Inference available for AWS Inferentia2** 
 
@@ -186,7 +194,10 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
       4. Run inference and chat with the model
 
 
+* Pushing Models and Adapters to HuggingFace | Free Notebook, 
+https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
 
+https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 
 
 * **Phinetuning 2.0**
