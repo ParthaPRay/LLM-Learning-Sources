@@ -8,24 +8,24 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 * How Large Language Models Work, 
 https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
-* 1hr Talk Intro to Large Language Models, https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
+* **Andrej Karpathy**
 
-  Slide PDF: https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view
-
-  Slide PPT Keynote: https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view
+    * 1hr Talk Intro to Large Language Models Lecture by **Andrej Karpathy**, https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
+    
+      Slide PDF: https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view
+    
+      Slide PPT Keynote: https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view
 
 
     
-    * Neural Networks: Zero to Hero
-
+    * **Neural Networks: Zero to Hero** Lecture by **Andrej Karpathy**
 
       A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the lectures directory [https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures]. Every lecture also has a set of exercises included in the video description. (This may grow into something more respectable).
       
       https://github.com/karpathy/nn-zero-to-hero/tree/master
       
     * Let's build GPT: from scratch, in code, spelled out.,
-      
-    
+          
         ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d4894e83-ddb2-46fa-bcab-7dba61aeaac6)
       
        https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
