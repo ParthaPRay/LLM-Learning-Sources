@@ -258,10 +258,12 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
   * Local AI Just Got Easy (and Cheap), https://www.youtube.com/watch?v=mdOEaNV8NXw&ab_channel=DataSlayer
 
-    Zima Board
-    Coral USB TPU
-    Coral PCie TPU
-    M.2 Adapter
+      Zima Board
+      Coral USB TPU
+      Coral PCie TPU
+      M.2 Adapter
+
+
 
 
 
