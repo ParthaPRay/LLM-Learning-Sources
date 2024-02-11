@@ -75,6 +75,8 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Unlocking RAG Potential with LLMWare's CPU-Friendly Smaller Models, https://www.youtube.com/watch?v=qXEUqhqjHdg&ab_channel=AIAnytime
  
   * RAG Implementation using Zephyr 7B Beta LLM: Is this the best 7B LLM? https://www.youtube.com/watch?v=btuN-rrPhsM&ab_channel=AIAnytime
+ 
+  * Better RAG with Merger Retriever (LOTR) and Re-ranking Retriever (Long Context Reorder), https://www.youtube.com/watch?v=uYZftCq2efg&ab_channel=AIAnytime
 
     
 
@@ -101,6 +103,17 @@ https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
 , https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
 
   * Query Your CSV using LIDA: Automatic Generation of Visualizations with LLMs, https://www.youtube.com/watch?v=U9K1Cu45nMQ&ab_channel=AIAnytime
+ 
+  * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, 
+https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
+
+  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
+ 
+  * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, 
+https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
+
+  * Let's Build an AI News Anchor Generator App using Generative AI, 
+https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
 
 
 
