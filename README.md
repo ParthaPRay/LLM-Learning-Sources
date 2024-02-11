@@ -136,6 +136,25 @@ https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
   * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, 
 https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
+  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
+
+  * Build a Containerized Transcription API using Whisper Model and FastAPI, 
+https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
+
+  * Build Your RAG-based ChatGPT Web App with Azure: LawGPT Use Case Tutorial, https://www.youtube.com/watch?v=wmfAJWwyaQA&ab_channel=AIAnytime
+ 
+  * Creating a Veterinary Chatbot using Llama 2: Harnessing Gen AI for Pet Care, https://www.youtube.com/watch?v=Iyzvka711pc&ab_channel=AIAnytime
+
+  * Build Your API for Llama 2 on AWS: Lambda Function and API Gateway
+, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
+
+  * Deploy Llama 2 for your Entire Organisation, https://www.youtube.com/watch?v=Ror2xOOA-VE&ab_channel=TrelisResearch
+
+  * Install and Run Mistral 7B on AWS, https://www.youtube.com/watch?v=aSh66tG1B5o&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
+
+  * Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers), https://www.youtube.com/watch?v=rQq1m2aJ_fk&ab_channel=AIAnytime
+
+
 
 * **Prompt** 
 
@@ -151,7 +170,7 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
     
 
-# Hugging and Blogs
+# Hugging Blogs
 
 * **Hugging Face Text Generation Inference available for AWS Inferentia2** 
 
@@ -167,13 +186,7 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
       4. Run inference and chat with the model
 
 
-* **Build Your API for Llama 2 on AWS: Lambda Function and API Gateway**
-, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
 
-* **Deploy Llama 2 for your Entire Organisation**, https://www.youtube.com/watch?v=Ror2xOOA-VE&ab_channel=TrelisResearch
-
-
-* **Install and Run Mistral 7B on AWS**, https://www.youtube.com/watch?v=aSh66tG1B5o&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
 
 * **Phinetuning 2.0**
