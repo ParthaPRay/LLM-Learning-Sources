@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 * Let's build GPT: from scratch, in code, spelled out.,
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d4894e83-ddb2-46fa-bcab-7dba61aeaac6)
+  
    https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
 
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
