@@ -70,6 +70,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Fine-tuning Language Models for Structured Responses with QLoRa, https://www.youtube.com/watch?v=OQdp-OeG1as&ab_channel=TrelisResearch
  
   * Fine Tune LLaMA 2 In FIVE MINUTES! - "Perform 10x Better For My Use Case", https://www.youtube.com/watch?v=74NSDMvYZ9Y&ab_channel=MatthewBerman
+ 
+  * How to Fine-Tune Mistral 7B on Your Own Data, https://www.youtube.com/watch?v=kmkcNVvEz-k&ab_channel=brev
+
 
 
 
