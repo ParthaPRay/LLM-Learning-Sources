@@ -291,6 +291,12 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
   * Prompting Guide, https://www.promptingguide.ai/research/rag
 
   * Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use, https://www.youtube.com/watch?v=YVWxbHJakgg&ab_channel=EntryPointAI
+ 
+  * Text to Speech Tortoise versus Openvoice Comparison | How to Clone Any Voice for FREE !!, https://www.youtube.com/watch?v=E9jWEmUSxyo&ab_channel=SkillCurb
+ 
+  * ChatGPT Vision API End to End Project with Zapier and MindStudio, https://www.youtube.com/watch?v=4UsQxuhxB7c&ab_channel=SkillCurb
+
+
 
 
 
