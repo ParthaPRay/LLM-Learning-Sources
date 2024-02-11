@@ -59,6 +59,8 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Direct Preference Optimization (DPO), https://www.youtube.com/watch?v=E5kzAbD8D0w&ab_channel=TrelisResearch
  
   * Fine-tuning Language Models for Structured Responses with QLoRa, https://www.youtube.com/watch?v=OQdp-OeG1as&ab_channel=TrelisResearch
+ 
+  * Fine Tune LLaMA 2 In FIVE MINUTES! - "Perform 10x Better For My Use Case", https://www.youtube.com/watch?v=74NSDMvYZ9Y&ab_channel=MatthewBerman
 
 
 
@@ -163,21 +165,31 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
  
   * Enterprise Chat App using Azure Cognitive Search and Azure OpenAI: End-to-End Tutorial, https://www.youtube.com/watch?v=hkSnPhhjm1Y&ab_channel=AIAnytime
 
-* Containerizing LLM-Powered Apps: Part 1 of the Chatbot Deployment, https://www.youtube.com/watch?v=7CeAJ0EbzDA&ab_channel=AIAnytime
+  * Containerizing LLM-Powered Apps: Part 1 of the Chatbot Deployment, https://www.youtube.com/watch?v=7CeAJ0EbzDA&ab_channel=AIAnytime
 
-* Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment, https://www.youtube.com/watch?v=vYIlhgVHAls&ab_channel=AIAnytime
+  * Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment, https://www.youtube.com/watch?v=vYIlhgVHAls&ab_channel=AIAnytime
 
-* Serve a Custom LLM for Over 100 Customers, https://www.youtube.com/watch?v=1TU9ZrZhqw0&ab_channel=TrelisResearch
+  * Serve a Custom LLM for Over 100 Customers, https://www.youtube.com/watch?v=1TU9ZrZhqw0&ab_channel=TrelisResearch
 
-* Long Context Summarization, https://www.youtube.com/watch?v=I83TH4x9keo&ab_channel=TrelisResearch
+  * Long Context Summarization, https://www.youtube.com/watch?v=I83TH4x9keo&ab_channel=TrelisResearch
 
-* Function Calling Datasets, Training and Inference, https://www.youtube.com/watch?v=hHn_cV5WUDI&ab_channel=TrelisResearch
+  * Function Calling Datasets, Training and Inference, https://www.youtube.com/watch?v=hHn_cV5WUDI&ab_channel=TrelisResearch
+ 
+  * How to Build an OpenAI LLM on a Private Network with AWS, https://www.youtube.com/watch?v=6LGGQERxrQo&ab_channel=SingleStore
+ 
+  * Using Ollama to Run Local LLMs on the Raspberry Pi 5, https://www.youtube.com/watch?v=ewXANEIC8pY&ab_channel=IanWootten
+ 
+  * Amazon Bedrock: Generative AI on AWS without the Headaches, 
+https://www.youtube.com/watch?v=Yj_7FuFgPyI
+
 
 
 
 * **Prompt** 
 
   * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
+ 
+  * Prompting Guide, https://www.promptingguide.ai/research/rag
 
 
 
@@ -227,21 +239,18 @@ https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 
 * **What is LoRA?**
 
-  Edward Hu
+  Edward Hu, https://edwardjhu.com/
+
+
+
+# AGI
+
+* OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
+
+
+
   
-  https://edwardjhu.com/
-
-
-# Materials
-
-https://www.promptingguide.ai/research/rag
-
-
-
-  
-# Youtube Sources
-
-
+# Youtube Channels
 
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
