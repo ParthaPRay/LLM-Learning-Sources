@@ -98,6 +98,14 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Outfit Anyone: A Diffusion Project for Virtual Try On, https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
     
   * Oncology RAG App - Powered by Meditron 7B Medical LLM, https://www.youtube.com/watch?v=kvbjB-q5Dss&ab_channel=AIAnytime
+ 
+  * Investment Banker RAG Chatbot using Intel's Neural Chat LLM, https://www.youtube.com/watch?v=d9wCHH3iknM&ab_channel=AIAnytime
+ 
+  * Deploy RAG App built using Create Llama on Vercel: Free and Easy Method, https://www.youtube.com/watch?v=euYa4iesOm8&ab_channel=AIAnytime
+    
+  * Create a LlamaIndex App with Create Llama: No Code tool for RAG, 
+https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
+
 
 
 
