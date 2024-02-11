@@ -5,7 +5,6 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 # Key Sources
 
 
-
 * **Ollama Model**
 
   * Installing Ollama to Customize My Own LLM,    https://www.youtube.com/watch?v=xa8pTD16SnM&ab_channel=Decoder
@@ -13,6 +12,10 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Use Your Self-Hosted LLM Anywhere with Ollama Web UI,   https://www.youtube.com/watch?v=syR0fT0rkgY&ab_channel=Decoder
 
   * Importing Open Source Models to Ollama, https://www.youtube.com/watch?v=fnvZJU5Fj3Q&ab_channel=Decoder
+ 
+  * Ollama has a Python library!, https://www.youtube.com/watch?v=JwYwPiOh72w&ab_channel=LearnDatawithMark
+    
+  * Building a local ChatGPT with Chainlit, Mixtral, and Ollama, https://www.youtube.com/watch?v=MiJQ_zlnBeo&ab_channel=LearnDatawithMark
   
 
 * **Hugging Face Text Generation Inference available for AWS Inferentia2** 
