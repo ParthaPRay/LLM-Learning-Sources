@@ -16,7 +16,19 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Ollama has a Python library!, https://www.youtube.com/watch?v=JwYwPiOh72w&ab_channel=LearnDatawithMark
     
   * Building a local ChatGPT with Chainlit, Mixtral, and Ollama, https://www.youtube.com/watch?v=MiJQ_zlnBeo&ab_channel=LearnDatawithMark
+    
+  * Langroid: Chat to a CSV file using Mixtral (via Ollama), https://www.youtube.com/watch?v=XFTFEKYLxyU
   
+
+      
+* **Awesome RAG** 
+
+  * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
+    
+  * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
+
+
+
 
 * **Hugging Face Text Generation Inference available for AWS Inferentia2** 
 
@@ -37,13 +49,6 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
    Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
 
    https://huggingface.co/blog/g-ronimo/phinetuning
-      
-* **Awesome RAG** 
-
-  RAG-VectorDB-Embedings-LlamaIndex-Langchain
-
-  https://github.com/lucifertrj/Awesome-RAG
-
 
 * **What is LoRA?**
 
