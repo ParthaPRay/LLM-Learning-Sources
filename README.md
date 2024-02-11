@@ -409,24 +409,13 @@ https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 * **WorldofAI** https://www.youtube.com/@intheworldofai
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
-* **Venelin Valkov**, https://www.youtube.com/@venelin_valkov
-* **Nicholas Renotte** https://github.com/nicknochnack
-* **Trelus Research**
-https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
-  
-* **Mat Williams**
-https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
-
-* **Connor Shorten**
-https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy
-
-* **Ian Wootten**
-
-https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
-
-* **AI for Devs**
-https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
-
+* **Venelin Valkov** https://www.youtube.com/@venelin_valkov
+* **Nicholas Renotte** https://www.youtube.com/@NicholasRenotte/
+* **Trelus Research** https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
+* **Mat Williams** https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
+* **Connor Shorten** https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy
+* **Ian Wootten** https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
+* **AI for Devs** https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
 * **A Hackers' Guide to Language Models** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
@@ -435,10 +424,7 @@ https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
 * **AI Flux**  https://www.youtube.com/@aifluxchannel
 * **Julien Simon** https://www.youtube.com/@juliensimonfr
 * **AI Jason** https://www.youtube.com/@AIJasonZ
-
-* **Decoder**
-
-https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
+* **Decoder** https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
