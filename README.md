@@ -4,7 +4,18 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
 # Key Sources
 
-* Hugging Face Text Generation Inference available for AWS Inferentia2 
+
+
+* **Ollama Model**
+
+  * Installing Ollama to Customize My Own LLM,    https://www.youtube.com/watch?v=xa8pTD16SnM&ab_channel=Decoder
+  
+  * Use Your Self-Hosted LLM Anywhere with Ollama Web UI,   https://www.youtube.com/watch?v=syR0fT0rkgY&ab_channel=Decoder
+
+  * Importing Open Source Models to Ollama, https://www.youtube.com/watch?v=fnvZJU5Fj3Q&ab_channel=Decoder
+  
+
+* **Hugging Face Text Generation Inference available for AWS Inferentia2** 
 
   https://huggingface.co/blog/text-generation-inference-on-inferentia2
 
@@ -37,16 +48,6 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   
   https://edwardjhu.com/
 
-
-* **Ollama Model**
-
-  * Installing Ollama to Customize My Own LLM,    https://www.youtube.com/watch?v=xa8pTD16SnM&ab_channel=Decoder
-  
-  * Use Your Self-Hosted LLM Anywhere with Ollama Web UI,   https://www.youtube.com/watch?v=syR0fT0rkgY&ab_channel=Decoder
-
-  * Importing Open Source Models to Ollama, https://www.youtube.com/watch?v=fnvZJU5Fj3Q&ab_channel=Decoder
-  
-  
 
 # Materials
 
