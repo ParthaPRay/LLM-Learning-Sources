@@ -73,21 +73,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Track and Monitor RAG Pipelines using Weights & Biases (wandb), https://www.youtube.com/watch?v=8-exaASey6o&ab_channel=AIAnytime
  
   * Unlocking RAG Potential with LLMWare's CPU-Friendly Smaller Models, https://www.youtube.com/watch?v=qXEUqhqjHdg&ab_channel=AIAnytime
-
-
-
-
-* **Mixture of Experts (MoEs)** 
-
-  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model
-,   https://www.youtube.com/watch?v=gIz7Td6WfEo
     
 
 
-
-* **Prompt** 
-
-  * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
 
 
 
@@ -106,12 +94,24 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Create a LlamaIndex App with Create Llama: No Code tool for RAG, 
 https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
 
+  * AutoLLM: Ship RAG based LLM Apps and API in Seconds
+, https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
 
 
 
 
 
+* **Prompt** 
 
+  * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
+
+
+
+* **Mixture of Experts (MoEs)** 
+
+  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model
+,   https://www.youtube.com/watch?v=gIz7Td6WfEo
+    
 
     
 
