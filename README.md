@@ -48,6 +48,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
 * **Fine Tuning** 
 
+
+  * Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU, https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
+    
   * Make LLM Fine Tuning 5x Faster with Unsloth, https://www.youtube.com/watch?v=sIFokbuATX4&ab_channel=AIAnytime
   
   * Fine Tune a Multimodal LLM "IDEFICS 9B" for Visual Question Answering, https://www.youtube.com/watch?v=usoTCfyQxjU&ab_channel=AIAnytime
@@ -272,6 +275,7 @@ https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 * **WorldofAI** https://www.youtube.com/@intheworldofai
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
+* **Venelin Valkov**, https://www.youtube.com/@venelin_valkov
 * **Nicholas Renotte** https://github.com/nicknochnack
 * **Trelus Research**
 https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
