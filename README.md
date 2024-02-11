@@ -32,24 +32,7 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
        https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
     
-    * Building makemore Part 2: MLP, 
-     https://www.youtube.com/watch?v=TCH_1BHY58I&ab_channel=AndrejKarpathy
-    
-      https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part2_mlp.ipynb
-    
-    * Building makemore Part 3: Activations & Gradients, BatchNorm, https://www.youtube.com/watch?v=P6sfmUTpUmc&ab_channel=AndrejKarpathy
-    
-      https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part3_bn.ipynb
-    
-    
-    * Building makemore Part 4: Becoming a Backprop Ninja,  https://www.youtube.com/watch?v=q8SA3rM6ckI&ab_channel=AndrejKarpathy
-    
-      https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part4_backprop.ipynb
-    
-    
-    * Building makemore Part 5: Building a WaveNet, https://www.youtube.com/watch?v=t3YJ5hKiMQ0&ab_channel=AndrejKarpathy
-    
-      https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part5_cnn1.ipynb
+
 
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
