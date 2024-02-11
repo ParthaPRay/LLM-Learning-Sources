@@ -20,9 +20,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
 * **Phinetuning 2.0**
 
- Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
+   Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
 
- https://huggingface.co/blog/g-ronimo/phinetuning
+   https://huggingface.co/blog/g-ronimo/phinetuning
       
 * **Awesome RAG** 
 
@@ -36,6 +36,16 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   Edward Hu
   
   https://edwardjhu.com/
+
+
+* **Ollama Model**
+
+  * Installing Ollama to Customize My Own LLM,    https://www.youtube.com/watch?v=xa8pTD16SnM&ab_channel=Decoder
+  
+  * Use Your Self-Hosted LLM Anywhere with Ollama Web UI,   https://www.youtube.com/watch?v=syR0fT0rkgY&ab_channel=Decoder
+
+  * Importing Open Source Models to Ollama, https://www.youtube.com/watch?v=fnvZJU5Fj3Q&ab_channel=Decoder
+  
   
 
 # Materials
