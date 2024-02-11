@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
         ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d4894e83-ddb2-46fa-bcab-7dba61aeaac6)
       
        https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
+
+       https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
     
     * Building makemore Part 2: MLP, 
      https://www.youtube.com/watch?v=TCH_1BHY58I&ab_channel=AndrejKarpathy
