@@ -56,6 +56,9 @@ https://www.youtube.com/watch?v=38jlvmBdBrU&ab_channel=MattWilliams
   * Hosting Ollama Starts With Environment Variables, 
 https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
+  * Understanding How Ollama Stores Models, https://www.youtube.com/watch?v=6bF1uCHTFyk&ab_channel=MattWilliams
+
+
 
 
 
@@ -205,7 +208,6 @@ https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
  
   * How to Build an OpenAI LLM on a Private Network with AWS, https://www.youtube.com/watch?v=6LGGQERxrQo&ab_channel=SingleStore
  
-  * Using Ollama to Run Local LLMs on the Raspberry Pi 5, https://www.youtube.com/watch?v=ewXANEIC8pY&ab_channel=IanWootten
  
   * Amazon Bedrock: Generative AI on AWS without the Headaches, 
 https://www.youtube.com/watch?v=Yj_7FuFgPyI
@@ -241,6 +243,16 @@ https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
 
   * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, 
 https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
+
+
+
+# Pervasive Generative AI
+
+  * Using Ollama to Run Local LLMs on the Raspberry Pi 5, https://www.youtube.com/watch?v=ewXANEIC8pY&ab_channel=IanWootten
+
+  * Private AI Revolution: Setting Up Ollama with WebUI on Raspberry Pi 5!, https://www.youtube.com/watch?v=jJKbYj8mIy8&ab_channel=KevinMcAleer
+
+  * I Ran Advanced LLMs on the Raspberry Pi 5!, https://www.youtube.com/watch?v=Y2ldwg8xsgE&ab_channel=DataSlayer
 
 
     
