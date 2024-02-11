@@ -71,6 +71,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Building a Multimodal RAG App for Medical Applications, https://www.youtube.com/watch?v=fbbFrCfaF0w&ab_channel=AIAnytime
   
   * Track and Monitor RAG Pipelines using Weights & Biases (wandb), https://www.youtube.com/watch?v=8-exaASey6o&ab_channel=AIAnytime
+ 
+  * Unlocking RAG Potential with LLMWare's CPU-Friendly Smaller Models, https://www.youtube.com/watch?v=qXEUqhqjHdg&ab_channel=AIAnytime
+
 
 
 
@@ -91,9 +94,14 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 * **LLM Apps** 
 
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
+  
+  * Outfit Anyone: A Diffusion Project for Virtual Try On, https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
     
-  * Outfit Anyone: A Diffusion Project for Virtual Try On, 
-https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
+  * Oncology RAG App - Powered by Meditron 7B Medical LLM, https://www.youtube.com/watch?v=kvbjB-q5Dss&ab_channel=AIAnytime
+
+
+
+
 
 
 
