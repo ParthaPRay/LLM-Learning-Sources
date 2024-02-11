@@ -32,10 +32,31 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Running Mixtral on your machine with Ollama, https://www.youtube.com/watch?v=rfr4p0srlqs&ab_channel=LearnDatawithMark
     
   * Running Mistral AI on your machine with Ollama, https://www.youtube.com/watch?v=NFgEgqua-fg&ab_channel=LearnDatawithMark
+    
+  * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
+
+  * Ollama Web UI 🤯 How to run LLMs 100% LOCAL in EASY web interface? CRAZY!!🚀 (Step-by-Step Tutorial), https://www.youtube.com/watch?v=84vGNkW1A8s&ab_channel=MervinPraison
 
 
 
+
+* **Fine Tuning** 
+
+  * Make LLM Fine Tuning 5x Faster with Unsloth, https://www.youtube.com/watch?v=sIFokbuATX4&ab_channel=AIAnytime
+
+ * Fine Tune a Multimodal LLM "IDEFICS 9B" for Visual Question Answering, https://www.youtube.com/watch?v=usoTCfyQxjU&ab_channel=AIAnytime
+
+* Anyone can Fine Tune LLMs using LLaMA Factory: End-to-End Tutorial, https://www.youtube.com/watch?v=iMD7ba1hHgw&t=15s&ab_channel=AIAnytime
   
+* Fine Tune Phi-2 Model on Your Dataset, https://www.youtube.com/watch?v=eLy74j0KCrY&ab_channel=AIAnytime
+
+* LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, 
+https://www.youtube.com/watch?v=mrKuDK9dGlg
+
+* Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
+
+
+
 
       
 * **RAG** 
@@ -46,8 +67,27 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
     
   * User-Selected metadata in RAG Applications with Qdrant, https://www.youtube.com/watch?v=qcn7YAJfCeE&ab_channel=LearnDatawithMark
 
+ * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
+   
+ * Building a Multimodal RAG App for Medical Applications, 
+https://www.youtube.com/watch?v=fbbFrCfaF0w&ab_channel=AIAnytime
+
+* Track and Monitor RAG Pipelines using Weights & Biases (wandb), https://www.youtube.com/watch?v=8-exaASey6o&ab_channel=AIAnytime
 
 
+
+* **Mixture of Experts (MoEs)** 
+
+  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model
+,   https://www.youtube.com/watch?v=gIz7Td6WfEo
+    
+
+
+* **LLM Apps** 
+
+  * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
+ 
+    
 
 # Hugging and Blogs
 
@@ -63,6 +103,15 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
       2. Retrieve the TGI Neuronx Image
       3 .Deploy Zephyr 7B to Amazon SageMaker
       4. Run inference and chat with the model
+
+
+* **Build Your API for Llama 2 on AWS: Lambda Function and API Gateway**
+, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
+
+* **Deploy Llama 2 for your Entire Organisation**, https://www.youtube.com/watch?v=Ror2xOOA-VE&ab_channel=TrelisResearch
+
+
+* **Install and Run Mistral 7B on AWS**, https://www.youtube.com/watch?v=aSh66tG1B5o&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
 
 * **Phinetuning 2.0**
