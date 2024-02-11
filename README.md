@@ -254,6 +254,19 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
   * I Ran Advanced LLMs on the Raspberry Pi 5!, https://www.youtube.com/watch?v=Y2ldwg8xsgE&ab_channel=DataSlayer
 
+  * How to Run a ChatGPT-like AI on Your Raspberry Pi, https://www.youtube.com/watch?v=idZctq7WIq4&ab_channel=GaryExplains
+
+  * Local AI Just Got Easy (and Cheap), https://www.youtube.com/watch?v=mdOEaNV8NXw&ab_channel=DataSlayer
+
+    Zima Board
+    Coral USB TPU
+    Coral PCie TPU
+    M.2 Adapter
+
+
+
+
+
 
     
 
