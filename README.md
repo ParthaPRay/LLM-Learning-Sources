@@ -9,6 +9,13 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
 * 1hr Talk Intro to Large Language Models, https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
+
+ Slide PDF: https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view
+
+ Slide PPT Keynote: https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view
+
+
+  https://github.com/karpathy/nn-zero-to-hero/tree/master
     
     * Let's build GPT: from scratch, in code, spelled out.,
     
