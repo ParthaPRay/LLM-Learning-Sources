@@ -65,13 +65,12 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
     
   * User-Selected metadata in RAG Applications with Qdrant, https://www.youtube.com/watch?v=qcn7YAJfCeE&ab_channel=LearnDatawithMark
-
- * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
-   
- * Building a Multimodal RAG App for Medical Applications, 
-https://www.youtube.com/watch?v=fbbFrCfaF0w&ab_channel=AIAnytime
-
-* Track and Monitor RAG Pipelines using Weights & Biases (wandb), https://www.youtube.com/watch?v=8-exaASey6o&ab_channel=AIAnytime
+  
+  * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
+  
+  * Building a Multimodal RAG App for Medical Applications, https://www.youtube.com/watch?v=fbbFrCfaF0w&ab_channel=AIAnytime
+  
+  * Track and Monitor RAG Pipelines using Weights & Biases (wandb), https://www.youtube.com/watch?v=8-exaASey6o&ab_channel=AIAnytime
 
 
 
