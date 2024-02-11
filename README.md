@@ -2,6 +2,27 @@
 This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
 
+
+# Large Language Model
+
+* How Large Language Models Work, 
+https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
+
+* 1hr Talk Intro to Large Language Models, https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
+
+ ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d4894e83-ddb2-46fa-bcab-7dba61aeaac6)
+
+* Let's build GPT: from scratch, in code, spelled out., https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
+
+* Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
+
+* How to Build an LLM from Scratch | An Overview,
+ https://www.youtube.com/watch?v=ZLbVdvOoTKM&pp=ygUdQ3JlYXRlIGEgTGFyZ2UgTGFuZ3VhZ2UgTW9kZWw%3D
+  
+* Train your own language model with nanoGPT | Let’s build a songwriter, https://www.youtube.com/watch?v=XS8eRtlcCGU&ab_channel=SophiaYang
+
+
+
 # Key Sources
 
 
@@ -312,6 +333,8 @@ https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 * **What is LoRA?**
 
   Edward Hu, https://edwardjhu.com/
+
+
 
 
 
