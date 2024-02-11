@@ -267,6 +267,9 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
       5. Raspberry Pi 5
 
 
+  * Power of Generative AI + Common-Sense of Reasoning AI = All-Pervasive Conversational Ux, https://www.youtube.com/watch?v=j1uZ1NpC_4M&ab_channel=Travellingwave
+
+    www.isca-speech.org/archive/pdfs/interspeech_2023/rao23_interspeech.pdf or www.travellingwave.com/TwIS2023.pdf
 
 
 
