@@ -220,15 +220,13 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
   * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
 
-  * Build a Containerized Transcription API using Whisper Model and FastAPI, 
-https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
+  * Build a Containerized Transcription API using Whisper Model and FastAPI, https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
   * Build Your RAG-based ChatGPT Web App with Azure: LawGPT Use Case Tutorial, https://www.youtube.com/watch?v=wmfAJWwyaQA&ab_channel=AIAnytime
  
   * Creating a Veterinary Chatbot using Llama 2: Harnessing Gen AI for Pet Care, https://www.youtube.com/watch?v=Iyzvka711pc&ab_channel=AIAnytime
 
-  * Build Your API for Llama 2 on AWS: Lambda Function and API Gateway
-, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
+  * Build Your API for Llama 2 on AWS: Lambda Function and API Gateway, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
 
   * Deploy Llama 2 for your Entire Organisation, https://www.youtube.com/watch?v=Ror2xOOA-VE&ab_channel=TrelisResearch
 
@@ -258,8 +256,12 @@ https://www.youtube.com/watch?v=Yj_7FuFgPyI
 https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
   * PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more), https://www.youtube.com/watch?v=XFiof0V3nhA&ab_channel=MatthewBerman
+ 
+  * AutoLLM: Create RAG Based LLM Web Apps in SECONDS!, https://www.youtube.com/watch?v=kPaiZe_qD34&ab_channel=WorldofAI
+ 
+  * Use OpenChat and LM Studio with LLMWare, https://www.youtube.com/watch?v=h2FDjUyvsKE&ab_channel=llmware
 
-
+  * https://www.youtube.com/watch?v=Bncvggy6m5Q&ab_channel=llmware, Compare Embedding Models for Side by Side Queries Using Postgres with LLMWare
 
 
 * **Prompt** 
@@ -267,6 +269,8 @@ https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
   * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
  
   * Prompting Guide, https://www.promptingguide.ai/research/rag
+
+  * Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use, https://www.youtube.com/watch?v=YVWxbHJakgg&ab_channel=EntryPointAI
 
 
 
@@ -285,6 +289,16 @@ https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
 
   * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, 
 https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
+
+
+
+# Vector Database Applications
+
+* **VectorDB** is a High quality resources & applications for LLMs, multi-modal models and VectorDBs
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fb5edda5-8ac4-4e28-9c59-3f220604f444)
+  
+  https://github.com/lancedb/vectordb-recipes/tree/main
 
 
 
@@ -313,6 +327,8 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
     Paper Link: www.isca-speech.org/archive/pdfs/interspeech_2023/rao23_interspeech.pdf or www.travellingwave.com/TwIS2023.pdf
 
+  * Running SDXL on the Raspberry Pi 5 is now POSSIBLE!
+, https://www.youtube.com/watch?v=XVS8oiuU6sA&ab_channel=AiFlux
 
 
 
@@ -429,7 +445,7 @@ https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
 https://edwardjhu.com/
 * **Deploying AI**
 https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
-
+* **llmware** https://www.youtube.com/@llmware
 
 * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
 
