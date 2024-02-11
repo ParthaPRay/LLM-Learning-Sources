@@ -73,6 +73,9 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
   * Track and Monitor RAG Pipelines using Weights & Biases (wandb), https://www.youtube.com/watch?v=8-exaASey6o&ab_channel=AIAnytime
  
   * Unlocking RAG Potential with LLMWare's CPU-Friendly Smaller Models, https://www.youtube.com/watch?v=qXEUqhqjHdg&ab_channel=AIAnytime
+ 
+  * RAG Implementation using Zephyr 7B Beta LLM: Is this the best 7B LLM? https://www.youtube.com/watch?v=btuN-rrPhsM&ab_channel=AIAnytime
+
     
 
 
@@ -96,6 +99,8 @@ https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
 
   * AutoLLM: Ship RAG based LLM Apps and API in Seconds
 , https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
+
+  * Query Your CSV using LIDA: Automatic Generation of Visualizations with LLMs, https://www.youtube.com/watch?v=U9K1Cu45nMQ&ab_channel=AIAnytime
 
 
 
