@@ -81,10 +81,22 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
     
 
 
+
+* **Prompt** 
+
+  * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
+
+
+
 * **LLM Apps** 
 
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
- 
+    
+  * Outfit Anyone: A Diffusion Project for Virtual Try On, 
+https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
+
+
+
     
 
 # Hugging and Blogs
