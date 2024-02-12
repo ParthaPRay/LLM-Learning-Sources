@@ -314,12 +314,16 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
   * AutoGen + Function Calling + Open Source LLMs, Here is How
 
-   https://www.youtube.com/watch?v=UIBerUGqHjc&ab_channel=YeyuLab
+    https://www.youtube.com/watch?v=UIBerUGqHjc&ab_channel=YeyuLab
 
   * Use Open Source LLMs in AutoGen powered by Fireworks AI, without GPU/CPU
 
-   https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
+    https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
 
+
+  * Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
+ 
+    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
 
 
 * **Prompt** 
@@ -499,15 +503,12 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 * **AI Makerspace** https://www.youtube.com/@AI-Makerspace
 * **AssemblyAI** https://www.youtube.com/@AssemblyAI
 * **Entry Point AI** https://www.youtube.com/@EntryPointAI
-* **Julien Simon** https://youtube.com/@juliensimonfr?si=Mv1zQNl0_j6ycmkb
 * **Steve (Builder.io)** https://www.youtube.com/@Steve8708
 * **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 * **AI Engineer** https://www.youtube.com/@aiDotEngineer
-* **Venelin Valkov** https://www.youtube.com/@venelin_valkov/videos
 * **Kurdiez** https://www.youtube.com/@kurdiez_en
 * **Whispering AI** https://www.youtube.com/@WhisperingAI/videos
 * **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
-* **Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy** https://www.youtube.com/watch?v=kCc8FmEb1nY&t=17s&ab_channel=AndrejKarpathy
 * **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
 * **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
 * **Rob Mulla** https://www.youtube.com/@robmulla
