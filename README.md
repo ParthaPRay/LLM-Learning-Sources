@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
 * LLM Evaluation Essentials: Benchmarking and Analyzing Retrieval Approaches, https://www.youtube.com/watch?v=ExO3U0M3y_0&ab_channel=ArizeAI
 
+* Building And Troubleshooting An Advanced LLM Query Engine, https://www.youtube.com/watch?v=_zDDErOaUqc&ab_channel=ArizeAI
+
 
 
   
@@ -227,6 +229,10 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
  
   * Testing Framework Giskard for LLM and RAG Evaluation (Bias, Hallucination, and More), https://www.youtube.com/watch?v=KeY6qPAvyq0&ab_channel=AIAnytime
  
+  * Pinecone + LlamaIndex on Retrieval Augmented Generation (RAG) Systems, https://www.youtube.com/watch?v=FgLf5HjxI8w&ab_channel=ArizeAI
+    
+  * Optimizing RAG With LLMS: Exploring Chunking Techniques and Reranking for Enhanced Results, https://youtube.com/watch?v=QpRTdZDR4tE&ab_channel=ArizeAI
+
   * Check Hallucination of LLMs and RAGs using Open Source Evaluation Model by Vectara, https://www.youtube.com/watch?v=O-VYDADgc68&ab_channel=AIAnytime
  
   * Learn to Evaluate LLMs and RAG Approaches, https://www.youtube.com/watch?v=97ftVtITKfo&ab_channel=AIAnytime
@@ -240,6 +246,8 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   * LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
 
     https://shopify.engineering/topics/data-science-engineering
+
+  * LLM Search & Retrieval Systems with Arize and LlamaIndex: Powering LLMs on Your Proprietary Data, https://www.youtube.com/watch?v=hbQYDpJayFw&ab_channel=ArizeAI
 
     
 * **LLM Apps** 
@@ -386,6 +394,9 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
   * ChatGPT Vision API End to End Project with Zapier and MindStudio, https://www.youtube.com/watch?v=4UsQxuhxB7c&ab_channel=SkillCurb
     
   * Vibe-Based Prompt Engineering with PromptLayer's Jared Zoneraich, https://www.youtube.com/watch?v=SEgwj6SVWyQ&ab_channel=ArizeAI
+    
+  * Prompt Templates, Functions and Prompt Window Management, https://www.youtube.com/watch?v=YaYaZu6NbS0&ab_channel=ArizeAI
+
 
 
 
