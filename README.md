@@ -60,6 +60,9 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
 * Building And Troubleshooting An Advanced LLM Query Engine, https://www.youtube.com/watch?v=_zDDErOaUqc&ab_channel=ArizeAI
 
+* Model Monitoring for LLMs, 
+https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
+
 
 
   
@@ -190,7 +193,8 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
 
     https://unsloth.ai/introducing
 
-
+  *  To Fine Tune or not Fine Tune? That is the question
+, https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
 
 
 
@@ -248,6 +252,19 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
     https://shopify.engineering/topics/data-science-engineering
 
   * LLM Search & Retrieval Systems with Arize and LlamaIndex: Powering LLMs on Your Proprietary Data, https://www.youtube.com/watch?v=hbQYDpJayFw&ab_channel=ArizeAI
+ 
+  * Building A RAG System With OpenAI Latest Embeddings
+, https://www.youtube.com/watch?v=OvvgaR1S4Xc&ab_channel=RichmondAlake
+
+  * Transform RAG and Search with Azure AI Document Intelligence, 
+https://www.youtube.com/watch?v=SOBdR-xxE04&ab_channel=SethJuarez
+
+ * Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking, https://www.youtube.com/watch?v=BvnOln6YZ_8&ab_channel=SethJuarez
+
+
+
+
+
 
     
 * **LLM Apps** 
@@ -541,6 +558,8 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
 * **Venelin Valkov** https://www.youtube.com/@venelin_valkov
+* **Seth Juarez**
+https://www.youtube.com/@sethjuarez
 * **Nicholas Renotte** https://www.youtube.com/@NicholasRenotte/
 * **Trelus Research** https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
 * **Mat Williams** https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
