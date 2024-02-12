@@ -45,7 +45,22 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 * A Hackers' Guide to Language Models, https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 
 * Create your own Local Chatgpt for FREE, Full Guide: PDF, Image, & Audiochat (Langchain, Streamlit), https://www.youtube.com/watch?v=CUjO8b6_ZuM&t=452s&ab_channel=LeonExplainsAI
+  
+* LLM Evaluation Essentials: Statistical Analysis of Hallucination LLM Evaluations, https://www.youtube.com/watch?v=IH45ltIMC3k&ab_channel=ArizeAI
 
+  https://docs.arize.com/phoenix/llm-evals/running-pre-tested-evals/hallucinations
+
+* Fine Tuning and Evaluating LLMs with Anyscale and Arize, https://www.youtube.com/watch?v=b-MfkFz-A2E&ab_channel=ArizeAI
+
+* Advanced LLM Evaluation: Synthetic Data Generation, https://www.youtube.com/watch?v=AYehm7q6Oks&ab_channel=ArizeAI
+
+* Constructing an Evaluation Approach for Generative AI Models with Hugging Face's Rajiv Shah, https://www.youtube.com/watch?v=PtXOQDHPddE&ab_channel=ArizeAI
+
+* LLM Evaluation Essentials: Benchmarking and Analyzing Retrieval Approaches, https://www.youtube.com/watch?v=ExO3U0M3y_0&ab_channel=ArizeAI
+
+
+
+  
 
 # Key Sources
 
@@ -124,18 +139,28 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
     
   * Make LLM Fine Tuning 5x Faster with Unsloth, https://www.youtube.com/watch?v=sIFokbuATX4&ab_channel=AIAnytime
   
+  * Fine-Tuning Your Own Llama 2 Model, 
+https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
+  
   * Fine Tune a Multimodal LLM "IDEFICS 9B" for Visual Question Answering, https://www.youtube.com/watch?v=usoTCfyQxjU&ab_channel=AIAnytime
   
   * Anyone can Fine Tune LLMs using LLaMA Factory: End-to-End Tutorial, https://www.youtube.com/watch?v=iMD7ba1hHgw&t=15s&ab_channel=AIAnytime
   
   * Fine Tune Phi-2 Model on Your Dataset, https://www.youtube.com/watch?v=eLy74j0KCrY&ab_channel=AIAnytime
   
-  * LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, https://www.youtube.com/watch?v=mrKuDK9dGlg\
+  * LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, https://www.youtube.com/watch?v=mrKuDK9dGlg
   
+  * Fine-tuning LLMs with PEFT and LoRA, https://www.youtube.com/watch?v=Us5ZFp16PaU&ab_channel=SamWitteveen
+
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
  
   * Fine tuning Whisper for Speech Transcription, https://www.youtube.com/watch?v=anplUNnkM68&ab_channel=TrelisResearch
  
+  * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU
+, https://www.youtube.com/watch?v=g68qlo9Izf0&t=17s&ab_channel=DeepLearningAI
+
+  * Efficient Fine-Tuning for Llama 2 on Custom Dataset with QLoRA on a Single GPU in Google Colab, https://www.youtube.com/watch?v=YyZqcNo4hdo&pp=ygUQZmluZSB0dW5pbmcgTExNXA%3D%3D
+    
   * Direct Preference Optimization (DPO), https://www.youtube.com/watch?v=E5kzAbD8D0w&ab_channel=TrelisResearch
  
   * Fine-tuning Language Models for Structured Responses with QLoRa, https://www.youtube.com/watch?v=OQdp-OeG1as&ab_channel=TrelisResearch
@@ -150,6 +175,15 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
     
   * Mistral: Easiest Way to Fine-Tune on Custom Data, https://www.youtube.com/watch?v=lCZRwrRvrWg&ab_channel=PromptEngineering
     
+  * Self-Play Fine-Tuning (SPIN), https://www.youtube.com/watch?v=khPq69GgPAo&ab_channel=FahdMirza
+
+    The official implementation of Self-Play Fine-Tuning (SPIN), https://github.com/uclaml/SPIN
+    
+    https://uclaml.github.io/SPIN/
+
+    
+  * Building Production-Ready RAG Applications: Jerry Liu, https://www.youtube.com/watch?v=TRjq7t2Ms5I&t=10s&ab_channel=AIEngineer
+
   * Custom Fine-tuning 30x Faster on T4 GPUs with UnSloth AI, https://www.youtube.com/watch?v=R4CUKAHShyE&ab_channel=PromptEngineering
 
     https://unsloth.ai/introducing
@@ -168,6 +202,8 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
+
+  * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
 
   * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
     
@@ -196,8 +232,14 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
   * Learn to Evaluate LLMs and RAG Approaches, https://www.youtube.com/watch?v=97ftVtITKfo&ab_channel=AIAnytime
  
   * Evaluating Biases in LLMs using WEAT and Demographic Diversity Analysis, https://www.youtube.com/watch?v=eTenkUPsjko&ab_channel=AIAnytime
+ 
+  * RAG with LlamaIndex - Qdrant and Azure OpenAI in 9 minutes, https://www.youtube.com/watch?v=h4F09fWhyhg&ab_channel=AmbarishGangulyAcademy
 
+    https://github.com/ambarishg/llama-index
 
+  * LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
+
+    https://shopify.engineering/topics/data-science-engineering
 
     
 * **LLM Apps** 
@@ -342,6 +384,9 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
   * Text to Speech Tortoise versus Openvoice Comparison | How to Clone Any Voice for FREE !!, https://www.youtube.com/watch?v=E9jWEmUSxyo&ab_channel=SkillCurb
  
   * ChatGPT Vision API End to End Project with Zapier and MindStudio, https://www.youtube.com/watch?v=4UsQxuhxB7c&ab_channel=SkillCurb
+    
+  * Vibe-Based Prompt Engineering with PromptLayer's Jared Zoneraich, https://www.youtube.com/watch?v=SEgwj6SVWyQ&ab_channel=ArizeAI
+
 
 
 
@@ -481,6 +526,7 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
 * **WorldofAI** https://www.youtube.com/@intheworldofai
+* **Arize AI**  https://www.youtube.com/@arizeai/videos
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
 * **Venelin Valkov** https://www.youtube.com/@venelin_valkov
