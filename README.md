@@ -42,6 +42,9 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
   
 * Train your own language model with nanoGPT | Let’s build a songwriter, https://www.youtube.com/watch?v=XS8eRtlcCGU&ab_channel=SophiaYang
 
+* A Hackers' Guide to Language Models, https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
+
+* Create your own Local Chatgpt for FREE, Full Guide: PDF, Image, & Audiochat (Langchain, Streamlit), https://www.youtube.com/watch?v=CUjO8b6_ZuM&t=452s&ab_channel=LeonExplainsAI
 
 
 # Key Sources
@@ -113,6 +116,11 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
 
   * Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU, https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
+
+    https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
+    
+    
+  * Fine-tuning Tiny LLM on Your Data | Sentiment Analysis with TinyLlama and LoRA on a Single GPU, https://www.youtube.com/watch?v=_KPEoCSKHcU&ab_channel=VenelinValkov
     
   * Make LLM Fine Tuning 5x Faster with Unsloth, https://www.youtube.com/watch?v=sIFokbuATX4&ab_channel=AIAnytime
   
@@ -279,8 +287,38 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
   * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
     
   * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
+ 
+  * Self-reflective RAG with LangGraph: Self-RAG and CRAG, https://www.youtube.com/watch?v=pbAd8O1Lvm4&ab_channel=LangChain
+
+    https://github.com/langchain-ai/langgraph/tree/main/examples/rag
 
 
+  * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
+
+    https://www.youtube.com/watch?v=98Ri4VVBP_8&t=431s
+
+    https://github.com/yeyu2/Youtube_demos
+
+
+  * How to Create a Web UI for AutoGen by Using Panel
+
+    https://www.youtube.com/watch?v=mFmPDyLlj1E
+
+    https://github.com/yeyu2/Youtube_demos
+
+
+  * Create Full Function UI for AutoGen Powered by Panel (Human Input Enabled)
+
+    https://www.youtube.com/watch?v=9lSaRP9GLCY
+
+
+  * AutoGen + Function Calling + Open Source LLMs, Here is How
+
+   https://www.youtube.com/watch?v=UIBerUGqHjc&ab_channel=YeyuLab
+
+  * Use Open Source LLMs in AutoGen powered by Fireworks AI, without GPU/CPU
+
+   https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
 
 
 
@@ -318,7 +356,7 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
 
 
-# Vector Database Applications
+# Vector Database and Embeddings 
 
 * **LanceDB**, a free, open-source, serverless vectorDB that requires no setup.   It integrates into python data ecosystem so you can simply start using these in your existing data pipelines in pandas, arrow, pydantic etc. LanceDB has native Typescript SDK using which you can run vector search in serverless functions!
   
@@ -326,6 +364,18 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
   
   https://github.com/lancedb/vectordb-recipes/tree/main
 
+* **Fastmbed**, FastEmbed is a lightweight, fast, Python library built for embedding generation. We support popular text models. Please open a Github issue if you want us to add a new model.
+
+   https://www.youtube.com/watch?v=1mMLVQE11Io&ab_channel=LearnDatawithMark
+
+  https://github.com/qdrant/fastembed
+
+  https://qdrant.github.io/fastembed/
+
+  https://simonwillison.net/2023/Oct/23/embeddings/
+  
+  
+  
 
 
 # Pervasive Generative AI
@@ -383,6 +433,15 @@ https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
 
 https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 
+https://awsdocs-neuron.readthedocs-hosted.com/en/latest/
+
+https://huggingface.co/docs/optimum-neuron/index
+
+
+* Deep Dive: Hugging Face models on AWS AI Accelerators
+
+
+https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
 * **Phinetuning 2.0**
 
@@ -423,7 +482,6 @@ https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 * **Ian Wootten** https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
 * **AI for Devs** https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
-* **A Hackers' Guide to Language Models** https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
 * **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
 * **Matthew Berman** https://www.youtube.com/@matthew_berman
