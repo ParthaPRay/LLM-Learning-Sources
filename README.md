@@ -325,6 +325,11 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
  
     https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
 
+    * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
+
+      https://www.youtube.com/watch?v=xZDB1naRUlk
+
+
 
 * **Prompt** 
 
@@ -541,7 +546,6 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
-* **Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma** https://www.youtube.com/watch?v=xZDB1naRUlk
 * **Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial** https://youtu.be/ScKCy2udln8
 * **Deep Learning for Computer Vision with Python and TensorFlow – Complete Course** https://youtu.be/IA3WxTTPXqQ
 * **Machine Learning with Python and Scikit-Learn – Full Course** https://youtu.be/hDKCxebp88A
