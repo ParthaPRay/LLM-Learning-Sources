@@ -441,6 +441,8 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
   * Vibe-Based Prompt Engineering with PromptLayer's Jared Zoneraich, https://www.youtube.com/watch?v=SEgwj6SVWyQ&ab_channel=ArizeAI
     
   * Prompt Templates, Functions and Prompt Window Management, https://www.youtube.com/watch?v=YaYaZu6NbS0&ab_channel=ArizeAI
+  
+  * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
 
 
 
