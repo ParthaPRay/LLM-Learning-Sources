@@ -643,8 +643,9 @@ https://www.youtube.com/@sethjuarez
 https://edwardjhu.com/
 * **Deploying AI**
 https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
-* **llmware** https://www.youtube.com/@llmware
-
+* **llmware**
+* **DataScience Basics** https://www.youtube.com/@llmware
+https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
 
   www.heatonresearch.com
