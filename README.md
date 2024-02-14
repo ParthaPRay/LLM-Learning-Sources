@@ -133,6 +133,15 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
     https://huggingface.co/lavawolfiee/Mixtral-8x7B-Instruct-v0.1-offloading-demo
 
+  * Run Mixtral 8x7B Hands On Google Colab for FREE | End to End GenAI Hands-on Project
+ 
+    https://www.youtube.com/watch?v=vzUJ-yjA8Bw&ab_channel=AnalyticsVidhya
+
+    https://drive.google.com/drive/folders/1Bo4sJu9vEnjzV_h4FmBNb6dSZ8BxZxpa
+
+    https://drive.google.com/drive/folders/1AuReI63WzKRSdzRIlCxl6WuBkNMryPv9
+
+
 
 
 
