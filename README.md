@@ -559,7 +559,7 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
    https://huggingface.co/blog/g-ronimo/phinetuning
 
-* Machind Learning University by AWS, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
+* **Machind Learning University by AWS**, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
 
   https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
 
@@ -572,9 +572,11 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai
   
 
-* Responsible AI
+* **Responsible AI**
 
   https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
+
+  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
 
 * **What is LoRA?**
 
