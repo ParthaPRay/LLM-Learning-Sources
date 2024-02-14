@@ -125,6 +125,8 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
     
   * Run any AI model remotely for free on google colab, https://www.youtube.com/watch?v=Qa1h7ygwQq8&ab_channel=TechwithMarco
 
+    https://github.com/marcogreiveldinger/videos/tree/main/ollama-ai/run-on-colab
+
 
 
 
