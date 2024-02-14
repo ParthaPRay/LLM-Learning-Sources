@@ -217,6 +217,8 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   *  To Fine Tune or not Fine Tune? That is the question
 , https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
 
+* Fine-tune TinyLlama 1.1B locally on own custom dataset, https://youtu.be/VoDHpnCN6PA?si=Aq7soXO6k83mJJVs
+
 
 
 
