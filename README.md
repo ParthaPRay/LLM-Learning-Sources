@@ -122,6 +122,9 @@ https://www.youtube.com/watch?v=38jlvmBdBrU&ab_channel=MattWilliams
 https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
   * Understanding How Ollama Stores Models, https://www.youtube.com/watch?v=6bF1uCHTFyk&ab_channel=MattWilliams
+    
+  * Run any AI model remotely for free on google colab, https://www.youtube.com/watch?v=Qa1h7ygwQq8&ab_channel=TechwithMarco
+
 
 
 
