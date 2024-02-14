@@ -127,6 +127,13 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
     https://github.com/marcogreiveldinger/videos/tree/main/ollama-ai/run-on-colab
 
+  * Run Mixtral 8x7B MoE in Google Colab, https://www.youtube.com/watch?v=Zo3CTapKJ4I&ab_channel=PromptEngineering
+
+    https://github.com/dvmazur/mixtral-offloading?tab=readme-ov-file
+
+    https://huggingface.co/lavawolfiee/Mixtral-8x7B-Instruct-v0.1-offloading-demo
+
+
 
 
 
