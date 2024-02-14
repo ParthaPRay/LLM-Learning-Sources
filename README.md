@@ -218,6 +218,8 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
 , https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
 
   * Fine-tune TinyLlama 1.1B locally on own custom dataset, https://youtu.be/VoDHpnCN6PA?si=Aq7soXO6k83mJJVs
+    
+  * Llama Factory: How to Fine-Tune LLMs easily?, https://youtu.be/G5ENOwfPHFE?si=2BZ6Zh5x55TDr2dl
 
 
 
