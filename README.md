@@ -572,6 +572,10 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai
   
 
+* Responsible AI
+
+  https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
+
 * **What is LoRA?**
 
   Edward Hu, https://edwardjhu.com/
