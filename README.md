@@ -468,6 +468,8 @@ https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
   * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, 
 https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
+  * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
+
 
 
 # Vector Database and Embeddings 
@@ -602,6 +604,7 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
 * **WorldofAI** https://www.youtube.com/@intheworldofai
+* **AlejzndroAO Software and AI**, https://youtube.com/@alejandro_ao?si=1TRHMqnIpQGUjJG6
 * **Arize AI**  https://www.youtube.com/@arizeai/videos
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
