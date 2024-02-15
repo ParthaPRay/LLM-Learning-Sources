@@ -443,6 +443,8 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
   * Prompt Templates, Functions and Prompt Window Management, https://www.youtube.com/watch?v=YaYaZu6NbS0&ab_channel=ArizeAI
   
   * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
+    
+  * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
 
 
 
