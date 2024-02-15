@@ -420,9 +420,21 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
  
     https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
 
-    * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
+  * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
 
       https://www.youtube.com/watch?v=xZDB1naRUlk
+
+  * Make an offline GPT voice assistant in Python
+  
+  https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
+
+
+
+
+
+
+
+
 
 
 
@@ -652,6 +664,7 @@ https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **DataScience Basics** https://www.youtube.com/@llmware
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
+* **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 
   www.heatonresearch.com
 
