@@ -63,7 +63,8 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 * Model Monitoring for LLMs, 
 https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
-
+* Let's pretrain a 3B LLM from scratch: on 16+ H100 GPUs, no detail skipped.
+  https://youtu.be/aPzbR1s1O_8?si=2VEoUt9FFRUftctv
 
   
 
