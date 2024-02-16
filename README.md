@@ -643,6 +643,7 @@ https://www.youtube.com/@sethjuarez
 * **James Briggs** https://www.youtube.com/@jamesbriggs
 * **AI Anytime** https://www.youtube.com/@AIAnytime
 * **All About AI** https://www.youtube.com/@AllAboutAI
+* **Sam Witteveen** https://www.youtube.com/@samwitteveenai
 * **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial
 * **AI Makerspace** https://www.youtube.com/@AI-Makerspace
 * **AssemblyAI** https://www.youtube.com/@AssemblyAI
