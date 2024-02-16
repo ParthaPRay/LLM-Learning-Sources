@@ -234,6 +234,13 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   * The EASIEST way to finetune LLAMA-v2 on local machine!, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
     
   * Stable Diffusion XL (SDXL) DreamBooth: Easy, Fast & Free | Beginner Friendly, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
+    
+  * Fine-tuning Notebook on how to fine-tune MPT-7B on a free Google Colab instance to turn the model into a Chatbot. MPT7b sharded version + LoRA adapter  
+
+    https://colab.research.google.com/drive/1HCpQkLL7UXW8xJUJJ29X7QAeNJKO0frZ?usp=sharing
+
+    
+
 
 
 
