@@ -242,7 +242,9 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
     Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
 
     
+  *  Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
 
+    https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
 
 
 
@@ -446,11 +448,11 @@ https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
   * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
 
-      https://www.youtube.com/watch?v=xZDB1naRUlk
+    https://www.youtube.com/watch?v=xZDB1naRUlk
 
   * Make an offline GPT voice assistant in Python
   
-  https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
+    https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
 
 
 
@@ -636,8 +638,13 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
   Edward Hu, https://edwardjhu.com/
 
+* **Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA**
 
+  https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
+* **A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes**
+
+  https://huggingface.co/blog/hf-bitsandbytes-integration
 
 
 # AGI
