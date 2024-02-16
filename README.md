@@ -239,6 +239,8 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
 
     https://colab.research.google.com/drive/1HCpQkLL7UXW8xJUJJ29X7QAeNJKO0frZ?usp=sharing
 
+    Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
+
     
 
 
