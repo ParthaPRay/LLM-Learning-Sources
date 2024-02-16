@@ -230,6 +230,12 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   * D2SLM (Doc to Dataset to Fine-Tune Small Language Model), https://www.youtube.com/watch?v=khIDeJwBf4k&ab_channel=AIMakerspace
     
   * LLAMA-2 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=LslC2nKEEGU&t=2s&ab_channel=PromptEngineering
+ 
+  * The EASIEST way to finetune LLAMA-v2 on local machine!, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
+    
+  * Stable Diffusion XL (SDXL) DreamBooth: Easy, Fast & Free | Beginner Friendly, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
+
+
 
 
 
