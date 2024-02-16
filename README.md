@@ -224,7 +224,11 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   * Llama Factory: How to Fine-Tune LLMs easily?, https://youtu.be/G5ENOwfPHFE?si=2BZ6Zh5x55TDr2dl
     
   * How to create custom datasets to train Llama-2? https://youtu.be/z2QE12p3kMM?si=j52ptrx0GMnj9OSy
+  
   * LocalGPT: Convert your chats with Docs to Fine-Tuing datasets, https://youtu.be/2_o6epQToVY?si=CZMdu1u2IU0wXUz8
+    
+  * D2SLM (Doc to Dataset to Fine-Tune Small Language Model), https://www.youtube.com/watch?v=khIDeJwBf4k&ab_channel=AIMakerspace
+
 
 
 
