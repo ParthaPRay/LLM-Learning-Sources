@@ -118,11 +118,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
  
   * Adding Custom Models to Ollama, https://www.youtube.com/watch?v=0ou51l-MLCo&t=211s&ab_channel=MattWilliams
  
-  * Finally Ollama has an OpenAI compatible API, 
-https://www.youtube.com/watch?v=38jlvmBdBrU&ab_channel=MattWilliams
+  * Finally Ollama has an OpenAI compatible API, https://www.youtube.com/watch?v=38jlvmBdBrU&ab_channel=MattWilliams
 
-  * Hosting Ollama Starts With Environment Variables, 
-https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
+  * Hosting Ollama Starts With Environment Variables, https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
 
   * Understanding How Ollama Stores Models, https://www.youtube.com/watch?v=6bF1uCHTFyk&ab_channel=MattWilliams
     
@@ -168,8 +166,7 @@ https://www.youtube.com/watch?v=H_cqBjDVinw&ab_channel=MattWilliams
     
   * Make LLM Fine Tuning 5x Faster with Unsloth, https://www.youtube.com/watch?v=sIFokbuATX4&ab_channel=AIAnytime
   
-  * Fine-Tuning Your Own Llama 2 Model, 
-https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
+  * Fine-Tuning Your Own Llama 2 Model, https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   
   * Fine Tune a Multimodal LLM "IDEFICS 9B" for Visual Question Answering, https://www.youtube.com/watch?v=usoTCfyQxjU&ab_channel=AIAnytime
   
@@ -185,8 +182,7 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
  
   * Fine tuning Whisper for Speech Transcription, https://www.youtube.com/watch?v=anplUNnkM68&ab_channel=TrelisResearch
  
-  * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU
-, https://www.youtube.com/watch?v=g68qlo9Izf0&t=17s&ab_channel=DeepLearningAI
+  * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU, https://www.youtube.com/watch?v=g68qlo9Izf0&t=17s&ab_channel=DeepLearningAI
 
   * Efficient Fine-Tuning for Llama 2 on Custom Dataset with QLoRA on a Single GPU in Google Colab, https://www.youtube.com/watch?v=YyZqcNo4hdo&pp=ygUQZmluZSB0dW5pbmcgTExNXA%3D%3D
     
@@ -217,8 +213,7 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
 
     https://unsloth.ai/introducing
 
-  *  To Fine Tune or not Fine Tune? That is the question
-, https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
+  *  To Fine Tune or not Fine Tune? That is the question, https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
 
   * Fine-tune TinyLlama 1.1B locally on own custom dataset, https://youtu.be/VoDHpnCN6PA?si=Aq7soXO6k83mJJVs
     
@@ -245,7 +240,7 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
     
   *  Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
 
-    https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
+     https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
 
 
 
@@ -311,10 +306,9 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   * Building A RAG System With OpenAI Latest Embeddings
 , https://www.youtube.com/watch?v=OvvgaR1S4Xc&ab_channel=RichmondAlake
 
-  * Transform RAG and Search with Azure AI Document Intelligence, 
-https://www.youtube.com/watch?v=SOBdR-xxE04&ab_channel=SethJuarez
+  * Transform RAG and Search with Azure AI Document Intelligence, https://www.youtube.com/watch?v=SOBdR-xxE04&ab_channel=SethJuarez
 
- * Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking, https://www.youtube.com/watch?v=BvnOln6YZ_8&ab_channel=SethJuarez
+  * Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking, https://www.youtube.com/watch?v=BvnOln6YZ_8&ab_channel=SethJuarez
 
 
 
@@ -334,33 +328,25 @@ https://www.youtube.com/watch?v=SOBdR-xxE04&ab_channel=SethJuarez
  
   * Deploy RAG App built using Create Llama on Vercel: Free and Easy Method, https://www.youtube.com/watch?v=euYa4iesOm8&ab_channel=AIAnytime
     
-  * Create a LlamaIndex App with Create Llama: No Code tool for RAG, 
-https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
+  * Create a LlamaIndex App with Create Llama: No Code tool for RAG, https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
 
-  * AutoLLM: Ship RAG based LLM Apps and API in Seconds
-, https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
+  * AutoLLM: Ship RAG based LLM Apps and API in Seconds, https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
 
   * Query Your CSV using LIDA: Automatic Generation of Visualizations with LLMs, https://www.youtube.com/watch?v=U9K1Cu45nMQ&ab_channel=AIAnytime
  
-  * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, 
-https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
+  * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
 
   * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
  
-  * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, 
-https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
+  * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
 
-  * Let's Build an AI News Anchor Generator App using Generative AI, 
-https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
+  * Let's Build an AI News Anchor Generator App using Generative AI, https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
 
-  * Screenshot to Code Generation: 10x Faster Frontend/UI Development, 
-https://www.youtube.com/watch?v=52Xq6AaRnT4&ab_channel=AIAnytime
+  * Screenshot to Code Generation: 10x Faster Frontend/UI Development, https://www.youtube.com/watch?v=52Xq6AaRnT4&ab_channel=AIAnytime
 
-  * ComfyUI GUI for Image and Video Generation: Google Colab Setup, 
-https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
+  * ComfyUI GUI for Image and Video Generation: Google Colab Setup, https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
 
-  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, 
-https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
+  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
   * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
 
