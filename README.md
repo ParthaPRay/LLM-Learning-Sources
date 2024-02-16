@@ -228,6 +228,9 @@ https://www.youtube.com/watch?v=Pb_RGAl75VE&ab_channel=DataCamp
   * LocalGPT: Convert your chats with Docs to Fine-Tuing datasets, https://youtu.be/2_o6epQToVY?si=CZMdu1u2IU0wXUz8
     
   * D2SLM (Doc to Dataset to Fine-Tune Small Language Model), https://www.youtube.com/watch?v=khIDeJwBf4k&ab_channel=AIMakerspace
+    
+  * LLAMA-2 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=LslC2nKEEGU&t=2s&ab_channel=PromptEngineering
+
 
 
 
