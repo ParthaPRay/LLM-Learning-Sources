@@ -646,6 +646,8 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
   https://huggingface.co/blog/hf-bitsandbytes-integration
 
+  
+
 
 # AGI
 
