@@ -651,6 +651,7 @@ https://www.youtube.com/@sethjuarez
 * **AI Flux**  https://www.youtube.com/@aifluxchannel
 * **Julien Simon** https://www.youtube.com/@juliensimonfr
 * **AI Jason** https://www.youtube.com/@AIJasonZ
+* **Abhishek Thakur** https://www.youtube.com/@abhishekkrthakur
 * **Decoder** https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
