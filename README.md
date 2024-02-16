@@ -621,7 +621,7 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
 
 
-* **Responsible AI**
+* **Synthetic data and Carbon foot print**
 
    Synthetic data: save money, time and carbon with open source
   
