@@ -620,6 +620,18 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
 
+
+* **Responsible AI**
+
+   Synthetic data: save money, time and carbon with open source
+  
+   https://huggingface.co/blog/synthetic-data-save-costs
+  
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/556d160e-aade-4bbb-89cf-e14a78cc9e4f)+
+
+   https://github.com/MoritzLaurer/synthetic-data-blog/tree/main
+
+
 * **What is LoRA?**
 
   Edward Hu, https://edwardjhu.com/
