@@ -1,5 +1,4 @@
-![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d0374b19-4dc9-4653-9df7-423b5a07e238)# LLM-Learning-Sources
-This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
+![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2b189689-e871-4cf4-8c09-afc9a002cff7)This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
 
 
@@ -97,10 +96,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   
 
-# Key Sources
-
-
-* **Ollama**
+# Ollama
 
   * Ollama, https://github.com/ollama/ollama
     
@@ -180,10 +176,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-
-
-
-* **Fine Tuning** 
+# Fine Tuning
 
 
   * Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU, https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
@@ -274,6 +267,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Fine Tune pre-trained GPT and BERT models with the Huggingface library, https://www.youtube.com/watch?v=g1dAsgibRcw&ab_channel=RicardoCalix
  
   * Fine-Tuning HF examples on GPU Scholar, scratch disk space, https://www.youtube.com/watch?v=_S01y-JY8k4&ab_channel=RicardoCalix
+
+  * Fine-tune Multi-modal Vision and Language Models, https://www.youtube.com/watch?v=eIziN2QUt8U&ab_channel=TrelisResearch
  
 
 
@@ -282,9 +277,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-
-   
-* **RAG** 
+# RAG
 
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
@@ -353,7 +346,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-* **Pipepline**
+# Pipepline
 
    * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
   
@@ -361,8 +354,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-    
-* **LLM Apps** 
+# LLM Apps
 
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
   
