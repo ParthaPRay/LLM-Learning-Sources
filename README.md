@@ -66,8 +66,22 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * Let's pretrain a 3B LLM from scratch: on 16+ H100 GPUs, no detail skipped.
   https://youtu.be/aPzbR1s1O_8?si=2VEoUt9FFRUftctv
 
-  * Coding a Transformer from scratch on Pytorch with full explanation training and Inference,
+* A simple generative ML model with just KNN, https://www.youtube.com/watch?v=aFuHPiJu0QA
+
+
+
+# Transformers
+
+ * Coding a Transformer from scratch on Pytorch with full explanation training and Inference,
     https://youtu.be/ISNdQcPhsts?si=EA3BSRVo1Tr4Z4NC
+  
+ * GPTs, BERTs, Full Transformers, in PyTorch (Part 1), https://www.youtube.com/watch?v=s6gys0iozLk&ab_channel=RicardoCalix
+ * GPTs, BERTs, Full Transformers, in PyTorch (Part 2), https://www.youtube.com/watch?v=a1qomZy_yfo&ab_channel=RicardoCalix
+ * GPU Scholar cloud, GPTs, BERTs, Full Transformers, in PyTorch (Part 3), https://www.youtube.com/watch?v=klQnQMoy9zI&ab_channel=RicardoCalix
+ * Embeddings, GPTs, BERTs, Full Transformers, in PyTorch (Part 4), https://www.youtube.com/watch?v=yNZCcF6a7a4&ab_channel=RicardoCalix
+ * The simple linear algebra for Attention, GPTs, BERTs, and Full Transformers in PyTorch (part 5), https://www.youtube.com/watch?v=zgH69JoAB_k&ab_channel=RicardoCalix
+
+
 
   
 
@@ -244,10 +258,11 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   *  Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
 
      https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
-
-
-
-
+     
+  * Fine Tune pre-trained GPT and BERT models with the Huggingface library, https://www.youtube.com/watch?v=g1dAsgibRcw&ab_channel=RicardoCalix
+ 
+  * Fine-Tuning HF examples on GPU Scholar, scratch disk space, https://www.youtube.com/watch?v=_S01y-JY8k4&ab_channel=RicardoCalix
+ 
 
 
 
@@ -323,6 +338,13 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
 
 
+
+
+
+* **Pipepline**
+
+   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
+  
 
 
 
@@ -665,6 +687,7 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
 * **Venelin Valkov** https://www.youtube.com/@venelin_valkov
+* **Ricardo Calix**, https://www.youtube.com/@ricardocalix188
 * **Seth Juarez**
 https://www.youtube.com/@sethjuarez
 * **Nicholas Renotte** https://www.youtube.com/@NicholasRenotte/
