@@ -313,6 +313,12 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Building corrective RAG from scratch with open source, local LLMs, 
    https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
 
+  * RAG from scratch, https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=BtJ6KCTMfqBzIGya
+ 
+  * Build with LangChain, https://youtube.com/playlist?list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&si=0ypsn2axHsDSMs6b
+    
+  * LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
+
 
 
 
