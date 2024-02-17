@@ -489,8 +489,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-
-* **Prompt** 
+# Prompt
 
   * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
  
@@ -513,10 +512,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-
-
-
-* **Mixture of Experts (MoEs)** 
+# Mixture of Experts (MoEs)
 
   * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model
 ,   https://www.youtube.com/watch?v=gIz7Td6WfEo
