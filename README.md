@@ -309,6 +309,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Transform RAG and Search with Azure AI Document Intelligence, https://www.youtube.com/watch?v=SOBdR-xxE04&ab_channel=SethJuarez
 
   * Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking, https://www.youtube.com/watch?v=BvnOln6YZ_8&ab_channel=SethJuarez
+    
+  * Building corrective RAG from scratch with open source, local LLMs, 
+   https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
 
 
 
