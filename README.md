@@ -66,6 +66,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * Let's pretrain a 3B LLM from scratch: on 16+ H100 GPUs, no detail skipped.
   https://youtu.be/aPzbR1s1O_8?si=2VEoUt9FFRUftctv
 
+  * Coding a Transformer from scratch on Pytorch with full explanation training and Inference,
+    https://youtu.be/ISNdQcPhsts?si=EA3BSRVo1Tr4Z4NC
+
   
 
 # Key Sources
