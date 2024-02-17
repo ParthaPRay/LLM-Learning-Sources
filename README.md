@@ -668,6 +668,14 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
 
 
+
+# AGI
+
+* **OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry**, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
+
+
+
+
 # Essentials on ML, DL and Gen AI 
 
 
@@ -694,12 +702,9 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 * **A Simple Generative Adversarial Network (GAN) in PyTorch**
 
   https://www.youtube.com/watch?v=BGtSw0XNthY&ab_channel=RicardoCalix
-  
 
+* **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
-# AGI
-
-* OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
 
 
 
