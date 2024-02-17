@@ -1,4 +1,4 @@
-# LLM-Learning-Sources
+![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d0374b19-4dc9-4653-9df7-423b5a07e238)# LLM-Learning-Sources
 This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
 
@@ -72,14 +72,26 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 # Transformers
 
- * Coding a Transformer from scratch on Pytorch with full explanation training and Inference,
-    https://youtu.be/ISNdQcPhsts?si=EA3BSRVo1Tr4Z4NC
+* What are Transformers and GPTs?, https://www.youtube.com/watch?v=ucityipiNtA&ab_channel=RicardoCalix
+
+* High overview of the original Transformer architecture for Large Language Models, https://www.youtube.com/watch?v=zxVhAYkSYcY&ab_channel=RicardoCalix
+
+*  Coding a Transformer from scratch on Pytorch with full explanation training and Inference, https://youtu.be/ISNdQcPhsts?si=EA3BSRVo1Tr4Z4NC
   
- * GPTs, BERTs, Full Transformers, in PyTorch (Part 1), https://www.youtube.com/watch?v=s6gys0iozLk&ab_channel=RicardoCalix
- * GPTs, BERTs, Full Transformers, in PyTorch (Part 2), https://www.youtube.com/watch?v=a1qomZy_yfo&ab_channel=RicardoCalix
- * GPU Scholar cloud, GPTs, BERTs, Full Transformers, in PyTorch (Part 3), https://www.youtube.com/watch?v=klQnQMoy9zI&ab_channel=RicardoCalix
- * Embeddings, GPTs, BERTs, Full Transformers, in PyTorch (Part 4), https://www.youtube.com/watch?v=yNZCcF6a7a4&ab_channel=RicardoCalix
- * The simple linear algebra for Attention, GPTs, BERTs, and Full Transformers in PyTorch (part 5), https://www.youtube.com/watch?v=zgH69JoAB_k&ab_channel=RicardoCalix
+    * GPTs, BERTs, Full Transformers, in PyTorch (Part 1), https://www.youtube.com/watch?v=s6gys0iozLk&ab_channel=RicardoCalix
+    * GPTs, BERTs, Full Transformers, in PyTorch (Part 2), https://www.youtube.com/watch?v=a1qomZy_yfo&ab_channel=RicardoCalix
+    * GPU Scholar cloud, GPTs, BERTs, Full Transformers, in PyTorch (Part 3), https://www.youtube.com/watch?v=klQnQMoy9zI&ab_channel=RicardoCalix
+    * Embeddings, GPTs, BERTs, Full Transformers, in PyTorch (Part 4), https://www.youtube.com/watch?v=yNZCcF6a7a4&ab_channel=RicardoCalix
+    * The simple linear algebra for Attention, GPTs, BERTs, and Full Transformers in PyTorch (part 5), https://www.youtube.com/watch?v=zgH69JoAB_k&ab_channel=RicardoCalix
+
+* Implementing a simple GPT in PyTorch, https://www.youtube.com/watch?v=RsQxg913eXY&ab_channel=RicardoCalix
+* Implementing a simple GPT in PyTorch (Take Two), https://www.youtube.com/watch?v=zyDzpVu9lyA&ab_channel=RicardoCalix
+
+
+* Starting with GPTs (A Hello World Example), https://www.youtube.com/watch?v=oPcJg3QrKf4&ab_channel=RicardoCalix
+  
+* Intro to Reinforcement Learning through Human Feedbacks (RLHF), https://www.youtube.com/watch?v=A8YqZKGRTAM&ab_channel=RicardoCalix
+
 
 
 
@@ -412,7 +424,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
  
   * How to Build an OpenAI LLM on a Private Network with AWS, https://www.youtube.com/watch?v=6LGGQERxrQo&ab_channel=SingleStore
  
-   * Amazon Bedrock: Generative AI on AWS without the Headaches, https://www.youtube.com/watch?v=Yj_7FuFgPyI
+  * Amazon Bedrock: Generative AI on AWS without the Headaches, https://www.youtube.com/watch?v=Yj_7FuFgPyI
 
   * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
@@ -475,6 +487,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   
     https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
 
+  * Build and Run a Medical Chatbot using Llama 2 on CPU Machine: All Open Source, https://www.youtube.com/watch?v=kXuHxI5ZcG0&ab_channel=AIAnytime
 
 
 
@@ -578,8 +591,7 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
     Paper Link: www.isca-speech.org/archive/pdfs/interspeech_2023/rao23_interspeech.pdf or www.travellingwave.com/TwIS2023.pdf
 
-  * Running SDXL on the Raspberry Pi 5 is now POSSIBLE!
-, https://www.youtube.com/watch?v=XVS8oiuU6sA&ab_channel=AiFlux
+  * Running SDXL on the Raspberry Pi 5 is now POSSIBLE!, https://www.youtube.com/watch?v=XVS8oiuU6sA&ab_channel=AiFlux
 
 
 
@@ -655,6 +667,10 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
    https://github.com/MoritzLaurer/synthetic-data-blog/tree/main
 
 
+
+# Essentials on ML, DL and Gen AI 
+
+
 * **What is LoRA?**
 
   Edward Hu, https://edwardjhu.com/
@@ -667,6 +683,17 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
   https://huggingface.co/blog/hf-bitsandbytes-integration
 
+* **How to convert any problem into a machine learning problem**
+
+  https://www.youtube.com/watch?v=-MTW39At8F0&ab_channel=RicardoCalix
+
+* **Intro to Reinforcement Learning through Human Feedbacks (RLHF)**
+  
+  https://www.youtube.com/watch?v=A8YqZKGRTAM&ab_channel=RicardoCalix
+
+* **A Simple Generative Adversarial Network (GAN) in PyTorch**
+
+  https://www.youtube.com/watch?v=BGtSw0XNthY&ab_channel=RicardoCalix
   
 
 
