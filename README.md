@@ -348,6 +348,12 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
     
   * CrewAI RAG: How I Created AI Assistants to Run My News Agency, https://www.youtube.com/watch?v=77xSbC-9yn4&ab_channel=MervinPraison
 
+  * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
+
+    https://github.com/huggingface/cookbook/tree/main/notebooks/en
+
+  * 
+
 
 
 
