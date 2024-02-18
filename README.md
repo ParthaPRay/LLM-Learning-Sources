@@ -353,7 +353,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
 
   https://github.com/huggingface/cookbook/tree/main/notebooks/en
-    
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
+
     
   * RAG Evaluation Using Synthetic data and LLM-As-A-Judge
   https://github.com/huggingface/cookbook/tree/main/notebooks/en
