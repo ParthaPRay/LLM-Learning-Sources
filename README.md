@@ -275,7 +275,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Fine-tune Multi-modal Vision and Language Models, https://www.youtube.com/watch?v=eIziN2QUt8U&ab_channel=TrelisResearch
  
 
+  * Fine-tuning a Code LLM on Custom Code on a single GPU
 
+  https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
 
@@ -350,10 +352,11 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
 
-    https://github.com/huggingface/cookbook/tree/main/notebooks/en
-
-  * 
-
+  https://github.com/huggingface/cookbook/tree/main/notebooks/en
+    
+    
+  * RAG Evaluation Using Synthetic data and LLM-As-A-Judge
+  https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
 
@@ -579,7 +582,9 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
   https://simonwillison.net/2023/Oct/23/embeddings/
   
   
-  
+ * **Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS**
+
+   https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
 # Pervasive Generative AI
