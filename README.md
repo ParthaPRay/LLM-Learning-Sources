@@ -1,4 +1,4 @@
-![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2b189689-e871-4cf4-8c09-afc9a002cff7)This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
+This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
 
 
@@ -134,8 +134,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
  
   * Ollama: The Easiest Way to Run Uncensored Llama 2 on a Mac, https://www.youtube.com/watch?v=tIRx-Sm3xDQ&ab_channel=IanWootten
  
-  * Using Ollama To Build a FULLY LOCAL "ChatGPT Clone"
-, https://www.youtube.com/watch?v=rIRkxZSn-A8&ab_channel=MatthewBerman
+  * Using Ollama To Build a FULLY LOCAL "ChatGPT Clone", https://www.youtube.com/watch?v=rIRkxZSn-A8&ab_channel=MatthewBerman
 
   * Hugging Face GGUF Models locally with Ollama, https://www.youtube.com/watch?v=7BH4C6-HP14&t=8s&ab_channel=LearnDatawithMark
  
@@ -166,6 +165,11 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
     https://drive.google.com/drive/folders/1Bo4sJu9vEnjzV_h4FmBNb6dSZ8BxZxpa
 
     https://drive.google.com/drive/folders/1AuReI63WzKRSdzRIlCxl6WuBkNMryPv9
+
+  * Unleash the power of Local LLM's with Ollama x AnythingLLM, https://www.youtube.com/watch?v=IJYC6zf86lU&ab_channel=TimCarambat
+
+    Any LLM, unlimited documents, and fully private. All on your desktop. https://useanything.com/download
+
 
 
 
@@ -341,6 +345,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Build with LangChain, https://youtube.com/playlist?list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&si=0ypsn2axHsDSMs6b
     
   * LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
+    
+  * CrewAI RAG: How I Created AI Assistants to Run My News Agency, https://www.youtube.com/watch?v=77xSbC-9yn4&ab_channel=MervinPraison
 
 
 
@@ -480,6 +486,22 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
     https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
 
   * Build and Run a Medical Chatbot using Llama 2 on CPU Machine: All Open Source, https://www.youtube.com/watch?v=kXuHxI5ZcG0&ab_channel=AIAnytime
+    
+  * Chat With Websites Using ChainLit / Streamlit, LangChain, Ollama & Mistral 🧠, https://www.youtube.com/watch?v=FZrkm0vaYYQ&ab_channel=DataScienceBasics
+
+    https://github.com/sudarshan-koirala/chat-with-website
+
+  * LocalGPT API: Serve Multiple Users At the Same time, https://www.youtube.com/watch?v=z9wDKwgQojM&ab_channel=PromptEngineering
+    
+  * Deploy and Use any Open Source LLMs using RunPod, https://www.youtube.com/watch?v=nHuHGoLSXb0&ab_channel=AIAnytime
+
+  * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
+
+  * Function Calling using Open Source LLM (Mistral 7B), https://www.youtube.com/watch?v=MQmfSBdIfno&t=337s&ab_channel=AIAnytime
+
+
+
+
 
 
 
