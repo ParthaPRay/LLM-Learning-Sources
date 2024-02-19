@@ -509,7 +509,18 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
 
   * Function Calling using Open Source LLM (Mistral 7B), https://www.youtube.com/watch?v=MQmfSBdIfno&t=337s&ab_channel=AIAnytime
+    
+  * vector search, RAG, and Azure AI search,
 
+https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
+
+https://www.youtube.com/live/vuOA13Y_Qzk?si=bT6zY4piPt_yUn_Q
+
+https://github.com/pamelafox/vector-search-demos
+
+https://pamelafox.github.io/vectors-comparison
+
+https://github.com/Azure-Samples/azure-search-openai-demo
 
 
 
