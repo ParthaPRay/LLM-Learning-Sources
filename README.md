@@ -523,6 +523,15 @@ https://pamelafox.github.io/vectors-comparison
 https://github.com/Azure-Samples/azure-search-openai-demo
 
 
+* Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
+  
+https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
+
+* Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
+  
+  https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
+
+
 
 
 
