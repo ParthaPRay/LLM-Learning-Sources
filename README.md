@@ -708,6 +708,11 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
+
+* **Model Quantization with 🤗 Hugging Face Transformers and Bitsandbytes Integration**
+
+  https://medium.com/@rakeshrajpurohit/model-quantization-with-hugging-face-transformers-and-bitsandbytes-integration-b4c9983e8996
+
 * Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
 
   https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
