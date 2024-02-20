@@ -913,6 +913,11 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
   www.heatonresearch.com
 
   
+# Courses
+
+      * **Free Course on** (https://course.fast.ai/) by Jeremy Howard's Fastai
+            
+      **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
 * **CS50**
 
@@ -923,11 +928,7 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 * **Edx:** cs50.edx.org
 
 
-      * **Free Course on** (https://course.fast.ai/)
       
-      **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
-
-
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
