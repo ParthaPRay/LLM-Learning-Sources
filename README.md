@@ -756,6 +756,12 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
+* **How to quantization an LLM with GGUF or AWQ**
+  
+  https://youtu.be/XM8pllpBVA0?si=v_jLj78pCnOXIv2i
+
+  https://tinyurl.com/2s58xnam
+  
 * **Making LLMs lighter with AutoGPTQ and transformers**
   
   GPTQ blogpost – gives an overview on what is the GPTQ quantization method and how to use it.
