@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
       Slide PPT Keynote: https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view
 
 
+        Makemore implementation from Andrej Karpathy
+
+        https://github.com/karpathy/makemore
+   
     
     * **Neural Networks: Zero to Hero** Lecture by **Andrej Karpathy**
 
