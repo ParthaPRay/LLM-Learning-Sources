@@ -598,32 +598,6 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
    https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
-# Pervasive Generative AI
-
-  * Using Ollama to Run Local LLMs on the Raspberry Pi 5, https://www.youtube.com/watch?v=ewXANEIC8pY&ab_channel=IanWootten
-
-  * Private AI Revolution: Setting Up Ollama with WebUI on Raspberry Pi 5!, https://www.youtube.com/watch?v=jJKbYj8mIy8&ab_channel=KevinMcAleer
-
-  * I Ran Advanced LLMs on the Raspberry Pi 5!, https://www.youtube.com/watch?v=Y2ldwg8xsgE&ab_channel=DataSlayer
-
-  * How to Run a ChatGPT-like AI on Your Raspberry Pi, https://www.youtube.com/watch?v=idZctq7WIq4&ab_channel=GaryExplains
-
-  * Local AI Just Got Easy (and Cheap), https://www.youtube.com/watch?v=mdOEaNV8NXw&ab_channel=DataSlayer
-
-      Following boards are needed:
-      
-      1. Zima Board
-      2. Coral USB TPU
-      3. Coral PCie TPU
-      4. M.2 Adapter
-      5. Raspberry Pi 5
-
-
-  * Power of Generative AI + Common-Sense of Reasoning AI = All-Pervasive Conversational Ux, https://www.youtube.com/watch?v=j1uZ1NpC_4M&ab_channel=Travellingwave
-
-    Paper Link: www.isca-speech.org/archive/pdfs/interspeech_2023/rao23_interspeech.pdf or www.travellingwave.com/TwIS2023.pdf
-
-  * Running SDXL on the Raspberry Pi 5 is now POSSIBLE!, https://www.youtube.com/watch?v=XVS8oiuU6sA&ab_channel=AiFlux
 
 
 
@@ -702,14 +676,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-# AGI
-
-* **OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry**, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
 
 
-
-
-# Essentials on ML, DL and Gen AI 
+# Essentials on LoRA and Its Variants
 
 
 * **What is LoRA?**
@@ -770,6 +739,40 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
 
+
+
+# Pervasive Generative AI
+
+  * Using Ollama to Run Local LLMs on the Raspberry Pi 5, https://www.youtube.com/watch?v=ewXANEIC8pY&ab_channel=IanWootten
+
+  * Private AI Revolution: Setting Up Ollama with WebUI on Raspberry Pi 5!, https://www.youtube.com/watch?v=jJKbYj8mIy8&ab_channel=KevinMcAleer
+
+  * I Ran Advanced LLMs on the Raspberry Pi 5!, https://www.youtube.com/watch?v=Y2ldwg8xsgE&ab_channel=DataSlayer
+
+  * How to Run a ChatGPT-like AI on Your Raspberry Pi, https://www.youtube.com/watch?v=idZctq7WIq4&ab_channel=GaryExplains
+
+  * Local AI Just Got Easy (and Cheap), https://www.youtube.com/watch?v=mdOEaNV8NXw&ab_channel=DataSlayer
+
+      Following boards are needed:
+      
+      1. Zima Board
+      2. Coral USB TPU
+      3. Coral PCie TPU
+      4. M.2 Adapter
+      5. Raspberry Pi 5
+
+
+  * Power of Generative AI + Common-Sense of Reasoning AI = All-Pervasive Conversational Ux, https://www.youtube.com/watch?v=j1uZ1NpC_4M&ab_channel=Travellingwave
+
+    Paper Link: www.isca-speech.org/archive/pdfs/interspeech_2023/rao23_interspeech.pdf or www.travellingwave.com/TwIS2023.pdf
+
+  * Running SDXL on the Raspberry Pi 5 is now POSSIBLE!, https://www.youtube.com/watch?v=XVS8oiuU6sA&ab_channel=AiFlux
+
+
+
+# AGI
+
+* **OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry**, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
 
 
   
