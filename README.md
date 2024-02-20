@@ -277,7 +277,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * Fine-tuning a Code LLM on Custom Code on a single GPU
 
-  https://github.com/huggingface/cookbook/tree/main/notebooks/en
+    https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
 
@@ -332,15 +332,13 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * LLM Search & Retrieval Systems with Arize and LlamaIndex: Powering LLMs on Your Proprietary Data, https://www.youtube.com/watch?v=hbQYDpJayFw&ab_channel=ArizeAI
  
-  * Building A RAG System With OpenAI Latest Embeddings
-, https://www.youtube.com/watch?v=OvvgaR1S4Xc&ab_channel=RichmondAlake
+  * Building A RAG System With OpenAI Latest Embeddings, https://www.youtube.com/watch?v=OvvgaR1S4Xc&ab_channel=RichmondAlake
 
   * Transform RAG and Search with Azure AI Document Intelligence, https://www.youtube.com/watch?v=SOBdR-xxE04&ab_channel=SethJuarez
 
   * Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking, https://www.youtube.com/watch?v=BvnOln6YZ_8&ab_channel=SethJuarez
     
-  * Building corrective RAG from scratch with open source, local LLMs, 
-   https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
+  * Building corrective RAG from scratch with open source, local LLMs, https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
 
   * RAG from scratch, https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=BtJ6KCTMfqBzIGya
  
@@ -352,21 +350,13 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
 
-  https://github.com/huggingface/cookbook/tree/main/notebooks/en
+      https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
-    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
 
     
-  * RAG Evaluation Using Synthetic data and LLM-As-A-Judge
-  https://github.com/huggingface/cookbook/tree/main/notebooks/en
+  * RAG Evaluation Using Synthetic data and LLM-As-A-Judge, https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
-
-
-
-# Pipepline
-
-   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
-  
 
 
 
@@ -512,31 +502,34 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
     
   * vector search, RAG, and Azure AI search,
 
-https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
+    https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
 
-https://www.youtube.com/live/vuOA13Y_Qzk?si=bT6zY4piPt_yUn_Q
+    https://www.youtube.com/live/vuOA13Y_Qzk?si=bT6zY4piPt_yUn_Q
 
-https://github.com/pamelafox/vector-search-demos
+    https://github.com/pamelafox/vector-search-demos
 
-https://pamelafox.github.io/vectors-comparison
+    https://pamelafox.github.io/vectors-comparison
 
-https://github.com/Azure-Samples/azure-search-openai-demo
+    https://github.com/Azure-Samples/azure-search-openai-demo
 
 
 * Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
   
-https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
+   https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
 
 * Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
   
-  https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
+   https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
 
 
 
 
 
 
+# Pipepline
 
+   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
+  
 
 
 
@@ -567,19 +560,15 @@ https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
 
 # Mixture of Experts (MoEs)
 
-  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model
-,   https://www.youtube.com/watch?v=gIz7Td6WfEo
+  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
 
    * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
  
-   * Understanding Mixture of Experts, 
-https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+   * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
 
-  * How To Install Uncensored Mixtral Locally For FREE! (EASY), 
-https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
+  * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
 
-  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, 
-https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
+  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
   * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
 
@@ -658,20 +647,21 @@ https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
       4. Run inference and chat with the model
 
 
-* Pushing Models and Adapters to HuggingFace | Free Notebook, 
-https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
+* **Pushing Models and Adapters to HuggingFace** | Free Notebook, 
 
-https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
+  https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
 
-https://awsdocs-neuron.readthedocs-hosted.com/en/latest/
+  https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
 
-https://huggingface.co/docs/optimum-neuron/index
+  https://awsdocs-neuron.readthedocs-hosted.com/en/latest/
+
+  https://huggingface.co/docs/optimum-neuron/index
 
 
 * Deep Dive: Hugging Face models on AWS AI Accelerators
 
 
-https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
+  https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
 * **Phinetuning 2.0**
 
@@ -729,7 +719,8 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
   https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
 
 *  **Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)**
-  https://lightning.ai/pages/community/tutorial/lora-llm/
+
+   https://lightning.ai/pages/community/tutorial/lora-llm/
 
 * **Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments**
 
@@ -737,22 +728,22 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
  * **Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)**
 
-  https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
+   https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
 
-  Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+   Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
   
-  https://github.com/Lightning-AI/lit-gpt
+   https://github.com/Lightning-AI/lit-gpt
   
 
 * **Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA**
 
   https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
- * Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
+* Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
 
- https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
+  https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
 
- https://github.com/rasbt/dora-from-scratch
+  https://github.com/rasbt/dora-from-scratch
 
  
 * **Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments**
