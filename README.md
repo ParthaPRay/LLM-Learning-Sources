@@ -527,7 +527,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * Create a Web Interface for your LLM in Python
 
-    https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
+https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
 
     Turns Data and AI algorithms into production-ready web applications in no time.
 
@@ -535,8 +535,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
     https://www.taipy.io/
 
-
-
+  * I made AI to auto categorise 10000 comments on Google Sheet with 0$
+ 
+ https://youtu.be/wXiTuNnh2h4?si=P58oj6TLjhqOmtOD
 
 
 # Pipepline
