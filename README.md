@@ -738,6 +738,10 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
  * **Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)**
 
   https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
+
+  Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+  
+  https://github.com/Lightning-AI/lit-gpt
   
 
 * **Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA**
@@ -750,6 +754,11 @@ https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
  https://github.com/rasbt/dora-from-scratch
 
+ 
+* **Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments**
+
+  https://lightning.ai/pages/community/lora-insights/
+  
 
 * **A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes**
 
