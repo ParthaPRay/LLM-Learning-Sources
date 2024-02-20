@@ -264,7 +264,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
     Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
 
     
-  *  Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
+  * Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
 
      https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
      
@@ -678,7 +678,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-# Essentials on LoRA and Its Variants
+# Essentials on LoRA, Quantization, PEFT and their Variants
 
 
 * **What is LoRA?**
@@ -723,6 +723,61 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * **A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes**
 
   https://huggingface.co/blog/hf-bitsandbytes-integration
+
+
+* **Overview of natively supported quantization schemes in 🤗 Transformers**
+
+   https://huggingface.co/blog/overview-quantization-transformers
+
+
+
+* **Making LLMs lighter with AutoGPTQ and transformers**
+  
+  GPTQ blogpost – gives an overview on what is the GPTQ quantization method and how to use it.
+
+  https://huggingface.co/blog/gptq-integration
+  
+  https://colab.research.google.com/drive/1_TIrmuKOFhuRRiTWN94iLKUFu6ZX4ceb?usp=sharing
+
+  
+* **bistandbytes 4-bit quantization blogpost - This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach**
+
+  This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach.
+
+  https://huggingface.co/blog/4bit-transformers-bitsandbytes
+
+
+* **A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes**
+
+  bistandbytes 8-bit quantization blogpost - This blogpost explains how 8-bit quantization works with bitsandbytes.
+
+  https://huggingface.co/blog/hf-bitsandbytes-integration
+
+ Basic usage Google Colab notebook for bitsandbytes - This notebook shows how to use 4-bit models in inference with all their variants, and how to run GPT-neo-X (a 20B parameter model) on a free Google Colab instance.
+
+ https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing
+
+
+* **Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳**
+
+
+  Merve's blogpost on quantization - This blogpost provides a gentle introduction to quantization and the quantization methods supported natively in transformers.
+
+  https://huggingface.co/blog/merve/quantization
+
+
+* **🤗 PEFT welcomes new merging methods**
+  
+
+  https://huggingface.co/blog/peft_merging
+
+
+
+
+
+
+
+# General ML, DL
 
 * **How to convert any problem into a machine learning problem**
 
