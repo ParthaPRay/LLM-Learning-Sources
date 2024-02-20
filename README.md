@@ -513,14 +513,23 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
     https://github.com/Azure-Samples/azure-search-openai-demo
 
 
-* Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
+  * Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
   
    https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
 
-* Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
+  * Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
   
    https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
 
+  * Create a Web Interface for your LLM in Python
+
+    https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
+
+    Turns Data and AI algorithms into production-ready web applications in no time.
+
+    https://github.com/Avaiga/taipy
+
+    https://www.taipy.io/
 
 
 
@@ -562,15 +571,22 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
 
-   * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
+  * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
  
-   * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+  * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
 
   * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
 
   * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
 
   * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
+    
+  * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
+
+    https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
+
+    https://github.com/AviSoori1x/makeMoE/tree/main
+    
 
 
 
@@ -907,9 +923,9 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 * **Edx:** cs50.edx.org
 
 
-* **Free Course on** (https://course.fast.ai/)
-
-**Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
+      * **Free Course on** (https://course.fast.ai/)
+      
+      **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
