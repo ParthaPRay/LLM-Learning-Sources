@@ -360,6 +360,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
     
   * RAG Evaluation Using Synthetic data and LLM-As-A-Judge, https://github.com/huggingface/cookbook/tree/main/notebooks/en
+    
+  * Getting started with RAG in DSPy!,
+  https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
 
 
