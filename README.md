@@ -526,11 +526,11 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
   
-   https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
+    https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
 
   * Create a Web Interface for your LLM in Python
 
-https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
+    https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
 
     Turns Data and AI algorithms into production-ready web applications in no time.
 
@@ -540,7 +540,7 @@ https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-pyth
 
   * I made AI to auto categorise 10000 comments on Google Sheet with 0$
  
- https://youtu.be/wXiTuNnh2h4?si=P58oj6TLjhqOmtOD
+     https://youtu.be/wXiTuNnh2h4?si=P58oj6TLjhqOmtOD
 
 
 # Pipepline
@@ -788,9 +788,9 @@ https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-pyth
 
   https://huggingface.co/blog/hf-bitsandbytes-integration
 
- Basic usage Google Colab notebook for bitsandbytes - This notebook shows how to use 4-bit models in inference with all their variants, and how to run GPT-neo-X (a 20B parameter model) on a free Google Colab instance.
+  Basic usage Google Colab notebook for bitsandbytes - This notebook shows how to use 4-bit models in inference with all their variants, and how to run GPT-neo-X (a 20B parameter model) on a free Google Colab instance.
 
- https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing
+  https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing
 
 
 * **Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳**
