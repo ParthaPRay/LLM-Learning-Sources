@@ -933,6 +933,9 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
             
       **Practical Deep Learning:** A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
+   Book PDF: 
+   https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dl.ebooksworld.ir/books/Deep.Learning.for.Coders.with.fastai.and.PyTorch.Howard.Gugger.OReilly.9781492045526.EBooksWorld.ir.pdf&ved=2ahUKEwib6O2I5LyEAxUza2wGHYTABW0QFnoECC0QAQ&usg=AOvVaw3RcidtT0fmmnNsVYdJhH8p
+
 * **CS50**
 
 This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.
