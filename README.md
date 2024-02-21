@@ -543,6 +543,16 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
      https://youtu.be/wXiTuNnh2h4?si=P58oj6TLjhqOmtOD
 
 
+  * Build a medical RAG app using Biomistral, Qdrant and Llama.cpp
+
+    https://youtu.be/A_m3tCqdts4?si=23s00oY8opM8i2PR
+
+
+
+
+
+
+
 # Pipepline
 
    * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
