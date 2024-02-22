@@ -373,6 +373,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   * Getting started with RAG in DSPy!,
   https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
+  * Google Gemma Finetuning: how to teach a large language model?,
+    https://youtu.be/RevZAM9taFk?si=QuNJAVrLdqs7SUgE
+
 
 
 
