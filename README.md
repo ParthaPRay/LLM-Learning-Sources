@@ -868,7 +868,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   * Running SDXL on the Raspberry Pi 5 is now POSSIBLE!, https://www.youtube.com/watch?v=XVS8oiuU6sA&ab_channel=AiFlux
 
-
+  * World's Easiest GPT-like Voice Assistant
+    https://github.com/nickbild/local_llm_assistant?tab=readme-ov-file
 
 # AGI
 
