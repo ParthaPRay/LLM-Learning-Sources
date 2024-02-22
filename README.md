@@ -36,7 +36,14 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
        https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
     
 
+     * Let's build the GPT Tokenizer, 
+        https://www.youtube.com/watch?v=zduSFxRajkE&ab_channel=AndrejKarpathy
 
+       https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing
+
+       https://github.com/karpathy/minbpe
+       
+        
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
   
@@ -70,6 +77,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   https://youtu.be/aPzbR1s1O_8?si=2VEoUt9FFRUftctv
 
 * A simple generative ML model with just KNN, https://www.youtube.com/watch?v=aFuHPiJu0QA
+
+* Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA-Adapter, and More, https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft#:~:text=LoRA%3A%20Low%2DRank%20Adaptation%20of%20Large%20Language%20Models%20%5B1%5D&text=LoRA%20leaves%20the%20pretrained%20layers,of%20the%20model%3B%20see%20below.
 
 
 
