@@ -104,6 +104,15 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   
 * Intro to Reinforcement Learning through Human Feedbacks (RLHF), https://www.youtube.com/watch?v=A8YqZKGRTAM&ab_channel=RicardoCalix
 
+* What is an instruct model? - Instruction and Chat Fine-Tuning,
+
+  As you browse the ever growing global catalogue of generative AI models, you will see some of the Large Language Models (LLMs) being listed with the suffix 'instruct' or 'chat'. What does this mean?
+  
+  TL:DR; The 'instruct' version of the model has been fine-tuned to be able to follow prompted instructions. These models 'expect' to be asked to do something. Models with the 'chat' suffix have been fine-tuned to work in chatbots. These models 'expect' to be involved in a conversation with different actors. In contrast non-instruct tuned models will simply generate an output that follows on from the prompt. If you are making a chatbot, implementing RAG or using agents, use instruct or chat models. If in doubt us an instruct model.
+
+https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
+
+
 
 
 
