@@ -478,7 +478,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
     https://www.youtube.com/watch?v=98Ri4VVBP_8&t=431s
 
-    https://github.com/yeyu2/Youtube_demos
+     https://github.com/yeyu2/Youtube_demos
 
 
   * How to Create a Web UI for AutoGen by Using Panel
@@ -569,7 +569,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     https://youtu.be/A_m3tCqdts4?si=23s00oY8opM8i2PR
 
 
-
+  * Steerable AI with Pinecone + Semantic router
+    , https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
+  
 
 
 
@@ -602,6 +604,8 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
     
   * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
+    
+
 
 
 
