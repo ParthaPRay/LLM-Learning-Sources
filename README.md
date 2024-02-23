@@ -82,7 +82,33 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 * Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA-Adapter, and More, https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft#:~:text=LoRA%3A%20Low%2DRank%20Adaptation%20of%20Large%20Language%20Models%20%5B1%5D&text=LoRA%20leaves%20the%20pretrained%20layers,of%20the%20model%3B%20see%20below.
 
+* The N Implementation Details of RLHF with PPO, https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo
 
+
+
+**Mixture of Experts (MoEs)**
+
+  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
+
+  * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
+ 
+  * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+
+  * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
+
+  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
+
+  * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
+    
+  * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
+
+    https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
+
+    https://github.com/AviSoori1x/makeMoE/tree/main
+
+ * Mixture of Experts Explained
+
+   https://huggingface.co/blog/moe
 
 
 
@@ -327,6 +353,13 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
 
     https://huggingface.co/blog/g-ronimo/phinetuning
+
+
+
+  * Preference Tuning LLMs with **Direct Preference Optimization** Methods
+
+    https://huggingface.co/blog/pref-tuning
+
 
 
 
@@ -598,8 +631,17 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     https://youtu.be/A_m3tCqdts4?si=23s00oY8opM8i2PR
 
 
-  * Steerable AI with Pinecone + Semantic router
-    , https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
+  * Steerable AI with Pinecone + Semantic router, https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
+
+  * Constitutional AI with Open LLMs
+
+    https://huggingface.co/blog/constitutional_ai
+
+    https://github.com/huggingface/alignment-handbook/tree/main/recipes/constitutional-ai
+
+    
+    
+
   
 
 
@@ -619,6 +661,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * Text to Speech Tortoise versus Openvoice Comparison | How to Clone Any Voice for FREE !!, https://www.youtube.com/watch?v=E9jWEmUSxyo&ab_channel=SkillCurb
  
   * ChatGPT Vision API End to End Project with Zapier and MindStudio, https://www.youtube.com/watch?v=4UsQxuhxB7c&ab_channel=SkillCurb
+
     
   * Vibe-Based Prompt Engineering with PromptLayer's Jared Zoneraich, https://www.youtube.com/watch?v=SEgwj6SVWyQ&ab_channel=ArizeAI
     
@@ -743,25 +786,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-# Mixture of Experts (MoEs)
 
-  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
-
-  * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
- 
-  * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
-
-  * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
-
-  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
-
-  * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
-    
-  * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
-
-    https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
-
-    https://github.com/AviSoori1x/makeMoE/tree/main
     
 
 
