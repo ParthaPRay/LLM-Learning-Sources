@@ -482,194 +482,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-# LLM Apps
-
-  * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
-  
-  * Outfit Anyone: A Diffusion Project for Virtual Try On, https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
-    
-  * Oncology RAG App - Powered by Meditron 7B Medical LLM, https://www.youtube.com/watch?v=kvbjB-q5Dss&ab_channel=AIAnytime
- 
-  * Investment Banker RAG Chatbot using Intel's Neural Chat LLM, https://www.youtube.com/watch?v=d9wCHH3iknM&ab_channel=AIAnytime
- 
-  * Deploy RAG App built using Create Llama on Vercel: Free and Easy Method, https://www.youtube.com/watch?v=euYa4iesOm8&ab_channel=AIAnytime
-    
-  * Create a LlamaIndex App with Create Llama: No Code tool for RAG, https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
-
-  * AutoLLM: Ship RAG based LLM Apps and API in Seconds, https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
-
-  * Query Your CSV using LIDA: Automatic Generation of Visualizations with LLMs, https://www.youtube.com/watch?v=U9K1Cu45nMQ&ab_channel=AIAnytime
- 
-  * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
-
-  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
- 
-  * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
-
-  * Let's Build an AI News Anchor Generator App using Generative AI, https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
-
-  * Screenshot to Code Generation: 10x Faster Frontend/UI Development, https://www.youtube.com/watch?v=52Xq6AaRnT4&ab_channel=AIAnytime
-
-  * ComfyUI GUI for Image and Video Generation: Google Colab Setup, https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
-
-  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
-
-  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
-
-  * Build a Containerized Transcription API using Whisper Model and FastAPI, https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
-
-  * Build Your RAG-based ChatGPT Web App with Azure: LawGPT Use Case Tutorial, https://www.youtube.com/watch?v=wmfAJWwyaQA&ab_channel=AIAnytime
- 
-  * Creating a Veterinary Chatbot using Llama 2: Harnessing Gen AI for Pet Care, https://www.youtube.com/watch?v=Iyzvka711pc&ab_channel=AIAnytime
-
-  * Build Your API for Llama 2 on AWS: Lambda Function and API Gateway, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
-
-  * Deploy Llama 2 for your Entire Organisation, https://www.youtube.com/watch?v=Ror2xOOA-VE&ab_channel=TrelisResearch
-
-  * Install and Run Mistral 7B on AWS, https://www.youtube.com/watch?v=aSh66tG1B5o&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
-
-  * Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers), https://www.youtube.com/watch?v=rQq1m2aJ_fk&ab_channel=AIAnytime
- 
-  * Enterprise Chat App using Azure Cognitive Search and Azure OpenAI: End-to-End Tutorial, https://www.youtube.com/watch?v=hkSnPhhjm1Y&ab_channel=AIAnytime
-
-  * Containerizing LLM-Powered Apps: Part 1 of the Chatbot Deployment, https://www.youtube.com/watch?v=7CeAJ0EbzDA&ab_channel=AIAnytime
-
-  * Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment, https://www.youtube.com/watch?v=vYIlhgVHAls&ab_channel=AIAnytime
-
-  * Serve a Custom LLM for Over 100 Customers, https://www.youtube.com/watch?v=1TU9ZrZhqw0&ab_channel=TrelisResearch
-
-  * Long Context Summarization, https://www.youtube.com/watch?v=I83TH4x9keo&ab_channel=TrelisResearch
-
-  * Function Calling Datasets, Training and Inference, https://www.youtube.com/watch?v=hHn_cV5WUDI&ab_channel=TrelisResearch
- 
-  * How to Build an OpenAI LLM on a Private Network with AWS, https://www.youtube.com/watch?v=6LGGQERxrQo&ab_channel=SingleStore
- 
-  * Amazon Bedrock: Generative AI on AWS without the Headaches, https://www.youtube.com/watch?v=Yj_7FuFgPyI
-
-  * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
-
-  * PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more), https://www.youtube.com/watch?v=XFiof0V3nhA&ab_channel=MatthewBerman
- 
-  * AutoLLM: Create RAG Based LLM Web Apps in SECONDS!, https://www.youtube.com/watch?v=kPaiZe_qD34&ab_channel=WorldofAI
- 
-  * Use OpenChat and LM Studio with LLMWare, https://www.youtube.com/watch?v=h2FDjUyvsKE&ab_channel=llmware
-
-  * Compare Embedding Models for Side by Side Queries Using Postgres with LLMWare, https://www.youtube.com/watch?v=Bncvggy6m5Q&ab_channel=llmware
-    
-  * AutoGen Studio with 100% Local LLMs (LM Studio), https://www.youtube.com/watch?v=ob45YmYD2KI&ab_channel=PromptEngineering
-  
-  * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
-    
-  * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
- 
-  * Self-reflective RAG with LangGraph: Self-RAG and CRAG, https://www.youtube.com/watch?v=pbAd8O1Lvm4&ab_channel=LangChain
-
-    https://github.com/langchain-ai/langgraph/tree/main/examples/rag
-
-
-  * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
-
-    https://www.youtube.com/watch?v=98Ri4VVBP_8&t=431s
-
-     https://github.com/yeyu2/Youtube_demos
-
-
-  * How to Create a Web UI for AutoGen by Using Panel
-
-    https://www.youtube.com/watch?v=mFmPDyLlj1E
-
-    https://github.com/yeyu2/Youtube_demos
-
-
-  * Create Full Function UI for AutoGen Powered by Panel (Human Input Enabled)
-
-    https://www.youtube.com/watch?v=9lSaRP9GLCY
-
-
-  * AutoGen + Function Calling + Open Source LLMs, Here is How
-
-    https://www.youtube.com/watch?v=UIBerUGqHjc&ab_channel=YeyuLab
-
-  * Use Open Source LLMs in AutoGen powered by Fireworks AI, without GPU/CPU
-
-    https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
-
-
-  * Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
- 
-    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
-
-  * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
-
-    https://www.youtube.com/watch?v=xZDB1naRUlk
-
-  * Make an offline GPT voice assistant in Python
-  
-    https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
-
-  * Build and Run a Medical Chatbot using Llama 2 on CPU Machine: All Open Source, https://www.youtube.com/watch?v=kXuHxI5ZcG0&ab_channel=AIAnytime
-    
-  * Chat With Websites Using ChainLit / Streamlit, LangChain, Ollama & Mistral 🧠, https://www.youtube.com/watch?v=FZrkm0vaYYQ&ab_channel=DataScienceBasics
-
-    https://github.com/sudarshan-koirala/chat-with-website
-
-  * LocalGPT API: Serve Multiple Users At the Same time, https://www.youtube.com/watch?v=z9wDKwgQojM&ab_channel=PromptEngineering
-    
-  * Deploy and Use any Open Source LLMs using RunPod, https://www.youtube.com/watch?v=nHuHGoLSXb0&ab_channel=AIAnytime
-
-  * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
-
-  * Function Calling using Open Source LLM (Mistral 7B), https://www.youtube.com/watch?v=MQmfSBdIfno&t=337s&ab_channel=AIAnytime
-    
-  * vector search, RAG, and Azure AI search,
-
-    https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
-
-    https://www.youtube.com/live/vuOA13Y_Qzk?si=bT6zY4piPt_yUn_Q
-
-    https://github.com/pamelafox/vector-search-demos
-
-    https://pamelafox.github.io/vectors-comparison
-
-    https://github.com/Azure-Samples/azure-search-openai-demo
-
-
-  * Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
-  
-   https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
-
-  * Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
-  
-    https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
-
-  * Create a Web Interface for your LLM in Python
-
-    https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
-
-    Turns Data and AI algorithms into production-ready web applications in no time.
-
-    https://github.com/Avaiga/taipy
-
-    https://www.taipy.io/
-
-  * I made AI to auto categorise 10000 comments on Google Sheet with 0$
- 
-     https://youtu.be/wXiTuNnh2h4?si=P58oj6TLjhqOmtOD
-
-
-  * Build a medical RAG app using Biomistral, Qdrant and Llama.cpp
-
-    https://youtu.be/A_m3tCqdts4?si=23s00oY8opM8i2PR
-
-
-  * Steerable AI with Pinecone + Semantic router, https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
-
-  * Constitutional AI with Open LLMs
-
-    https://huggingface.co/blog/constitutional_ai
-
-    https://github.com/huggingface/alignment-handbook/tree/main/recipes/constitutional-ai
-
 
     
 
@@ -892,6 +704,194 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+
+# LLM Apps
+
+  * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
+  
+  * Outfit Anyone: A Diffusion Project for Virtual Try On, https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
+    
+  * Oncology RAG App - Powered by Meditron 7B Medical LLM, https://www.youtube.com/watch?v=kvbjB-q5Dss&ab_channel=AIAnytime
+ 
+  * Investment Banker RAG Chatbot using Intel's Neural Chat LLM, https://www.youtube.com/watch?v=d9wCHH3iknM&ab_channel=AIAnytime
+ 
+  * Deploy RAG App built using Create Llama on Vercel: Free and Easy Method, https://www.youtube.com/watch?v=euYa4iesOm8&ab_channel=AIAnytime
+    
+  * Create a LlamaIndex App with Create Llama: No Code tool for RAG, https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
+
+  * AutoLLM: Ship RAG based LLM Apps and API in Seconds, https://www.youtube.com/watch?v=iTGbwD-sSxM&ab_channel=AIAnytime
+
+  * Query Your CSV using LIDA: Automatic Generation of Visualizations with LLMs, https://www.youtube.com/watch?v=U9K1Cu45nMQ&ab_channel=AIAnytime
+ 
+  * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
+
+  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
+ 
+  * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
+
+  * Let's Build an AI News Anchor Generator App using Generative AI, https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
+
+  * Screenshot to Code Generation: 10x Faster Frontend/UI Development, https://www.youtube.com/watch?v=52Xq6AaRnT4&ab_channel=AIAnytime
+
+  * ComfyUI GUI for Image and Video Generation: Google Colab Setup, https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
+
+  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
+
+  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
+
+  * Build a Containerized Transcription API using Whisper Model and FastAPI, https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
+
+  * Build Your RAG-based ChatGPT Web App with Azure: LawGPT Use Case Tutorial, https://www.youtube.com/watch?v=wmfAJWwyaQA&ab_channel=AIAnytime
+ 
+  * Creating a Veterinary Chatbot using Llama 2: Harnessing Gen AI for Pet Care, https://www.youtube.com/watch?v=Iyzvka711pc&ab_channel=AIAnytime
+
+  * Build Your API for Llama 2 on AWS: Lambda Function and API Gateway, https://www.youtube.com/watch?v=Nlo7WclRBXc&t=512s&pp=ygUGb2xsYW1h
+
+  * Deploy Llama 2 for your Entire Organisation, https://www.youtube.com/watch?v=Ror2xOOA-VE&ab_channel=TrelisResearch
+
+  * Install and Run Mistral 7B on AWS, https://www.youtube.com/watch?v=aSh66tG1B5o&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
+
+  * Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers), https://www.youtube.com/watch?v=rQq1m2aJ_fk&ab_channel=AIAnytime
+ 
+  * Enterprise Chat App using Azure Cognitive Search and Azure OpenAI: End-to-End Tutorial, https://www.youtube.com/watch?v=hkSnPhhjm1Y&ab_channel=AIAnytime
+
+  * Containerizing LLM-Powered Apps: Part 1 of the Chatbot Deployment, https://www.youtube.com/watch?v=7CeAJ0EbzDA&ab_channel=AIAnytime
+
+  * Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment, https://www.youtube.com/watch?v=vYIlhgVHAls&ab_channel=AIAnytime
+
+  * Serve a Custom LLM for Over 100 Customers, https://www.youtube.com/watch?v=1TU9ZrZhqw0&ab_channel=TrelisResearch
+
+  * Long Context Summarization, https://www.youtube.com/watch?v=I83TH4x9keo&ab_channel=TrelisResearch
+
+  * Function Calling Datasets, Training and Inference, https://www.youtube.com/watch?v=hHn_cV5WUDI&ab_channel=TrelisResearch
+ 
+  * How to Build an OpenAI LLM on a Private Network with AWS, https://www.youtube.com/watch?v=6LGGQERxrQo&ab_channel=SingleStore
+ 
+  * Amazon Bedrock: Generative AI on AWS without the Headaches, https://www.youtube.com/watch?v=Yj_7FuFgPyI
+
+  * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
+
+  * PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more), https://www.youtube.com/watch?v=XFiof0V3nhA&ab_channel=MatthewBerman
+ 
+  * AutoLLM: Create RAG Based LLM Web Apps in SECONDS!, https://www.youtube.com/watch?v=kPaiZe_qD34&ab_channel=WorldofAI
+ 
+  * Use OpenChat and LM Studio with LLMWare, https://www.youtube.com/watch?v=h2FDjUyvsKE&ab_channel=llmware
+
+  * Compare Embedding Models for Side by Side Queries Using Postgres with LLMWare, https://www.youtube.com/watch?v=Bncvggy6m5Q&ab_channel=llmware
+    
+  * AutoGen Studio with 100% Local LLMs (LM Studio), https://www.youtube.com/watch?v=ob45YmYD2KI&ab_channel=PromptEngineering
+  
+  * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
+    
+  * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
+ 
+  * Self-reflective RAG with LangGraph: Self-RAG and CRAG, https://www.youtube.com/watch?v=pbAd8O1Lvm4&ab_channel=LangChain
+
+    https://github.com/langchain-ai/langgraph/tree/main/examples/rag
+
+
+  * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
+
+    https://www.youtube.com/watch?v=98Ri4VVBP_8&t=431s
+
+     https://github.com/yeyu2/Youtube_demos
+
+
+  * How to Create a Web UI for AutoGen by Using Panel
+
+    https://www.youtube.com/watch?v=mFmPDyLlj1E
+
+    https://github.com/yeyu2/Youtube_demos
+
+
+  * Create Full Function UI for AutoGen Powered by Panel (Human Input Enabled)
+
+    https://www.youtube.com/watch?v=9lSaRP9GLCY
+
+
+  * AutoGen + Function Calling + Open Source LLMs, Here is How
+
+    https://www.youtube.com/watch?v=UIBerUGqHjc&ab_channel=YeyuLab
+
+  * Use Open Source LLMs in AutoGen powered by Fireworks AI, without GPU/CPU
+
+    https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
+
+
+  * Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
+ 
+    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
+
+  * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
+
+    https://www.youtube.com/watch?v=xZDB1naRUlk
+
+  * Make an offline GPT voice assistant in Python
+  
+    https://youtu.be/w5unVTO7mLQ?si=LLictvhoG4hm2JJy
+
+  * Build and Run a Medical Chatbot using Llama 2 on CPU Machine: All Open Source, https://www.youtube.com/watch?v=kXuHxI5ZcG0&ab_channel=AIAnytime
+    
+  * Chat With Websites Using ChainLit / Streamlit, LangChain, Ollama & Mistral 🧠, https://www.youtube.com/watch?v=FZrkm0vaYYQ&ab_channel=DataScienceBasics
+
+    https://github.com/sudarshan-koirala/chat-with-website
+
+  * LocalGPT API: Serve Multiple Users At the Same time, https://www.youtube.com/watch?v=z9wDKwgQojM&ab_channel=PromptEngineering
+    
+  * Deploy and Use any Open Source LLMs using RunPod, https://www.youtube.com/watch?v=nHuHGoLSXb0&ab_channel=AIAnytime
+
+  * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
+
+  * Function Calling using Open Source LLM (Mistral 7B), https://www.youtube.com/watch?v=MQmfSBdIfno&t=337s&ab_channel=AIAnytime
+    
+  * vector search, RAG, and Azure AI search,
+
+    https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
+
+    https://www.youtube.com/live/vuOA13Y_Qzk?si=bT6zY4piPt_yUn_Q
+
+    https://github.com/pamelafox/vector-search-demos
+
+    https://pamelafox.github.io/vectors-comparison
+
+    https://github.com/Azure-Samples/azure-search-openai-demo
+
+
+  * Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
+  
+   https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
+
+  * Learn how to use LlamaIndex with LanChainin Flowwise,LlamaIndex vs Langchain part 2,
+  
+    https://youtu.be/KVOWPeV9s00?si=T9K6edpHIcAr0BBS
+
+  * Create a Web Interface for your LLM in Python
+
+    https://huggingface.co/blog/Alex1337/create-a-web-interface-for-your-llm-in-python
+
+    Turns Data and AI algorithms into production-ready web applications in no time.
+
+    https://github.com/Avaiga/taipy
+
+    https://www.taipy.io/
+
+  * I made AI to auto categorise 10000 comments on Google Sheet with 0$
+ 
+     https://youtu.be/wXiTuNnh2h4?si=P58oj6TLjhqOmtOD
+
+
+  * Build a medical RAG app using Biomistral, Qdrant and Llama.cpp
+
+    https://youtu.be/A_m3tCqdts4?si=23s00oY8opM8i2PR
+
+
+  * Steerable AI with Pinecone + Semantic router, https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
+
+  * Constitutional AI with Open LLMs
+
+    https://huggingface.co/blog/constitutional_ai
+
+    https://github.com/huggingface/alignment-handbook/tree/main/recipes/constitutional-ai
 
 
 
