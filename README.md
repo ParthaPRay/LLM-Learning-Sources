@@ -645,7 +645,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
     https://github.com/huggingface/alignment-handbook/tree/main/recipes/constitutional-ai
 
-    
+
     
 
   
@@ -903,6 +903,8 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
   https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing
 
+* Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora
+    https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral
 
 * Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳
 
