@@ -849,25 +849,25 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 **LoRA**
 
-      * What is LoRA?
+   * What is LoRA?
       
-        Edward Hu, https://edwardjhu.com/
+       Edward Hu, https://edwardjhu.com/
       
-        https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
+       https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
       
-      * LoRA training scripts of the world, unite!
+   * LoRA training scripts of the world, unite!
       
-        https://huggingface.co/blog/sdxl_lora_advanced_script
+       https://huggingface.co/blog/sdxl_lora_advanced_script
+     
+   * Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)
       
-      * Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)
+      https://lightning.ai/pages/community/tutorial/lora-llm/
       
-         https://lightning.ai/pages/community/tutorial/lora-llm/
-      
-      * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
+   * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
       
         https://lightning.ai/pages/community/lora-insights/
       
-       * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
+   * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
       
          https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
       
@@ -876,32 +876,32 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
          https://github.com/Lightning-AI/lit-gpt
         
       
-      * Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
+   * Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
       
         https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 
-      * Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
+   * Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
       
         https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
       
         https://github.com/rasbt/dora-from-scratch
       
             
-      * Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning
+   * Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning
       
         https://huggingface.co/blog/damjan-k/rslora
          
-      * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
+   * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
       
         https://lightning.ai/pages/community/lora-insights/
         
       
-      * A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes
+   * A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes
       
         https://huggingface.co/blog/hf-bitsandbytes-integration
       
-      * SDXL in 4 steps with Latent Consistency LoRAs
+   * SDXL in 4 steps with Latent Consistency LoRAs
       
         https://huggingface.co/blog/lcm_lora
 
@@ -968,7 +968,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 **PEFT**
 
-      * 🤗 PEFT welcomes new merging methods
+   * 🤗 PEFT welcomes new merging methods
         
          https://huggingface.co/blog/peft_merging
 
