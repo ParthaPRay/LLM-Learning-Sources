@@ -676,6 +676,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 * Quantization and LLMs - Condensing Models to Manageable Sizes
   https://www.exxactcorp.com/blog/deep-learning/what-is-quantization-and-llms
   
+* Best LLM quantization (accuracy and speed)
+  
+  https://scifilogic.com/best-llm-quantization-accuracy-and-speed/
+  
 * Serving Quantized LLMs on NVIDIA H100 Tensor Core GPUs
 
   https://www.databricks.com/blog/serving-quantized-llms-nvidia-h100-tensor-core-gpus
