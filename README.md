@@ -970,6 +970,13 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * LangSmith For Beginners | Must know LLM Evaluation Platform 🔥
     https://www.youtube.com/watch?v=FgG-trkAMwU&ab_channel=DataScienceBasics
 
+
+ * Create-Llama: deploy LlamaIndex RAG App to Vercel
+ 
+   https://youtu.be/D8PM89Xry7Q?si=N52WpnQn-CsUqHex
+
+    
+
     
 
 
