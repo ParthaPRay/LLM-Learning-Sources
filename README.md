@@ -640,10 +640,66 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 **Quantization**
 
+         The Two Types of LLM Quantization: PTQ and QAT
+         
+         While there are several quantization techniques, the most notable of which we detail later in this guide, generally speaking, LLM quantization falls into two categories:
+         
+         Post-Training Quantization (PTQ): this refers to techniques that quantize an LLM after it has already been trained. PTQ is easier to implement than QAT, as it requires less training data and is faster. However, it can also result in reduced model accuracy from lost precision in the value of the weights. 
+         
+         Quantization-Aware Training (QAT): this refers to methods of fine-tuning on data with quantization in mind. In contrast to PTQ techniques, QAT integrates the weight conversion process, i.e., calibration, range estimation, clipping, rounding, etc., during the training stage. This often results in superior model performance, but is more computationally demanding. 
 
+
+* Quantization
+
+  https://huggingface.co/docs/optimum/concept_guides/quantization
+
+* A Guide to Quantization in LLMs
+
+ https://symbl.ai/developers/blog/a-guide-to-quantization-in-llms/
+
+* Quantization in LLMs: Why Does It Matter?
+
+  https://blog.dataiku.com/quantization-in-llms-why-does-it-matter
+  
+* What are Quantized LLMs?
+  
+  https://www.tensorops.ai/post/what-are-quantized-llms#:~:text=LLM%20Quantization%20is%20enabled%20thanks,allowing%20it%20to%20be%20run
+
+* The LLM Revolution: Boosting Computing Capacity with Quantization Methods
+
+  https://blog.gopenai.com/the-llm-revolution-boosting-computing-capacity-with-quantization-methods-b8666cdb4b6a
+    
+
+* Which Quantization Method is Right for You? (GPTQ vs. GGUF vs. AWQ)
+  https://www.maartengrootendorst.com/blog/quantization/
+
+* Quantization and LLMs - Condensing Models to Manageable Sizes
+  https://www.exxactcorp.com/blog/deep-learning/what-is-quantization-and-llms
+  
+* Serving Quantized LLMs on NVIDIA H100 Tensor Core GPUs
+
+  https://www.databricks.com/blog/serving-quantized-llms-nvidia-h100-tensor-core-gpus
+
+* New Tutorial on LLM Quantization w/ QLoRA, GPTQ and Llamacpp, LLama 2
+
+  https://www.youtube.com/watch?v=YEVyupJxt1Q
+  
+*  How to make your LLMs lighter with GPTQ quantization
+
+  https://bdtechtalks.com/2023/11/08/llm-quantization-gptq/
+  
 * Model Quantization with 🤗 Hugging Face Transformers and Bitsandbytes Integration
 
   https://medium.com/@rakeshrajpurohit/model-quantization-with-hugging-face-transformers-and-bitsandbytes-integration-b4c9983e8996
+
+
+* How to Quantize an LLM with GGUF or AWQ
+
+  https://www.youtube.com/watch?v=XM8pllpBVA0
+  
+* Effective Post-Training Quantization for Large Language Models
+
+  https://medium.com/intel-analytics-software/effective-post-training-quantization-for-large-language-models-with-enhanced-smoothquant-approach-93e9d104fb98
 
 
 * Overview of natively supported quantization schemes in 🤗 Transformers
@@ -689,10 +745,15 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 * Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳
 
-
   Merve's blogpost on quantization - This blogpost provides a gentle introduction to quantization and the quantization methods supported natively in transformers.
 
   https://huggingface.co/blog/merve/quantization
+
+
+* Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference
+
+  https://towardsdatascience.com/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34
+
 
 
 
@@ -701,6 +762,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
  * 🤗 PEFT welcomes new merging methods
         
          https://huggingface.co/blog/peft_merging
+
+
+
 
 
 
