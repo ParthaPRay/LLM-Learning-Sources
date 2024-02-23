@@ -92,6 +92,10 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
       
           https://huggingface.co/blog/moe
 
+        * Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face
+
+          https://huggingface.co/blog/mixtral
+
         * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
       
         * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
