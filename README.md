@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
       **Mixture of Experts (MoEs)**
       
+        * Mixture of Experts Explained
+      
+          https://huggingface.co/blog/moe
+
         * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
       
         * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
@@ -106,9 +110,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
       
           https://github.com/AviSoori1x/makeMoE/tree/main
       
-       * Mixture of Experts Explained
-      
-         https://huggingface.co/blog/moe
+
 
 
 
