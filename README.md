@@ -1,6 +1,8 @@
 This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
 
+======
+
 
 # Large Language Model
 
@@ -82,6 +84,10 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
+======
+
+
+
 # Transformers
 
 * What are Transformers and GPTs?, https://www.youtube.com/watch?v=ucityipiNtA&ab_channel=RicardoCalix
@@ -115,6 +121,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+======
 
   
 
@@ -199,6 +206,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+======
 
 
 
@@ -314,6 +322,14 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+  * Phinetuning 2.0
+
+    Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
+
+    https://huggingface.co/blog/g-ronimo/phinetuning
+
+======
+
 
 
 # RAG
@@ -397,6 +413,8 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     https://youtu.be/RevZAM9taFk?si=QuNJAVrLdqs7SUgE
 
 
+
+======
 
 
 
@@ -587,13 +605,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-# Pipepline
-
-   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
-  
-
-
-
+======
 
 
 # Prompt
@@ -618,6 +630,21 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     
 
 
+
+======
+
+
+
+
+# Pipepline
+
+   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
+  
+
+
+
+
+======
 
 
 
@@ -644,6 +671,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+======
+
+
+
 # Vector Database and Embeddings 
 
 * **LanceDB**, a free, open-source, serverless vectorDB that requires no setup.   It integrates into python data ecosystem so you can simply start using these in your existing data pipelines in pandas, arrow, pydantic etc. LanceDB has native Typescript SDK using which you can run vector search in serverless functions!
@@ -663,25 +694,39 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://simonwillison.net/2023/Oct/23/embeddings/
   
   
- * **Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS**
+ * Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS
 
    https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
 
-**Ollama 0.1.26 Makes Embedding 100x Better** https://www.youtube.com/watch?v=Ml179HQoy9o&ab_channel=MattWilliams
+* Ollama 0.1.26 Makes Embedding 100x Better**
+  
+  https://www.youtube.com/watch?v=Ml179HQoy9o&ab_channel=MattWilliams
   
   nomic-embed-text works very faster than llama2 as of now. 
 
   https://huggingface.co/nomic-ai/nomic-embed-text-v1
 
 
+* From HuggingFace dataset to Qdrant vector database in 12 minutes flat
+
+  https://www.gptechblog.com/from-huggingface-dataset-to-qdrant-vector-database-in-12-minutes-flat/
+
+
+* Transformers and Quadrant: Revolutionizing Data Integration for NLP Tasks
+
+  https://huggingface.co/blog/Andyrasika/qdrant-transformers
+
+
+
+======
 
     
 
 # HuggingFace
 
-* **Hugging Face Text Generation Inference available for AWS Inferentia2** 
+* Hugging Face Text Generation Inference available for AWS Inferentia2
 
   https://huggingface.co/blog/text-generation-inference-on-inferentia2
 
@@ -695,7 +740,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
       4. Run inference and chat with the model
 
 
-* **Pushing Models and Adapters to HuggingFace** | Free Notebook, 
+* Pushing Models and Adapters to HuggingFace | Free Notebook, 
 
   https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
 
@@ -711,65 +756,46 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
   https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
-* **Phinetuning 2.0**
 
-   Meet Phi-2, Microsoft’s newly released small model, remarkably powerful yet compact. This tutorial will guide you through fine-tuning Phi-2, demonstrating how to build a unique dataset and fine-tune the model using QLoRA.
 
-   https://huggingface.co/blog/g-ronimo/phinetuning
 
-* **Machind Learning University by AWS**, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
 
-  https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
 
-  https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+======
 
-  https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 
-  https://github.com/aws-samples/aws-machine-learning-university-dte
-
-  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai
-  
-
-* **Responsible AI**
+# Responsible AI
 
   https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
 
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
 
 
-* **Synthetic data and Carbon foot print**
-
-   Synthetic data: save money, time and carbon with open source
-  
-   https://huggingface.co/blog/synthetic-data-save-costs
-  
-   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/556d160e-aade-4bbb-89cf-e14a78cc9e4f)+
-
-   https://github.com/MoritzLaurer/synthetic-data-blog/tree/main
 
 
 
 
+======
 
 
 # Essentials on LoRA, Quantization, PEFT and their Variants
 
 
-* **What is LoRA?**
+* What is LoRA?
 
   Edward Hu, https://edwardjhu.com/
 
   https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
 
-*  **Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)**
+* Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)
 
    https://lightning.ai/pages/community/tutorial/lora-llm/
 
-* **Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments**
+* Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
 
   https://lightning.ai/pages/community/lora-insights/
 
- * **Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)**
+ * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
 
    https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
 
@@ -778,12 +804,12 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
    https://github.com/Lightning-AI/lit-gpt
   
 
-* **Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA**
+* Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
 
   https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 
-* **Model Quantization with 🤗 Hugging Face Transformers and Bitsandbytes Integration**
+* Model Quantization with 🤗 Hugging Face Transformers and Bitsandbytes Integration
 
   https://medium.com/@rakeshrajpurohit/model-quantization-with-hugging-face-transformers-and-bitsandbytes-integration-b4c9983e8996
 
@@ -793,30 +819,35 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
   https://github.com/rasbt/dora-from-scratch
 
- 
-* **Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments**
+
+
+* Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning
+
+  https://huggingface.co/blog/damjan-k/rslora
+   
+* Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
 
   https://lightning.ai/pages/community/lora-insights/
   
 
-* **A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes**
+* A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes
 
   https://huggingface.co/blog/hf-bitsandbytes-integration
 
 
-* **Overview of natively supported quantization schemes in 🤗 Transformers**
+* Overview of natively supported quantization schemes in 🤗 Transformers
 
    https://huggingface.co/blog/overview-quantization-transformers
 
 
 
-* **How to quantization an LLM with GGUF or AWQ**
+* How to quantization an LLM with GGUF or AWQ
   
   https://youtu.be/XM8pllpBVA0?si=v_jLj78pCnOXIv2i
 
   https://tinyurl.com/2s58xnam
   
-* **Making LLMs lighter with AutoGPTQ and transformers**
+* Making LLMs lighter with AutoGPTQ and transformers
   
   GPTQ blogpost – gives an overview on what is the GPTQ quantization method and how to use it.
 
@@ -825,14 +856,14 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://colab.research.google.com/drive/1_TIrmuKOFhuRRiTWN94iLKUFu6ZX4ceb?usp=sharing
 
   
-* **bistandbytes 4-bit quantization blogpost - This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach**
+* bistandbytes 4-bit quantization blogpost - This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach
 
   This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach.
 
   https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 
-* **A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes**
+* A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes
 
   bistandbytes 8-bit quantization blogpost - This blogpost explains how 8-bit quantization works with bitsandbytes.
 
@@ -843,7 +874,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing
 
 
-* **Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳**
+* Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳
 
 
   Merve's blogpost on quantization - This blogpost provides a gentle introduction to quantization and the quantization methods supported natively in transformers.
@@ -851,7 +882,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://huggingface.co/blog/merve/quantization
 
 
-* **🤗 PEFT welcomes new merging methods**
+* 🤗 PEFT welcomes new merging methods
   
 
   https://huggingface.co/blog/peft_merging
@@ -860,9 +891,14 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+======
+
+
+
 
 
 # General ML, DL
+
 
 * **How to convert any problem into a machine learning problem**
 
@@ -877,6 +913,11 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://www.youtube.com/watch?v=BGtSw0XNthY&ab_channel=RicardoCalix
 
 * **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
+
+
+
+======
+
 
 
 
@@ -911,10 +952,20 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * World's Easiest GPT-like Voice Assistant
     https://github.com/nickbild/local_llm_assistant?tab=readme-ov-file
 
+
+
+======
+
+
+
 # AGI
 
 * **OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry**, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
 
+
+
+
+======
 
   
 # Youtube Channels
@@ -977,7 +1028,17 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 
   www.heatonresearch.com
 
-  
+
+
+
+
+
+
+======
+
+
+
+
 # Courses
 
       * **Free Course on** (https://course.fast.ai/) by Jeremy Howard's Fastai
@@ -987,17 +1048,47 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
    Book PDF: 
    https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dl.ebooksworld.ir/books/Deep.Learning.for.Coders.with.fastai.and.PyTorch.Howard.Gugger.OReilly.9781492045526.EBooksWorld.ir.pdf&ved=2ahUKEwib6O2I5LyEAxUza2wGHYTABW0QFnoECC0QAQ&usg=AOvVaw3RcidtT0fmmnNsVYdJhH8p
 
+
+======
+
+
+* **Machind Learning University by AWS**, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
+
+  https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+
+  https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+
+  https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
+
+  https://github.com/aws-samples/aws-machine-learning-university-dte
+
+  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai
+  
+
+======
+
+
 * **CS50**
 
 This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.
 
  https://www.youtube.com/@cs50
 
+
+======
+
+
 * **Edx:** cs50.edx.org
 
 
-      
+======
+
+
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
+
+
+======
+
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
 * **Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial** https://youtu.be/ScKCy2udln8
@@ -1009,6 +1100,7 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 
 
 
+======
 
 * **Google**
 
