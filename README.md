@@ -772,7 +772,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-
 # LLM Apps
 
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
@@ -960,6 +959,18 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     https://huggingface.co/blog/constitutional_ai
 
     https://github.com/huggingface/alignment-handbook/tree/main/recipes/constitutional-ai
+
+  * Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM\
+
+    https://www.youtube.com/watch?v=-Rs8-M-xBFI&ab_channel=TimCarambat
+
+  * Create Chat UI Using ChainLit, LangChain, Ollama & Gemma 🧠
+    https://www.youtube.com/watch?v=n9AMtXLveMs&t=11s&ab_channel=DataScienceBasics
+
+  * LangSmith For Beginners | Must know LLM Evaluation Platform 🔥
+    https://www.youtube.com/watch?v=FgG-trkAMwU&ab_channel=DataScienceBasics
+
+    
 
 
 
