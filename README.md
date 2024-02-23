@@ -1159,13 +1159,15 @@ https://www.youtube.com/@sethjuarez
 https://edwardjhu.com/
 * **Deploying AI**
 https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
-* **llmware**
+* **llmware** https://www.youtube.com/@llmware/videos
 * **DataScience Basics** https://www.youtube.com/@llmware
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
-* **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 
-  www.heatonresearch.com
+
+      * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
+      
+           www.heatonresearch.com
 
 
 
