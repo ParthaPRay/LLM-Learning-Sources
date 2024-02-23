@@ -82,7 +82,13 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 * Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA-Adapter, and More, https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft#:~:text=LoRA%3A%20Low%2DRank%20Adaptation%20of%20Large%20Language%20Models%20%5B1%5D&text=LoRA%20leaves%20the%20pretrained%20layers,of%20the%20model%3B%20see%20below.
 
-* The N Implementation Details of RLHF with PPO, https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo
+* The N Implementation Details of RLHF with PPO,
+  https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo
+
+* Optimizing your LLM in production
+
+  https://huggingface.co/blog/optimize-llm
+
 
 
 
@@ -366,6 +372,27 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
     https://huggingface.co/blog/pref-tuning
 
+  * Fine-tune Llama 2 with DPO
+    
+    https://huggingface.co/blog/dpo-trl
+
+
+  * Fine-tuning Llama 2 70B using PyTorch FSDP
+    
+    https://huggingface.co/blog/ram-efficient-pytorch-fsdp
+
+
+ * Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
+
+   https://huggingface.co/blog/fine-tune-w2v2-bert
+
+ * Google Gemma Finetuning: how to teach a large language model?,
+    https://youtu.be/RevZAM9taFk?si=QuNJAVrLdqs7SUgE
+
+
+
+
+
 
 
 
@@ -448,8 +475,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * Getting started with RAG in DSPy!,
   https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
-  * Google Gemma Finetuning: how to teach a large language model?,
-    https://youtu.be/RevZAM9taFk?si=QuNJAVrLdqs7SUgE
 
 
 
@@ -773,10 +798,22 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 * Deep Dive: Hugging Face models on AWS AI Accelerators
 
-
   https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
+* A guide to setting up **your own** Hugging Face **leaderboard**: an end-to-end example with Vectara's hallucination leaderboard
 
+  https://huggingface.co/blog/leaderboards-on-the-hub-vectara
+
+
+* The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models
+  https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations
+
+* Creating open machine learning datasets? Share them on the Hugging Face Hub!
+  https://huggingface.co/blog/researcher-dataset-sharing
+
+* Deploy Embedding Models with Hugging Face Inference Endpoints
+  https://huggingface.co/blog/inference-endpoints-embeddings
+  
 
 
 
@@ -810,65 +847,78 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 # Essentials on LoRA, Quantization, PEFT and their Variants
 
+**LoRA**
 
-* What is LoRA?
+      * What is LoRA?
+      
+        Edward Hu, https://edwardjhu.com/
+      
+        https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
+      
+      * LoRA training scripts of the world, unite!
+      
+        https://huggingface.co/blog/sdxl_lora_advanced_script
+      
+      * Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)
+      
+         https://lightning.ai/pages/community/tutorial/lora-llm/
+      
+      * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
+      
+        https://lightning.ai/pages/community/lora-insights/
+      
+       * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
+      
+         https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
+      
+         Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+        
+         https://github.com/Lightning-AI/lit-gpt
+        
+      
+      * Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
+      
+        https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
-  Edward Hu, https://edwardjhu.com/
 
-  https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
+      * Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
+      
+        https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
+      
+        https://github.com/rasbt/dora-from-scratch
+      
+            
+      * Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning
+      
+        https://huggingface.co/blog/damjan-k/rslora
+         
+      * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
+      
+        https://lightning.ai/pages/community/lora-insights/
+        
+      
+      * A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes
+      
+        https://huggingface.co/blog/hf-bitsandbytes-integration
+      
+      * SDXL in 4 steps with Latent Consistency LoRAs
+      
+        https://huggingface.co/blog/lcm_lora
 
-* Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA)
 
-   https://lightning.ai/pages/community/tutorial/lora-llm/
 
-* Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
 
-  https://lightning.ai/pages/community/lora-insights/
-
- * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
-
-   https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
-
-   Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-  
-   https://github.com/Lightning-AI/lit-gpt
-  
-
-* Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
-
-  https://huggingface.co/blog/4bit-transformers-bitsandbytes
+**Quantization**
 
 
 * Model Quantization with 🤗 Hugging Face Transformers and Bitsandbytes Integration
 
   https://medium.com/@rakeshrajpurohit/model-quantization-with-hugging-face-transformers-and-bitsandbytes-integration-b4c9983e8996
 
-* Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
-
-  https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
-
-  https://github.com/rasbt/dora-from-scratch
-
-
-
-* Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning
-
-  https://huggingface.co/blog/damjan-k/rslora
-   
-* Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
-
-  https://lightning.ai/pages/community/lora-insights/
-  
-
-* A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes
-
-  https://huggingface.co/blog/hf-bitsandbytes-integration
-
 
 * Overview of natively supported quantization schemes in 🤗 Transformers
 
    https://huggingface.co/blog/overview-quantization-transformers
-
 
 
 * How to quantization an LLM with GGUF or AWQ
@@ -906,6 +956,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 * Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora
     https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral
 
+
 * Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳
 
 
@@ -914,10 +965,12 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://huggingface.co/blog/merve/quantization
 
 
-* 🤗 PEFT welcomes new merging methods
-  
 
-  https://huggingface.co/blog/peft_merging
+**PEFT**
+
+      * 🤗 PEFT welcomes new merging methods
+        
+         https://huggingface.co/blog/peft_merging
 
 
 
