@@ -86,29 +86,29 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-**Mixture of Experts (MoEs)**
-
-  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
-
-  * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
- 
-  * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
-
-  * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
-
-  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
-
-  * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
-    
-  * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
-
-    https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
-
-    https://github.com/AviSoori1x/makeMoE/tree/main
-
- * Mixture of Experts Explained
-
-   https://huggingface.co/blog/moe
+      **Mixture of Experts (MoEs)**
+      
+        * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
+      
+        * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
+       
+        * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+      
+        * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
+      
+        * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
+      
+        * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
+          
+        * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
+      
+          https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
+      
+          https://github.com/AviSoori1x/makeMoE/tree/main
+      
+       * Mixture of Experts Explained
+      
+         https://huggingface.co/blog/moe
 
 
 
