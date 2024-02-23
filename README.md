@@ -636,40 +636,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-# Pipepline
-
-   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
-  
-
-
-
-
-
-
-
-
-# Mixture of Experts (MoEs)
-
-  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
-
-  * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
- 
-  * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
-
-  * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
-
-  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
-
-  * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
-    
-  * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
-
-    https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
-
-    https://github.com/AviSoori1x/makeMoE/tree/main
-    
-
-
 
 
 
@@ -699,6 +665,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
    https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
 
+ * Introduction to Matryoshka Embedding Models
+
+   https://huggingface.co/blog/matryoshka
+
 
 * Ollama 0.1.26 Makes Embedding 100x Better**
   
@@ -717,6 +687,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 * Transformers and Quadrant: Revolutionizing Data Integration for NLP Tasks
 
   https://huggingface.co/blog/Andyrasika/qdrant-transformers
+
 
 
 
@@ -760,15 +731,43 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+# Pipepline
+
+   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
+  
 
 
 
 
-# Responsible AI
 
-  https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
 
-  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
+
+
+# Mixture of Experts (MoEs)
+
+  * SegMoE: Segmind Diffusion Mixture of Experts (MoEs) Model,  https://www.youtube.com/watch?v=gIz7Td6WfEo
+
+  * Mixtral Fine tuning and Inference, https://www.youtube.com/watch?v=EXFbZfp8xCI&ab_channel=TrelisResearch
+ 
+  * Understanding Mixture of Experts, https://www.youtube.com/watch?v=0U_65fLoTq0&ab_channel=TrelisResearch
+
+  * How To Install Uncensored Mixtral Locally For FREE! (EASY), https://www.youtube.com/watch?v=DC2te4CZXeM&ab_channel=WorldofAI
+
+  * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
+
+  * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
+    
+  * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
+
+    https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
+
+    https://github.com/AviSoori1x/makeMoE/tree/main
+    
+
+
+
+
+
 
 
 
@@ -964,6 +963,12 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+
+# Responsible AI
+
+  https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
+
+  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
 
 
 
