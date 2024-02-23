@@ -658,7 +658,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-
+**Ollama 0.1.26 Makes Embedding 100x Better** https://www.youtube.com/watch?v=Ml179HQoy9o&ab_channel=MattWilliams
 
 
 
