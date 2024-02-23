@@ -706,15 +706,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-
-
-
-
-
-
-
-
-
 # Vector Database and Embeddings 
 
 * **LanceDB**, a free, open-source, serverless vectorDB that requires no setup.   It integrates into python data ecosystem so you can simply start using these in your existing data pipelines in pandas, arrow, pydantic etc. LanceDB has native Typescript SDK using which you can run vector search in serverless functions!
@@ -768,79 +759,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
     
-
-# HuggingFace
-
-* Hugging Face Text Generation Inference available for AWS Inferentia2
-
-  https://huggingface.co/blog/text-generation-inference-on-inferentia2
-
-  This tutorial shows how easy it is to deploy a state-of-the-art LLM, such as **Zephyr 7B**, on **AWS Inferentia2** using **Amazon SageMaker**. Zephyr is a 7B _fine-tuned_ version of **mistralai/Mistral-7B-v0.1** that was trained on a mix of publicly available and synthetic datasets using **Direct Preference Optimization (DPO)**, as described in detail in the technical report. The model is released under the **Apache 2.0 license**, ensuring wide accessibility and use.
-
-      Following steps are performed:
-      
-      1. Setup development environment
-      2. Retrieve the TGI Neuronx Image
-      3 .Deploy Zephyr 7B to Amazon SageMaker
-      4. Run inference and chat with the model
-
-
-* Pushing Models and Adapters to HuggingFace | Free Notebook, 
-
-  https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
-
-  https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
-
-  https://awsdocs-neuron.readthedocs-hosted.com/en/latest/
-
-  https://huggingface.co/docs/optimum-neuron/index
-
-
-* Deep Dive: Hugging Face models on AWS AI Accelerators
-
-  https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
-
-* A guide to setting up **your own** Hugging Face **leaderboard**: an end-to-end example with Vectara's hallucination leaderboard
-
-  https://huggingface.co/blog/leaderboards-on-the-hub-vectara
-
-
-* The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models
-  https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations
-
-* Creating open machine learning datasets? Share them on the Hugging Face Hub!
-  https://huggingface.co/blog/researcher-dataset-sharing
-
-* Deploy Embedding Models with Hugging Face Inference Endpoints
-  https://huggingface.co/blog/inference-endpoints-embeddings
-  
-
-
-
-# Pipepline
-
-   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
-  
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -968,7 +886,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 **PEFT**
 
-   * 🤗 PEFT welcomes new merging methods
+ * 🤗 PEFT welcomes new merging methods
         
          https://huggingface.co/blog/peft_merging
 
@@ -980,26 +898,58 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+# HuggingFace
+
+* Hugging Face Text Generation Inference available for AWS Inferentia2
+
+  https://huggingface.co/blog/text-generation-inference-on-inferentia2
+
+  This tutorial shows how easy it is to deploy a state-of-the-art LLM, such as **Zephyr 7B**, on **AWS Inferentia2** using **Amazon SageMaker**. Zephyr is a 7B _fine-tuned_ version of **mistralai/Mistral-7B-v0.1** that was trained on a mix of publicly available and synthetic datasets using **Direct Preference Optimization (DPO)**, as described in detail in the technical report. The model is released under the **Apache 2.0 license**, ensuring wide accessibility and use.
+
+      Following steps are performed:
+      
+      1. Setup development environment
+      2. Retrieve the TGI Neuronx Image
+      3 .Deploy Zephyr 7B to Amazon SageMaker
+      4. Run inference and chat with the model
 
 
-# General ML, DL
+* Pushing Models and Adapters to HuggingFace | Free Notebook, 
+
+  https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
+
+  https://github.com/TrelisResearch/install-guides/blob/main/Pushing_to_Hub.ipynb
+
+  https://awsdocs-neuron.readthedocs-hosted.com/en/latest/
+
+  https://huggingface.co/docs/optimum-neuron/index
 
 
-* **How to convert any problem into a machine learning problem**
+* Deep Dive: Hugging Face models on AWS AI Accelerators
 
-  https://www.youtube.com/watch?v=-MTW39At8F0&ab_channel=RicardoCalix
+  https://www.youtube.com/watch?v=66JUlAA8nOU&ab_channel=JulienSimon
 
-* **Intro to Reinforcement Learning through Human Feedbacks (RLHF)**
+* A guide to setting up **your own** Hugging Face **leaderboard**: an end-to-end example with Vectara's hallucination leaderboard
+
+  https://huggingface.co/blog/leaderboards-on-the-hub-vectara
+
+
+* The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models
+  https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations
+
+* Creating open machine learning datasets? Share them on the Hugging Face Hub!
+  https://huggingface.co/blog/researcher-dataset-sharing
+
+* Deploy Embedding Models with Hugging Face Inference Endpoints
+  https://huggingface.co/blog/inference-endpoints-embeddings
   
-  https://www.youtube.com/watch?v=A8YqZKGRTAM&ab_channel=RicardoCalix
-
-* **A Simple Generative Adversarial Network (GAN) in PyTorch**
-
-  https://www.youtube.com/watch?v=BGtSw0XNthY&ab_channel=RicardoCalix
-
-* **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
 
+
+
+# Pipepline
+
+   * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
 
 
 
@@ -1055,6 +1005,25 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
 
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
+
+
+
+# General ML, DL
+
+
+* **How to convert any problem into a machine learning problem**
+
+  https://www.youtube.com/watch?v=-MTW39At8F0&ab_channel=RicardoCalix
+
+* **Intro to Reinforcement Learning through Human Feedbacks (RLHF)**
+  
+  https://www.youtube.com/watch?v=A8YqZKGRTAM&ab_channel=RicardoCalix
+
+* **A Simple Generative Adversarial Network (GAN) in PyTorch**
+
+  https://www.youtube.com/watch?v=BGtSw0XNthY&ab_channel=RicardoCalix
+
+* **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
 
 
