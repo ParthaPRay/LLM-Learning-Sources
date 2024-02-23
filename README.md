@@ -301,6 +301,17 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
     https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
+  * Fine-tuning a large language model on Kaggle Notebooks (or even on your own computer) for solving real-world tasks
+
+    https://huggingface.co/blog/lmassaron/fine-tuning-llms-on-kaggle-notebooks
+
+         Code references:
+
+         Fine-tune Llama-2 for Sentiment Analysis: https://www.kaggle.com/code/lucamassaron/fine-tune-llama-2-for-sentiment-analysis
+         Fine-tune Mistral v0.2 for Sentiment Analysis: https://www.kaggle.com/code/lucamassaron/fine-tune-mistral-v0-2-for-sentiment-analysis
+         Fine-tune Phi 2 for Sentiment Analysis: https://www.kaggle.com/code/lucamassaron/fine-tune-phi-2-for-sentiment-analysis
+         LSTM Baseline for Sentiment Analysis): https://www.kaggle.com/code/lucamassaron/lstm-baseline-for-sentiment-analysis
+
 
 
 
