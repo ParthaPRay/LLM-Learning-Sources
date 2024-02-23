@@ -659,6 +659,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 **Ollama 0.1.26 Makes Embedding 100x Better** https://www.youtube.com/watch?v=Ml179HQoy9o&ab_channel=MattWilliams
+  
+  nomic-embed-text works very faster than llama2 as of now. 
+
+  https://huggingface.co/nomic-ai/nomic-embed-text-v1
 
 
 
