@@ -1,7 +1,7 @@
 This repo contains a list of sources, weblinks, blogs and Youtube channels from where LLMs can and should be learned.
 
 
-======
+
 
 
 # Large Language Model
@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 
 
-======
+
 
 
 
@@ -121,7 +121,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
   
 
@@ -206,7 +206,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -328,7 +328,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
     https://huggingface.co/blog/g-ronimo/phinetuning
 
-======
+
 
 
 
@@ -414,7 +414,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -605,7 +605,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 # Prompt
@@ -631,7 +631,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -644,7 +644,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -671,7 +671,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -720,7 +720,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
     
 
@@ -761,7 +761,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 # Responsible AI
@@ -775,7 +775,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 # Essentials on LoRA, Quantization, PEFT and their Variants
@@ -891,7 +891,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -916,7 +916,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -954,7 +954,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
 
 
@@ -965,7 +965,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-======
+
 
   
 # Youtube Channels
@@ -1034,7 +1034,7 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 
 
 
-======
+
 
 
 
@@ -1049,7 +1049,7 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
    https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dl.ebooksworld.ir/books/Deep.Learning.for.Coders.with.fastai.and.PyTorch.Howard.Gugger.OReilly.9781492045526.EBooksWorld.ir.pdf&ved=2ahUKEwib6O2I5LyEAxUza2wGHYTABW0QFnoECC0QAQ&usg=AOvVaw3RcidtT0fmmnNsVYdJhH8p
 
 
-======
+
 
 
 * **Machind Learning University by AWS**, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
@@ -1065,7 +1065,7 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai
   
 
-======
+
 
 
 * **CS50**
@@ -1075,19 +1075,19 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
  https://www.youtube.com/@cs50
 
 
-======
+
 
 
 * **Edx:** cs50.edx.org
 
 
-======
+
 
 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
 
 
-======
+
 
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
@@ -1100,7 +1100,7 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 
 
 
-======
+
 
 * **Google**
 
