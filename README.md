@@ -990,6 +990,14 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
  
    https://youtu.be/D8PM89Xry7Q?si=N52WpnQn-CsUqHex
 
+
+ * PhiData: How to Seamlessly Integrate AI into Your Application
+
+   https://www.youtube.com/watch?v=fLGj63fiYfM&ab_channel=MervinPraison
+   
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c03206bd-997c-432c-be61-5452fd0fdd85)
+
+
     
 
     
