@@ -89,6 +89,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   https://huggingface.co/blog/optimize-llm
 
+* LLM Tutorial, https://www.youtube.com/watch?v=JvLiEdTKKgk&list=PLpqh-PUKX-i4TT-vZXhFwI8Jdqr7J742n&pp=iAQB
+
 
 
 
@@ -1183,7 +1185,6 @@ https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **DataScience Basics** https://www.youtube.com/@llmware
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
-* **Neuro Symbolic**, https://www.youtube.com/channel/UC3fICY_FqiUnnjgQZyN1AjQ
 
       * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
       
