@@ -520,6 +520,7 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 # Vector Database and Embeddings 
 
+
 * **LanceDB**, a free, open-source, serverless vectorDB that requires no setup.   It integrates into python data ecosystem so you can simply start using these in your existing data pipelines in pandas, arrow, pydantic etc. LanceDB has native Typescript SDK using which you can run vector search in serverless functions!
   
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fb5edda5-8ac4-4e28-9c59-3f220604f444)
@@ -565,7 +566,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
   https://huggingface.co/blog/Andyrasika/qdrant-transformers
 
+* Ollama Embedding: How to Feed Data to AI for Better Response?
 
+   https://www.youtube.com/watch?v=jENqvjpkwmw&t=17s&ab_channel=MervinPraison
 
 
 
