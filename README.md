@@ -994,9 +994,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
  * PhiData: How to Seamlessly Integrate AI into Your Application
 
    https://www.youtube.com/watch?v=fLGj63fiYfM&ab_channel=MervinPraison
-   
-   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c03206bd-997c-432c-be61-5452fd0fdd85)
 
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c03206bd-997c-432c-be61-5452fd0fdd85)
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/80c10a2b-66fd-4968-a2a5-a1374b22a057)
 
     
 
