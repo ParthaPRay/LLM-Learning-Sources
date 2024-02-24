@@ -477,6 +477,13 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * Getting started with RAG in DSPy!,
   https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
+  * RAG Time! Evaluate RAG with LLM Evals and Benchmarking
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1d20253d-7f6f-41d2-86cd-b68bc9e46233)
+    
+    https://www.youtube.com/watch?v=LrMguHcbpO8&ab_channel=ArizeAI
+
+
 
 
 
