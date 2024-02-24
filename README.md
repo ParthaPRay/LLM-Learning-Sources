@@ -568,6 +568,16 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 * Ollama Embedding: How to Feed Data to AI for Better Response?
 
+   Model
+  
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/e5581945-1d68-492f-b17b-34854d8bb927)
+
+   Web
+  
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c40a56fe-588d-43fe-a2a1-23a1d7f9f88a)
+
+
+
    https://www.youtube.com/watch?v=jENqvjpkwmw&t=17s&ab_channel=MervinPraison
 
 
