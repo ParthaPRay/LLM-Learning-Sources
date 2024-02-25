@@ -403,7 +403,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
+
+
 # RAG
+
 
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
@@ -488,6 +491,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
   * Gemma with transformers: how to teach structured English quotes to LLM
     https://youtu.be/qeJgBkPLCxo?si=YzFFkJop1ptC_YBM
+
+  * Unlock AI Agents, Function Calls and Multi-Step RAG with LLMWare
+    https://www.youtube.com/watch?v=cQfdaTcmBpY&ab_channel=llmware
+
 
 
 
@@ -1017,6 +1024,20 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     https://www.youtube.com/watch?v=o4-4NvrcOvs&ab_channel=AIFORDEVS 
 
     https://github.com/joaomdmoura/crewAI
+    
+  * Create Complex Research Analysis with AI Agents using SLIM models on CPU with LLMWare
+
+    https://www.youtube.com/watch?v=y4WvwHqRR60&ab_channel=llmware
+    
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d6bdb92a-21e1-4ca6-9324-83bf63f352ac)
+
+    https://huggingface.co/llmware
+
+    https://github.com/llmware-ai/llmware
+
+    https://github.com/llmware-ai/llmware/tree/main/examples/SLIM-Agents/
+
+    
 
     
 
