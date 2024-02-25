@@ -483,6 +483,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     
     https://www.youtube.com/watch?v=LrMguHcbpO8&ab_channel=ArizeAI
 
+  * Gemma with transformers: how to teach structured English quotes to LLM
+    https://youtu.be/qeJgBkPLCxo?si=YzFFkJop1ptC_YBM
+
 
 
 
