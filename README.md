@@ -1012,7 +1012,11 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/80c10a2b-66fd-4968-a2a5-a1374b22a057)
 
-    
+ * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
+
+    https://www.youtube.com/watch?v=o4-4NvrcOvs&ab_channel=AIFORDEVS 
+
+    https://github.com/joaomdmoura/crewAI
 
     
 
