@@ -239,6 +239,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
     Any LLM, unlimited documents, and fully private. All on your desktop. https://useanything.com/download
 
+  * Ollama: How To Create Custom Models From HuggingFace ( GGUF ), https://www.youtube.com/watch?v=TFwYvHZV6j0&t=72s&ab_channel=DataScienceBasics
+  
+
 
 
 
