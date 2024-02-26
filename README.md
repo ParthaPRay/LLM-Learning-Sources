@@ -394,6 +394,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
  * Google Gemma Finetuning: how to teach a large language model?,
     https://youtu.be/RevZAM9taFk?si=QuNJAVrLdqs7SUgE
 
+ * Steps to Master Fine Tuning LLMs To Ultimate AI Proficiency : A Definitive Guide
+
+   https://www.youtube.com/watch?v=GK860luUyEk&ab_channel=KamalrajMM
+
 
 
 
