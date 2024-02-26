@@ -403,7 +403,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 * Fine tuing optimization DoRA, NEFT, LoRA+, Unsloth
   
 https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
-  
+
+  supervised fine tuning 
+  https://huggingface.co/docs/trl/main/en/sft_trainer
 
 
 
