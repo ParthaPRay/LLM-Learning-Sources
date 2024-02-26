@@ -91,7 +91,9 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 * LLM Tutorial, https://www.youtube.com/watch?v=JvLiEdTKKgk&list=PLpqh-PUKX-i4TT-vZXhFwI8Jdqr7J742n&pp=iAQB
 
+* Serve a custom LLM for over 100 customers
 
+  https://youtu.be/1TU9ZrZhqw0?si=LwtZJ0V2K6xQvSBA
 
 
       **Mixture of Experts (MoEs)**
@@ -397,6 +399,11 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
  * Steps to Master Fine Tuning LLMs To Ultimate AI Proficiency : A Definitive Guide
 
    https://www.youtube.com/watch?v=GK860luUyEk&ab_channel=KamalrajMM
+
+* Fine tuing optimization DoRA, NEFT, LoRA+, Unsloth
+  
+https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
+  
 
 
 
