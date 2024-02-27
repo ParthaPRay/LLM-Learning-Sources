@@ -449,19 +449,20 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/46df27cd-0902-443d-b4eb-aea9831ed2dc)
 
+   https://www.superannotate.com/blog/llm-fine-tuning?source=post_page-----fb60abdeba07--------------------------------
+
+
   
-
-
-  https://www.superannotate.com/blog/llm-fine-tuning?source=post_page-----fb60abdeba07--------------------------------
  
 
-        RAG Vs Fine-Tuning: How to Optimize LLM Performance
+  RAG Vs Fine-Tuning: How to Optimize LLM Performance
       
         https://www.e2enetworks.com/blog/rag-vs-fine-tuning-how-to-optimize-llm-performance#:~:text=Trade%2Doffs%3A%20Fine%2Dtuning%20may%20provide%20more%20control%20over,reliability%20of%20the%20knowledge%20base.
 
 
 
-      Trade-Offs
+  Trade-Offs
+  
       The decision to employ fine-tuning or RAG depends on the specific goals of a task and the nature of the knowledge required. Here are some considerations and trade-offs:
       
       Fine-tuning Considerations: Fine-tuning is suitable for tasks where specific, task-oriented improvements are needed. It is effective for refining a model's performance in a particular domain. However, fine-tuning may exhibit instability and might not be the optimal choice for addressing broad knowledge deficits.
