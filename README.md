@@ -455,6 +455,9 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   https://www.superannotate.com/blog/llm-fine-tuning?source=post_page-----fb60abdeba07--------------------------------
  
 
+        RAG Vs Fine-Tuning: How to Optimize LLM Performance
+      
+        https://www.e2enetworks.com/blog/rag-vs-fine-tuning-how-to-optimize-llm-performance#:~:text=Trade%2Doffs%3A%20Fine%2Dtuning%20may%20provide%20more%20control%20over,reliability%20of%20the%20knowledge%20base.
 
 
 
