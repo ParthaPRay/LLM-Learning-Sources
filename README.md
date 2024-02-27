@@ -427,7 +427,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/05dc88b9-226d-4724-931e-b2464efd7349)
 
-    Fine-tuning methods
+    **Fine-tuning methods**
 
        - Instruction fine-tuning: It's about training the machine learning model using examples that demonstrate how the model should respond to the query. The dataset you use for fine-tuning large language models has to serve the purpose of your instruction. 
 
@@ -436,7 +436,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
        -  Full fine-tuning: Instruction fine-tuning, where all of the model's weights are updated, is known as full fine-tuning
        -  Parameter-efficient fine-tuning:  PEFT methods only update a small set of parameters
 
-   Other types of fine-tuning
+   **Other types of fine-tuning**
 
       - Transfer learning:  Transfer learning is about taking the model that had learned on general-purpose, massive datasets and training it on distinct, task-specific data. This dataset may include labeled examples related to that domain. Transfer learning is used when there is not enough data or a lack of time to train data; the main advantage of it is that it offers a higher learning rate and accuracy after training. You can take existing LLMs that are pre-trained on vast amounts of data, like GPT ¾ and BERT, and customize them for your own use case.
       - Task-specific fine-tuning: Task-specific fine-tuning is a method where the pre-trained model is fine-tuned on a specific task or domain using a dataset designed for that domain. This method requires more data and time than transfer learning but can result in higher performance on the specific task.
@@ -445,23 +445,22 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
       
 
 
-  Benefits of Fine Tuning
+ * Benefits of Fine Tuning
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/46df27cd-0902-443d-b4eb-aea9831ed2dc)
 
    https://www.superannotate.com/blog/llm-fine-tuning?source=post_page-----fb60abdeba07--------------------------------
 
-
-  
+ 
  
 
-  RAG Vs Fine-Tuning: How to Optimize LLM Performance
+ * RAG Vs Fine-Tuning: How to Optimize LLM Performance
       
         https://www.e2enetworks.com/blog/rag-vs-fine-tuning-how-to-optimize-llm-performance#:~:text=Trade%2Doffs%3A%20Fine%2Dtuning%20may%20provide%20more%20control%20over,reliability%20of%20the%20knowledge%20base.
 
 
 
-  Trade-Offs
+ * Trade-Offs
   
       The decision to employ fine-tuning or RAG depends on the specific goals of a task and the nature of the knowledge required. Here are some considerations and trade-offs:
       
