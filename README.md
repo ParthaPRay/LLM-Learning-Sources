@@ -258,6 +258,8 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 # Fine Tuning
 
 
+
+
   * Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU, https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
 
     https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
@@ -407,7 +409,51 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   supervised fine tuning 
   https://huggingface.co/docs/trl/main/en/sft_trainer
 
+* Fine Tune Large Language Model (LLM) on a Custom Dataset with QLoRA
 
+  https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
+
+* Fine-tuning large language models (LLMs) in 2024
+
+   Life Cycle of LLM
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ed9f1bcc-f61b-4d93-b46f-e2c299cf13a1)
+
+   Fine Tuning
+  
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/dd0d55d8-31ee-4e9f-9412-20c82a206b18)
+
+    Supervised fine-tuning (SFT)
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/be10b8d8-4a45-4bf9-b816-1a0a4a499214)
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/05dc88b9-226d-4724-931e-b2464efd7349)
+
+    Fine-tuning methods
+
+       - Instruction fine-tuning: It's about training the machine learning model using examples that demonstrate how the model should respond to the query. The dataset you use for fine-tuning large language models has to serve the purpose of your instruction. 
+
+             ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/4cd9d6f7-9808-4463-a912-32a122f11a64)
+               
+       -  Full fine-tuning: Instruction fine-tuning, where all of the model's weights are updated, is known as full fine-tuning
+       -  Parameter-efficient fine-tuning:  PEFT methods only update a small set of parameters
+
+   Other types of fine-tuning
+
+      - Transfer learning:  Transfer learning is about taking the model that had learned on general-purpose, massive datasets and training it on distinct, task-specific data. This dataset may include labeled examples related to that domain. Transfer learning is used when there is not enough data or a lack of time to train data; the main advantage of it is that it offers a higher learning rate and accuracy after training. You can take existing LLMs that are pre-trained on vast amounts of data, like GPT ¾ and BERT, and customize them for your own use case.
+      - Task-specific fine-tuning: Task-specific fine-tuning is a method where the pre-trained model is fine-tuned on a specific task or domain using a dataset designed for that domain. This method requires more data and time than transfer learning but can result in higher performance on the specific task.
+      - Multi-task learning: Multi-task fine-tuning is an extension of single-task fine-tuning, where the training dataset consists of example inputs and outputs for multiple tasks.
+      - Sequential fine-tuning: Sequential fine-tuning is about sequentially adapting a pre-trained model on several related tasks. After the initial transfer to a general domain, the LLM might be fine-tuned on a more specific subset.
+      
+
+
+  Benefits of Fine Tuning
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/46df27cd-0902-443d-b4eb-aea9831ed2dc)
+
+  
+
+
+  https://www.superannotate.com/blog/llm-fine-tuning?source=post_page-----fb60abdeba07--------------------------------
+ 
 
 
 
