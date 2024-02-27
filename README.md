@@ -468,9 +468,10 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
       RAG Considerations: RAG excels in knowledge-intensive tasks where external information is valuable which is provided by feeding data to the knowledge base. It can address both knowledge deficits and factual errors by incorporating diverse knowledge from external sources. RAG's effectiveness relies on the quality and coverage of the knowledge base.
       Trade-offs: Fine-tuning may provide more control over specific task-related improvements, but it might struggle with broader knowledge adaptation. RAG, while powerful in leveraging external knowledge, depends on the availability and reliability of the knowledge base.
 
-
-
-
+* H2O LLM DataStudio: Streamlining Data Curation and Data Preparation for LLMs related tasks
+  https://h2o.ai/blog/2023/streamlining-data-preparation-for-fine-tuning-of-large-language-models/
+* H2O LLM DataStudio Part II: Convert Documents to QA Pairs for fine tuning of LLMs
+  https://h2o.ai/blog/2023/h2o-llm-datastudio-part-ii-convert-documents-to-qa-pairs-for-fine-tuning-of-llms/
 
 
 
