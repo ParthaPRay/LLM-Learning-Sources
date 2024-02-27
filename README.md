@@ -1160,6 +1160,9 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 * Deploy Embedding Models with Hugging Face Inference Endpoints
   https://huggingface.co/blog/inference-endpoints-embeddings
+
+* Bhilding a self-corrective coding assistant from scratch
+  https://youtu.be/MvNdgmM7uyc?si=b78VIhFapFo2U8NV
   
 
 
