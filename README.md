@@ -249,12 +249,6 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
 
 
-
-
-
-
-
-
 # Fine Tuning
 
 
@@ -412,6 +406,13 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 * Fine Tune Large Language Model (LLM) on a Custom Dataset with QLoRA
 
   https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
+
+* Unsloth: How to Train LLM 5x Faster and with Less Memory Usage?
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/6f6e4936-84d7-46df-a573-073bf3f54494)
+
+     https://www.youtube.com/watch?v=Gpyukc6c0w8&t=16s&ab_channel=MervinPraison
+
 
 * Fine-tuning large language models (LLMs) in 2024
 
