@@ -256,6 +256,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
   * How to run Ollama on Docker, https://www.youtube.com/watch?v=ZoxJcPkjirs&t=127s&ab_channel=MattWilliams
   * Easy Access to GPUs for Ollama, https://www.youtube.com/watch?v=QRot1WtivqI&ab_channel=MattWilliams
 
+    Fine-tune, train, or deploy. Use your own notebook, or one of ours. SSH too. CUDA, Python, Jupyter Lab, all set up.
+
+    https://brev.dev/
+
   
 
 
