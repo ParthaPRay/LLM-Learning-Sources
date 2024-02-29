@@ -95,6 +95,10 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   https://youtu.be/1TU9ZrZhqw0?si=LwtZJ0V2K6xQvSBA
 
+* State of GPT | BRK216HFS, https://www.youtube.com/watch?v=bZQun8Y4L2A&ab_channel=MicrosoftDeveloper
+
+* Building Systems with the ChatGPT API, https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/  
+
 
       **Mixture of Experts (MoEs)**
       
@@ -159,6 +163,10 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   TL:DR; The 'instruct' version of the model has been fine-tuned to be able to follow prompted instructions. These models 'expect' to be asked to do something. Models with the 'chat' suffix have been fine-tuned to work in chatbots. These models 'expect' to be involved in a conversation with different actors. In contrast non-instruct tuned models will simply generate an output that follows on from the prompt. If you are making a chatbot, implementing RAG or using agents, use instruct or chat models. If in doubt us an instruct model.
 
 https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
+
+* **Stanford CS25 - Transformers United** **Course**
+
+  https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
 
 
 
@@ -596,6 +604,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
     
   * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
+
+  * ChatGPT Prompt Engineering for Developers, https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
     
 
 
@@ -1174,6 +1184,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 # Pipepline
 
    * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
+   * LangChain for LLM Application Development, https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
 
 
 
@@ -1520,5 +1531,16 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 * **Google**
 
 **Google Cloud Skills Boost** https://www.cloudskillsboost.google/paths/118
+Google Cloud Generative AI Learning Path
+
+     - Introduction to Generative AI https://www.cloudskillsboost.google/course_templates/536
+     - Introduction to Large Language Models https://www.cloudskillsboost.google/course_templates/539
+     - Generative AI Fundamentals https://www.cloudskillsboost.google/course_templates/556
+     - Encoder-Decoder Architecture  https://www.cloudskillsboost.google/course_templates/543
+     - Attention Mechanism  https://www.cloudskillsboost.google/course_templates/537
+     - Transformer Models and BERT Model  https://www.cloudskillsboost.google/course_templates/538
+     - Generative AI Explorer - Vertex AI  https://www.cloudskillsboost.google/quests/299
+
+
 
 
