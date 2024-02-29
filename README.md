@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 * Building Systems with the ChatGPT API, https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/  
 
+* Flash Attention 2.0 with Tri Dao (author)! | Discord server talks, https://www.youtube.com/watch?v=IoMSGuiwV3g&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
 
       **Mixture of Experts (MoEs)**
       
@@ -251,6 +253,9 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 
   * Ollama: How To Create Custom Models From HuggingFace ( GGUF ), https://www.youtube.com/watch?v=TFwYvHZV6j0&t=72s&ab_channel=DataScienceBasics
   
+
+
+
 
 
 
@@ -489,12 +494,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
-
   * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
 
-  * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
-    
-  * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
     
   * User-Selected metadata in RAG Applications with Qdrant, https://www.youtube.com/watch?v=qcn7YAJfCeE&ab_channel=LearnDatawithMark
   
@@ -528,9 +529,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
     https://github.com/ambarishg/llama-index
 
-  * LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
-
-    https://shopify.engineering/topics/data-science-engineering
 
   * LLM Search & Retrieval Systems with Arize and LlamaIndex: Powering LLMs on Your Proprietary Data, https://www.youtube.com/watch?v=hbQYDpJayFw&ab_channel=ArizeAI
  
@@ -544,17 +542,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   * RAG from scratch, https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=BtJ6KCTMfqBzIGya
  
-  * Build with LangChain, https://youtube.com/playlist?list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&si=0ypsn2axHsDSMs6b
-    
-  * LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
     
   * CrewAI RAG: How I Created AI Assistants to Run My News Agency, https://www.youtube.com/watch?v=77xSbC-9yn4&ab_channel=MervinPraison
-
-  * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
-
-      https://github.com/huggingface/cookbook/tree/main/notebooks/en
-
-      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
 
     
   * RAG Evaluation Using Synthetic data and LLM-As-A-Judge, https://github.com/huggingface/cookbook/tree/main/notebooks/en
@@ -584,6 +573,44 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 
 
+# Langchain
+
+
+* Universal Document Loader with langchain-airbyte, https://www.youtube.com/watch?v=zQU_1sCLSMU&ab_channel=LangChain
+
+* Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
+
+      https://github.com/huggingface/cookbook/tree/main/notebooks/en
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
+
+* Build with LangChain, https://youtube.com/playlist?list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&si=0ypsn2axHsDSMs6b
+    
+* LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
+
+* LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
+
+    https://shopify.engineering/topics/data-science-engineering
+
+* RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
+    
+* Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
+
+
+* Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
+    
+* How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
+
+
+* Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
+
+
+
+
+
+
+
+
 # Prompt
 
   * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
@@ -601,9 +628,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     
   * Prompt Templates, Functions and Prompt Window Management, https://www.youtube.com/watch?v=YaYaZu6NbS0&ab_channel=ArizeAI
   
-  * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
-    
-  * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
+
 
   * ChatGPT Prompt Engineering for Developers, https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
     
@@ -898,8 +923,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
  
   * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
 
-  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
- 
+
+
   * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
 
   * Let's Build an AI News Anchor Generator App using Generative AI, https://www.youtube.com/watch?v=cddahTnCo10&ab_channel=AIAnytime
@@ -910,7 +935,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
-  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
+
 
   * Build a Containerized Transcription API using Whisper Model and FastAPI, https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
@@ -958,10 +983,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     
   * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
  
-  * Self-reflective RAG with LangGraph: Self-RAG and CRAG, https://www.youtube.com/watch?v=pbAd8O1Lvm4&ab_channel=LangChain
-
-    https://github.com/langchain-ai/langgraph/tree/main/examples/rag
-
 
   * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
 
@@ -1108,19 +1129,30 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
     https://github.com/llmware-ai/llmware/tree/main/examples/SLIM-Agents/
 
-  * Getting Started with Groq API | Making Near Real Time Chatting with LLMs Possible
 
-    https://www.youtube.com/watch?v=S53BanCP14c&ab_channel=PromptEngineering
 
   * Taipy: Creating Production-Grade Apps with Taipy vs Streamlit, https://www.youtube.com/watch?v=MgAIrGxnN-8&ab_channel=WorldofAI
 
   * Anthropic Claude API: Supercharge Your AI App with Large Context, https://www.youtube.com/watch?v=Wtt9tuO8UPY&ab_channel=MervinPraison
-  * Groq API: Make your AI Applications Lighting Speed, https://www.youtube.com/watch?v=vKWtFVqr6Wc&t=96s&ab_channel=MervinPraison
 
 
 
 
     
+
+
+# LPU
+
+   * How does Groq LPU work? (w/ Head of Silicon Igor Arsovski!), https://www.youtube.com/watch?v=WQDMKTEgQnY&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+   
+   * Getting Started with Groq API | Making Near Real Time Chatting with LLMs Possible
+
+    https://www.youtube.com/watch?v=S53BanCP14c&ab_channel=PromptEngineering
+
+  * Groq API: Make your AI Applications Lighting Speed, https://www.youtube.com/watch?v=vKWtFVqr6Wc&t=96s&ab_channel=MervinPraison
+ 
+
+ 
 
     
 
@@ -1417,6 +1449,8 @@ https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **llmware** https://www.youtube.com/@llmware/videos
 * **DataScience Basics** https://www.youtube.com/@llmware
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
+* **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany
+  https://github.com/gordicaleksa
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 
       * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
