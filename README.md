@@ -1158,6 +1158,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 # HuggingFace
 
+* Huggingface docs, https://huggingface.co/docs
+
 * Hugging Face Text Generation Inference available for AWS Inferentia2
 
   https://huggingface.co/blog/text-generation-inference-on-inferentia2
