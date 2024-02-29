@@ -1238,6 +1238,17 @@ By Sergey Karayev and Charles Frye. Updated October 30, 2023.
 
 Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=36025099] May 21, 2023.
 
+* **GPU Cloud Server Comparison**
+
+     - The table below does not include all possible configurations for all providers, as providers differ in their configuration strategy.
+     - Most providers, including AWS, Azure, and Lambda, provide instances with pre-set configurations.
+     - On GCP, any suitable machine can be connected to a configuration of GPUs.
+     - On other providers, like Oblivus Cloud, Cudo Compute, and RunPod, users have precise control over the resources they request. Note that RunPod's Community Cloud, Oblivus, and Cudo are all "open clouds", meaning compute is provided by third parties.
+     - For providers without pre-set instance configurations, we have selected configurations that are roughly equivalent to AWS's options. Generally, these configurations are good for workloads that require heavy inter-GPU communication.
+     - Where possible, regions were set to be the west or central parts of the United States. GPU availability depends on the region.
+     - Raw data can be found in a csv on GitHub.
+     - Costs can be substantially reduced via preemption recovery and failover across clouds. If you don't want to roll your own, consider a tool like SkyPilot. See discussion of their launch on Hacker News, December 13, 2022.
+
 
 
 # General ML, DL
@@ -1257,7 +1268,7 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 * **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
-      * **Full  Stack Deep LEarning Course for Free**
+* **Full  Stack Deep LEarning Course for Free**
       
          - FSDL 2022 (Online): A fully online course, taught via YouTube, Crowdcast, and Discord.
          - FSDL 2021 (Online): Contemporaneous with the Berkeley course, we taught an online cohort course.
