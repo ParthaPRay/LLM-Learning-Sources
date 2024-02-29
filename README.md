@@ -252,6 +252,10 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
     Any LLM, unlimited documents, and fully private. All on your desktop. https://useanything.com/download
 
   * Ollama: How To Create Custom Models From HuggingFace ( GGUF ), https://www.youtube.com/watch?v=TFwYvHZV6j0&t=72s&ab_channel=DataScienceBasics
+
+  * How to run Ollama on Docker, https://www.youtube.com/watch?v=ZoxJcPkjirs&t=127s&ab_channel=MattWilliams
+  * Easy Access to GPUs for Ollama, https://www.youtube.com/watch?v=QRot1WtivqI&ab_channel=MattWilliams
+
   
 
 
@@ -1160,6 +1164,15 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   * Build an AI Applicant Tracking System(ATS) for Your Resumes with LLMs|Get JOBS 100X FASTER, https://www.youtube.com/watch?v=7lP7fune0Gw&ab_channel=DataInsightEdge
     
+ * Build & Chat with Invoices using Google’s Gemini Pro VisionIStreamlit + Use Case| Tutorial, https://www.youtube.com/watch?v=7_926xGDbDY&ab_channel=DataInsightEdge
+
+ * Chat with Multiple Documents using Gemini Pro with LangChain| Step-by-Step Tutorial #ai #llm, https://www.youtube.com/watch?v=UXLWLFOB0Xo&ab_channel=DataInsightEdge
+
+ * GEMINI Pro with LangChain | Chat, MultiModal and Chat with your Documents, https://www.youtube.com/watch?v=7h8ZHSkAkas&ab_channel=PromptEngineering
+ 
+ * Gemini Pro + LangChain - Chains, Mini RAG, PAL + Multimodal, https://www.youtube.com/watch?v=G3-YOEVg-xc&ab_channel=SamWitteveen
+
+
 
 
 
