@@ -1430,8 +1430,11 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
   https://fullstackdeeplearning.com/llm-bootcamp/
 
   https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
+  
 
-  **The Full Stack** (https://www.youtube.com/@The_Full_Stack/videos) 
+  **The Full Stack** (https://www.youtube.com/@The_Full_Stack/videos)
+
+   https://github.com/the-full-stack/website
 
   **Lectures** https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&pp=iAQB
   
