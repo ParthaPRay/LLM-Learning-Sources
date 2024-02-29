@@ -674,6 +674,12 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 
   * ChatGPT Prompt Engineering for Developers, https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+  * Superior RAGs for complex PDFs with LlamaParse
+
+     https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
+
+  
     
 
 
