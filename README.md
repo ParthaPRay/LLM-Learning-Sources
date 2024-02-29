@@ -1101,7 +1101,14 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   * Getting Started with Groq API | Making Near Real Time Chatting with LLMs Possible
 
     https://www.youtube.com/watch?v=S53BanCP14c&ab_channel=PromptEngineering
-  
+
+  * Taipy: Creating Production-Grade Apps with Taipy vs Streamlit, https://www.youtube.com/watch?v=MgAIrGxnN-8&ab_channel=WorldofAI
+
+  * Anthropic Claude API: Supercharge Your AI App with Large Context, https://www.youtube.com/watch?v=Wtt9tuO8UPY&ab_channel=MervinPraison
+  * Groq API: Make your AI Applications Lighting Speed, https://www.youtube.com/watch?v=vKWtFVqr6Wc&t=96s&ab_channel=MervinPraison
+
+
+
 
     
 
