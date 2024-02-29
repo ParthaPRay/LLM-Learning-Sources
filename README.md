@@ -1246,8 +1246,21 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
      - On other providers, like Oblivus Cloud, Cudo Compute, and RunPod, users have precise control over the resources they request. Note that RunPod's Community Cloud, Oblivus, and Cudo are all "open clouds", meaning compute is provided by third parties.
      - For providers without pre-set instance configurations, we have selected configurations that are roughly equivalent to AWS's options. Generally, these configurations are good for workloads that require heavy inter-GPU communication.
      - Where possible, regions were set to be the west or central parts of the United States. GPU availability depends on the region.
-     - Raw data can be found in a csv on GitHub.
-     - Costs can be substantially reduced via preemption recovery and failover across clouds. If you don't want to roll your own, consider a tool like SkyPilot. See discussion of their launch on Hacker News, December 13, 2022.
+     - Raw data can be found in a csv on GitHub, https://github.com/full-stack-deep-learning/website/blob/main/docs/cloud-gpus/cloud-gpus.csv.
+     - Costs can be substantially reduced via preemption recovery and failover across clouds. If you don't want to roll your own, consider a tool like SkyPilot - https://github.com/skypilot-org/skypilot. See discussion of their launch on Hacker News - https://news.ycombinator.com/item?id=33964285, December 13, 2022.
+ 
+
+
+* **How do I choose GPU?**
+
+    - This page is intended to track and make explorable the current state of pricing and hardware for cloud GPUs.
+   
+    - If you want advice on which machines and cards are best for your use case, we recommend Tim Dettmer's blog post on GPUs for deep learning.
+   
+    - The whole post is a tutorial and FAQ on GPUS for DNNs, but if you just want the resulting heuristics for decision-making, see the "GPU Recommendations" section, which is the source of the chart below.
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b108b975-5919-41bf-9660-03790ae15945)
+
 
 
 
