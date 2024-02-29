@@ -580,6 +580,15 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
 
 
+* LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
+
+    https://shopify.engineering/topics/data-science-engineering
+
+* RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
+
+
+
+
 
 
 # Langchain
@@ -587,26 +596,37 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 * Universal Document Loader with langchain-airbyte, https://www.youtube.com/watch?v=zQU_1sCLSMU&ab_channel=LangChain
 
-
-
 * Build with LangChain, https://youtube.com/playlist?list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&si=0ypsn2axHsDSMs6b
     
 * LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
 
-* LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
-
-    https://shopify.engineering/topics/data-science-engineering
-
-* RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
-    
-
+  
 * Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
  
     https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
 
 
+* RAG from Scratch
 
+  https://www.youtube.com/watch?v=wd7TZ4w1mSw&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&pp=iAQB
 
+ * LangGraph (Python)
+
+    https://www.youtube.com/watch?v=5h-JBkySK34&list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&pp=iAQB
+
+ * AutoPrompt Builder
+
+    https://www.youtube.com/watch?v=mmBo8nlu2j0&list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&pp=iAQB
+
+ * LangSmith Platform Overview
+
+     https://www.youtube.com/watch?v=3wAON0Lqviw&list=PLfaIDFEXuae2WCZ63usrRoriORSGmDQsg&pp=iAQB
+   
+ * Langchain Expression Languare
+
+   https://www.youtube.com/watch?v=9M8x485j_lU&list=PLfaIDFEXuae1Ed60mXaLZRXC_jv0IwxPl&pp=iAQB
+   
+ * 
 
 # Prompt
 
@@ -920,7 +940,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
  
   * Chat with Data App: RAG using Mistral 7B, Haystack, and Chainlit, https://www.youtube.com/watch?v=01_2-Dy57ys&ab_channel=AIAnytime
 
-
+  * Building LLM Applications with Langchain, https://www.youtube.com/watch?v=HmZzbhL8Tf8&list=PLfaIDFEXuae2Zb0phFLWAxgrJT7f416xq&pp=iAQB
 
   * RAG Implementation using Mistral 7B, Haystack, Weaviate, and FastAPI, https://www.youtube.com/watch?v=C5mqILmVUEo&ab_channel=AIAnytime
 
@@ -931,8 +951,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   * ComfyUI GUI for Image and Video Generation: Google Colab Setup, https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
 
   * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
-
-
 
   * Build a Containerized Transcription API using Whisper Model and FastAPI, https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
