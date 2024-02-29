@@ -1317,15 +1317,15 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 * **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
-* **Full  Stack Deep LEarning Course for Free**
+* **Full  Stack Deep Learning Course for Free**
       
-         - FSDL 2022 (Online): A fully online course, taught via YouTube, Crowdcast, and Discord.
-         - FSDL 2021 (Online): Contemporaneous with the Berkeley course, we taught an online cohort course.
-         - FSDL 2021 (Berkeley): Taught as a UC Berkeley undergrad course CS194-080 in Spring 2021
-         - FSDL 2020 (UW): Taught as University of Washington Professional Master's Program course CSEP 590C in Spring 2020
-         - FSDL 2019 (Online): Materials from the November 2019 bootcamp held on Berkeley campus organized in a nice online format.
-         - FSDL 2019 (Bootcamp): Raw materials from the March 2019 bootcamp, held on Berkeley campus.
-         - FSDL 2018 (Bootcamp): Our first bootcamp, held on Berkeley campus in August 2018
+         - [FSDL 2022 (Online)](https://fullstackdeeplearning.com/course/2022/): A fully online course, taught via YouTube, Crowdcast, and Discord.
+         - [FSDL 2021 (Online)](https://fullstackdeeplearning.com/spring2021/): Contemporaneous with the Berkeley course, we taught an online cohort course.
+         - [FSDL 2021 (Berkeley)](https://bit.ly/berkeleyfsdl): Taught as a UC Berkeley undergrad course CS194-080 in Spring 2021
+         - [FSDL 2020 (UW)](https://bit.ly/uwfsdl): Taught as University of Washington Professional Master's Program course CSEP 590C in Spring 2020
+         - [FSDL 2019 (Online)](https://fall2019.fullstackdeeplearning.com/): Materials from the November 2019 bootcamp held on Berkeley campus organized in a nice online format.
+         - [FSDL 2019 (Bootcamp)](https://fullstackdeeplearning.com/course/): Raw materials from the March 2019 bootcamp, held on Berkeley campus.
+         - [FSDL 2018 (Bootcamp)](https://fullstackdeeplearning.com/course/): Our first bootcamp, held on Berkeley campus in August 2018
 
       *  **Deep Learning Fundamentals (Full Stack Deep Learning - Spring 2021)**
       
