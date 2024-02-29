@@ -1249,6 +1249,9 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 
 
+
+
+
 # Cloud GPUs
 
 https://fullstackdeeplearning.com/cloud-gpus/
@@ -1256,6 +1259,9 @@ https://fullstackdeeplearning.com/cloud-gpus/
 By Sergey Karayev and Charles Frye. Updated October 30, 2023.
 
 Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=36025099] May 21, 2023.
+
+
+
 
   
 # Youtube Channels
@@ -1348,6 +1354,31 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
  https://docs.cohere.com/docs/llmu
 
 
+
+* **LLM Bootcamp**
+
+  LLM Bootcamp - Spring 2023
+
+  https://fullstackdeeplearning.com/llm-bootcamp/
+
+  **The Full Stack** (https://www.youtube.com/@The_Full_Stack/videos)
+
+  **Lectures** https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&pp=iAQB
+  
+     - Learn to Spell: Prompt Engineering
+     - LLMOps
+     - UX for Language User Interfaces
+     - Augmented Language Models
+     - Launch an LLM App in One Hour
+     - LLM Foundations
+     - Project Walkthrough: askFSDL
+     - What's Next?
+     - Invited Talks
+     - Reza Shabani: How To Train Your Own LLM
+     - Harrison Chase: Agents
+     - Fireside Chat with Peter Welinder
+
+  
 
 * **Machind Learning University by AWS**, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
 
