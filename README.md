@@ -564,11 +564,20 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     https://www.youtube.com/watch?v=cQfdaTcmBpY&ab_channel=llmware
 
 
+ * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
+    
+ * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
 
 
+ * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
 
+ * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
 
+ * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
 
+      https://github.com/huggingface/cookbook/tree/main/notebooks/en
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
 
 
 
@@ -578,11 +587,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 * Universal Document Loader with langchain-airbyte, https://www.youtube.com/watch?v=zQU_1sCLSMU&ab_channel=LangChain
 
-* Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
 
-      https://github.com/huggingface/cookbook/tree/main/notebooks/en
-
-      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
 
 * Build with LangChain, https://youtube.com/playlist?list=PLfaIDFEXuae06tclDATrMYY0idsTdLg9v&si=0ypsn2axHsDSMs6b
     
@@ -594,18 +599,10 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
     
-* Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
 
-
-* Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
-    
-* How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
-
-
-* Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
-
-
-
+* Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
+ 
+    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
 
 
 
@@ -1012,9 +1009,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
 
 
-  * Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
- 
-    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
+
 
   * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
 
