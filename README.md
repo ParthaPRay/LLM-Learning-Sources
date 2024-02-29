@@ -1269,14 +1269,14 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 | Model | Arch   | FP32 | Mixed-precision | FP16 | Source    |
 |-------|--------|------|-----------------|------|-----------|
 | A100  | Ampere | 19.5 | 156             | 312  | [Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet-us-nvidia-1758950-r4-web.pdf)|
-| A10G  | Ampere | 35   | 35              | 70   | Datasheet(https://d1.awsstatic.com/product-marketing/ec2/NVIDIA_AWS_A10G_DataSheet_FINAL_02_17_2022.pdf) |
-| A6000 | Ampere | 38   | ?               | ?    | Datasheet(https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/proviz-print-nvidia-rtx-a6000-datasheet-us-nvidia-1454980-r9-web%20(1).pdf) |
-| V100  | Volta  | 14   | 112             | 28   | Datasheet(https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf) |
-| T4    | Turing | 8.1  | 65              | ?    | Datasheet(https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf) |
-| P4    | Pascal | 5.5  | N/A             | N/A  | Datasheet(https://images.nvidia.com/content/pdf/tesla/184457-Tesla-P4-Datasheet-NV-Final-Letter-Web.pdf) |
-| P100  | Pascal | 9.3  | N/A             | 18.7 | Datasheet(https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-p100/pdf/nvidia-tesla-p100-PCIe-datasheet.pdf) |
-| K80   | Kepler | 8.73 | N/A             | N/A  | Datasheet(https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/Tesla-K80-BoardSpec-07317-001-v05.pdf) |
-| A40   | Ampere | 37   | 150             | 150  | Datasheet(https://images.nvidia.com/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf) |
+| A10G  | Ampere | 35   | 35              | 70   | [Datasheet](https://d1.awsstatic.com/product-marketing/ec2/NVIDIA_AWS_A10G_DataSheet_FINAL_02_17_2022.pdf) |
+| A6000 | Ampere | 38   | ?               | ?    | [Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/proviz-print-nvidia-rtx-a6000-datasheet-us-nvidia-1454980-r9-web%20(1).pdf) |
+| V100  | Volta  | 14   | 112             | 28   | [Datasheet](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf) |
+| T4    | Turing | 8.1  | 65              | ?    | [Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf) |
+| P4    | Pascal | 5.5  | N/A             | N/A  | [Datasheet](https://images.nvidia.com/content/pdf/tesla/184457-Tesla-P4-Datasheet-NV-Final-Letter-Web.pdf) |
+| P100  | Pascal | 9.3  | N/A             | 18.7 | [Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-p100/pdf/nvidia-tesla-p100-PCIe-datasheet.pdf) |
+| K80   | Kepler | 8.73 | N/A             | N/A  | [Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/Tesla-K80-BoardSpec-07317-001-v05.pdf) |
+| A40   | Ampere | 37   | 150             | 150  | [Datasheet](https://images.nvidia.com/content/Solutions/data-center/a40/nvidia-a40-datasheet.pdf) |
 
   
 
