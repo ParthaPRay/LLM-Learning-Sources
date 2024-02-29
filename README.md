@@ -446,7 +446,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
       
 
 
- * Benefits of Fine Tuning
+ * **Benefits of Fine Tuning**
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/46df27cd-0902-443d-b4eb-aea9831ed2dc)
 
@@ -455,13 +455,13 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
  
  
 
- * RAG Vs Fine-Tuning: How to Optimize LLM Performance
+ * **RAG Vs Fine-Tuning: How to Optimize LLM Performance**
       
         https://www.e2enetworks.com/blog/rag-vs-fine-tuning-how-to-optimize-llm-performance#:~:text=Trade%2Doffs%3A%20Fine%2Dtuning%20may%20provide%20more%20control%20over,reliability%20of%20the%20knowledge%20base.
 
 
 
- * Trade-Offs
+ * **Trade-Offs**
   
       The decision to employ fine-tuning or RAG depends on the specific goals of a task and the nature of the knowledge required. Here are some considerations and trade-offs:
       
@@ -569,16 +569,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 
 
-
-
-
-
-
-
-
-    
-
-  
 
 
 
@@ -1215,21 +1205,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 
 
-# AGI
-
-* **OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry**, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
-
-
-
-
-# Responsible AI
-
-  https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
-
-  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
-
-
-
 # Cloud GPUs
 
 https://fullstackdeeplearning.com/cloud-gpus/
@@ -1300,6 +1275,25 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 
 
+
+
+
+# AGI
+
+* **OpenAI-backed "AGI ROBOT" SHOCKED The ENTIRE Industry**, https://www.youtube.com/watch?v=yauNW4C-Tfo&ab_channel=MatthewBerman
+
+
+
+# Responsible AI
+
+  https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
+
+  https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/
+
+
+
+
+
 # General ML, DL
 
 
@@ -1317,7 +1311,7 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 * **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
-* **Full  Stack Deep Learning Course for Free**
+* **Full Stack Deep Learning Course for Free**
       
          - [FSDL 2022 (Online)](https://fullstackdeeplearning.com/course/2022/): A fully online course, taught via YouTube, Crowdcast, and Discord.
          - [FSDL 2021 (Online)](https://fullstackdeeplearning.com/spring2021/): Contemporaneous with the Berkeley course, we taught an online cohort course.
@@ -1412,11 +1406,6 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 
 
 
-
-
-
-
-
 # Courses
 
       * **Free Course on** (https://course.fast.ai/) by Jeremy Howard's Fastai
@@ -1436,28 +1425,30 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 
 
 
-* **LLM Bootcamp**
-
-  LLM Bootcamp - Spring 2023
+* **🚀 Full Stack LLM Bootcamp 🚀**
 
   https://fullstackdeeplearning.com/llm-bootcamp/
 
-  **The Full Stack** (https://www.youtube.com/@The_Full_Stack/videos)
+  https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
+
+  **The Full Stack** (https://www.youtube.com/@The_Full_Stack/videos) 
 
   **Lectures** https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&pp=iAQB
   
-     - Learn to Spell: Prompt Engineering
-     - LLMOps
-     - UX for Language User Interfaces
-     - Augmented Language Models
-     - Launch an LLM App in One Hour
-     - LLM Foundations
-     - Project Walkthrough: askFSDL
-     - What's Next?
+     - Learn to Spell: Prompt Engineering  https://youtu.be/JnBHR_yL2w8?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - LLMOps  https://youtu.be/Fquj2u7ay40?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - UX for Language User Interfaces  https://youtu.be/l5mG4z343qg?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - Augmented Language Models   https://youtu.be/YdeuQhlHmCA?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - Launch an LLM App in One Hour  https://youtu.be/twHxmU9OxDU?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - LLM Foundations  https://youtu.be/MyFrMFab6bo?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - Project Walkthrough: askFSDL  https://www.youtube.com/watch?v=pUKs4xM1r5U&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=5&pp=iAQB
+     - What's Next?  https://youtu.be/ax_R4yz1WwM?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+     - UX for Language user interfaces (LLM Bootcamp)  https://www.youtube.com/watch?v=l5mG4z343qg&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=6&pp=iAQB
      - Invited Talks
-     - Reza Shabani: How To Train Your Own LLM
-     - Harrison Chase: Agents
-     - Fireside Chat with Peter Welinder
+     - Fireside Chat with Peter Welinder  https://www.youtube.com/watch?v=54UThDl00qI&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=9&pp=iAQB
+     - Harrison Chase: Agents  https://www.youtube.com/watch?v=DWUdGhRrv2c&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=10&pp=iAQB
+     - Reza Shabani: How To Train Your Own LLM   https://www.youtube.com/watch?v=roEKOzxilq4&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=11&pp=iAQB
+
 
   
 
