@@ -489,6 +489,13 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 
 
+
+
+
+
+
+
+
 # RAG
 
 
@@ -585,6 +592,13 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     https://shopify.engineering/topics/data-science-engineering
 
 * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
+
+
+* Google Gemma Fully LOCAL RAG ChatBot using Ollama|LangChain|Chainlit|Chat with Docs #ai #ollama #llm, https://www.youtube.com/watch?v=8uo-GCIKim8&ab_channel=DataInsightEdge
+
+  https://github.com/InsightEdge01/RAGGemmaModel/tree/main
+
+* Beyond RAG:How to Build an App with LOCAL LLMs to Generate Custom Datasets to Fine-tune Your LLMs, https://www.youtube.com/watch?v=vBC6Ym0cb0Y&ab_channel=DataInsightEdge
 
 
 
@@ -1017,7 +1031,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
     https://www.youtube.com/watch?v=9lSaRP9GLCY
 
-
   * AutoGen + Function Calling + Open Source LLMs, Here is How
 
     https://www.youtube.com/watch?v=UIBerUGqHjc&ab_channel=YeyuLab
@@ -1025,8 +1038,6 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   * Use Open Source LLMs in AutoGen powered by Fireworks AI, without GPU/CPU
 
     https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
-
-
 
 
   * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
@@ -1143,11 +1154,12 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     https://github.com/llmware-ai/llmware/tree/main/examples/SLIM-Agents/
 
 
-
   * Taipy: Creating Production-Grade Apps with Taipy vs Streamlit, https://www.youtube.com/watch?v=MgAIrGxnN-8&ab_channel=WorldofAI
 
   * Anthropic Claude API: Supercharge Your AI App with Large Context, https://www.youtube.com/watch?v=Wtt9tuO8UPY&ab_channel=MervinPraison
 
+  * Build an AI Applicant Tracking System(ATS) for Your Resumes with LLMs|Get JOBS 100X FASTER, https://www.youtube.com/watch?v=7lP7fune0Gw&ab_channel=DataInsightEdge
+    
 
 
 
@@ -1462,6 +1474,7 @@ https://edwardjhu.com/
 * **Deploying AI**
 https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **llmware** https://www.youtube.com/@llmware/videos
+* **DataInsightEdge** https://www.youtube.com/@DataInsightEdge01
 * **DataScience Basics** https://www.youtube.com/@llmware
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 * **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany
