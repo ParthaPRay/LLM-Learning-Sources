@@ -1282,6 +1282,24 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 
 
+
+* **GPU Performance Benchmarks**
+  
+  Below are some basic benchmarks for GPUs on common deep learning tasks.
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2e3c4550-f2ee-4119-802e-c1d8a10a5aa3)
+
+
+  Benchmark of different GPUs on a single ImageNet epoch, by [AIME](https://www.aime.info/en/blog/deep-learning-gpu-benchmarks-2021/)
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/62dd8605-1b0d-44e8-897b-85a614b443b6)
+
+   Benchmark of different GPUs on a mix of tasks, by [Lambda Labs](https://lambdalabs.com/gpu-benchmarks)
+
+    
+
+
+
 # General ML, DL
 
 
