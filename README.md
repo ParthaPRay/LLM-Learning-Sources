@@ -1098,6 +1098,11 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
     https://github.com/llmware-ai/llmware/tree/main/examples/SLIM-Agents/
 
+  * Getting Started with Groq API | Making Near Real Time Chatting with LLMs Possible
+
+    https://www.youtube.com/watch?v=S53BanCP14c&ab_channel=PromptEngineering
+  
+
     
 
     
