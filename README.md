@@ -510,6 +510,9 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 # RAG
 
+**RAG = Dense vector Retrieval (R) + In-Contsxt learning (AG)**
+
+
 
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
