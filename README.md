@@ -1341,6 +1341,12 @@ https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 
 
 
+* **LLM University**
+
+ LLM University by Cohere
+ 
+ https://docs.cohere.com/docs/llmu
+
 
 
 * **Machind Learning University by AWS**, https://youtube.com/@machinelearninguniversity1942?si=pD5dszE0HTiOclcu
