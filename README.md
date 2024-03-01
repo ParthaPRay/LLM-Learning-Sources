@@ -1199,7 +1199,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
  * Build an LLM powered chrome extension, https://youtu.be/9RKXffJsJhs?si=Ly_ocxdSttphdhKk
 
-
+  * LangGraph and OpenGPTs: building agent forward applications with Langchain
+, https://www.youtube.com/live/NdF609kO8FY?si=OLcaLpy3ALBUeOUF
 
 
     
@@ -1214,6 +1215,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     https://www.youtube.com/watch?v=S53BanCP14c&ab_channel=PromptEngineering
 
   * Groq API: Make your AI Applications Lighting Speed, https://www.youtube.com/watch?v=vKWtFVqr6Wc&t=96s&ab_channel=MervinPraison
+
+
  
 
  
