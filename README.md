@@ -1616,6 +1616,8 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
 
+* Generative AI Full course - Gemini Pro, openAI, Llama, Langchain, Pinecone, vector databases and more,
+https://youtu.be/mEsleV16qdo?si=K4ZFHW2ZRG7EtL3Q
 
 
 
