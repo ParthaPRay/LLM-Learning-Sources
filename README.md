@@ -1197,6 +1197,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
  * CrewAI agents for stock analysis (works with local Ollama LLMs),
  https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
 
+ * Build an LLM powered chrome extension, https://youtu.be/9RKXffJsJhs?si=Ly_ocxdSttphdhKk
 
 
 
