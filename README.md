@@ -1193,6 +1193,9 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
  * Gemini Pro + LangChain - Chains, Mini RAG, PAL + Multimodal, https://www.youtube.com/watch?v=G3-YOEVg-xc&ab_channel=SamWitteveen
 
  * LangGraph + function call + Yahoofinance = Multi-agent application, https://youtu.be/r2PvHdkaXWc?si=alEiCMZwy0xAwNwG
+   
+ * CrewAI agents for stock analysis (works with local Ollama LLMs),
+ https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
 
 
 
