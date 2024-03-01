@@ -655,7 +655,10 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
    https://www.youtube.com/watch?v=9M8x485j_lU&list=PLfaIDFEXuae1Ed60mXaLZRXC_jv0IwxPl&pp=iAQB
    
- * 
+
+
+
+   
 
 # Prompt
 
@@ -1188,6 +1191,8 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
  * GEMINI Pro with LangChain | Chat, MultiModal and Chat with your Documents, https://www.youtube.com/watch?v=7h8ZHSkAkas&ab_channel=PromptEngineering
  
  * Gemini Pro + LangChain - Chains, Mini RAG, PAL + Multimodal, https://www.youtube.com/watch?v=G3-YOEVg-xc&ab_channel=SamWitteveen
+
+ * LangGraph + function call + Yahoofinance = Multi-agent application, https://youtu.be/r2PvHdkaXWc?si=alEiCMZwy0xAwNwG
 
 
 
