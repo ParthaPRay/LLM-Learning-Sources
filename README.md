@@ -703,6 +703,10 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
 
+
+
+
+
 # Vector Database and Embeddings 
 
 
@@ -1229,7 +1233,8 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
   * Groq API: Make your AI Applications Lighting Speed, https://www.youtube.com/watch?v=vKWtFVqr6Wc&t=96s&ab_channel=MervinPraison
 
 
- 
+  * Builx an Agent with Long-Term personalized memory,
+    https://youtu.be/oPCKB9MUP6c?si=FGDDaDm1KuXVazhP
 
  
 
