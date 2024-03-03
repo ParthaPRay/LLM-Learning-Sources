@@ -718,7 +718,7 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5722e5f6-e3d6-473a-86c0-25ce3cc6cc1d)
 
-         We have recently seen a surge in vector databases in this era of generative AI. The idea behind vector databases is to index the data with vectors that relate to that data. Hierarchical Navigable Small World (HNSW) is one of the most efficient ways to build indexes for vector databases. The idea is to build a similarity graph and traverse that graph to find the nodes that are the closest to a query vector. 
+We have recently seen a surge in vector databases in this era of generative AI. The idea behind vector databases is to index the data with vectors that relate to that data. Hierarchical Navigable Small World (HNSW) is one of the most efficient ways to build indexes for vector databases. The idea is to build a similarity graph and traverse that graph to find the nodes that are the closest to a query vector. 
 
 Navigable Small World (NSW) is a process to build efficient graphs for search. We build a graph by adding vectors one after the other and connecting each new node to the most similar neighbors.
 
