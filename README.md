@@ -966,7 +966,7 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
 
-      Quantize any LLM with GGUF and Llama.cpp, https://www.youtube.com/watch?v=wxQgGK5K0rE&ab_channel=AIAnytime
+ * Quantize any LLM with GGUF and Llama.cpp, https://www.youtube.com/watch?v=wxQgGK5K0rE&ab_channel=AIAnytime
   
 
 
