@@ -333,6 +333,9 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
   https://www.youtube.com/watch?v=4X_26j5Z43Y&ab_channel=AIPapersAcademy
   
+
+  https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/
+  
   https://github.com/facebookresearch/jepa
 
 
