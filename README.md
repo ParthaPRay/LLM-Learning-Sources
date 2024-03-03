@@ -324,10 +324,21 @@ How simple is that? Because the model was not trained for that position embeddin
 You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to extend LLama's context window by 16 times while keeping the performance at the same level!
 
 
+* V-JEPA: Video Joint Embedding Predictive Architecture
+  
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fead596e-d9fd-4029-9fd5-add93f3e8f82)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b794d4c2-aa35-4da6-8fbc-6e028f197d5c)
+
+  https://www.youtube.com/watch?v=4X_26j5Z43Y&ab_channel=AIPapersAcademy
+  
+  https://github.com/facebookresearch/jepa
 
 
 
-      **Mixture of Experts (MoEs)**
+
+* Mixture of Experts (MoEs)
       
         * Mixture of Experts Explained
       
@@ -2305,6 +2316,7 @@ https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 * **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany
   https://github.com/gordicaleksa
+* **AI Papers Academy**  https://www.youtube.com/@aipapersacademy 
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 
       * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
