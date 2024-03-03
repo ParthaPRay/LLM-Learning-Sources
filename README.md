@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * Flash Attention 2.0 with Tri Dao (author)! | Discord server talks, https://www.youtube.com/watch?v=IoMSGuiwV3g&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
 
 
-* How to shard LLMs locally, https://youtu.be/F0pkj2trRcI?si=zAsZmmbhsp1wqlBe
+
 
 
 
@@ -781,7 +781,7 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
 
-# Essentials on LoRA, Quantization, PEFT and their Variants
+# Essentials on LoRA, Quantization, PEFT and Sharding etc Variants
 
 **LoRA**
 
@@ -963,6 +963,23 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 * Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference
 
   https://towardsdatascience.com/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34
+
+
+
+      Quantize any LLM with GGUF and Llama.cpp, https://www.youtube.com/watch?v=wxQgGK5K0rE&ab_channel=AIAnytime
+  
+
+
+
+
+**Sharding**
+
+
+      How to shard LLMs locally, https://youtu.be/F0pkj2trRcI?si=zAsZmmbhsp1wqlBe
+
+
+
+
 
 
 
