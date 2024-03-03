@@ -119,6 +119,16 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 * Flash Attention 2.0 with Tri Dao (author)! | Discord server talks, https://www.youtube.com/watch?v=IoMSGuiwV3g&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
 
+
+* Outcome-based reward model (ORM)
+
+  Meet Stepwise ORMs (SORMs)
+
+ https://arxiv.org/abs/2402.10963
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1ef40ceb-e53f-48d4-a4a4-29a45cb328c1)
+
+
+
 * 3 ways to train LLMs
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/59fa5381-a0ad-4508-9637-07ca37c1937d)
