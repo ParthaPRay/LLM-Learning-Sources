@@ -1584,6 +1584,12 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 * **Learn More about ML and AI and Gen AI on** https://www.youtube.com/@ricardocalix188/videos
 
+* Super VIP Cheatsheet: Deep Learning
+
+  ![Uploading image.png…]()
+
+  https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf
+
 * **Full Stack Deep Learning Course for Free**
       
          - [FSDL 2022 (Online)](https://fullstackdeeplearning.com/course/2022/): A fully online course, taught via YouTube, Crowdcast, and Discord.
