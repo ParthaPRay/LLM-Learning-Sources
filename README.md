@@ -1334,7 +1334,8 @@ When a user inputs a text or image query, we need to return a list of images. Th
    https://www.youtube.com/watch?v=jENqvjpkwmw&t=17s&ab_channel=MervinPraison
 
 
-
+* Nomic's new embedding model : nomic-embed-text, 
+  https://youtu.be/LpcaeQZDVB8?si=VrJzmRSrwJRxHwzv
 
     
 
