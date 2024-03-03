@@ -875,8 +875,10 @@ To do that, we need to construct a data set where pairs of related (Question, an
  * **Full-model Fine-tuning vs. LoRA vs. RAG**
 
    https://www.blog.dailydoseofds.com/p/full-model-fine-tuning-vs-lora-vs
-  
-    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2cf1fe15-b60d-492a-8792-3219f9a6ad39)
+
+    ![1b402882-3dc1-4d5b-ba11-7f4f6d40d888_914x1116-ezgif com-webp-to-gif-converter](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/803e206e-7362-495f-833b-812e39b951d8)
+
+   
 
 
  * **Trade-Offs**
