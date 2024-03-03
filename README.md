@@ -66,6 +66,14 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
         
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
+* [Build a Large Language Model (From Scratch)] (https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka, MEAP publications 2025.
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/86352650-cc89-4590-afc5-6ac1e5bfb481)
+
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d2e8cc02-9ca4-4c14-ad7e-ccc236083084)
+
+   Codes: https://github.com/rasbt/LLMs-from-scratch
   
 * How to Build an LLM from Scratch | An Overview,
  https://www.youtube.com/watch?v=ZLbVdvOoTKM&pp=ygUdQ3JlYXRlIGEgTGFyZ2UgTGFuZ3VhZ2UgTW9kZWw%3D
@@ -2414,7 +2422,8 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
  https://www.youtube.com/@cs50
 
 
-
+* **Ahead of AI magazine by Sebastian Raschka**
+    https://magazine.sebastianraschka.com/archive
 
 
 * **Edx:** cs50.edx.org
