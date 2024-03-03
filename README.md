@@ -1659,6 +1659,7 @@ Google Cloud Generative AI Learning Path
      - Transformer Models and BERT Model  https://www.cloudskillsboost.google/course_templates/538
      - Generative AI Explorer - Vertex AI  https://www.cloudskillsboost.google/quests/299
 
-
+* **Microsoft Resesrch Blog**
+https://www.microsoft.com/en-us/research/blog/
 
 
