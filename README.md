@@ -2400,10 +2400,11 @@ This is CS50, Harvard University's introduction to the intellectual enterprises 
 
 * **FreeCodeCamp** https://www.youtube.com/@freecodecamp
 
-* Generative AI Full course - Gemini Pro, openAI, Llama, Langchain, Pinecone, vector databases and more,
-https://youtu.be/mEsleV16qdo?si=K4ZFHW2ZRG7EtL3Q
+* Generative AI Full course - Gemini Pro, openAI, Llama, Langchain, Pinecone, vector databases and more, https://youtu.be/mEsleV16qdo?si=K4ZFHW2ZRG7EtL3Q
 
+* The AiEdge
 
+  https://www.linkedin.com/company/the-aiedge-newsletter/posts/?feedView=all
 
 
 * **Create a Large Language Model from Scratch with Python – Tutorial** https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s
