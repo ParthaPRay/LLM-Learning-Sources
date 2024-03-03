@@ -1436,9 +1436,8 @@ The hash of a vector under the LSH hashing process is a binary vector. To measur
    * ML pipeline with Pandas and Sklearn, https://www.youtube.com/watch?v=Zpy9npXnW00&ab_channel=RicardoCalix
    * LangChain for LLM Application Development, https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
 
-   * MLOps
    
-   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/50380163-29bc-4861-93b8-04cb6469d7c5)
+   
 
 
 
