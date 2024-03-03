@@ -174,7 +174,40 @@ The typical strategy used in most modern LLMs (GPT-1, GPT-2, GPT-3, ChatGPT, Lla
 The size of the dictionary becomes a hyperparameter that we can adjust based on our training data. For example, GPT-1 has a dictionary size of ~40K merges, GPT-2, GPT-3, ChatGPT have a dictionary size of ~50K, and Llama 2 only 32K.
 
 
+* The RNN Encoder-Decoder Architecture
 
+  https://lnkd.in/gnGFsdJe
+  
+ ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/65ba0423-f978-43cf-bf7e-6a62ca5f0221)
+
+
+* Attention mechanisms before transformers
+  
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ce5357f6-ca08-42a3-bbf8-910fdfe64bfd)
+
+  The Attention Mechanism didn't start with Transformers! It was designed to alleviate typical weaknesses related to RNN. The idea was to be able to predict the next word in a sentence by taking into account the signal of all the words in the input sentence.
+
+It was proposed in 2014 by Bahdanau and later improved by Luong in 2015, and it solved some concerns that were seen in the RNN encoder-decoder architecture. Recurring networks generate two types of output vectors: the output vectors at the last layer for each of the input words and the hidden states at the last time step for each layer in the recurring network. Because we may want to generate an output sequence that has a different size than the input sequence, it was considered a better idea to use the hidden states from the encoder encoding the input sequence that would be independent of the input sequence size. This tensor would be used as input to the decoder that was used to decode the output sequence. The hidden states are a tensor representation of the input sequence, but they lose the information related to the different words and their order. The Attention mechanism was just a way to use the output vectors instead that were dependent on the input sequence size and provide more refined information about the input sequence.
+
+* Attention is all you need
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/e8006c86-140e-407d-bf4b-f52d8e41f426)
+  
+  Transformers are taking every domain of ML by storm! I think it is becoming more and more important to understand the basics, so pay attention because Attention is there to stay!
+
+At the center of Transformers is the self-attention mechanism, and once you get the intuition, it is not too difficult to understand. Let me try to break it down:
+
+As inputs to a transformer, we have a series of contiguous inputs, for example, words (or tokens) in a sentence. When it comes to contiguous inputs, it is not too difficult to see why time series, images, or sound data could fit the bill as well.
+
+Each has its vector representation in an embedding matrix. As part of the attention mechanism, we have 3 matrices Wq, Wk, and Wv, that project each of the input embedding vectors into 3 different vectors: the Query, the Key, and the Value. This jargon comes from retrieval systems, but I don't find them particularly intuitive!
+
+For each word, we take its related Key vector and compute the dot products to the Query vectors of all the other words. This gives us a sense of how similar the Queries and the Keys are, and that is the basis behind the concept of "attention": how much attention should a word pay to another word in the input sequence for the specific learning task? A Softmax transform normalizes and further accentuates the high similarities of the resulting vector. This resulting matrix is called the self-attentions!
+
+This results in one vector for each word. For each of the resulting vectors, we now compute the dot products to the Value vectors of all the other words. We now have computed hidden states or context vectors!
+
+Repeat this process multiple times with multiple attention layers, and this gives you a multi-head attention layer. This helps diversify the learning of the possible relationships between the words. The resulting hidden states are combined into final hidden states by using a linear layer.
+
+The original Transformer block is just an attention layer followed by a set of feed-forward layers with a couple of residual units and layer normalizations. A "Transformer" model is usually multiple Transformer blocks, one after the other. Most language models follow this basic architecture. I hope this explanation helps people trying to get into the field!
 
 
 
@@ -640,7 +673,21 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 **RAG = Dense vector Retrieval (R) + In-Contsxt learning (AG)**
 
 
+  * 
 
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/392ce5b1-b086-4416-a463-00215782aba6)
+
+    Text is not the only data type we use in RAG pipelines! We are still in the infancy of Generative AI, and text is now the primary information that we feed to LLMs, but that is going to change quickly! There is a lot more information contained in the different documents we use on a daily basis beyond just text data. 
+
+For example, GPT-4, Bard, and LlaVA are multimodal LLMs that can ingest images as well as text. The images are passed through a Vision Transformer, resulting in visual tokens. The visual tokens are then passed through a projection layer that specializes in aligning visual tokens with text tokens. The visual and text tokens are then provided to the LLM, which cannot make the difference between the different data modes. 
+
+In the context of RAG, the LLM plays a role at indexing time, where it generates a vector representation of the data to index it in a vector database. It is also used at retrieval time, where it uses the retrieved documents to provide an answer to a user question. A multimodal LLM can generate embedding representations of images and text and answer questions using those same data types. If we want to answer questions that involve information in different data modes, using a multimodal LLM at indexing and retrieval time is the best option.
+
+If you want to build your RAG pipeline using API providers like OpenAI, there are currently no available options for multimodal LLMs. However, OpenAI is likely to release its API to ingest images with GPT-4 pretty soon, so it will be available for question-answering using multimodal prompts. Even if it is available for text generation, it might not be available for embedding generation. Remains creating embedding for images then? This can be achieved by prompting a multimodal LLM to describe in text the images we need to index. We can then index the images using the text descriptions and their vector representations.
+
+The complexity of generating a text description of an image is not the same as answering questions using a large context of different data types. With a small multimodal LLM, we might get satisfactory results in describing images but subpar results in answering questions. For example, it is pretty simple to build an image description pipeline with [LlaVA models](https://huggingface.co/mys/ggml_llava-v1.5-7b/tree/main)  and Llama.cpp as [LLM backbone](https://github.com/ggerganov/llama.cpp). Those descriptions can be used for indexing as well as for answering questions that may involve those images. The LLM answering questions would use the text description of images instead of the images themselves. Today that might be the simplest option to build a multimodal RAG pipeline. It might not be as performant, but the technology is going to improve very fast! 
+
+     
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
   * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
