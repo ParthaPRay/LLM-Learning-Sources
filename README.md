@@ -714,6 +714,57 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 # Vector Database and Embeddings 
 
 
+
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5722e5f6-e3d6-473a-86c0-25ce3cc6cc1d)
+
+         We have recently seen a surge in vector databases in this era of generative AI. The idea behind vector databases is to index the data with vectors that relate to that data. Hierarchical Navigable Small World (HNSW) is one of the most efficient ways to build indexes for vector databases. The idea is to build a similarity graph and traverse that graph to find the nodes that are the closest to a query vector. 
+
+Navigable Small World (NSW) is a process to build efficient graphs for search. We build a graph by adding vectors one after the other and connecting each new node to the most similar neighbors.
+
+When building the graph, we need to decide on a metric for similarity such that the search is optimized for the specific metric used to query items. Initially, when adding nodes, the density is low, and the edges will tend to capture nodes that are far apart in similarity. Little by little, the density increases, and the edges start to be shorter and shorter. As a consequence, the graph is composed of long edges that allow us to traverse long distances in the graph and short edges that capture closer neighbors. Because of it, we can quickly traverse the graph from one side to the other and look for nodes at a specific location in the vector space.
+
+When we want to find the nearest neighbor to a query vector, we initiate the search by starting at one node (i.e., node A in that case). Among its neighbors (D, G, C), we look for the closest node to the query (D). We iterate over that process until there are no closer neighbors to the query. Once we cannot move anymore, we found a close neighbor to the query. The search is approximate, and the found node may not be the closest as the algorithm may be stuck in a local minima. 
+
+The problem with NSW, is we spend a lot of iterations traversing the graph to arrive at the right node. The idea for Hierarchical Navigable Small World is to build multiple graph layers where each layer is less dense compared to the next. Each layer represents the same vector space, but not all vectors are added to the graph. Basically, we include a node in the graph at layer L with a probability P(L). We include all the nodes in the final layer (if we have N layers, we have P(N) = 1), and the probability gets smaller as we get toward the first layers. We have a higher chance of including a node in the following layer, and we have P(L) < P(L + 1).
+
+The first layer allows us to traverse longer distances at each iteration, whereas in the last layer, each iteration will tend to capture shorter distances. When we search for a node, we start first in layer 1 and go to the next layer if the NSW algorithm finds the closest neighbor in that layer. This allows us to find the approximate nearest neighbor in fewer iterations on average.
+
+
+
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5454d672-52e0-4e27-8cd4-9665c6f09702)
+
+
+          Vector databases are often used for recommender engines, where we learn vector representations of users and items we want to recommend. This allows to quickly find similar items by using an approximate nearest neighbor search. As long as we can learn a vector representation of a piece of data, we can index it in a vector database. With the recent advent of LLMs, it became easier to compute vector representations of text documents, capturing the semantic meaning of that text, and vector databases make it easier to find semantically similar text documents.
+
+When looking for the nearest neighbors, it is often not important to be perfectly accurate. Product Quantization (PQ) is a way to quantize the vector space to represent vectors with less precision. The idea is to cluster vectors and index the cluster centroids instead of the vectors themselves. When looking for the nearest neighbors to a query vector, we just need to pull the vectors from the closest clusters. It is a faster search, and indexing the vectors takes much less memory space.
+
+We first need to partition each vector into smaller vectors and run a K-means algorithm on each partition. Instead of indexing the vectors, we index the centroid of the clusters they belong to. If we use 2 clusters per partition and have 6 vectors, that's 3X data compression. Obviously, compression would be much higher with more vectors. Each vector now maps to a set of clusters and their related centroids.
+
+If we want to find the nearest neighbors from a query vector, we measure the squared Euclidean distance for each cluster in each partition and return the vectors with the lowest summed squared Euclidean distances.
+
+Instead of having to iterate through each vector, we just need to iterate through the clusters' centroids. There is a balance between search latency and accuracy. The more clusters we use, the better the hash will be and the more accurate the returned nearest neighbors, but it will increase the search latency as we will need to iterate through more clusters.
+
+This is still a brute force approach as the algorithm scales with the number of clusters, but it can be used in combination with other algorithms to have blasting fast retrieval.
+
+
+
+
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/e327ce0e-82d1-4b85-8aa0-69d9286f57a6)
+
+         There are tons of vector database providers: Pinecone, Deep Lake, Milvus, Qdrant, Weaviate, ... They all tend to provide similar capabilities with efficient similarity search, optimized storage formats for AI applications, unstructured data accessibility, and cloud-native infrastructure. Most of the game is about how to index billions of vectors for fast retrieval. One such indexing algorithm is Locality-sensitive hashing (LSH).
+
+LSH aims to group vectors together based on similarity. For example, we could partition the vector space into multiple buckets, and we could call “nearest neighbors” whatever vectors belong to the same bucket. In practice, it is done a bit differently. An efficient way to partition the space is to project the vectors onto a space of a specific dimensionality and “binarize“ each component. The projection is done using a random matrix M of dimension (C, R) where C is the dimension of the original vector V and R is the dimension of the space we want to project the vectors into
+
+V' = V. M
+
+For example, if C = 2 and R = 3, we would project from a plane to a 3D space. We can now partition the space with regions above and below the hyperplanes passing by the origin. If we have, for example, a vector A = [0.5, -1.5, 0.3], we look at each of the components and assign a 1 if it is positive and 0 otherwise. The vector A would be hashed to [1, 0, 1] under that process. Every vector assigned the same hash will be close in the vector space and can be labelled “nearest neighbors”. The time complexity to hash a vector V is O(R x C + R) = O(R x C), and retrieving the vectors with the same hash can be done in constant time.
+
+The hash of a vector under the LSH hashing process is a binary vector. To measure how different 2 binary vectors are, we use the Hamming Distance. The Hamming distance counts the number of times 2 strings have different characters. When we have strings of binary numbers, the Hamming distance can be computed using the XOR operation, and the number of resulting 1s can be counted.
+
+
 * **LanceDB**, a free, open-source, serverless vectorDB that requires no setup.   It integrates into python data ecosystem so you can simply start using these in your existing data pipelines in pandas, arrow, pydantic etc. LanceDB has native Typescript SDK using which you can run vector search in serverless functions!
   
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fb5edda5-8ac4-4e28-9c59-3f220604f444)
