@@ -872,6 +872,11 @@ To do that, we need to construct a data set where pairs of related (Question, an
       
         https://www.e2enetworks.com/blog/rag-vs-fine-tuning-how-to-optimize-llm-performance#:~:text=Trade%2Doffs%3A%20Fine%2Dtuning%20may%20provide%20more%20control%20over,reliability%20of%20the%20knowledge%20base.
 
+ * **Full-model Fine-tuning vs. LoRA vs. RAG**
+
+   https://www.blog.dailydoseofds.com/p/full-model-fine-tuning-vs-lora-vs
+  
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2cf1fe15-b60d-492a-8792-3219f9a6ad39)
 
 
  * **Trade-Offs**
