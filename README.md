@@ -696,7 +696,9 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
   Base repositories https://github.com/microsoft/graspologic
 
   Comparison, https://arxiv.org/pdf/2303.08896.pdf
-    
+
+  Baseline RAG compared with LangChain's Q&A
+ https://python.langchain.com/docs/use_cases/question_answering/
 
 
 
