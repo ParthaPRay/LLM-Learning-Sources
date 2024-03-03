@@ -683,9 +683,19 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   * Superior RAGs for complex PDFs with LlamaParse
 
-     https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
+https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
-  
+ * GraphRAG
+
+   https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
+
+  https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/
+
+  Violent Incident Information from News Articles (VIINA)  https://github.com/zhukovyuri/VIINA
+
+  Base repositories https://github.com/microsoft/graspologic
+
+  Comparison, https://arxiv.org/pdf/2303.08896.pdf
     
 
 
