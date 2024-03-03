@@ -142,6 +142,46 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 # Transformers
 
+
+ Want to understand the Transformer architecture?
+
+   - the encoder
+   - the decoder
+   - the position embedding
+   - the encoder block
+   - the self-attention layer
+   - the layer-normalization
+   - the position-wise feed-forward network 
+   - the decoder block
+   - the cross-attention layer
+   - the predicting head
+  
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/4e058dd1-f753-4728-a5b5-a16547b9cbb9)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/345e49b2-d3fc-4493-ae97-724910c242de)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/f0a2092b-6b21-4a01-aa3a-6cbd54a8946f)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1d85bd3e-29c3-4b24-840f-6e235246e6be)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/78e4d46c-50cf-4e40-a2bf-98ba17b8d53b)
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/64d0f0f3-b434-4532-b421-73c2c19bd48d)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/6856f4e1-ce64-4eb9-bae0-1b4ac7198e81)
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/713b6435-7152-4944-8a78-ac2427a25505)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fb067d72-b164-49e0-952a-780dd238ffac)
+
+
+
 * What are Transformers and GPTs?, https://www.youtube.com/watch?v=ucityipiNtA&ab_channel=RicardoCalix
 
 * High overview of the original Transformer architecture for Large Language Models, https://www.youtube.com/watch?v=zxVhAYkSYcY&ab_channel=RicardoCalix
@@ -909,6 +949,22 @@ The hash of a vector under the LSH hashing process is a binary vector. To measur
          
          Quantization-Aware Training (QAT): this refers to methods of fine-tuning on data with quantization in mind. In contrast to PTQ techniques, QAT integrates the weight conversion process, i.e., calibration, range estimation, clipping, rounding, etc., during the training stage. This often results in superior model performance, but is more computationally demanding. 
 
+
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/dcde7a2d-d48e-47c9-8b16-e20082e02410)
+  
+ Not too long ago, the largest Machine Learning models most people would deal with merely reached a few GB in memory size. Now, every new generative model coming out is between 100B and 1T parameters! To get a sense of the scale, one float parameter that's 32 bits or 4 bytes, so those new models scale between 400 GB to 4 TB in memory, each running on expensive hardware. Because of the massive scale increase, there has been quite a bit of research to reduce the model size while keeping performance up. There are 5 main techniques to compress the model size.
+
+- Model pruning is about removing unimportant weights from the network. The game is to understand what "important" means in that context. A typical approach is to measure the impact on the loss function of each weight. This can be done easily by looking at the gradient and second-order derivative of the loss. Another way to do it is to use L1 or L2 regularization and get rid of the low-magnitude weights. Removing whole neurons, layers or filters is called "structured pruning" and is more efficient when it comes to inference speed.
+
+- Model quantization is about decreasing parameter precision, typically by moving from float (32 bits) to integer (8 bits). That's 4X model compression. Quantizing parameters tends to cause the model to deviate from its convergence point, so it is typical to fine-tune it with additional training data to keep model performance high. We call this "Quantization-aware training". When we avoid this last step, it is called "Post training quantization", and additional heuristic modifications to the weights can be performed to help performance.
+
+- Low-rank decomposition comes from the fact that neural network weight matrices can be approximated by products of low-dimension matrices. A N x N matrix can be approximately decomposed into a product of 2 N x 1 matrices. That's an O(N^2) -> O(N) space complexity gain! 
+
+- Knowledge distillation is about transferring knowledge from one model to another, typically from a large model to a smaller one. When the student model learns to produce similar output responses, that is response-based distillation. When the student model learns to reproduce similar intermediate layers, it is called feature-based distillation. When the student model learns to reproduce the interaction between layers, it is called relation-based distillation. 
+
+- Lightweight model design is about using knowledge from empirical results to design more efficient architectures. That is probably one of the most used methods in LLM research.
+   
 
 * Quantization
 
