@@ -1586,7 +1586,8 @@ Discussion of this page on Hacker News [https://news.ycombinator.com/item?id=360
 
 * Super VIP Cheatsheet: Deep Learning
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1192964a-eb41-47f8-9a6b-c86f2f4b2a62)
+
 
   https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf
 
