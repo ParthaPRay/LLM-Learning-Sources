@@ -102,6 +102,10 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * Flash Attention 2.0 with Tri Dao (author)! | Discord server talks, https://www.youtube.com/watch?v=IoMSGuiwV3g&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
 
 
+* How to shard LLMs locally, https://youtu.be/F0pkj2trRcI?si=zAsZmmbhsp1wqlBe
+
+
+
       **Mixture of Experts (MoEs)**
       
         * Mixture of Experts Explained
