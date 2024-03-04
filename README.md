@@ -1134,6 +1134,29 @@ workshop with LlamaIndex,
 https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
 
+* RAGArch: Building a No-Code RAG Pipeline Configuration & One-Click RAG Code Generation Tool Powered by LlamaIndex
+
+  https://www.llamaindex.ai/blog/ragarch-building-a-no-code-rag-pipeline-configuration-one-click-rag-code-generation-tool-powered-b6e8eeb70089
+
+  https://github.com/AI-ANK/RAGArch
+
+  https://huggingface.co/spaces/AI-ANK/RAGArch
+
+* MultiModal RAG for Advanced Video Processing with LlamaIndex & LanceDB
+
+  https://www.llamaindex.ai/blog/multimodal-rag-for-advanced-video-processing-with-llamaindex-lancedb-33be4804822e
+
+  https://github.com/run-llama/llama_index/blob/main/docs/examples/multi_modal/multi_modal_video_RAG.ipynb
+
+
+* Introducing LlamaCloud and LlamaParse for production-grade context-augmentation to LLM and RAG applications
+
+  https://github.com/run-llama/llama_parse
+
+  https://github.com/run-llama/llama_parse/blob/main/examples/demo_basic.ipynb
+  
+  https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+
 
 
 
