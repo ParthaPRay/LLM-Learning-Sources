@@ -2378,41 +2378,52 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 # Youtube Channels
 
 * **Mervin Praison** https://www.youtube.com/@MervinPraison
+* **James Briggs** https://www.youtube.com/@jamesbriggs     **************** 
+* **AI Anytime** https://www.youtube.com/@AIAnytime      ****************
+* **All About AI** https://www.youtube.com/@AllAboutAI    ****************
+* **Sam Witteveen** https://www.youtube.com/@samwitteveenai     ****************
+* **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial     ****************
+* **AI Makerspace** https://www.youtube.com/@AI-Makerspace     ****************
+* **AssemblyAI** https://www.youtube.com/@AssemblyAI     ****************
+* **Venelin Valkov** https://www.youtube.com/@venelin_valkov  ****************
+* **Trelus Research** https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4  ****************
+* **Ricardo Calix**, https://www.youtube.com/@ricardocalix188  ****************
+* **Connor Shorten** https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy ****************
+* **Julien Simon** https://www.youtube.com/@juliensimonfr    ****************
+* **Matthew Berman** https://www.youtube.com/@matthew_berman  ****************
+* **DataScience Basics** https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
+* **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany    ****************
+  https://github.com/gordicaleksa
+
+* **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws    ****************
+   www.heatonresearch.com
+  
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
+
 * **WorldofAI** https://www.youtube.com/@intheworldofai
+
 * **AlejzndroAO Software and AI**, https://youtube.com/@alejandro_ao?si=1TRHMqnIpQGUjJG6
 * **Arize AI**  https://www.youtube.com/@arizeai/videos
 * **Learn Data With Mark** https://youtube.com/@learndatawithmark?si=Sf7QWUJd6Jn2K5CR
 * **SkillCurb** https://www.youtube.com/@skillcurb
-* **Venelin Valkov** https://www.youtube.com/@venelin_valkov
-* **Ricardo Calix**, https://www.youtube.com/@ricardocalix188
-* **Seth Juarez**
-https://www.youtube.com/@sethjuarez
+* **Seth Juarez** https://www.youtube.com/@sethjuarez
 * **Nicholas Renotte** https://www.youtube.com/@NicholasRenotte/
-* **Trelus Research** https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4
 * **Mat Williams** https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
-* **Connor Shorten** https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy
 * **Ian Wootten** https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
 * **AI for Devs** https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
+  
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
+
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
 * **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
-* **Matthew Berman** https://www.youtube.com/@matthew_berman
 * **AI Flux**  https://www.youtube.com/@aifluxchannel
-* **Julien Simon** https://www.youtube.com/@juliensimonfr
 * **AI Jason** https://www.youtube.com/@AIJasonZ
 * **Abhishek Thakur** https://www.youtube.com/@abhishekkrthakur
 * **Decoder** https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
-* **James Briggs** https://www.youtube.com/@jamesbriggs
-* **AI Anytime** https://www.youtube.com/@AIAnytime
-* **All About AI** https://www.youtube.com/@AllAboutAI
-* **Sam Witteveen** https://www.youtube.com/@samwitteveenai
-* **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial
-* **AI Makerspace** https://www.youtube.com/@AI-Makerspace
-* **AssemblyAI** https://www.youtube.com/@AssemblyAI
+
 * **Entry Point AI** https://www.youtube.com/@EntryPointAI
 * **Steve (Builder.io)** https://www.youtube.com/@Steve8708
 * **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
@@ -2423,25 +2434,18 @@ https://www.youtube.com/@sethjuarez
 * **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
 * **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
 * **Rob Mulla** https://www.youtube.com/@robmulla
-* **Edward Hu**
-https://edwardjhu.com/
-* **Deploying AI**
-https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
+* **Edward Hu** https://edwardjhu.com/
+* **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **llmware** https://www.youtube.com/@llmware/videos
 * **DataInsightEdge** https://www.youtube.com/@DataInsightEdge01
-* **DataScience Basics** https://www.youtube.com/@llmware
-https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
-* **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany
-  https://github.com/gordicaleksa
+* **LLmware** https://www.youtube.com/@llmware
+
 * **AI Papers Academy**  https://www.youtube.com/@aipapersacademy
 * **Predibase**
   https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
   
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 
-      * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
-      
-           www.heatonresearch.com
 
 
 
