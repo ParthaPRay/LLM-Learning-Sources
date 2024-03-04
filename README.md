@@ -1093,6 +1093,45 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 https://youtu.be/IPbv5Fs3mis?si=5_frUdnXNLoVJEpM
 
 
+* How to use Langchain with multimodal AI to analyze images in financial reports using langchain and GPT-4
+  
+  https://youtu.be/Rcqy92Ik6Uo?si=PPeKxtD5GHArV9iN
+
+  https://docs.google.com/presentation/d/1EJqIvYGbF5IGHX7orXaUSKVN3PVbQh7kOP7m5BEoyKQ/edit?usp=sharing
+
+  https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
+
+
+
+* How to analyze tables in large financial reports using GPT-4 with LkamaIndex
+
+  https://youtu.be/xT6JpDELKPg?si=nULiN7_jpQXExfhH
+
+
+https://docs.google.com/presentation/d/1ug9jHtMFsGjNV7zp85hPUNjiiCGKz53wQb9mZh0B_ZI/edit?usp=sharing
+
+https://colab.research.google.com/drive/1DldMhszgSI4KKI2UziNHHM4w8Cb5OxEL#scrollTo=Ht4oSN2PvzUJ
+
+
+
+* A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+
+https://www.youtube.com/live/uVqrZhNdUAI?si=58gCEN7BW613l43a
+
+https://github.com/Azure-Samples/azure-search-openai-demo
+
+
+* Going Meta - ep 22: RAG with knowledge graph, neo4j
+
+https://www.youtube.com/live/9DxwgIKVSHY?si=nXqLEDVbcWwfmzqf
+
+https://github.com/jbarrasa/goingmeta
+
+
+* Bhuilding RAG with knowledge graphs
+workshop with LlamaIndex, 
+  
+https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
 
 
@@ -1356,7 +1395,14 @@ When a user inputs a text or image query, we need to return a list of images. Th
 * Nomic's new embedding model : nomic-embed-text, 
   https://youtu.be/LpcaeQZDVB8?si=VrJzmRSrwJRxHwzv
 
-    
+* Crazy fast RAG, Ollama, Nomic embedding model, groq
+  
+  https://youtu.be/TMaQt8rN5bE?si=4KnO2DFdVYiWjkg6
+
+
+
+
+
 
 
 
