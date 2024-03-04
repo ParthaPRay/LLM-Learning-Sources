@@ -716,14 +716,22 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
   * Fine-tuning Zephyr-7B to znalyze customer support call logs
 
- https://youtu.be/cwT5JAqtTM4?si=x5NZgXKzgNx6xlt-
+   https://youtu.be/cwT5JAqtTM4?si=x5NZgXKzgNx6xlt-
 
-https://pbase.ai/ZephyrWebinarSlides
+    https://pbase.ai/ZephyrWebinarSlides
 
-https://pbase.ai/ZephyrCustomerSupport
+   https://pbase.ai/ZephyrCustomerSupport
 
 
-  * Fine-tuning a large language model on Kaggle Notebooks (or even on your own computer) for solving real-world tasks
+  * Fine tuning LLMs for Memorization
+
+    https://www.youtube.com/watch?v=_GkHZQYFOGM&ab_channel=TrelisResearch
+
+    https://docs.google.com/presentation/d/1Un-H9d3ghlR23VddD3aR8aSWHHg9vjIwvYC45o0Vn7g/edit?usp=sharing
+
+    https://huggingface.co/datasets/Trelis/touch-rugby-rules-memorisation
+    
+  *  Fine-tuning a large language model on Kaggle Notebooks (or even on your own computer) for solving real-world tasks
   
     https://huggingface.co/blog/lmassaron/fine-tuning-llms-on-kaggle-notebooks
 
