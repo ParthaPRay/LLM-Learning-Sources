@@ -714,8 +714,17 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
     https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
-  * Fine-tuning a large language model on Kaggle Notebooks (or even on your own computer) for solving real-world tasks
+  * Fine-tuning Zephyr-7B to znalyze customer support call logs
 
+ https://youtu.be/cwT5JAqtTM4?si=x5NZgXKzgNx6xlt-
+
+https://pbase.ai/ZephyrWebinarSlides
+
+https://pbase.ai/ZephyrCustomerSupport
+
+
+  * Fine-tuning a large language model on Kaggle Notebooks (or even on your own computer) for solving real-world tasks
+  
     https://huggingface.co/blog/lmassaron/fine-tuning-llms-on-kaggle-notebooks
 
          Code references:
@@ -1079,6 +1088,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
 * Beyond RAG:How to Build an App with LOCAL LLMs to Generate Custom Datasets to Fine-tune Your LLMs, https://www.youtube.com/watch?v=vBC6Ym0cb0Y&ab_channel=DataInsightEdge
 
+* How to use MongoDB as vector store for RAG -Atlas vector search index,
+
+https://youtu.be/IPbv5Fs3mis?si=5_frUdnXNLoVJEpM
+
+
 
 
 
@@ -1127,6 +1141,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
  * Deep Dive: How to Build a Smart Chatbot in 10 mins with LangChain
 
    https://newsletter.theaiedge.io/p/deep-dive-building-a-smart-chatbot
+
+
+
+
+
 
 
    
@@ -2345,7 +2364,10 @@ https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
 * **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany
   https://github.com/gordicaleksa
-* **AI Papers Academy**  https://www.youtube.com/@aipapersacademy 
+* **AI Papers Academy**  https://www.youtube.com/@aipapersacademy
+* **Predibase**
+  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+  
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 
       * **Jeff Heaton** https://youtube.com/@HeatonResearch?si=hfcA9vNxWsk05Uws
