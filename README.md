@@ -1386,6 +1386,15 @@ When a user inputs a text or image query, we need to return a list of images. Th
   
   https://github.com/lancedb/vectordb-recipes/tree/main
 
+
+* Building Multi-Modal Search with Vector Databases
+  
+ https://www.youtube.com/watch?v=3WUobZryyok&t=6s&ab_channel=DeepLearningAI
+
+https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSpuSM/edit?usp=sharing
+
+
+
 * **Fastmbed**, FastEmbed is a lightweight, fast, Python library built for embedding generation. We support popular text models. Please open a Github issue if you want us to add a new model.
 
    https://www.youtube.com/watch?v=1mMLVQE11Io&ab_channel=LearnDatawithMark
@@ -2106,6 +2115,20 @@ https://lnkd.in/g-w3hFz
 https://lnkd.in/giQrUzfq
    
 
+* Machine Learning Engineering for Production (MLOps) 
+
+  https://www.youtube.com/watch?v=NgWujOrCZFo&list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&ab_channel=DeepLearningAI
+  
+
+
+
+
+
+# LLM Threats
+
+* Navigating LLM Threats: Detecting Prompt Injections and Jailbreaks
+
+ https://www.youtube.com/watch?v=kH4ZoZSvddM&ab_channel=DeepLearningAI
 
 
 
