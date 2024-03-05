@@ -599,8 +599,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
      https://tailscale.com/
 
-  
+ *  Using Ollama as a local LLM for chat apps
 
+  https://www.youtube.com/watch?v=zEN_oKrttK0&ab_channel=PamelaFox
 
 
 
@@ -708,7 +709,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
 
     https://newsletter.theaiedge.io/p/the-aiedge-how-to-fine-tune-large
-    
+
+  * NODES 2023 - Fine-Tuning an Open-Source LLM for Text-to-Cypher Translation
+    https://www.youtube.com/watch?v=TB6URe5f3MA&ab_channel=Neo4j
     
   * Fine-tuning a Code LLM on Custom Code on a single GPU
 
@@ -1266,7 +1269,21 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
  https://python.langchain.com/docs/use_cases/question_answering/
 
 
+* AI RAG Chat App Evaluation,
 
+  https://www.youtube.com/watch?v=mM8pZAI2C5w&ab_channel=PamelaFox
+
+  https://github.com/Azure-Samples/ai-rag-chat-evaluator
+
+  developed by using https://github.com/Azure-Samples/azure-search-openai-demo/
+
+* AI RAG Chat App: CI/CD Deployment, 
+
+  https://www.youtube.com/watch?v=GMy3v6UXkYs&ab_channel=PamelaFox  
+  
+   https://github.com/Azure-Samples/azure-search-openai-demo/
+
+  
 
 
 
@@ -1431,10 +1448,18 @@ When a user inputs a text or image query, we need to return a list of images. Th
   https://youtu.be/TMaQt8rN5bE?si=4KnO2DFdVYiWjkg6
 
 
+* RAG Databases with Johannes Jolkkonen: When to Choose a Graph Database vs Alternatives
+
+  https://www.youtube.com/watch?v=1Iuuvk6yJME&ab_channel=Neo4j
+
+* Pdf reader using genai-stack using Langchain + Docker + Neo4j + Ollama
+
+  https://github.com/docker/genai-stack/blob/main/pdf_bot.py
 
 
+* NODES 2023 - Using LLMs to Convert Unstructured Data to Knowledge Graphs
 
-
+ https://www.youtube.com/watch?v=qLdkRReMPvM&ab_channel=Neo4j
 
 
 
@@ -1930,8 +1955,24 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
 , https://www.youtube.com/live/NdF609kO8FY?si=OLcaLpy3ALBUeOUF
 
 
-    
+* Claude 3 Function Calling: How to Integrate your own Software?, https://www.youtube.com/watch?v=LuBROahHvfo&ab_channel=MervinPraison
 
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a0853d80-410f-4f36-99b4-00762ebbfd1f)
+
+  
+* I Created AI Assistants to Automate Recruitment Process: Crew AI
+
+   https://www.youtube.com/watch?v=OQJ4gp70Zg0&ab_channel=MervinPraison
+
+* Building Production-Grade LLM Apps
+
+  https://www.youtube.com/watch?v=fo0F-DAum7E&ab_channel=DeepLearningAI
+
+
+
+
+    
+  
 
 # LPU
 
