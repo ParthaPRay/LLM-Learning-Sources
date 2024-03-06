@@ -1216,6 +1216,10 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
    https://newsletter.theaiedge.io/p/deep-dive-building-a-smart-chatbot
 
 
+ * Building long context RAG with RAPTOR from scratch
+   
+   https://youtu.be/jbGchdTL7d0?si=8AgkTzEqy9VKN_LX
+
 
 
 
