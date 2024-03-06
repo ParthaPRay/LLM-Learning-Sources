@@ -628,6 +628,8 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
+
+
 # Fine Tuning
 
 
@@ -723,6 +725,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   * Fine-Tuning HF examples on GPU Scholar, scratch disk space, https://www.youtube.com/watch?v=_S01y-JY8k4&ab_channel=RicardoCalix
 
   * Fine-tune Multi-modal Vision and Language Models, https://www.youtube.com/watch?v=eIziN2QUt8U&ab_channel=TrelisResearch
+
+ * Fine-Tuning Gemma Models in Hugging Face
+
+   https://huggingface.co/blog/gemma-peft
+
  
   * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
 
