@@ -405,6 +405,17 @@ The AiEdge tried to use the non-official Bard API (https://lnkd.in/gJUGA4fV) but
 The AiEdge would have loved to get Claude 2 to participate but Anthropic keeps "forgetting" to provide API access to their customers. The AiEdge used a chess engine (https://lnkd.in/dG8TvhBQ) to compare and it crushed any of the LLMs in a few moves every time. It seems that LLMs are unable to form coherent strategies to solve these kinds of problems. LLMs are not ready to replace us anytime soon!
 
 
+* Merge Large Language Models with mergekit
+  https://huggingface.co/blog/mlabonne/merge-models
+
+
+https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
+
+
+
+
+
+
 
 # Transformers
 
@@ -507,6 +518,13 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 Nothing in the Transformer architecture is intrinsically bound to NLP applications! As long as you can format your data into a sequence of vectors, you can feed it to a Transformer. It might feel odd to think about an image as a sequence of vectors, though.
 
 The idea is to build visual tokens by breaking down the image into patches of pixels and flattening them down into vectors through a linear transformation. With a convolutional layer, we can transform an image into a sequence of vectors in one shot. As soon as we have vectors, we can pass them into a Transformer, as you would any textual tokens. 
+
+
+
+
+
+
+
 
 
 
