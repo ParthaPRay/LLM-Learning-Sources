@@ -1522,6 +1522,11 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
    * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments
       
         https://lightning.ai/pages/community/lora-insights/
+
+
+    * PEFT welcomes new merging methods
+
+https://huggingface.co/blog/peft_merging
       
    * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
       
