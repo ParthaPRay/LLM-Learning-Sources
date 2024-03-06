@@ -411,7 +411,9 @@ The AiEdge would have loved to get Claude 2 to participate but Anthropic keeps "
 
 https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
 
-
+* Merge LLMs with Mergekit: create your own medical mixture of experts
+  
+  https://youtu.be/eKDz-K3UvbY?si=limrl7Raf86bdqS7
 
 
 
