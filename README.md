@@ -769,6 +769,13 @@ The idea is to build visual tokens by breaking down the image into patches of pi
    https://pbase.ai/ZephyrCustomerSupport
 
 
+* Building an LLM fine-tuning dataset,
+  
+https://youtu.be/pCX_3p40Efc?si=UKvB7DSVb366Zzbe
+
+https://github.com/Sentdex/LLM-Finetuning
+
+
   * Fine tuning LLMs for Memorization
 
     https://www.youtube.com/watch?v=_GkHZQYFOGM&ab_channel=TrelisResearch
