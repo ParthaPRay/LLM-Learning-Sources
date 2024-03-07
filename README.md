@@ -153,6 +153,14 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   A timeline of some representative LLM datasets. Orange represents pre-training corpora, yellow represents instruction fine-tuning datasets, green represents preference datasets, and pink represents evaluation datasets
 
 
+
+* GPT-Fast - blazingly fast inference with PyTorch (w/ Horace He)
+  
+  https://www.youtube.com/watch?v=18YupYsH5vY&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+  https://github.com/pytorch-labs/gpt-fast
+  
+
 * 3 ways to train LLMs
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/59fa5381-a0ad-4508-9637-07ca37c1937d)
