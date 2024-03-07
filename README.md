@@ -807,6 +807,15 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     https://huggingface.co/blog/dpo-trl
 
 
+  * Practical Fine-Tuning of LLMs
+
+    https://www.youtube.com/watch?v=Jp-6hyf_CoE&ab_channel=AIMakerspace
+
+    https://www.canva.com/design/DAF-v_5WxcU/s2SCPuVA7ikGR0VSJOG6Rw/view?utm_content=DAF-v_5WxcU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+    
+    https://colab.research.google.com/drive/1Jw9jthx_S62MPwKH9lqb6xPRwec4OiI6?usp=sharing
+    
+
   * Fine-tuning Llama 2 70B using PyTorch FSDP
     
     https://huggingface.co/blog/ram-efficient-pytorch-fsdp
