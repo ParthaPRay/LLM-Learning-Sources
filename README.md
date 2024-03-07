@@ -646,8 +646,6 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
-
-
 # Fine Tuning
 
 
@@ -845,6 +843,14 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   supervised fine tuning 
   https://huggingface.co/docs/trl/main/en/sft_trainer
+
+
+* Building with Instruction-Tuned LLMs: A Step-by-Step Guide
+
+  https://www.youtube.com/watch?v=eTieetk2dSw&ab_channel=DeepLearningAI
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/144ea4d5-62cd-4bc1-8a72-c660f354f149)
+
 
 * Fine Tune Large Language Model (LLM) on a Custom Dataset with QLoRA
 
