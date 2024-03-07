@@ -158,6 +158,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   
   https://www.youtube.com/watch?v=18YupYsH5vY&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
 
+  https://pytorch.org/blog/accelerating-generative-ai-2/
+  
   https://github.com/pytorch-labs/gpt-fast
   
 
