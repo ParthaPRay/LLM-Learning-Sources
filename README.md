@@ -140,12 +140,16 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
   https://arxiv.org/abs/2402.18041v1
 
+ 
   LLM datasets from five perspectives:
    - (1) Pre-training Corpora;
    - (2) Instruction Fine-tuning Datasets;
    - (3) Preference Datasets;
    - (4) Evaluation Datasets;
    - (5) Traditional Natural Language Processing (NLP) Datasets.
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/7641da34-51ec-44b4-abd0-36d1ee54870d)
 
 
 * 3 ways to train LLMs
