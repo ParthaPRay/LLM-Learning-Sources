@@ -161,7 +161,23 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   https://pytorch.org/blog/accelerating-generative-ai-2/
   
   https://github.com/pytorch-labs/gpt-fast
-  
+
+
+ * Genie: Generative Interactive Environments
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a06534bb-c44c-4bfd-995e-66ac9cd0b82f)
+    A whole new world: Genie is capable of converting a variety of different prompts into interactive, playable environments that can be easily created, stepped into, and explored. This is made possible via a latent action interface, learned fully unsupervised from Internet videos. On the right we see a few generated steps for taking two latent actions.
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/66021afa-3595-4a86-a556-50c76732add3)
+
+   
+
+   https://sites.google.com/view/genie-2024/
+
+   https://arxiv.org/abs/2402.15391
+
+   https://www.youtube.com/watch?v=lhg7DOCGqtU&ab_channel=code_your_own_AI
+   
 
 * 3 ways to train LLMs
 
@@ -366,6 +382,8 @@ t = torch.arange(end, device=freqs.device) / 4
 How simple is that? Because the model was not trained for that position embedding, you would need to fine-tune a bit the model to adapt it to that new context window and position embedding. When we think that LLama 2 will most likely be used to be fine-tuned on private data, that is the icing on the cake to be able to dynamically adapt the context window to our needs as we fine-tune it.
 
 You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to extend LLama's context window by 16 times while keeping the performance at the same level!
+
+
 
 
 * V-JEPA: Video Joint Embedding Predictive Architecture
@@ -2578,6 +2596,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Mat Williams** https://youtube.com/@technovangelist?si=UiLCumC6anKxbzB-
 * **Ian Wootten** https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
 * **AI for Devs** https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
+* **code_your_own_AI** https://www.youtube.com/@code4AI
   
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
 
