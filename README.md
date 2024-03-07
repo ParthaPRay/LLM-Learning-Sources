@@ -167,9 +167,6 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a06534bb-c44c-4bfd-995e-66ac9cd0b82f)
     A whole new world: Genie is capable of converting a variety of different prompts into interactive, playable environments that can be easily created, stepped into, and explored. This is made possible via a latent action interface, learned fully unsupervised from Internet videos. On the right we see a few generated steps for taking two latent actions.
-
-   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/66021afa-3595-4a86-a556-50c76732add3)
-
    
 
    https://sites.google.com/view/genie-2024/
