@@ -149,7 +149,8 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
    - (5) Traditional Natural Language Processing (NLP) Datasets.
 
 
-  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/7641da34-51ec-44b4-abd0-36d1ee54870d)
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/7641da34-51ec-44b4-abd0-36d1ee54870d) 
+  A timeline of some representative LLM datasets. Orange represents pre-training corpora, yellow represents instruction fine-tuning datasets, green represents preference datasets, and pink represents evaluation datasets
 
 
 * 3 ways to train LLMs
