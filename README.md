@@ -136,6 +136,17 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1ef40ceb-e53f-48d4-a4a4-29a45cb328c1)
 
 
+* Datasets for Large Language Models: A Comprehensive Survey
+
+  https://arxiv.org/abs/2402.18041v1
+
+  LLM datasets from five perspectives:
+   - (1) Pre-training Corpora;
+   - (2) Instruction Fine-tuning Datasets;
+   - (3) Preference Datasets;
+   - (4) Evaluation Datasets;
+   - (5) Traditional Natural Language Processing (NLP) Datasets.
+
 
 * 3 ways to train LLMs
 
