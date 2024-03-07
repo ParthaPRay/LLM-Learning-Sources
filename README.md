@@ -1320,7 +1320,11 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
 
+
+
+
 # Vector Database and Embeddings 
+
 
 
 
@@ -1424,6 +1428,13 @@ When a user inputs a text or image query, we need to return a list of images. Th
 
 https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSpuSM/edit?usp=sharing
 
+
+* How to select embedding model?
+
+  https://www.rungalileo.io/blog/mastering-rag-how-to-select-an-embedding-model
+
+  https://huggingface.co/spaces/mteb/leaderboard
+  
 
 
 * **Fastmbed**, FastEmbed is a lightweight, fast, Python library built for embedding generation. We support popular text models. Please open a Github issue if you want us to add a new model.
