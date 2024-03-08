@@ -776,6 +776,32 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
     https://newsletter.theaiedge.io/p/the-aiedge-how-to-fine-tune-large
 
+
+
+* Dickens: an LLM that writes Great Expectations
+
+https://colab.research.google.com/drive/1MdZvYtm3xrkPrxzD71SZ6H9GTkG46VRF?usp=sharing
+
+* Question Answering on FAQs of GST (Goods and Services Tax) in India
+
+https://medium.com/analytics-vidhya/how-to-fine-tune-llms-without-coding-41cf8d4b5d23
+
+https://colab.research.google.com/drive/1RQc035W1_7CTEViYrsnRwYvOtObvXo-B?usp=sharing
+
+* Intent Classification with LLMs: Fine-Tuning on Support Call Transcripts using Ludwig
+
+https://colab.research.google.com/drive/17fmNaq-2KwqJLHt4ZZ0X6FbmMlssq_vR?usp=sharing
+
+
+* Democratize and Automate the Feature Engineering of Tabular Data using fine-tuned LLMs
+
+
+https://colab.research.google.com/drive/1NLmQqbiXc-dU9C0ulNsUuubB3vbhaJbi?usp=sharing
+
+* Assessing Health Data with ML and Becoming More Aware
+  
+https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sharing
+
   * NODES 2023 - Fine-Tuning an Open-Source LLM for Text-to-Cypher Translation
     https://www.youtube.com/watch?v=TB6URe5f3MA&ab_channel=Neo4j
     
