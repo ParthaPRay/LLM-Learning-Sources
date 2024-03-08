@@ -1259,6 +1259,13 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
   https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
 
 
+* Chunking Strategies in RAG: Optimising Data for Advanced AI Responses
+
+  https://www.youtube.com/watch?v=pIGRwMjhMaQ&ab_channel=MervinPraison
+
+  https://mer.vin/2024/03/chunking-strategy/
+
+
 
 
 # Langchain
