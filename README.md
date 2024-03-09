@@ -2178,8 +2178,12 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
   * Builx an Agent with Long-Term personalized memory,
     https://youtu.be/oPCKB9MUP6c?si=FGDDaDm1KuXVazhP
 
- 
+  * Build the fastest AI chatbot with memory using Groq, gradio, Langchain 
 
+    https://youtu.be/a5l7E3tzsIY?si=V4Jzwu3J_ja1HsO2
+    
+https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
+  
     
 
 
