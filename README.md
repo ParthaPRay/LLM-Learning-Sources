@@ -1304,6 +1304,11 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
   https://mer.vin/2024/03/chunking-strategy/
 
 
+* Building a RAG system with Google Gemma, Huggingface and MongoDB
+  
+https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
+
+
 
 
 # Langchain
