@@ -877,6 +877,15 @@ https://github.com/Sentdex/LLM-Finetuning
     https://huggingface.co/blog/ram-efficient-pytorch-fsdp
 
 
+ * How to fine tune a model locally on mistralai/Mistral-7B-Instruct-v0.2 using HuggingFaceTB/cosmopedia-20k or Elriggs/openwebtext-100k dataset
+
+   https://youtu.be/9GjLAyn12MU?si=NYd1BmNv4vfVtde4
+
+ https://huggingface.co/cloudyu/mistral_pretrain_demo
+
+
+
+
  * Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
 
    https://huggingface.co/blog/fine-tune-w2v2-bert
@@ -901,6 +910,9 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   https://www.youtube.com/watch?v=eTieetk2dSw&ab_channel=DeepLearningAI
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/144ea4d5-62cd-4bc1-8a72-c660f354f149)
+
+
+
 
 
 * Fine Tune Large Language Model (LLM) on a Custom Dataset with QLoRA
@@ -1593,6 +1605,32 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 * Crazy fast RAG, Ollama, Nomic embedding model, groq
   
   https://youtu.be/TMaQt8rN5bE?si=4KnO2DFdVYiWjkg6
+
+
+ * Mixedbread mxbai-embed-large-v1 embedding model
+
+   This is a base sentence embedding model. It was trained using [AnglE](https://arxiv.org/abs/2309.12871)
+   loss on our high-quality large scale data. It achieves SOTA performance on BERT-large scale. Find out more in our [blog post](
+   https://mixedbread.ai/blog/mxbai-embed-large-v1)
+
+ https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1
+   
+https://youtu.be/CXDOkHFboAU?si=m8OoaiPa0JHMDs1e
+
+
+| Model                       | Avg (56 datasets) | Classification (12 datasets) | Clustering (11 datasets) | PairClassification (3 datasets) | Reranking (4 datasets) | Retrieval (15 datasets) | STS (10 datasets) | Summarization (1 dataset) |
+|-----------------------------|-------------------|-------------------------------|--------------------------|----------------------------------|------------------------|-------------------------|-------------------|---------------------------|
+| mxbai-embed-large-v1        | 64.68             | 75.64                         | 46.71                    | 87.2                             | 60.11                  | 54.39                   | 85.00             | 32.71                     |
+| bge-large-en-v1.5           | 64.23             | 75.97                         | 46.08                    | 87.12                            | 60.03                  | 54.29                   | 83.11             | 31.61                     |
+| mxbai-embed-2d-large-v1     | 63.25             | 74.14                         | 46.07                    | 85.89                            | 58.94                  | 51.42                   | 84.90             | 31.55                     |
+| nomic-embed-text-v1         | 62.39             | 74.12                         | 43.91                    | 85.15                            | 55.69                  | 52.81                   | 82.06             | 30.08                     |
+| jina-embeddings-v2-base-en  | 60.38             | 73.45                         | 41.73                    | 85.38                            | 56.98                  | 47.87                   | 80.70             | 31.60                     |
+| Proprietary Models          |                   |                               |                          |                                  |                        |                         |                   |                           |
+| OpenAI text-embedding-3-large | 64.58           | 75.45                         | 49.01                    | 85.72                            | 59.16                  | 55.44                   | 81.73             | 29.92                     |
+| Cohere embed-english-v3.0   | 64.47             | 76.49                         | 47.43                    | 85.84                            | 58.01                  | 55.00                   | 82.62             | 30.18                     |
+| OpenAI text-embedding-ada-002 | 60.99           | 70.93                         | 45.90                    | 84.89                            | 56.32                  | 49.25                   | 80.97             | 30.80                     |
+
+
 
 
 * RAG Databases with Johannes Jolkkonen: When to Choose a Graph Database vs Alternatives
