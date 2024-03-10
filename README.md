@@ -1360,6 +1360,27 @@ https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
    
    https://youtu.be/jbGchdTL7d0?si=8AgkTzEqy9VKN_LX
 
+* Super Easy Way To Parse PDF | LlamaParse From LlamaIndex | LlamaCloud
+
+  https://www.youtube.com/watch?v=wRMnHbiz5ck&ab_channel=DataScienceBasics
+
+  https://www.llamaindex.ai/blog/introducing-llamacloud-and-llamaparse-af8cedf9006b
+
+  https://github.com/run-llama/llama_parse
+
+  Getting Started: https://github.com/run-llama/llama_parse/blob/main/examples/demo_basic.ipynb
+
+  Advanced: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+
+  Advacned RAG Example: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+
+   RAW API usage: https://github.com/run-llama/llama_parse/blob/main/examples/demo_api.ipynb
+
+  
+    LlamaCloud: https://cloud.llamaindex.ai/
+    Ollama: https://ollama.ai/
+    💻 GitHub repo for code: https://github.com/sudarshan-koirala/llamaparser-example
+
 
 
 
