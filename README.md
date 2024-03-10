@@ -1373,6 +1373,8 @@ https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
     Advanced: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
   
     Advacned RAG Example: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+
+    LlamParse Example: https://github.com/run-llama/llama_parse/tree/main/examples
   
     RAW API usage: https://github.com/run-llama/llama_parse/blob/main/examples/demo_api.ipynb
 
