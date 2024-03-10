@@ -1368,18 +1368,18 @@ https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
 
   https://github.com/run-llama/llama_parse
 
-  Getting Started: https://github.com/run-llama/llama_parse/blob/main/examples/demo_basic.ipynb
-
-  Advanced: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
-
-  Advacned RAG Example: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
-
-   RAW API usage: https://github.com/run-llama/llama_parse/blob/main/examples/demo_api.ipynb
+    Getting Started: https://github.com/run-llama/llama_parse/blob/main/examples/demo_basic.ipynb
+  
+    Advanced: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+  
+    Advacned RAG Example: https://github.com/run-llama/llama_parse/blob/main/examples/demo_advanced.ipynb
+  
+    RAW API usage: https://github.com/run-llama/llama_parse/blob/main/examples/demo_api.ipynb
 
   
-    LlamaCloud: https://cloud.llamaindex.ai/
-    Ollama: https://ollama.ai/
-    💻 GitHub repo for code: https://github.com/sudarshan-koirala/llamaparser-example
+    - LlamaCloud: https://cloud.llamaindex.ai/
+    - Ollama: https://ollama.ai/
+    - GitHub repo for code: https://github.com/sudarshan-koirala/llamaparser-example
 
 
 
