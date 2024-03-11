@@ -450,11 +450,12 @@ The AiEdge would have loved to get Claude 2 to participate but Anthropic keeps "
   https://huggingface.co/blog/mlabonne/merge-models
 
 
-https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
+  https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
 
 * Merge LLMs with Mergekit: create your own medical mixture of experts
   
   https://youtu.be/eKDz-K3UvbY?si=limrl7Raf86bdqS7
+
 
 
 
@@ -2652,10 +2653,49 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 
 
+# Bioinformatics 
+
+
+* scGPT
+
+
+  This is the official codebase for scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI.
+
+This package is built on the foundation of the scGPT model, which is the first single-cell foundation model built through generative pre-training on over 33 million cells. The scGPT model incorporates innovative techniques to overcome methodology and engineering challenges specific to pre-training on large-scale single-cell omic data. By adapting the transformer architecture, we enable the simultaneous learning of cell and gene representations, facilitating a comprehensive understanding of cellular characteristics based on gene expression.
+
+This package provides a set of functions for data preprocessing, visualization, and model evaluation that are compatible with the scikit-learn library. These functions enable users to preprocess their single-cell RNA-seq data, visualize the results, and evaluate the performance of the scGPT model on downstream tasks such as multi-batch integration, multi-omic integration, cell-type annotation, genetic perturbation prediction, and gene network inference.
+
+
+ | Model Name               | Description                                        | Download |
+|--------------------------|----------------------------------------------------|----------|
+| whole-human (recommended)| Pretrained on 33 million normal human cells.       | [link](https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y?usp=sharing) |
+| continual pretrained     | For zero-shot cell embedding related tasks.        | [link](https://drive.google.com/drive/folders/1_GROJTzXiAV8HB4imruOTk6PEGuNOcgB?usp=sharing) |
+| brain                    | Pretrained on 13.2 million brain cells.            | [link](https://drive.google.com/drive/folders/1vf1ijfQSk7rGdDGpBntR5bi5g6gNt-Gx?usp=sharing) |
+| blood                    | Pretrained on 10.3 million blood and bone marrow cells. | [link](https://drive.google.com/drive/folders/1kkug5C7NjvXIwQGGaGoqXTk_Lb_pDrBU?usp=sharing) |
+| heart                    | Pretrained on 1.8 million heart cells              | [link](https://drive.google.com/drive/folders/1GcgXrd7apn6y4Ze_iSCncskX3UsWPY2r?usp=sharing) |
+| lung                     | Pretrained on 2.1 million lung cells               | [link](https://drive.google.com/drive/folders/16A1DJ30PT6bodt4bWLa4hpS7gbWZQFBG?usp=sharing) |
+| kidney                   | Pretrained on 814 thousand kidney cells            | [link](https://drive.google.com/drive/folders/1S-1AR65DF120kNFpEbWCvRHPhpkGK3kK?usp=sharing) |
+| pan-cancer               | Pretrained on 5.7 million cells of various cancer types | [link](https://drive.google.com/drive/folders/13QzLHilYUd0v3HTwa_9n4G4yEF-hdkqa?usp=sharing) |
+
+   
+  https://scgpt.readthedocs.io/en/latest/
+  
+  https://github.com/bowang-lab/scGPT
 
 
 
 
+
+* GenePT
+
+
+  GenePT is a single-cell foundation model that leverages ChatGPT embeddings to tackle gene-level and cell-level biology tasks. This project is motivated by the significant recent progress in using large-scale (e.g., tens of millions of cells) gene expression data to develop foundation models for single-cell biology. These models implicitly learn gene and cellular functions from the gene expression profiles, which requires extensive data curation and resource-intensive training. By contrast, GenePT offers a complementary approach by using NCBI text descriptions of individual genes with GPT-3.5 to generate gene embeddings. From there, GenePT generates single-cell embeddings in two ways: (i) by averaging the gene embeddings, weighted by each gene’s expression level; or (ii) by creating a sentence embedding for each cell, using gene names ordered by the expression level.
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fb252dee-2b14-4f60-ab34-2acecb940131)
+
+
+  https://github.com/yiqunchen/GenePT
+  
 
 
 
