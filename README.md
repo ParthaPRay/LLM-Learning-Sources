@@ -664,8 +664,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
   https://www.youtube.com/watch?v=zEN_oKrttK0&ab_channel=PamelaFox
 
+* How to Access Ollama Model with Public IP Remotely
 
-
+ https://www.youtube.com/watch?v=QSfvLWaJc2s&t=20s&ab_channel=FahdMirza
 
 
 
