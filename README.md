@@ -1902,8 +1902,34 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
 
 
  * Quantize any LLM with GGUF and Llama.cpp, https://www.youtube.com/watch?v=wxQgGK5K0rE&ab_channel=AIAnytime
-  
 
+  
+ * **Half Quadratic Quantization (HQQ)**
+   
+  HQQ is a fast and accurate model quantizer that skips the need for calibration data. It's super simple to implement (just a few lines of code for the optimizer). It can crunch through quantizing the Llama2-70B model in only 4 minutes! 
+
+
+  Supported Models
+  
+ LLMs
+
+   Llama (Hugging Face + VLLM) 🦙
+   Mistral (Hugging Face)
+   Mixtral-8x7B (Hugging Face)
+   Phi + Phi_opt (Hugging Face)
+   
+ Vision
+  ViT-CLIP (timm) 🖼️
+
+https://huggingface.co/posts/macadeliccc/282259361762056
+
+   AutoHQQ: https://colab.research.google.com/drive/1cG_5R_u9q53Uond7F0JEdliwvoeeaXVN?usp=sharing
+
+https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
+    https://mobiusml.github.io/hqq_blog/
+
+  
+  https://github.com/mobiusml/hqq
 
 
 
