@@ -1442,7 +1442,7 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
  
 
-* Command-R
+* **Command-R**
   
   C4AI Command-R is a research release of a 35 billion parameter highly performant generative model. Command-R is a large language model with open weights optimized for a variety of use cases including reasoning, summarization, and question answering. Command-R has the capability for multilingual generation evaluated in 10 languages and highly performant RAG capabilities.
   
@@ -1477,18 +1477,58 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
 
 
-In this notebook, they explore a typical RAG solution where we will utilize an open-source model and the vector database Chroma DB. However, we will integrate a semantic cache system that will store various user queries and decide whether to generate the prompt enriched with information from the vector database or the cache.
+  In this notebook, they explore a typical RAG solution where we will utilize an open-source model and the vector database Chroma DB. However, we will integrate a semantic cache system that will store various user queries and decide whether to generate the prompt enriched with information from the vector database or the cache.
 
-A semantic caching system aims to identify similar or identical user requests. When a matching request is found, the system retrieves the corresponding information from the cache, reducing the need to fetch it from the original source.
+  A semantic caching system aims to identify similar or identical user requests. When a matching request is found, the system retrieves the corresponding information from the cache, reducing the need to fetch it from the original source.
 
-As the comparison takes into account the semantic meaning of the requests, they don’t have to be identical for the system to recognize them as the same question. They can be formulated differently or contain inaccuracies, be they typographical or in the sentence structure, and we can identify that the user is actually requesting the same information.
-
-
-https://huggingface.co/learn/cookbook/semantic_cache_chroma_vector_database
+  As the comparison takes into account the semantic meaning of the requests, they don’t have to be identical for the system to recognize them as the same question. They can be formulated differently or contain inaccuracies, be they typographical or in the sentence structure, and we can identify that the user is actually requesting the same information.
 
 
-https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/semantic_cache_chroma_vector_database.ipynb
+   https://huggingface.co/learn/cookbook/semantic_cache_chroma_vector_database
 
+
+   https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/semantic_cache_chroma_vector_database.ipynb
+
+
+
+
+
+ * **GraphRAG**
+
+   https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
+
+  https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/
+
+  Violent Incident Information from News Articles (VIINA)  https://github.com/zhukovyuri/VIINA
+
+  Base repositories https://github.com/microsoft/graspologic
+
+  Comparison, https://arxiv.org/pdf/2303.08896.pdf
+
+
+
+
+* AI RAG Chat App Evaluation,
+
+  https://www.youtube.com/watch?v=mM8pZAI2C5w&ab_channel=PamelaFox
+
+  https://github.com/Azure-Samples/ai-rag-chat-evaluator
+
+  developed by using https://github.com/Azure-Samples/azure-search-openai-demo/
+
+
+* AI RAG Chat App: CI/CD Deployment, 
+
+  https://www.youtube.com/watch?v=GMy3v6UXkYs&ab_channel=PamelaFox  
+  
+   https://github.com/Azure-Samples/azure-search-openai-demo/
+
+
+
+* **Building A RAG Ebook “Librarian” Using LlamaIndex**
+  https://huggingface.co/learn/cookbook/rag_llamaindex_librarian
+
+  https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_llamaindex_librarian.ipynb
 
 
 
@@ -1575,7 +1615,7 @@ https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebook
 
 
  
-  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a1c1869d-231f-4b28-8ada-2b6aa36065c1)
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a1c1869d-231f-4b28-8ada-2b6aa36065c1)
 
 
   * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
@@ -1601,41 +1641,8 @@ https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebook
 
 https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
- * **GraphRAG**
-
-   https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
-
-  https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/
-
-  Violent Incident Information from News Articles (VIINA)  https://github.com/zhukovyuri/VIINA
-
-  Base repositories https://github.com/microsoft/graspologic
-
-  Comparison, https://arxiv.org/pdf/2303.08896.pdf
 
 
-
-
-* AI RAG Chat App Evaluation,
-
-  https://www.youtube.com/watch?v=mM8pZAI2C5w&ab_channel=PamelaFox
-
-  https://github.com/Azure-Samples/ai-rag-chat-evaluator
-
-  developed by using https://github.com/Azure-Samples/azure-search-openai-demo/
-
-* AI RAG Chat App: CI/CD Deployment, 
-
-  https://www.youtube.com/watch?v=GMy3v6UXkYs&ab_channel=PamelaFox  
-  
-   https://github.com/Azure-Samples/azure-search-openai-demo/
-
-
-
-* **Building A RAG Ebook “Librarian” Using LlamaIndex**
-  https://huggingface.co/learn/cookbook/rag_llamaindex_librarian
-
-  https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_llamaindex_librarian.ipynb
 
 
 
@@ -1643,7 +1650,7 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 # Dataset 
 
 
- *  Augmentoolkit
+ *  **Augmentoolkit**
    
     Convert Compute And Books Into Instruct-Tuning Datasets.
 
