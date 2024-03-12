@@ -719,6 +719,20 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   * LLM Fine Tuning Crash Course: 1 Hour End-to-End Guide, https://www.youtube.com/watch?v=mrKuDK9dGlg
   
   * Fine-tuning LLMs with PEFT and LoRA, https://www.youtube.com/watch?v=Us5ZFp16PaU&ab_channel=SamWitteveen
+  
+  *  🤗 PEFT welcomes new merging methods
+        
+    https://huggingface.co/blog/peft_merging
+
+  * Prompt Tuning With PEFT
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a7e31223-0703-4710-b2e9-e815ed4a3129)
+
+
+    https://huggingface.co/learn/cookbook/prompt_tuning_peft
+
+    https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/prompt_tuning_peft.ipynb
+ 
 
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
  
@@ -1247,6 +1261,12 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
  
   * Testing Framework Giskard for LLM and RAG Evaluation (Bias, Hallucination, and More), https://www.youtube.com/watch?v=KeY6qPAvyq0&ab_channel=AIAnytime
 
+  * RAG Evaluation
+
+    https://huggingface.co/learn/cookbook/rag_evaluation
+
+    https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_evaluation.ipynb
+    
     
   * Getting started with RAG in DSPy!,
   https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
@@ -1986,7 +2006,7 @@ https://youtu.be/CXDOkHFboAU?si=m8OoaiPa0JHMDs1e
 
 
 
-# Essentials on LoRA, Quantization, PEFT and Sharding etc Variants
+# Essentials on LoRA, Quantization and Sharding Variants
 
 **LoRA**
 
@@ -2009,9 +2029,7 @@ https://youtu.be/CXDOkHFboAU?si=m8OoaiPa0JHMDs1e
         https://lightning.ai/pages/community/lora-insights/
 
 
-    * PEFT welcomes new merging methods
-
-https://huggingface.co/blog/peft_merging
+   
       
    * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
       
@@ -2251,13 +2269,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 
 
-
-
-**PEFT**
-
- * 🤗 PEFT welcomes new merging methods
-        
-         https://huggingface.co/blog/peft_merging
 
 
 
