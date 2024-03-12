@@ -1662,9 +1662,66 @@ Features:
    https://colab.research.google.com/github/dhuynh95/LaVague/blob/main/LaVague.ipynb
 
    
+* LlamaIndex and Anthropic Cookbooks for RAG
 
+  LlamaIndex is a data framework for LLM-based applications that benefit from context augmentation.
+
+Here they provide cookbooks for building LLM applications using Anthropic and LlamaIndex.
+
+    - [Basic_RAG_With_LlamaIndex.ipynb](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/Basic_RAG_With_LlamaIndex.ipynb) - Notebook to help you build RAG pipelines with LlamaIndex.
+    - [Router_Query_Engine.ipynb](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/Multi_Document_Agents.ipynb) - Notebook to help you use RouterQueryEngine to route user queries to different indices.
+    - [SubQuestion_Query_Engine](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/Multi_Modal.ipynb) - Notebook to help you to use SubQuestionQueryEngine to answer complex user queries spanning multiple documents.
+    - [ReAct_Agent.ipynb](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/ReAct_Agent.ipynb) - Notebook to help you to use ReActAgent for using Tools and QueryEngine Tools.
+    - [Multi_Document_Agents.ipynb](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/Router_Query_Engine.ipynb) - Notebook to help you build an efficient RAG pipeline for a large number of documents.
+    - [Multi_Modal.ipynb](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/LlamaIndex/SubQuestion_Query_Engine.ipynb) - Notebook to help you build Multi-Modal applications using LlamaIndex.
+
+  https://github.com/anthropics/anthropic-cookbook/tree/main/third_party/LlamaIndex
    
 
+* **CodeHierarchyAgentPack** from LlamaIndex
+
+  The CodeHierarchyAgentPack is useful to split long code files into more reasonable chunks, while creating an agent on top to navigate the code. What this will do is create a "Hierarchy" of sorts, where sections of the code are made more reasonable by replacing the scope body with short comments telling the LLM to search for a referenced node if it wants to read that context body.
+
+Nodes in this hierarchy will be split based on scope, like function, class, or method scope, and will have links to their children and parents so the LLM can traverse the tree.
+
+  https://llamahub.ai/l/llama-packs/llama-index-packs-code-hierarchy?from=llama-packs
+
+  https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-code-hierarchy
+
+
+* **VideoDB Retriever** from LlamaIndex: RAG: Instantly Search and Stream Video Results 📺
+  
+  RAG: Instantly Search and Stream Video Results
+
+  VideoDB is a serverless database designed to streamline the storage, search, editing, and streaming of video content. VideoDB offers random access to sequential video data by building indexes and developing interfaces for querying and browsing video content. Learn more at [docs.videodb.io](https://docs.videodb.io/).
+
+  Constructing a RAG pipeline for text is relatively straightforward, thanks to the tools developed for parsing, indexing, and retrieving text data. However, adapting RAG models for video content presents a greater challenge. Videos combine visual, auditory, and textual elements, requiring more processing power and sophisticated video pipelines.
+
+While Large Language Models (LLMs) excel with text, they fall short in helping you consume or create video clips. VideoDB provides a sophisticated database abstraction for your MP4 files, enabling the use of LLMs on your video data. With VideoDB, you can not only analyze but also instantly watch video streams of your search results.
+
+In this notebook, we introduce VideoDBRetriever, a tool specifically designed to simplify the creation of RAG pipelines for video content, without any hassle of dealing with complex video infrastructure.
+
+
+* StreamRAG: GPT-Powered Video Retrieval & Streaming 🚀
+
+  Video Search Agent for ChatGPT
+
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c0823868-a004-47e3-b46d-7dfcd68a6992)
+
+  What does it do? 🤔
+  
+   It enables developers to:
+   
+   - 📚 Upload multiple videos to create a library or collection.
+   - 🔍 Search across these videos and get real-time video responses or compilations.
+   - 🛒 Publish your searchable collection on the ChatGPT store.
+   - 📝 Receive summarized text answers (RAG).
+   - 🌟 Gain key insights from specific videos (e.g. "Top points from episode 31").
+
+  https://github.com/video-db/StreamRAG
+
+  https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/quickstart.ipynb
 
 
 
