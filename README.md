@@ -1344,6 +1344,14 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
  
 
+* Command-R
+  
+  C4AI Command-R is a research release of a 35 billion parameter highly performant generative model. Command-R is a large language model with open weights optimized for a variety of use cases including reasoning, summarization, and question answering. Command-R has the capability for multilingual generation evaluated in 10 languages and highly performant RAG capabilities.
+  
+  https://huggingface.co/CohereForAI/c4ai-command-r-v01
+
+  https://www.youtube.com/watch?v=YQFLdE3osws&ab_channel=FahdMirza
+
 
 * Transforming business process automation with retrieval-augmented generation and LLMs
 
@@ -1502,6 +1510,28 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
    https://github.com/Azure-Samples/azure-search-openai-demo/
 
   
+
+
+
+
+# Dataset Creation 
+
+
+ *  Augmentoolkit
+   
+    Convert Compute And Books Into Instruct-Tuning Datasets.
+
+    Turn any raw text into a high-quality dataset using local models. Make data gathering a painless step of the model creation process. Augmentoolkit is the easy-to-use, 
+    customizable, open-source, and cost-effective data generation solution. No OpenAI needed.
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/297cb4b6-9a40-4b74-9724-cd531eab0602)
+
+
+    https://github.com/e-p-armstrong/augmentoolkit
+
+   https://www.youtube.com/watch?v=ZiyCe_dRksM&ab_channel=FahdMirza
+
+
 
 
 
