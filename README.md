@@ -978,7 +978,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     
     Both TRLX and RL4LMs are under heavy further development, so expect more features beyond these soon.
 
-There is a [large dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) created by Anthropic available on the Hub.
+    There is a [large dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) created by Anthropic available on the Hub.
 
 
   
