@@ -1601,7 +1601,7 @@ https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebook
 
 https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
- * GraphRAG
+ * **GraphRAG**
 
    https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
 
@@ -1613,8 +1613,7 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
   Comparison, https://arxiv.org/pdf/2303.08896.pdf
 
-  Baseline RAG compared with LangChain's Q&A
- https://python.langchain.com/docs/use_cases/question_answering/
+
 
 
 * AI RAG Chat App Evaluation,
