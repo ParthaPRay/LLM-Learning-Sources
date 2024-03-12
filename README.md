@@ -3261,7 +3261,7 @@ This repository contains script which were used to build and train the DeepGO-SE
 
 
 
-# Courses
+# Courses and Tutorials
 
       * **Free Course on** (https://course.fast.ai/) by Jeremy Howard's Fastai
             
@@ -3270,6 +3270,16 @@ This repository contains script which were used to build and train the DeepGO-SE
       Book PDF: https://dl.ebooksworld.ir/books/Deep.Learning.for.Coders.with.fastai.and.PyTorch.Howard.Gugger.OReilly.9781492045526.EBooksWorld.ir.pdf
    
 
+
+* **Learn from Hugginface**
+
+  https://huggingface.co/learn
+
+    
+    * Open-Source AI Cookbook: https://huggingface.co/learn/cookbook
+    * NLP Course: https://huggingface.co/learn/nlp-course
+    * Deep RL Course: https://huggingface.co/learn/deep-rl-course
+    * Audio Course: https://huggingface.co/learn/audio-course
 
 
 * **LLM University**
@@ -3378,6 +3388,6 @@ Google Cloud Generative AI Learning Path
      - Generative AI Explorer - Vertex AI  https://www.cloudskillsboost.google/quests/299
 
 * **Microsoft Resesrch Blog**
-https://www.microsoft.com/en-us/research/blog/
+  https://www.microsoft.com/en-us/research/blog/
 
 
