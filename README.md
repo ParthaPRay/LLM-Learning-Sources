@@ -1529,9 +1529,18 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
     https://github.com/e-p-armstrong/augmentoolkit
 
+   
+
+
+ * Convert Any Text to LLM Dataset Locally - Demo with Example
+
+
    https://www.youtube.com/watch?v=ZiyCe_dRksM&ab_channel=FahdMirza
 
 
+   togetherai: The fastest cloud platform for building and running generative AI. 
+  
+   https://api.together.xyz/
 
 
 
