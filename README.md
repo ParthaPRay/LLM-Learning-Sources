@@ -1417,6 +1417,30 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
 
 
+
+
+
+* Implementing semantic cache to improve a RAG system with FAISS.
+
+ ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/91d52d20-a75c-432c-b939-897e4ecc796e)
+
+
+
+In this notebook, they explore a typical RAG solution where we will utilize an open-source model and the vector database Chroma DB. However, we will integrate a semantic cache system that will store various user queries and decide whether to generate the prompt enriched with information from the vector database or the cache.
+
+A semantic caching system aims to identify similar or identical user requests. When a matching request is found, the system retrieves the corresponding information from the cache, reducing the need to fetch it from the original source.
+
+As the comparison takes into account the semantic meaning of the requests, they don’t have to be identical for the system to recognize them as the same question. They can be formulated differently or contain inaccuracies, be they typographical or in the sentence structure, and we can identify that the user is actually requesting the same information.
+
+
+https://huggingface.co/learn/cookbook/semantic_cache_chroma_vector_database
+
+
+https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/semantic_cache_chroma_vector_database.ipynb
+
+
+
+
 # Langchain
 
 
@@ -1800,6 +1824,17 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
 
    https://www.youtube.com/watch?v=jENqvjpkwmw&t=17s&ab_channel=MervinPraison
+
+
+
+
+
+
+* Guidelines to choose an index
+
+https://github.com/facebookresearch/faiss/wiki/Guidelines-to-choose-an-index
+
+
 
 
 * Nomic's new embedding model : nomic-embed-text, 
