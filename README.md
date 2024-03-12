@@ -1391,8 +1391,17 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
 
 * Building a RAG system with Google Gemma, Huggingface and MongoDB
+
   
-https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
+  https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
+  
+
+* Building A RAG System with Gemma, MongoDB and Open Source Models
+
+  https://huggingface.co/learn/cookbook/rag_with_hugging_face_gemma_mongodb
+
+  https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_with_hugging_face_gemma_mongodb.ipynb
+
 
 
 * **SubDocument RAG**: If You Are NOT Using This, You're OUTDATED Already! (step-by-step LlamaIndex)
@@ -2533,6 +2542,17 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   https://www.youtube.com/watch?v=fo0F-DAum7E&ab_channel=DeepLearningAI
 
+
+* Images Interpolation with Stable Diffusion
+
+  This notebook shows how to use Stable Diffusion to interpolate between images. Image interpolation using Stable Diffusion is the process of creating intermediate images that smoothly transition from one given image to another, using a generative model based on diffusion.
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5121241e-0a38-415c-8fce-63ed55f91db5)
+
+  
+  https://huggingface.co/learn/cookbook/stable_diffusion_interpolation
+
+  https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/stable_diffusion_interpolation.ipynb
 
 
 
