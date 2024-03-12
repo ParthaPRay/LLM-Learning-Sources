@@ -1537,10 +1537,33 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
    https://www.youtube.com/watch?v=ZiyCe_dRksM&ab_channel=FahdMirza
 
-
+   **NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO**
+   
    togetherai: The fastest cloud platform for building and running generative AI. 
   
    https://api.together.xyz/
+
+
+* Install Genstruct 7B Locally - Best Model to Create Datasets of Any Domain
+
+  Genstruct 7B is an instruction-generation model, designed to create valid instructions given a raw text corpus. This enables the creation of new, partially synthetic instruction finetuning datasets from any raw-text corpus.
+  
+  **https://huggingface.co/NousResearch/Genstruct-7B**
+  
+
+ | Feature             | ChatGPT        | Few-shot prompting | RAG  | Ada-Instruct | Genstruct |
+|---------------------|----------------|--------------------|------|--------------|-----------|
+| Open models         | ❌             | ☑️                 | ☑️   | ✅           | ✅        |
+| Grounded generation | ❌             | ❌                 | ✅   | ❌           | ✅        |
+| Complex questions   | ❌             | ❌                 | ❌   | ☑️           | ✅        |
+| Complex responses   | ✅             | ☑️                 | ❌   | ☑️           | ✅        |
+
+
+* Ada-Instruct: Adapting Instruction Generators for Complex Reasoning
+
+  https://arxiv.org/abs/2310.04484
+
+
 
 
 
