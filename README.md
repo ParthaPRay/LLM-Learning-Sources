@@ -1835,26 +1835,26 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
  Selecting the appropriate FAISS index is crucial for optimizing performance and depends on the specific requirements of your project, such as dataset size, query frequency, and latency constraints. Here's a guide to selecting different indexes based on these criteria:
 
- - For Small Datasets:
-
-   * FlatL2 or FlatIP: Ideal for smaller datasets due to their simplicity and moderate memory consumption. They perform exhaustive searches across all vectors and provide precise results.
-   * LSH (Locality-Sensitive Hashing): Suitable for small to medium datasets and recommended for vectors up to 128 dimensions. LSH is faster than exhaustive search but may trade off a bit of accuracy for speed.
-
- - For Medium to Large Datasets:
-  
-  * HNSW (Hierarchical Navigable Small World): Extremely fast for both indexing and querying and supports higher-dimensional data. However, it requires more memory, making it suitable for medium-sized datasets.
-  * IVF (Inverted File Indexing): Ideal for large datasets. It segments the search space into a predefined number of clusters and only searches within the most relevant clusters. IVF indexes balance between memory usage and search speed, making them efficient for large-scale applications.
-
- - For Very Large Datasets:
-
-   * Advanced versions of IVF, such as IVFADC (Inverted File with Asymmetric Distance Computation) or IVFPQ (Product Quantization), can be used. These indexes further compress the dataset and reduce the search space, optimizing both memory usage and search speed at the scale of millions of vectors.
+    - For Small Datasets:
+   
+      * FlatL2 or FlatIP: Ideal for smaller datasets due to their simplicity and moderate memory consumption. They perform exhaustive searches across all vectors and provide precise results.
+      * LSH (Locality-Sensitive Hashing): Suitable for small to medium datasets and recommended for vectors up to 128 dimensions. LSH is faster than exhaustive search but may trade off a bit of accuracy for speed.
+   
+    - For Medium to Large Datasets:
      
-When integrating a semantic cache with a FAISS-based RAG system, it's essential to:
-
-  - Choose the right index type based on your dataset size and query characteristics.
-  - Consider the trade-offs between accuracy and speed, as some indexes may offer faster retrieval at the expense of precision.
-  - Test and evaluate different indexes to find the best configuration for your specific use case.
-    
+     * HNSW (Hierarchical Navigable Small World): Extremely fast for both indexing and querying and supports higher-dimensional data. However, it requires more memory, making it suitable for medium-sized datasets.
+     * IVF (Inverted File Indexing): Ideal for large datasets. It segments the search space into a predefined number of clusters and only searches within the most relevant clusters. IVF indexes balance between memory usage and search speed, making them efficient for large-scale applications.
+   
+    - For Very Large Datasets:
+   
+      * Advanced versions of IVF, such as IVFADC (Inverted File with Asymmetric Distance Computation) or IVFPQ (Product Quantization), can be used. These indexes further compress the dataset and reduce the search space, optimizing both memory usage and search speed at the scale of millions of vectors.
+        
+   When integrating a semantic cache with a FAISS-based RAG system, it's essential to:
+   
+     - Choose the right index type based on your dataset size and query characteristics.
+     - Consider the trade-offs between accuracy and speed, as some indexes may offer faster retrieval at the expense of precision.
+     - Test and evaluate different indexes to find the best configuration for your specific use case.
+       
  https://github.com/facebookresearch/faiss/wiki/Guidelines-to-choose-an-index
 
   https://github.com/facebookresearch/faiss
