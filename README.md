@@ -1311,6 +1311,41 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 https://youtu.be/BNUpRW-Dk90?si=84DKcxms8RHWmSda
 
 
+* **SubDocument RAG**: If You Are NOT Using This, You're OUTDATED Already! (step-by-step LlamaIndex)
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/001a2ee8-8636-4ec6-b13b-eb239e3d3c39)
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/88a53e1e-e0ea-4ef6-80ea-78e01f04d28f)
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/cac7b5a8-b3c1-46e4-bc73-f8347b7374a0)
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ff167387-c330-424d-8bf2-deef46a0c80f)
+
+
+https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index-packs-subdoc-summary/examples/subdoc-summary.ipynb
+
+ https://www.youtube.com/watch?v=m6P1Rp91AzM&t=63s&ab_channel=TwoSetAI
+
+ https://mlnotes.substack.com/p/advanced-rag-technique-subdoc-summary?r=164sm1&utm_campaign=post&utm_medium=web&triedRedirect=true
+
+ 
+
+
+* Transforming business process automation with retrieval-augmented generation and LLMs
+
+    - Retrieval-augmented generation in practice
+    - RAG in supply chain
+    - RAG in retail
+    - RAG in finance and insurance
+    - Case study: RFP processing with RAG
+    - Assembling RAG flows: From basic building blocks to valuable use cases
+    - Architecture of retrieval-augmented generation
+    - Orchestrating RAG processes
+    - Constructing the RAG pipeline: Essential building blocks
+    - Conclusion: The benefits of retrieval-augmented generation and large language models
+
+  https://www.griddynamics.com/blog/retrieval-augmented-generation-llm
+
 
 
 # Langchain
