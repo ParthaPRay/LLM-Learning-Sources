@@ -684,6 +684,13 @@ The idea is to build visual tokens by breaking down the image into patches of pi
  https://www.youtube.com/watch?v=QSfvLWaJc2s&t=20s&ab_channel=FahdMirza
 
 
+* Let's use Ollama's Embeddings to Build an App
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/48225956-67b8-431b-9f03-bc6f88e2ff1e)
+
+ https://www.youtube.com/watch?v=6QAIbThWomc&ab_channel=MattWilliams
+
+ https://github.com/technovangelist/videoprojects
 
 
 
