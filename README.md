@@ -1208,9 +1208,7 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
  
   * Better RAG with Merger Retriever (LOTR) and Re-ranking Retriever (Long Context Reorder), https://www.youtube.com/watch?v=uYZftCq2efg&ab_channel=AIAnytime
  
-  * Bert Score for Contextual Similarity for RAG Evaluation, https://youtube.com/watch?v=7AVjk2k8Mbs&ab_channel=AIAnytime
- 
-  * Testing Framework Giskard for LLM and RAG Evaluation (Bias, Hallucination, and More), https://www.youtube.com/watch?v=KeY6qPAvyq0&ab_channel=AIAnytime
+
  
   * Pinecone + LlamaIndex on Retrieval Augmented Generation (RAG) Systems, https://www.youtube.com/watch?v=FgLf5HjxI8w&ab_channel=ArizeAI
     
@@ -1244,6 +1242,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     
   * RAG Evaluation Using Synthetic data and LLM-As-A-Judge, https://github.com/huggingface/cookbook/tree/main/notebooks/en
+    
+  * Bert Score for Contextual Similarity for RAG Evaluation, https://youtube.com/watch?v=7AVjk2k8Mbs&ab_channel=AIAnytime
+ 
+  * Testing Framework Giskard for LLM and RAG Evaluation (Bias, Hallucination, and More), https://www.youtube.com/watch?v=KeY6qPAvyq0&ab_channel=AIAnytime
+
     
   * Getting started with RAG in DSPy!,
   https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
@@ -1580,12 +1583,17 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
   
    https://github.com/Azure-Samples/azure-search-openai-demo/
 
-  
+
+
+* **Building A RAG Ebook “Librarian” Using LlamaIndex**
+  https://huggingface.co/learn/cookbook/rag_llamaindex_librarian
+
+  https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_llamaindex_librarian.ipynb
 
 
 
 
-# Dataset Creation 
+# Dataset 
 
 
  *  Augmentoolkit
@@ -1647,14 +1655,29 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
 
-
-
-
 * Fine-Tuned Q&A - create Q&A (Some Part Deprecated)
 
  https://cookbook.openai.com/examples/fine-tuned_qa/olympics-2-create-qa
 
  
+
+* **Detecting Issues in a Text Dataset with Cleanlab**
+
+  In this 5-minute quickstart tutorial, they use Cleanlab to detect various issues in an intent classification dataset composed of (text) customer service requests at an online bank. We consider a subset of the Banking77-OOS Dataset containing 1,000 customer service requests which are classified into 10 categories based on their intent (you can run this same code on any text classification dataset). Cleanlab automatically identifies bad examples in our dataset, including mislabeled data, out-of-scope examples (outliers), or otherwise ambiguous examples. Consider filtering or correcting such bad examples before you dive deep into modeling your data!
+
+  https://huggingface.co/learn/cookbook/issues_in_text_dataset
+
+  Dataset:  [Banking77-OOS Dataset] (https://arxiv.org/abs/2106.04564)
+  
+  https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/issues_in_text_dataset.ipynb
+
+      CleanLab: https://github.com/cleanlab/cleanlab
+
+      https://cleanlab.ai/
+      The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+
+
+
   
 
 
@@ -1787,6 +1810,8 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
    https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
+   https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/faiss_with_hf_datasets_and_clip.ipynb
+
 
  * Introduction to Matryoshka Embedding Models
 
@@ -1830,34 +1855,7 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
 
 
-* Guidelines to choose an FAISS index
 
-
- Selecting the appropriate FAISS index is crucial for optimizing performance and depends on the specific requirements of your project, such as dataset size, query frequency, and latency constraints. Here's a guide to selecting different indexes based on these criteria:
-
-    - For Small Datasets:
-   
-      * FlatL2 or FlatIP: Ideal for smaller datasets due to their simplicity and moderate memory consumption. They perform exhaustive searches across all vectors and provide precise results.
-      * LSH (Locality-Sensitive Hashing): Suitable for small to medium datasets and recommended for vectors up to 128 dimensions. LSH is faster than exhaustive search but may trade off a bit of accuracy for speed.
-   
-    - For Medium to Large Datasets:
-     
-     * HNSW (Hierarchical Navigable Small World): Extremely fast for both indexing and querying and supports higher-dimensional data. However, it requires more memory, making it suitable for medium-sized datasets.
-     * IVF (Inverted File Indexing): Ideal for large datasets. It segments the search space into a predefined number of clusters and only searches within the most relevant clusters. IVF indexes balance between memory usage and search speed, making them efficient for large-scale applications.
-   
-    - For Very Large Datasets:
-   
-      * Advanced versions of IVF, such as IVFADC (Inverted File with Asymmetric Distance Computation) or IVFPQ (Product Quantization), can be used. These indexes further compress the dataset and reduce the search space, optimizing both memory usage and search speed at the scale of millions of vectors.
-        
-   When integrating a semantic cache with a FAISS-based RAG system, it's essential to:
-   
-     - Choose the right index type based on your dataset size and query characteristics.
-     - Consider the trade-offs between accuracy and speed, as some indexes may offer faster retrieval at the expense of precision.
-     - Test and evaluate different indexes to find the best configuration for your specific use case.
-       
- https://github.com/facebookresearch/faiss/wiki/Guidelines-to-choose-an-index
-
-  https://github.com/facebookresearch/faiss
 
 
 
@@ -1907,6 +1905,84 @@ https://youtu.be/CXDOkHFboAU?si=m8OoaiPa0JHMDs1e
 * NODES 2023 - Using LLMs to Convert Unstructured Data to Knowledge Graphs
 
  https://www.youtube.com/watch?v=qLdkRReMPvM&ab_channel=Neo4j
+
+
+
+
+
+
+
+* **Index Guide**
+
+
+  * Guidelines to choose an FAISS index
+
+
+ Selecting the appropriate FAISS index is crucial for optimizing performance and depends on the specific requirements of your project, such as dataset size, query frequency, and latency constraints. Here's a guide to selecting different indexes based on these criteria:
+
+    - For Small Datasets:
+   
+      * FlatL2 or FlatIP: Ideal for smaller datasets due to their simplicity and moderate memory consumption. They perform exhaustive searches across all vectors and provide precise results.
+      * LSH (Locality-Sensitive Hashing): Suitable for small to medium datasets and recommended for vectors up to 128 dimensions. LSH is faster than exhaustive search but may trade off a bit of accuracy for speed.
+   
+    - For Medium to Large Datasets:
+     
+     * HNSW (Hierarchical Navigable Small World): Extremely fast for both indexing and querying and supports higher-dimensional data. However, it requires more memory, making it suitable for medium-sized datasets.
+     * IVF (Inverted File Indexing): Ideal for large datasets. It segments the search space into a predefined number of clusters and only searches within the most relevant clusters. IVF indexes balance between memory usage and search speed, making them efficient for large-scale applications.
+   
+    - For Very Large Datasets:
+   
+      * Advanced versions of IVF, such as IVFADC (Inverted File with Asymmetric Distance Computation) or IVFPQ (Product Quantization), can be used. These indexes further compress the dataset and reduce the search space, optimizing both memory usage and search speed at the scale of millions of vectors.
+        
+   When integrating a semantic cache with a FAISS-based RAG system, it's essential to:
+   
+     - Choose the right index type based on your dataset size and query characteristics.
+     - Consider the trade-offs between accuracy and speed, as some indexes may offer faster retrieval at the expense of precision.
+     - Test and evaluate different indexes to find the best configuration for your specific use case.
+       
+ https://github.com/facebookresearch/faiss/wiki/Guidelines-to-choose-an-index
+
+  https://github.com/facebookresearch/faiss
+
+
+
+* LlamaIndex Indexing Guide
+
+   -VectorStoreIndex
+   - Summary Index
+   - Tree Index
+   - Keyword Table Index
+   - Knowledge Graph Index
+   - Knowledge Graph Query Engine
+   - Knowledge Graph RAG Query Engine
+   - REBEL + Knowledge Graph Index
+   - REBEL + Wikipedia Filtering
+   - SQL Index
+   - SQL Query Engine with LlamaIndex + DuckDB
+   - Document Summary Index
+   - The ObjectIndex Class
+
+    https://docs.llamaindex.ai/en/stable/module_guides/indexing/index_guide.html
+
+
+
+
+* **FlagEmbedding**
+
+  FlagEmbedding focuses on **retrieval-augmented LLMs**, consisting of the following projects currently:
+
+   - Long-Context LLM: Activation Beacon
+   - Fine-tuning of LM : LM-Cocktail
+   - Dense Retrieval: BGE-M3, LLM Embedder, BGE Embedding
+   - Reranker Model: BGE Reranker
+   - Benchmark: C-MTEB
+
+
+  https://github.com/FlagOpen/FlagEmbedding
+  
+  https://huggingface.co/BAAI/bge-base-en-v1.5
+
+  
 
 
 
@@ -3181,6 +3257,19 @@ This repository contains script which were used to build and train the DeepGO-SE
 
   https://github.com/microsoft/AI2BMD/tree/ViSNet
 
+
+
+
+
+# Metrics for Evaluation
+
+  All metrics on the Hugging Face Hub
+  
+  https://huggingface.co/metrics
+
+
+
+
   
 # Youtube Channels
 
@@ -3271,7 +3360,7 @@ This repository contains script which were used to build and train the DeepGO-SE
    
 
 
-* **Learn from Hugginface**
+* **Learn from Huggingface**
 
   https://huggingface.co/learn
 
