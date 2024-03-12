@@ -2411,6 +2411,20 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
 
   * Function Calling using Open Source LLM (Mistral 7B), https://www.youtube.com/watch?v=MQmfSBdIfno&t=337s&ab_channel=AIAnytime
+
+  * 4 LLM frameworks to build AI apps with voice data
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/6ba1f1d8-2f1b-4ed4-b54f-2596d92c53a7)
+
+     - LeMUR: https://www.assemblyai.com/docs/getting-started/apply-llms-to-audio-files
+     - LangChain: https://www.langchain.com/langchain
+     - LlamaIndex: https://www.llamaindex.ai/
+     - Haystack: https://haystack.deepset.ai/
+
+      https://www.youtube.com/watch?v=wdF-0CGkoeQ&ab_channel=AssemblyAI
+
+      
+  
     
   * vector search, RAG, and Azure AI search,
 
