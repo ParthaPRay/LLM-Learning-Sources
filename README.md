@@ -694,6 +694,10 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
+
+
+
+
 # Fine Tuning
 
 
@@ -1305,6 +1309,21 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     https://shopify.engineering/topics/data-science-engineering
 
 * RAG-VectorDB-Embedings-LlamaIndex-Langchain,   https://github.com/lucifertrj/Awesome-RAG
+
+* Q&A with RAG, https://python.langchain.com/docs/use_cases/question_answering/
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b1f416e5-9ba8-43e4-89da-cb6baa256ddb)
+
+
+   Table of contents:
+  
+    - [Quickstart](https://python.langchain.com/docs/use_cases/question_answering/quickstart): We recommend starting here. Many of the following guides assume you fully understand the architecture shown in the Quickstart.
+    - [Returning sources](https://python.langchain.com/docs/use_cases/question_answering/sources): How to return the source documents used in a particular generation.
+    - [Streaming](https://python.langchain.com/docs/use_cases/question_answering/streaming): How to stream final answers as well as intermediate steps.
+    - [Adding chat history](https://python.langchain.com/docs/use_cases/question_answering/chat_history): How to add chat history to a Q&A app.
+    - [Per-user retrieval](https://python.langchain.com/docs/use_cases/question_answering/per_user): How to do retrieval when each user has their own private data.
+    - [Using agents](https://python.langchain.com/docs/use_cases/question_answering/conversational_retrieval_agents): How to use agents for Q&A.
+    - [Using local models](https://python.langchain.com/docs/use_cases/question_answering/local_retrieval_qa): How to use local models for Q&A.
 
 
 * Google Gemma Fully LOCAL RAG ChatBot using Ollama|LangChain|Chainlit|Chat with Docs #ai #ollama #llm, https://www.youtube.com/watch?v=8uo-GCIKim8&ab_channel=DataInsightEdge
