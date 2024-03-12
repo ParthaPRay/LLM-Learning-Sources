@@ -401,7 +401,21 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 * Mixture of Experts (MoEs)
-      
+
+
+   
+        * What is a Mixture-of-Experts (MoE)?
+
+           ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/536aecab-1e37-46d2-b2c8-82711b7f03cd)
+          
+        * towards understanding mixture of experts in deep learning
+
+           https://arxiv.org/abs/2208.02813
+
+        * Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models
+
+          https://arxiv.org/abs/2305.14705
+
         * Mixture of Experts Explained
       
           https://huggingface.co/blog/moe
