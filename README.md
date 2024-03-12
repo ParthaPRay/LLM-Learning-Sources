@@ -1608,10 +1608,62 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
     https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
+  * RAG over your **code**: a project by Akshay on creating a local code assistant using **LlamaIndex**, MistralAI, and Streamlit to index and query GitHub repositories, offering a foundational guide for advanced code QA
+ 
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/08cea68a-9670-46b8-8f08-3aa3396cce7f)
+
+
+     https://www.youtube.com/watch?v=3V-rpBofej8&ab_channel=AkshayPachaar
+    
+    https://lightning.ai/lightning-ai/studios/chat-with-your-code-using-rag?__s=u4pvflfacap82vd4gibe&utm_source=drip&utm_medium=email&utm_campaign=LlamaIndex+news+2024-03-12
+
+
+ * Build a real-time RAG chatbot using Google Drive and Sharepoint
+
+   Keep your chatbot’s knowledge base up-to-date with Pathway and LlamaIndex
+
+   In this post, they explore how to build a real-time RAG app with up-to-date information from your files stored in Google Drive or Sharepoint. This means that your chatbot will always have access to the most recent version of your knowledge base—no manual pipeline reruns needed. By the end of this tutorial, you’ll use Pathway and LlamaIndex to build a RAG chatbot that instantly updates.
+
+
+   https://blog.streamlit.io/build-a-real-time-rag-chatbot-google-drive-sharepoint/?__s=u4pvflfacap82vd4gibe&utm_source=drip&utm_medium=email&utm_campaign=LlamaIndex+news+2024-03-12
+
+   https://www.youtube.com/watch?v=JLVsFIXtvKE&ab_channel=Streamlit
+      
+   
+
+ * Build an AI Browser Copilot
+
+   **LaVague** is designed to automate menial tasks on behalf of its users. Many of these tasks are repetitive, time-consuming, and require little to no cognitive effort. By automating these tasks, LaVague aims to free up time for more meaningful endeavors, allowing users to focus on what truly matters to them.
+
+By providing an engine turning natural language queries into Selenium code, LaVague is designed to make it easy for users or other AIs to automate easily express web workflows and execute them on a browser.
+
+One of the key usages we see is to automate tasks that are personal to users and require them to be logged in, for instance automating the process of paying bills, filling out forms or pulling data from specific websites.
+
+LaVague is built on open-source projects and leverages open-sources models, either locally or remote, to ensure the transparency of the agent and ensures that it is aligned with users' interests.
+
+ Large Action Model framework to automate browser interaction
+
+   A project by Daniel Huynh that demonstrates how to create a browser agent using RAG, local embeddings, and Mixtral to execute browser tasks from a Colab notebook, showcased with a video on navigating HuggingFace datasets
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a176c50a-7a1c-47fb-8b84-73f6c6cdda01)
+     LaVague interacting with Hugging Face's website.
+
+
+Features:
+
+  - Natural Language Processing: Understands instructions in natural language to perform browser interactions.
+  - Selenium Integration: Seamlessly integrates with Selenium for automating web browsers.
+  - Open-Source: Built on open-source projects such as transformers and llama-index, and leverages open-source models, either locally or remote, to ensure the transparency of the agent and ensures that it is aligned with users' interests.
+  - Local models for privacy and control: Supports local models like Gemma-7b so that users can fully control their AI assistant and have privacy guarantees.
+  - Advanced AI techniques: Uses a local embedding (bge-small-en-v1.5) first to perform RAG to extract the most relevant HTML pieces to feed the LLM answering the query, as directly dropping the full HTML code would not fit in context. Then leverages Few-shot learning and Chain of Thought to elicit the most relevant Selenium code to perform the action without having to finetune the LLM (Nous-Hermes-2-Mixtral-8x7B-DPO) for code generation.
+
+   https://github.com/lavague-ai/LaVague
+
+   https://colab.research.google.com/github/dhuynh95/LaVague/blob/main/LaVague.ipynb
 
    
 
-
+   
 
 
 
