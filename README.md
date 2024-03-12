@@ -942,6 +942,46 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
      https://www.youtube.com/watch?v=Gpyukc6c0w8&t=16s&ab_channel=MervinPraison
 
 
+* Illustrating Reinforcement Learning from Human Feedback (RLHF)
+
+  Reinforcement learning from Human Feedback (also referenced as RL from human preferences) is a challenging concept because it involves a multiple-model training process and different stages of deployment. In this blog post, we’ll break down the training process into three core steps:
+
+     - Pretraining a language model (LM),
+
+         ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/f2d564e2-13d3-4f53-aedc-3234963cb871)
+
+
+
+     - gathering data and training a reward model, and
+
+       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/28125d05-ea71-4210-82fe-20b116298ba4)
+
+       
+     - fine-tuning the LM with reinforcement learning.
+
+       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/3442441b-52ee-43a1-b0a5-af8150af15c0)
+  Technical detail note: The above diagram makes it look like both models generate different responses for the same prompt, but what really happens is that the RL policy generates text, and that text is fed into the initial model to produce its relative probabilities for the KL penalty. This initial model is untouched by gradient updates during training.
+  
+
+  https://huggingface.co/blog/rlhf
+
+
+ Open-source tools for RLHF
+ 
+    The first code released to perform RLHF on LMs was from OpenAI in TensorFlow in 2019.
+    
+    Today, there are already a few active repositories for RLHF in PyTorch that grew out of this. The primary repositories are Transformers Reinforcement Learning (TRL), TRLX which originated as a fork of TRL, and Reinforcement Learning for Language models (RL4LMs).
+    
+    TRL is designed to fine-tune pretrained LMs in the Hugging Face ecosystem with PPO. TRLX is an expanded fork of TRL built by CarperAI to handle larger models for online and offline training. At the moment, TRLX has an API capable of production-ready RLHF with PPO and Implicit Language Q-Learning ILQL at the scales required for LLM deployment (e.g. 33 billion parameters). Future versions of TRLX will allow for language models up to 200B parameters. As such, interfacing with TRLX is optimized for machine learning engineers with experience at this scale.
+    
+    RL4LMs offers building blocks for fine-tuning and evaluating LLMs with a wide variety of RL algorithms (PPO, NLPO, A2C and TRPO), reward functions and metrics. Moreover, the library is easily customizable, which allows training of any encoder-decoder or encoder transformer-based LM on any arbitrary user-specified reward function. Notably, it is well-tested and benchmarked on a broad range of tasks in recent work amounting up to 2000 experiments highlighting several practical insights on data budget comparison (expert demonstrations vs. reward modeling), handling reward hacking and training instabilities, etc. RL4LMs current plans include distributed training of larger models and new RL algorithms.
+    
+    Both TRLX and RL4LMs are under heavy further development, so expect more features beyond these soon.
+
+There is a [large dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) created by Anthropic available on the Hub.
+
+
+  
 *  How to fine tune LLMs?
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a4b04d0d-05ec-410e-b367-1c3b3869423a)
@@ -1565,11 +1605,26 @@ https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
 
+* H2O LLM DataStudio Part II: Convert Documents to QA Pairs for fine tuning of LLMs
+
+  
+ https://h2o.ai/blog/2023/h2o-llm-datastudio-part-ii-convert-documents-to-qa-pairs-for-fine-tuning-of-llms/
+
+* H2O LLM DataStudio: Streamlining Data Curation and Data Preparation for LLMs related tasks
+  
+ https://h2o.ai/blog/2023/streamlining-data-preparation-for-fine-tuning-of-large-language-models/
 
 
 
 
 
+
+* Fine-Tuned Q&A - create Q&A (Some Part Deprecated)
+
+ https://cookbook.openai.com/examples/fine-tuned_qa/olympics-2-create-qa
+
+ 
+  
 
 
 # Vector Database and Embeddings 
