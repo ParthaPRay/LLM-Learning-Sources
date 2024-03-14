@@ -975,7 +975,29 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
      https://www.youtube.com/watch?v=Gpyukc6c0w8&t=16s&ab_channel=MervinPraison
 
 
-* Illustrating Reinforcement Learning from Human Feedback (RLHF)
+
+
+* ​**Direct Preference Optimization (DPO)**
+
+    - [Direct Preference Optimization (DPO)](https://huggingface.co/papers/2305.18290)
+    - [Identity Preference Optimisation (IPO)] (https://huggingface.co/papers/2310.12036)
+    - [Kahneman-Tversky Optimisation (KTO)] (https://github.com/ContextualAI/HALOs)
+
+  https://huggingface.co/blog/pref-tuning
+
+* **Reinforcement Learning with AI Feedback - RLAIF** Github Link
+
+  Reinforcement Learning from AI Feedback (RLAIF) is a concept that describes a type of machine learning approach where an AI agent learns by receiving feedback or guidance from another AI system. This concept is closely related to the field of Reinforcement Learning (RL), which is a type of machine learning where an agent learns to make a sequence of decisions in an environment to maximize a cumulative reward.
+
+  https://github.com/mengdi-li/awesome-RLAIF
+  
+
+* **​Reasoning with Reinforced Fine-Tuning (ReFT)**
+
+  https://github.com/lqtrung1998/mwp_ReFT
+  
+
+* Illustrating **Reinforcement Learning from Human Feedback (RLHF)**
 
   Reinforcement learning from Human Feedback (also referenced as RL from human preferences) is a challenging concept because it involves a multiple-model training process and different stages of deployment. In this blog post, we’ll break down the training process into three core steps:
 
