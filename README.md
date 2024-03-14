@@ -1134,6 +1134,7 @@ To do that, we need to construct a data set where pairs of related (Question, an
 
 # RAG
 
+
 **RAG = Dense vector Retrieval (R) + In-Contsxt learning (AG)**
 
 
@@ -1724,6 +1725,27 @@ In this notebook, we introduce VideoDBRetriever, a tool specifically designed to
   https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/quickstart.ipynb
 
 
+
+
+*  Improved Retrieval Augmented Generation with ALL-SORT (Assisted Large Language Sorting)
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/857fa6b7-fa02-46dc-a225-461036fa45de)
+
+   https://docs.google.com/presentation/d/1poQa3t5fuBfAdfXvACicFKKNUPNsk0lfsNgc10TiIUE/edit#slide=id.gcb9a0b074_1_0
+
+   Smaug 34B Model: https://huggingface.co/abacusai/Smaug-34B-v0.1
+   
+   E5 Embedding Model: https://huggingface.co/intfloat/e5-large-v2
+
+   
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/95bbb54d-0c61-4066-8d4b-77fb2660d315)
+  Strucured Text Generation: https://github.com/outlines-dev/outlines, https://outlines-dev.github.io/outlines/
+   
+   
+   https://www.youtube.com/watch?v=biJmRQF8bmY&ab_channel=TrelisResearch
+
+
+   
 
 
 
