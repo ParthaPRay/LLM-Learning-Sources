@@ -1384,7 +1384,34 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 https://youtu.be/IPbv5Fs3mis?si=5_frUdnXNLoVJEpM
 
 
-* How to use Langchain with multimodal AI to analyze images in financial reports using langchain and GPT-4
+* Multi Needle in a Haystack, https://youtu.be/UlmyyYQGhzc?ref=blog.langchain.dev
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ce782f56-fae6-40d1-b369-6e2dde3da301)
+
+
+  https://github.com/gkamradt/LLMTest_NeedleInAHaystack/tree/main?ref=blog.langchain.dev
+  
+  https://blog.langchain.dev/multi-needle-in-a-haystack/
+  
+
+* LangGraph for Code Generation, https://www.youtube.com/watch?v=MvNdgmM7uyc&ref=blog.langchain.dev
+
+   
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/931f2caa-e72d-40eb-bc6f-4f67fafbbb92)
+
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/201563fe-9952-4bdc-b7b7-9f5c2558fce3)
+
+     Flow for AlphaCodium
+
+    **The recent AlphaCodium work showed that code generation can be improved by using a flow paradigm rather than a naive prompt:answer paradigm: answers can be iteratively constructed by (1) testing answers and (2) reflecting on the results of these tests in order to improve the solution.**
+
+
+
+  https://blog.langchain.dev/code-execution-with-langgraph/
+
+
+*  How to use Langchain with multimodal AI to analyze images in financial reports using langchain and GPT-4
   
   https://youtu.be/Rcqy92Ik6Uo?si=PPeKxtD5GHArV9iN
 
