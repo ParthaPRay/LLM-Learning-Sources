@@ -800,6 +800,10 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
 
     
+  * Fine tuning with LlamaIndex
+
+    https://docs.llamaindex.ai/en/stable/optimizing/fine-tuning/fine-tuning.html
+    
   * Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
 
      https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
