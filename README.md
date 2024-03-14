@@ -2793,6 +2793,12 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 
 
+* Building Google's Dramatron with LangGraph JS & Anthropic's Claude 3
+
+  https://www.youtube.com/watch?v=alHnQjyn7hg&ab_channel=LangChain
+
+
+
     
   
 
