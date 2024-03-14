@@ -818,6 +818,14 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     https://newsletter.theaiedge.io/p/the-aiedge-how-to-fine-tune-large
 
 
+* ReFT: Reasoning with Reinforced Fine-Tuning
+  
+  Aligning LLMs: ReFT
+
+  https://www.youtube.com/watch?v=K_8a056X4ys&ab_channel=AIMakerspace
+  
+
+
 
 * Dickens: an LLM that writes Great Expectations
 
@@ -922,7 +930,7 @@ https://github.com/Sentdex/LLM-Finetuning
 
    https://youtu.be/9GjLAyn12MU?si=NYd1BmNv4vfVtde4
 
- https://huggingface.co/cloudyu/mistral_pretrain_demo
+   https://huggingface.co/cloudyu/mistral_pretrain_demo
 
 
 
@@ -991,7 +999,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   https://huggingface.co/blog/rlhf
 
 
- Open-source tools for RLHF
+ _Open-source tools for RLHF_
  
     The first code released to perform RLHF on LMs was from OpenAI in TensorFlow in 2019.
     
