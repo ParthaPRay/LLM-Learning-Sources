@@ -1784,7 +1784,12 @@ In this notebook, we introduce VideoDBRetriever, a tool specifically designed to
 
    
 
+* Building STORM from scratch with LangGraph, https://www.youtube.com/watch?v=1uUORSZwTz4&ab_channel=LangChain
 
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/91a7b5e1-d529-40f2-b6a5-e3518a61036b)
+
+     https://github.com/langchain-ai/langgraph/blob/main/examples/storm/storm.ipynb
 
 
 
@@ -2699,6 +2704,9 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  * Gemini Pro + LangChain - Chains, Mini RAG, PAL + Multimodal, https://www.youtube.com/watch?v=G3-YOEVg-xc&ab_channel=SamWitteveen
 
  * LangGraph + function call + Yahoofinance = Multi-agent application, https://youtu.be/r2PvHdkaXWc?si=alEiCMZwy0xAwNwG
+   
+
+
    
  * CrewAI agents for stock analysis (works with local Ollama LLMs),
  https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
