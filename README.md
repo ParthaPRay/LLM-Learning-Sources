@@ -1737,10 +1737,9 @@ In this notebook, we introduce VideoDBRetriever, a tool specifically designed to
    
    E5 Embedding Model: https://huggingface.co/intfloat/e5-large-v2
 
-   
-     <img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/95bbb54d-0c61-4066-8d4b-77fb2660d315" width="150" height="280">
 
-  Strucured Text Generation: https://github.com/outlines-dev/outlines, https://outlines-dev.github.io/outlines/
+   <img src="https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/544dac20-0ca3-4343-adc6-05fd64b28793" width="200" height="100">
+   Strucured Text Generation: https://github.com/outlines-dev/outlines, https://outlines-dev.github.io/outlines/
    
    
    https://www.youtube.com/watch?v=biJmRQF8bmY&ab_channel=TrelisResearch
