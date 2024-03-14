@@ -921,6 +921,12 @@ https://github.com/Sentdex/LLM-Finetuning
     https://colab.research.google.com/drive/1Jw9jthx_S62MPwKH9lqb6xPRwec4OiI6?usp=sharing
     
 
+  * How to Train a Multi Modal Large Language Model with Images?
+
+    https://huggingface.co/HuggingFaceM4/idefics-9b
+
+    https://www.youtube.com/watch?v=ojjIYAbWP6U&ab_channel=MervinPraison
+   
   * Fine-tuning Llama 2 70B using PyTorch FSDP
     
     https://huggingface.co/blog/ram-efficient-pytorch-fsdp
