@@ -106,7 +106,6 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 
 * A simple generative ML model with just KNN, https://www.youtube.com/watch?v=aFuHPiJu0QA
 
-* Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA-Adapter, and More, https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft#:~:text=LoRA%3A%20Low%2DRank%20Adaptation%20of%20Large%20Language%20Models%20%5B1%5D&text=LoRA%20leaves%20the%20pretrained%20layers,of%20the%20model%3B%20see%20below.
 
 * The N Implementation Details of RLHF with PPO,
   https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo
@@ -703,10 +702,6 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
-  * Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU, https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
-
-    https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
-    
     
   * Fine-tuning Tiny LLM on Your Data | Sentiment Analysis with TinyLlama and LoRA on a Single GPU, https://www.youtube.com/watch?v=_KPEoCSKHcU&ab_channel=VenelinValkov
     
@@ -744,11 +739,10 @@ The idea is to build visual tokens by breaking down the image into patches of pi
  
   * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU, https://www.youtube.com/watch?v=g68qlo9Izf0&t=17s&ab_channel=DeepLearningAI
 
-  * Efficient Fine-Tuning for Llama 2 on Custom Dataset with QLoRA on a Single GPU in Google Colab, https://www.youtube.com/watch?v=YyZqcNo4hdo&pp=ygUQZmluZSB0dW5pbmcgTExNXA%3D%3D
-    
+
+   
   * Direct Preference Optimization (DPO), https://www.youtube.com/watch?v=E5kzAbD8D0w&ab_channel=TrelisResearch
- 
-  * Fine-tuning Language Models for Structured Responses with QLoRa, https://www.youtube.com/watch?v=OQdp-OeG1as&ab_channel=TrelisResearch
+
  
   * Fine Tune LLaMA 2 In FIVE MINUTES! - "Perform 10x Better For My Use Case", https://www.youtube.com/watch?v=74NSDMvYZ9Y&ab_channel=MatthewBerman
  
@@ -901,6 +895,22 @@ https://github.com/Sentdex/LLM-Finetuning
 
     https://huggingface.co/blog/g-ronimo/phinetuning
 
+ 
+  * Fine-tuning Language Models for Structured Responses with QLoRa, https://www.youtube.com/watch?v=OQdp-OeG1as&ab_channel=TrelisResearch
+
+
+  * Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU, https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
+
+    https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
+
+    
+  * Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA-Adapter, and More, https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft#:~:text=LoRA%3A%20Low%2DRank%20Adaptation%20of%20Large%20Language%20Models%20%5B1%5D&text=LoRA%20leaves%20the%20pretrained%20layers,of%20the%20model%3B%20see%20below.
+    
+  * Efficient Fine-Tuning for Llama 2 on Custom Dataset with QLoRA on a Single GPU in Google Colab, https://www.youtube.com/watch?v=YyZqcNo4hdo&pp=ygUQZmluZSB0dW5pbmcgTExNXA%3D%3D
+
+ * QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code), https://www.youtube.com/watch?v=XpoKB3usmKc&ab_channel=ShawTalebi
+
+    https://colab.research.google.com/drive/1AErkPgDderPW0dgE230OOjEysd0QV1sR?usp=sharing
 
 
   * Preference Tuning LLMs with **Direct Preference Optimization** Methods
