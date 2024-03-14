@@ -692,6 +692,14 @@ The idea is to build visual tokens by breaking down the image into patches of pi
  https://github.com/technovangelist/videoprojects
 
 
+* JSON agents with Ollama & LangChain
+
+  Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/100767aa-5125-4a47-b2f4-cd2c3177675d)
+
+  https://blog.langchain.dev/json-based-agents-with-ollama-and-langchain/
+
 
 
 
