@@ -1354,6 +1354,10 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
 
+ * RAG with LlamaParse, Qdrant and groq
+
+ https://youtu.be/w7Ap6gZFXl0?si=liBk9uDsOm9DbSi4
+ 
  * Better Retrieval Augmented Generation (RAG) with LangChain Parent-Child Retriever, https://www.youtube.com/watch?v=wSi0fxkH6e0
 
  * Advanced RAG on HuggingFace documentation using langchain, https://huggingface.co/learn/cookbook/advanced_rag
