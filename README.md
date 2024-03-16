@@ -2238,6 +2238,15 @@ https://youtu.be/CXDOkHFboAU?si=m8OoaiPa0JHMDs1e
   
 
 
+* CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
+
+  https://huggingface.co/blog/intel-fast-embedding
+
+
+
+
+
+
 
 # Essentials on LoRA, Quantization and Sharding Variants
 
