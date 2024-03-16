@@ -2860,6 +2860,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 
 
+
+
     
   
 
@@ -2883,8 +2885,16 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     
 https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
   
-    
+  * **Fastest talking AI I could build
+    deepgram + groq**
+  
+  
+  https://youtu.be/J2sbC8X5Pp8?si=6L4sqm2izVXkDgR7
+   
+    https://aura-tts-demo.deepgram.com
 
+
+    Code: https://github.com/gkamradt/QuickAgent
 
 
 
