@@ -2583,6 +2583,13 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   * AutoGen Studio with 100% Local LLMs (LM Studio), https://www.youtube.com/watch?v=ob45YmYD2KI&ab_channel=PromptEngineering
   
   * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
+  
+  * This is a lightweight app using the Web Research Retriever. It uses langchain to search and chat on web data on streamlit.
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/531acb8f-9e56-498e-8c96-0f0af82fd46d)
+
+
+    https://github.com/langchain-ai/web-explorer/tree/main
     
   * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
  
