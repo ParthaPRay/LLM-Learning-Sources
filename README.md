@@ -1815,6 +1815,12 @@ In this notebook, we introduce VideoDBRetriever, a tool specifically designed to
 
 
 
+* Semi-structured RAG - Langchain using Mistral 7B, Qdrant, Fastembed on pdf text using Tabular Data,
+  https://colab.research.google.com/drive/1rLWrDwePwgtZAOUTL7RNpsS7tTQ3oWWQ?usp=sharing
+  
+https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
+
+
 
 *  Improved Retrieval Augmented Generation with ALL-SORT (Assisted Large Language Sorting)
 
