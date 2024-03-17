@@ -399,7 +399,29 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
-* Mixture of Experts (MoEs)
+* Gorilla
+  
+Gorilla is a LLM that can provide appropriate API calls. It is trained on three massive machine learning hub datasets: Torch Hub, TensorFlow Hub and HuggingFace. We are rapidly adding new domains, including Kubernetes, GCP, AWS, OpenAPI, and more. Zero-shot Gorilla outperforms GPT-4, Chat-GPT and Claude. 
+
+  
+  <img width="1184" alt="image" src="https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/080b8eef-4e6c-44d3-8a43-f966d0f183dd">
+
+
+Gorilla is extremely reliable, and significantly reduces hallucination errors.Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke. With Gorilla, we are the first to demonstrate how to use LLMs to invoke 1,600+ (and growing) API calls accurately while reducing hallucination. We also release APIBench, the largest collection of APIs, curated and easy to be trained on! Join us, as we try to expand the largest API store and teach LLMs how to write them! Hop on our Discord, or open a PR, or email us if you would like to have your API incorporated as well.
+
+https://gorilla.cs.berkeley.edu/
+
+
+https://github.com/ShishirPatil/gorilla
+
+https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sharing
+
+
+
+
+
+
+* **Mixture of Experts (MoEs)**
 
 
    
@@ -961,7 +983,13 @@ https://github.com/Sentdex/LLM-Finetuning
    https://huggingface.co/cloudyu/mistral_pretrain_demo
 
 
+ * Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
 
+ https://huggingface.co/blog/fine-tune-whisper
+
+ https://colab.research.google.com/github/sanchit-gandhi/notebooks/blob/main/fine_tune_whisper.ipynb
+
+ 
 
  * Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
 
