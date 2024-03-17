@@ -2670,7 +2670,7 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
     https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
 
-
+   
   * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
 
     https://www.youtube.com/watch?v=xZDB1naRUlk
@@ -2878,6 +2878,11 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   
   https://youtu.be/_WmH2WSuT_8?si=Jq-r8eib1G9bVjrj
 
+
+
+
+
+
 # LPU
 
    * How does Groq LPU work? (w/ Head of Silicon Igor Arsovski!), https://www.youtube.com/watch?v=WQDMKTEgQnY&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
@@ -3026,6 +3031,14 @@ https://lnkd.in/giQrUzfq
 
   https://www.youtube.com/watch?v=NgWujOrCZFo&list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&ab_channel=DeepLearningAI
   
+
+
+
+* Let's Learn LangChain! // Applied AI Workshops March 2024
+
+    https://github.com/justingrammens/LetsLearnLangChain
+    
+    https://www.youtube.com/watch?v=QT3wALFDZBo&ab_channel=AppliedAI
 
 
 
@@ -3534,7 +3547,15 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
   https://github.com/aws-samples/aws-machine-learning-university-responsible-ai
   
 
+* **PyTorch**
 
+  Real-World PyTorch: From Zero to Hero in Deep Learning & LLMs | Tensors, Operations, Model Training
+
+  Explore PyTorch from basics to advanced model training. Through hands-on examples, learn tensor manipulation, GPU utilization, and model optimization. Ideal for anyone eager to master deep learning with PyTorch, this video ensures you're equipped for the AI revolution.
+
+  https://www.youtube.com/watch?v=dgs_9quxZXk&ab_channel=VenelinValkov
+  
+  https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
 
 
 * **CS50**
