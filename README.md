@@ -2859,11 +2859,24 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   https://www.youtube.com/watch?v=alHnQjyn7hg&ab_channel=LangChain
 
 
+* VectorShift + Pipelines + System Prompt = Ai Agent Chatbot
+
+  https://youtu.be/0HxHkNT4_EU?si=qeOsaRbRC6gt-rtA
 
 
+* AutoGen + Knowledge Graph + GPT-4 = Graph Chatbot
 
-    
+  https://youtu.be/dS06WQaxmjk?si=rh6rtw4EDDlph3xE
+
+
+* AutoGen + LangChian + SQLite + Schema Function = Super SQL Chabot
+
+  https://youtu.be/YB9M5tNAZVs?si=9NzLEB6okREdlpkL
+
+* Microsoft PHI-2 + Huggine Face + Langchain = Super Tiny Chatbot 
+        
   
+  https://youtu.be/_WmH2WSuT_8?si=Jq-r8eib1G9bVjrj
 
 # LPU
 
