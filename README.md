@@ -1880,6 +1880,15 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
 
 
+* Create Medical Chatbot with Google Gemma 7B LLM LlamaIndex Colab Demo Qdrant FastEmbed Gradio
+
+   https://www.youtube.com/watch?v=23BU5Csi_3w&ab_channel=RitheshSreenivasan
+
+   
+
+    https://colab.research.google.com/drive/1XBohRbAQchvxXVMi1Nap7JuRihjX-N9e?usp=sharing
+
+
 * **Retrieval Augmented Fine Tuning (RAFT)**
 
   🦍 RAFT: Adapting Language Model to Domain Specific RAG
