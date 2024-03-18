@@ -1880,7 +1880,7 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
 
 
-* Retrieval Augmented Fine Tuning (RAFT)
+* **Retrieval Augmented Fine Tuning (RAFT)**
 
   🦍 RAFT: Adapting Language Model to Domain Specific RAG
 
@@ -1899,6 +1899,12 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
     https://aka.ms/raft-blog
 
+   RAFT is a recipie to adapting LLMs to domain-specific RAG. You can learn more in our release-blogs here and here. RAFT takes an input document from the user and creates a dataset using the document, consisting of synthetically generated { question, answer, documents } triplets. The dataset can then be used to fine-tune models for improved question-answering and retrieval.
+
+  The input data from the user can be either a general text document (pdf, json, or txt) for general QA or an API documentation in the API Zoo JSONL format for API calling.
+
+
+     https://github.com/ShishirPatil/gorilla/tree/main/raft
   
 
 
