@@ -1312,9 +1312,14 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
   * RAG Implementation using Zephyr 7B Beta LLM: Is this the best 7B LLM? https://www.youtube.com/watch?v=btuN-rrPhsM&ab_channel=AIAnytime
  
   * Better RAG with Merger Retriever (LOTR) and Re-ranking Retriever (Long Context Reorder), https://www.youtube.com/watch?v=uYZftCq2efg&ab_channel=AIAnytime
+
+    https://github.com/svpino/youtube-rag
  
 
  
+  * Building a RAG application from scratch using Python, LangChain, and the OpenAI API, https://www.youtube.com/watch?v=BrsocJb-fAo&ab_channel=Underfitted
+
+
   * Pinecone + LlamaIndex on Retrieval Augmented Generation (RAG) Systems, https://www.youtube.com/watch?v=FgLf5HjxI8w&ab_channel=ArizeAI
     
   * Optimizing RAG With LLMS: Exploring Chunking Techniques and Reranking for Enhanced Results, https://youtube.com/watch?v=QpRTdZDR4tE&ab_channel=ArizeAI
@@ -3525,6 +3530,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
   https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
   
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
+* **Underfitted**, https://www.youtube.com/@underfitted
 
 
 
