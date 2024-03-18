@@ -1335,6 +1335,17 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     https://github.com/ambarishg/llama-index
 
 
+  * Search-in-the-Chain with LlamaIndex
+
+    This LlamaPack implements a framework called SearChain, which implements the interaction between LLM and IR in the form of the global reasoning chain called Chain-of-Query (CoQ).
+
+    https://llamahub.ai/l/llama-packs/llama-index-packs-searchain?from=
+    
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ede6e639-64b1-4fd7-b42c-958bf84e9be8)
+
+     https://github.com/DJC-GO-SOLO/llama_index/blob/main/llama-index-packs/llama-index-packs-searchain/examples/searchain.ipynb
+
+
   * LLM Search & Retrieval Systems with Arize and LlamaIndex: Powering LLMs on Your Proprietary Data, https://www.youtube.com/watch?v=hbQYDpJayFw&ab_channel=ArizeAI
  
   * Building A RAG System With OpenAI Latest Embeddings, https://www.youtube.com/watch?v=OvvgaR1S4Xc&ab_channel=RichmondAlake
