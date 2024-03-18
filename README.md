@@ -1880,6 +1880,9 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
 
 
+
+
+
 * Create Medical Chatbot with Google Gemma 7B LLM LlamaIndex Colab Demo Qdrant FastEmbed Gradio
 
    https://www.youtube.com/watch?v=23BU5Csi_3w&ab_channel=RitheshSreenivasan
@@ -2252,7 +2255,16 @@ https://youtu.be/CXDOkHFboAU?si=m8OoaiPa0JHMDs1e
  https://www.youtube.com/watch?v=qLdkRReMPvM&ab_channel=Neo4j
 
 
+* Implementing RAG: How to Write a Graph Retrieval Query in LangChain
+  
+  https://neo4j.com/developer-blog/rag-graph-retrieval-query-langchain/
 
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/6d6ccd0a-ffd1-46ef-a359-fbfa3e3947fa)
+
+  https://github.com/neo4j-examples/rag-demo
+
+  https://neo4j-rag-demo-yvpuwtfmva-ue.a.run.app/
 
 
 
