@@ -1880,6 +1880,30 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
 
 
+* Retrieval Augmented Fine Tuning (RAFT)
+
+  🦍 RAFT: Adapting Language Model to Domain Specific RAG
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/f41b11c5-9013-4955-86bc-77fb38df66ed)
+
+      How to preapre a LLM for an Exam? Closed-Book vs. Open-Book vs. RAFT
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/9e05b387-4559-46f8-85d7-d62a8959bbd1)
+
+    Train and Test Configuration for RAFT
+
+
+
+
+   https://gorilla.cs.berkeley.edu/blogs/9_raft.html
+
+    https://aka.ms/raft-blog
+
+  
+
+
+
+
 # Dataset 
 
 
