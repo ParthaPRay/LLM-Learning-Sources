@@ -465,7 +465,21 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
           
         * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
 
+               ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a359ba90-3bd1-4dbb-a9b0-b6fa8c586759)
+
           https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
+
+                  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b49caf89-b5bd-4d85-8724-696c776444ea)
+
+                    Top-k Gating Intuition through an Example
+
+                  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/32c05293-402b-4cd4-9a3f-c5f56f9b3101)
+
+                     Router noisy Top-k Gating I
+
+                   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/946a63cf-067e-41b7-9a88-b4afb22ce245)
+
+
       
           https://github.com/AviSoori1x/makeMoE/tree/main
 
