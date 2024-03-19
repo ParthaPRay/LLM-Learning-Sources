@@ -456,13 +456,20 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
         * Fully Uncensored MIXTRAL Is Here 🚨 Use With EXTREME Caution, https://www.youtube.com/watch?v=q2KpPUOsBCs&ab_channel=MatthewBerman
       
         * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
+
+        * makemore
+
+          It takes one text file as input, where each line is assumed to be one training thing, and generates more things like it. Under the hood, it is an autoregressive character-level language model, with a wide choice of models from bigrams all the way to a Transformer (exactly as seen in GPT). For example, we can feed it a database of names, and makemore will generate cool baby name ideas that all sound name-like, but are not already existing names. Or if we feed it a database of company names then we can generate new ideas for a name of a company. Or we can just feed it valid scrabble words and generate english-like babble.
+
+          https://github.com/karpathy/makemore
           
         * makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch
-      
+
           https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch
       
           https://github.com/AviSoori1x/makeMoE/tree/main
-      
+
+       
 
 
 
