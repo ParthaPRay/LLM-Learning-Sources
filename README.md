@@ -1051,7 +1051,20 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
      https://www.youtube.com/watch?v=Gpyukc6c0w8&t=16s&ab_channel=MervinPraison
 
+* Mistral Fine Tuning for Dummies (with 16k, 32k, 128k+ Context)
 
+  https://www.youtube.com/watch?v=rANv5BVcR5k&ab_channel=NodematicTutorials
+
+  https://github.com/nodematiclabs/mistral-fine-tune
+
+
+* Fine-Tuning Gemma (Easiest Method with Unsloth & Colab)
+
+  https://www.youtube.com/watch?v=pWZfufhF45o&ab_channel=NodematicTutorials
+
+  https://github.com/nodematiclabs/gemma-fine-tune
+
+  https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free
 
 
 * ​**Direct Preference Optimization (DPO)**
@@ -1916,7 +1929,11 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
      https://github.com/langchain-ai/langgraph/blob/main/examples/storm/storm.ipynb
 
 
+* Reverse Image Search/Similarity App (Milvus and K8s) - Full AI Tutorial
+  
+  https://www.youtube.com/watch?v=rscLNbnk53Y&ab_channel=NodematicTutorials
 
+  https://github.com/nodematiclabs/image-similarity-search
 
 
 
@@ -3563,6 +3580,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
   
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 * **Underfitted**, https://www.youtube.com/@underfitted
+* **Nodematic Tutorials**, https://www.youtube.com/@nodematic/
+
 
 
 
