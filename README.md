@@ -3012,7 +3012,13 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   https://youtu.be/_WmH2WSuT_8?si=Jq-r8eib1G9bVjrj
 
 
+* Real-Time Car Speed Tracking & Object Classification Revealed (Not LLM but Yolo v8.1)
+  https://www.youtube.com/watch?v=-Q81tuPB0Ok&ab_channel=MervinPraison
 
+  https://github.com/roboflow/supervision/tree/develop
+
+  https://github.com/ultralytics/ultralytics
+  
 
 
 
