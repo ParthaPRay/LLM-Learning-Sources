@@ -2258,7 +2258,21 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
 
 
+* Cohere Embed v3 int8 & binary Embeddings 4X and 32X memory reduction 40x faster search
 
+   https://www.youtube.com/watch?v=P2dTCp-lGaE&ab_channel=RitheshSreenivasan
+
+    https://txt.cohere.com/int8-binary-embeddings/
+
+   https://docs.cohere.com/reference/embed
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/847c48bb-a642-4fec-b509-33bcf444467b)
+
+    ![Uploading image.png…]()
+
+
+    https://qdrant.tech/articles/binary-quantization/
+    
 
 
 * Nomic's new embedding model : nomic-embed-text, 
