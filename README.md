@@ -2037,10 +2037,19 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
  https://h2o.ai/blog/2023/streamlining-data-preparation-for-fine-tuning-of-large-language-models/
 
 
+* How to Create Synthetic Dataset with LLM Locally
+
+  Model, Code & Data for the EMNLP'23 paper "Making Large Language Models Better Data Creators"
+
+  https://github.com/microsoft/llm-data-creation
+
+  https://www.youtube.com/watch?v=kWooqJKJO7k&t=14s&ab_channel=FahdMirza
+
 
 * Fine-Tuned Q&A - create Q&A (Some Part Deprecated)
 
  https://cookbook.openai.com/examples/fine-tuned_qa/olympics-2-create-qa
+
 
  
 
