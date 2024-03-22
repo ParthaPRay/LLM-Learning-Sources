@@ -1430,6 +1430,12 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
  * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
 
 
+
+* Adding Semantic Caching and Memory to Your RAG Application Using MongoDB and LangChain
+
+  https://www.mongodb.com/developer/products/atlas/advanced-rag-langchain-mongodb/
+  
+
  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
 
  * RAG with LlamaParse, Qdrant and groq
