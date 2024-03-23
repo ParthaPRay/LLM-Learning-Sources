@@ -1596,6 +1596,12 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
   https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_with_hugging_face_gemma_mongodb.ipynb
 
 
+* How to Improve LLMs with RAG (Overview + Python Code)
+
+ https://www.youtube.com/watch?v=Ylz779Op9Pw&ab_channel=ShawTalebi
+
+ https://colab.research.google.com/drive/1peJukr-9E1zCo1iAalbgDPJmNMydvQms?usp=sharing
+
 
 * **SubDocument RAG**: If You Are NOT Using This, You're OUTDATED Already! (step-by-step LlamaIndex)
 
@@ -3540,7 +3546,9 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 
 
+* **OpenAI Cook Book**
 
+  https://github.com/openai/openai-cookbook/tree/main
 
   
 # Youtube Channels
