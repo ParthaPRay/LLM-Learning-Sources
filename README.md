@@ -483,7 +483,12 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
       
           https://github.com/AviSoori1x/makeMoE/tree/main
 
-       
+       * Evolving New Foundation Models: Unleashing the Power of Automating Model Development
+
+           ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/48d436f3-5a71-4d81-a049-c603faf9a4c5)
+
+        https://sakana.ai/evolutionary-model-merge/
+
 
 
 
@@ -644,6 +649,8 @@ https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is
 Nothing in the Transformer architecture is intrinsically bound to NLP applications! As long as you can format your data into a sequence of vectors, you can feed it to a Transformer. It might feel odd to think about an image as a sequence of vectors, though.
 
 The idea is to build visual tokens by breaking down the image into patches of pixels and flattening them down into vectors through a linear transformation. With a convolutional layer, we can transform an image into a sequence of vectors in one shot. As soon as we have vectors, we can pass them into a Transformer, as you would any textual tokens. 
+
+
 
 
 
