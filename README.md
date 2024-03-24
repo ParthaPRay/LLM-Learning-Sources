@@ -673,7 +673,23 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
     If you want to generate text that's more natural, more creative and avoids repeating words, you need to use some other controls. Random sampling is the easiest way to introduce some variability. Instead of selecting the most probable word every time with random sampling, the model chooses an output word at random using the probability distribution to weight the selection. For example, in the illustration, the word banana has a probability score of 0.02. With random sampling, this equates to a 2% chance that this word will be selected. By using this sampling technique, we reduce the likelihood that words will be repeated. However, depending on the setting, there is a possibility that the output may be too creative, producing words that cause the generation to wander off into topics or words that just don't make sense. Note that in some implementations, you may need to disable greedy and enable random sampling explicitly. For example, the Hugging Face transformers implementation that we use in the lab requires that we set do sample to equal true. 
 
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c296c4c1-52b7-4a47-a8c4-9337df060afa)
 
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/00fb619a-e286-4b51-9965-31c4a2064548)
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b702dd0e-a3de-4cec-8424-7ac1cb1cfbff)
+
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2fdf4537-be53-46be-af20-1c073775c037)
+
+     One more parameter that you can use to control the randomness of the model output is known as temperature. This parameter influences the shape of the probability distribution that the model calculates for the next token.
+    Broadly speaking, the **higher the temperature, the higher the randomness**, and the **lower the temperature, the lower the randomness**. The temperature value is a scaling factor that's applied within the final softmax layer of the model that impacts the shape of the probability distribution of the next token.
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/0ad8a9ce-d826-444e-8f16-335ff0e45d1d)
+
+    In contrast to the top k and top p parameters, changing the temperature actually alters the predictions that the model will make. If you choose a low value of temperature, say less than one, the resulting probability distribution from the softmax layer is more strongly peaked with the probability being concentrated in a smaller number of words. 
+
+    
   
 
 # Ollama
