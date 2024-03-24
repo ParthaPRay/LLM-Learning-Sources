@@ -1202,6 +1202,16 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
     There is a [large dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf) created by Anthropic available on the Hub.
 
 
+* **ORPO** Odd Ratio Preference Optimization
+
+Monolithic Preference Optimization without Reference Model.
+
+https://github.com/xfactlab/orpo
+
+https://youtu.be/6kkJGkPZP88?si=CJf02_4Ub91Zz75I
+
+
+
   
 *  How to fine tune LLMs?
 
