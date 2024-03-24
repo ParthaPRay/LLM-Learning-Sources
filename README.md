@@ -503,6 +503,25 @@ The AiEdge would have loved to get Claude 2 to participate but Anthropic keeps "
 
 
 * Merge Large Language Models with mergekit
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/28a2e0ba-37fe-45ab-9e61-36a349554470)
+
+  Classification of model merging methods. We currently support the model merging methods outlined on
+the left, and we are actively working to incorporate additional merging techniques such as ZipIt, OT Fusion, and Git
+Rebasin.
+  
+
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b009e67f-6ffe-4139-8df5-9b76b1bd8be5)
+  
+ MergeKit structure with key modules for adding new merge methods. The diagram depicts the workflow
+for introducing new merge methods in the MergeKit repository. Initially, tensors are extracted from two models, A and B, and
+processed by the ‘Architecture’ module to ensure their structural compatibility. Next, the ‘Plan’ component formulates a strategy
+detailing the merge process. This plan is then relayed to a ‘Graph’, outlining the necessary operations for merging. During
+‘Graph Execution’, these operations are performed, resulting in the ‘Merged Model’—the integration of Models A and B via a
+specified merging technique within the system’s framework.
+
+
   https://huggingface.co/blog/mlabonne/merge-models
 
 
@@ -513,7 +532,9 @@ The AiEdge would have loved to get Claude 2 to participate but Anthropic keeps "
   https://youtu.be/eKDz-K3UvbY?si=limrl7Raf86bdqS7
 
 
+* How to Merge LLMs Locally with MergeKit
 
+  https://www.youtube.com/watch?v=W5ep1oJb3ME&ab_channel=FahdMirza
 
 
 
@@ -2289,7 +2310,7 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/847c48bb-a642-4fec-b509-33bcf444467b)
 
-    ![Uploading image.png…]()
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/952bf8f4-96fc-43dd-8736-231fe5e114dd)
 
 
     https://qdrant.tech/articles/binary-quantization/
