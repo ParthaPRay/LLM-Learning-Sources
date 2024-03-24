@@ -1809,6 +1809,16 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
     https://www.youtube.com/live/7qsxz2rURG4?si=GbuRI1hfqrwpA6XU
 
 
+* Stanford CS25: V3 I Retrieval Augmented Language Models
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/693f7805-7add-43bb-85c2-959c922d05ad)
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2c19fb4f-c453-4512-aeee-d50959a4a24f)
+
+  https://www.youtube.com/watch?v=mE7IDf2SmJg&t=22s&ab_channel=StanfordOnline
+
+
   * RAG over your **code**: a project by Akshay on creating a local code assistant using **LlamaIndex**, MistralAI, and Streamlit to index and query GitHub repositories, offering a foundational guide for advanced code QA
  
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/08cea68a-9670-46b8-8f08-3aa3396cce7f)
