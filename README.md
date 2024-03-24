@@ -538,6 +538,11 @@ specified merging technique within the system’s framework.
 
 
 
+
+
+
+
+
 # Transformers
 
 
@@ -642,11 +647,31 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
+# Inference Configuration
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/dc9142c0-8d1c-4a39-9446-83493c85e3a5)
+
+  Image Credit: https://www.coursera.org/learn/generative-ai-with-llms/lecture/18SPI/generative-configuration
+
+   - max token
+     The "max token" setting serves as a cap on the number of tokens (words or subwords, depending on the tokenizer) that the model will produce. For example, setting "max tokens" to 100 means the model's output will not exceed 100 tokens in length. Remember it's max new tokens, not a hard number of new tokens generated.
+     
+       - A smaller "max token" value might lead to more focused and relevant outputs, as the model is constrained to express ideas concisely.
+       - A larger "max token" value allows for more extensive exploration of ideas and concepts, potentially leading to more detailed and expansive outputs. However, it also increases the risk of the model veering off-topic or generating repetitive or irrelevant content.
 
 
 
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/45eae134-9e17-4008-a152-e6ee49dbc499)
 
+  - Greedy Decoding
 
+    Most large language models by default will operate with so-called greedy decoding. This is the simplest form of next-word prediction, where the model will always choose the word with the highest probability. This method can work very well for short generation but is susceptible to repeated words or repeated sequences of words.
+
+    
+  - Random Sampling
+
+    If you want to generate text that's more natural, more creative and avoids repeating words, you need to use some other controls. Random sampling is the easiest way to introduce some variability. Instead of selecting the most probable word every time with random sampling, the model chooses an output word at random using the probability distribution to weight the selection. For example, in the illustration, the word banana has a probability score of 0.02. With random sampling, this equates to a 2% chance that this word will be selected. By using this sampling technique, we reduce the likelihood that words will be repeated. However, depending on the setting, there is a possibility that the output may be too creative, producing words that cause the generation to wander off into topics or words that just don't make sense. Note that in some implementations, you may need to disable greedy and enable random sampling explicitly. For example, the Hugging Face transformers implementation that we use in the lab requires that we set do sample to equal true. 
 
 
   
