@@ -689,7 +689,14 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
     In contrast to the top k and top p parameters, changing the temperature actually alters the predictions that the model will make. If you choose a low value of temperature, say less than one, the resulting probability distribution from the softmax layer is more strongly peaked with the probability being concentrated in a smaller number of words. 
 
-    
+
+# Generative AI Lifge Cycle
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2785ed16-6385-40fb-a1d0-e4b7af75f745)
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/52d7cbdf-d666-4429-9706-865fd96a117f)
+
+
   
 
 # Ollama
