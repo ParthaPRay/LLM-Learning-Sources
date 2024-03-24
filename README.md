@@ -3662,8 +3662,16 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 # Prompt Engineeing
 
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/df39ce09-086a-4f1c-8c80-4c5f3a233ce4)
+
+   Credit: https://www.coursera.org/learn/generative-ai-with-llms/lecture/ZVUcF/prompting-and-prompt-engineering
+
+   **If few shot learning is not enough, then Fine-Tuning is required.**
+
+
  
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a1c1869d-231f-4b28-8ada-2b6aa36065c1)
+
 
 
   * Token Cost Reduction through LLMLingua's Prompt Compression, https://www.youtube.com/watch?v=xLNL6hSCPhc&ab_channel=AIAnytime
