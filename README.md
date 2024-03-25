@@ -2,6 +2,10 @@ This repo contains a list of sources, weblinks, blogs and Youtube channels from 
 
 * **History of NLP**
 
+![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/f470f637-07d6-470a-831f-3e82162a95c5)
+ 
+ https://arxiv.org/pdf/2306.08302.pdf
+
 ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/9cb88e08-1501-49fd-af2a-a23ef1e6909f)
 
  It has been quite a journey to arrive at a ChatGPT model! It took some time before we thought about modeling language as a probabilistic generative process. NLP studies the interactions between computers and human language, and it is as old as computers themselves.
@@ -1788,6 +1792,33 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
   Comparison, https://arxiv.org/pdf/2303.08896.pdf
 
+
+
+* **Decentralized Knowledge RAG**
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/e98aa3ba-95ee-4bdf-b861-acf959836185)
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5977050c-f9b8-4569-a1ac-df81fdced088)
+
+    Examples of different categories’ knowledge graphs, i.e., encyclopedic KGs, commonsense KGs, domain-specific KGs, and multi-modal
+KGs.
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/629403f1-11d5-4761-ae3e-e7dea0821453)
+
+  The general roadmap of unifying KGs and LLMs. (a.) KG-enhanced LLMs. (b.) LLM-augmented KGs. (c.) Synergized LLMs + KGs.
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b82c15bf-e2a1-4d8d-a226-0594949ff7d9)
+
+  The general framework of the Synergized LLMs + KGs, which contains four layers: 1) Data, 2) Synergized Model, 3) Technique, and 4) Application.
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/e215ac69-867e-41df-8f2f-64f5fb75f71b)
+
+
+   
+ 
+  https://arxiv.org/pdf/2306.08302.pdf
+
+  https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf
 
 
 
