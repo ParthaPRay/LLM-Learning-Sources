@@ -1206,9 +1206,17 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
 Monolithic Preference Optimization without Reference Model.
 
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a16efcea-644e-484e-9d65-40b79b344b30)
+  
+  Comparison of model alignment techniques. ORPO aligns the language model without a reference model in
+a single-step manner by assigning a weak penalty to the rejected responses and a strong adaptation signal to the
+chosen responses with a simple log odds ratio term appended to the negative log-likelihood loss
+
 https://github.com/xfactlab/orpo
 
 https://youtu.be/6kkJGkPZP88?si=CJf02_4Ub91Zz75I
+
+
 
 
 
@@ -1757,6 +1765,15 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
 
 
+* **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b038dd7f-cd03-4362-84de-67a3b9e2f7f1)
+
+  https://github.com/parthsarthi03/raptor
+
+  https://colab.research.google.com/drive/1jbjC4Sh2YVZkpyUE4EB6y8wnZgO7uPUV?usp=sharing
+
+  https://www.youtube.com/watch?v=37JSz9SvECI&t=80s&ab_channel=TwoSetAI
 
 
  * **GraphRAG**
