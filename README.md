@@ -1746,6 +1746,13 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
 
 
+* **How to evaluate an LLM-powered RAG application automatically**
+
+  https://www.youtube.com/watch?v=ZPX3W77h_1E&ab_channel=Underfitted
+
+  https://github.com/svpino/llm/tree/main/evaluation
+
+  https://github.com/Giskard-AI/giskard
 
 
 
