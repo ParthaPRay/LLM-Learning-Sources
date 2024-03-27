@@ -2879,6 +2879,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 # LLM Apps
 
+  * LLM Chat App in Python w/ Ollama-py and Streamlit, https://www.youtube.com/watch?v=ZHZKPmzlBUY&ab_channel=Decoder
+
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
   
   * Outfit Anyone: A Diffusion Project for Virtual Try On, https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
