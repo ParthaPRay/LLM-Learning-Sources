@@ -830,6 +830,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
   https://decoder.sh/videos/rag-from-the-ground-up-with-python-and-ollama
 
+* FREE Local RAG Chatbot with Ollama - Streamlit and Langchain. Build with open-source Mistral ai
+
+  https://www.youtube.com/watch?v=kfbTZFAikcE&ab_channel=AIProductBuilders
+
+  https://www.linkedin.com/pulse/how-build-rag-chatbot-using-ollama-serve-llms-locally-sri-laxmi-beapc/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
 
 
 
