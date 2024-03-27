@@ -824,6 +824,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   https://blog.langchain.dev/json-based-agents-with-ollama-and-langchain/
 
 
+* RAG from the Ground Up with Python and Ollama
+
+  https://www.youtube.com/watch?v=V1Mz8gMBDMo&ab_channel=Decoder
+
+  https://decoder.sh/videos/rag-from-the-ground-up-with-python-and-ollama
 
 
 
