@@ -2902,7 +2902,11 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   * Oncology RAG App - Powered by Meditron 7B Medical LLM, https://www.youtube.com/watch?v=kvbjB-q5Dss&ab_channel=AIAnytime
  
   * Investment Banker RAG Chatbot using Intel's Neural Chat LLM, https://www.youtube.com/watch?v=d9wCHH3iknM&ab_channel=AIAnytime
- 
+
+ * How to Build a RAG Application for Multi-Speaker Audio Data AssemblyAI, 
+  https://www.youtube.com/watch?v=Rh9Jl0hJSws&ab_channel=AssemblyAI
+
+  
   * Deploy RAG App built using Create Llama on Vercel: Free and Easy Method, https://www.youtube.com/watch?v=euYa4iesOm8&ab_channel=AIAnytime
     
   * Create a LlamaIndex App with Create Llama: No Code tool for RAG, https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
