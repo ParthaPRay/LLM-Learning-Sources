@@ -3413,7 +3413,7 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
     https://youtu.be/a5l7E3tzsIY?si=V4Jzwu3J_ja1HsO2
     
-https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
+  https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
   
   * **Fastest talking AI I could build
     deepgram + groq**
@@ -3427,7 +3427,14 @@ https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
     Code: https://github.com/gkamradt/QuickAgent
 
 
+* Create table question answering with Gen AI LLMs @HuggingFace
 
+  https://www.youtube.com/watch?v=qZCmXY_-on8&ab_channel=SuperLazyCoder
+
+  https://colab.research.google.com/drive/1Iz_aoskOMYqdFWfpwk5YJWuBPfJkGxao?usp=sharing
+
+
+  
 
 
 # HuggingFace
