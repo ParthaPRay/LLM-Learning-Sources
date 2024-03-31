@@ -753,6 +753,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     A simplified taxonomy of different metrics used in LLM evaluation
 
 * LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond, https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/199f5e08-facb-4245-ba8e-0d3cb7727cc9)
+
+     An LLM Benchmark Architecture
+
   
 * LLM Evaluation Metrics: Everything You Need for LLM Evaluation, https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation
 
