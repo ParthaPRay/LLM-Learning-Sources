@@ -3627,6 +3627,22 @@ https://lnkd.in/giQrUzfq
 
     https://medium.com/@wesselbraakman/run-llama-on-your-raspberry-pi-5-without-using-ollama-7ebc128ff34e
 
+  * How to Run Multi-LLM Agents on Raspberry Pi with CrewAI
+
+    https://fleetstack.io/blog/run-multi-llm-agents-raspberry-pi-crewai-guide
+    
+
+
+
+
+  * **Raspberr Pi Forum Discussions**
+    
+    https://forums.raspberrypi.com/viewtopic.php?t=366146
+
+    - Use **bitnet**: Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch, https://github.com/kyegomez/BitNet
+    - **OpenVINO**: https://docs.openvino.ai/2024/home.html;  https://docs.openvino.ai/2024/learn-openvino/interactive-tutorials-python.html
+    - 
+
 
 
 # Cloud GPUs
