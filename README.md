@@ -758,6 +758,16 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
      An LLM Benchmark Architecture
 
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/579d3841-e4b6-4837-9a1e-498fd77a6874)
+
+    LLM Benchmark Categories
+
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ea267d3d-388e-4407-873d-7058363a93b3)
+
+     A data synthesizer architecture
+
+   
   
 * LLM Evaluation Metrics: Everything You Need for LLM Evaluation, https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation
 
