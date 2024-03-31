@@ -3632,7 +3632,17 @@ https://lnkd.in/giQrUzfq
     https://fleetstack.io/blog/run-multi-llm-agents-raspberry-pi-crewai-guide
 
 
-=====================================================================================================
+===========================================================================================
+
+  * **Raspberr Pi Forum Discussions**
+    
+    https://forums.raspberrypi.com/viewtopic.php?t=366146
+
+    - Use **bitnet**: Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch, https://github.com/kyegomez/BitNet
+    - **OpenVINO**: https://docs.openvino.ai/2024/home.html;  https://docs.openvino.ai/2024/learn-openvino/interactive-tutorials-python.html
+    - 
+
+============================================================================================
 
 
    ![Screenshot 2024-03-31 222937](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/bcca7047-4be7-425c-b77c-bfb999abcf7b)
@@ -3695,13 +3705,7 @@ https://lnkd.in/giQrUzfq
     
 
 
-  * **Raspberr Pi Forum Discussions**
-    
-    https://forums.raspberrypi.com/viewtopic.php?t=366146
 
-    - Use **bitnet**: Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch, https://github.com/kyegomez/BitNet
-    - **OpenVINO**: https://docs.openvino.ai/2024/home.html;  https://docs.openvino.ai/2024/learn-openvino/interactive-tutorials-python.html
-    - 
 
 
 
