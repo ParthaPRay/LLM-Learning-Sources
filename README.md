@@ -3635,9 +3635,9 @@ https://lnkd.in/giQrUzfq
 =====================================================================================================
 
 
-      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1c5463d2-3efc-4fa1-a0c2-22d9838fcda8)
+   ![Screenshot 2024-03-31 222937](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/bcca7047-4be7-425c-b77c-bfb999abcf7b)
 
-           **Philippe Charrière's Blog** **https://k33g.hashnode.dev/series/ai-experiments**
+   **Philippe Charrière's Blog** **https://k33g.hashnode.dev/series/ai-experiments**
 
 
   * Run Ollama on a Pi5 : Host Ollama and TinyDolphin LLM on a Pi5 with Docker Compose
