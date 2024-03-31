@@ -559,7 +559,15 @@ specified merging technique within the system’s framework.
   https://huggingface.co/blog/kgourgou/a-first-look-at-automerger-data
 
 
+* Merge Large Language Models with mergekit
 
+  https://huggingface.co/blog/mlabonne/merge-models
+
+  https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
+
+
+
+  
 
 
 # Transformers
@@ -2865,6 +2873,13 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
 
  * Quantize any LLM with GGUF and Llama.cpp, https://www.youtube.com/watch?v=wxQgGK5K0rE&ab_channel=AIAnytime
 
+
+  * Quanto: a pytorch quantization toolkit
+    https://huggingface.co/blog/quanto-introduction
+
+    https://github.com/huggingface/quanto
+
+    
   
  * **Half Quadratic Quantization (HQQ)**
    
@@ -2920,6 +2935,48 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 
       How to shard LLMs locally, https://youtu.be/F0pkj2trRcI?si=zAsZmmbhsp1wqlBe
+
+
+
+
+
+
+# Guardrails
+
+
+
+* Right on Track: NVIDIA Open-Source Software Helps Developers Add Guardrails to AI Chatbots (NeMo)
+
+   NeMo: https://www.nvidia.com/en-us/ai-data-science/generative-ai/nemo-framework/
+  
+   https://blogs.nvidia.com/blog/ai-chatbot-guardrails-nemo/
+
+
+* Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations
+
+  https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/
+
+  
+
+* Introducing the Chatbot Guardrails Arena
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/0306283c-e782-47b0-99a5-d89d8d805d5f)
+
+  https://huggingface.co/spaces/lighthouzai/guardrails-arena
+
+  https://arena.lighthouz.ai/
+
+
+
+
+
+
+
+
+
+# LLM Benchmarks
+
+
 
 
 
