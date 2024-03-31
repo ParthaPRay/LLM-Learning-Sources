@@ -89,17 +89,8 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
 * Create your own Local Chatgpt for FREE, Full Guide: PDF, Image, & Audiochat (Langchain, Streamlit), https://www.youtube.com/watch?v=CUjO8b6_ZuM&t=452s&ab_channel=LeonExplainsAI
   
-* LLM Evaluation Essentials: Statistical Analysis of Hallucination LLM Evaluations, https://www.youtube.com/watch?v=IH45ltIMC3k&ab_channel=ArizeAI
-
-  https://docs.arize.com/phoenix/llm-evals/running-pre-tested-evals/hallucinations
 
 * Fine Tuning and Evaluating LLMs with Anyscale and Arize, https://www.youtube.com/watch?v=b-MfkFz-A2E&ab_channel=ArizeAI
-
-* Advanced LLM Evaluation: Synthetic Data Generation, https://www.youtube.com/watch?v=AYehm7q6Oks&ab_channel=ArizeAI
-
-* Constructing an Evaluation Approach for Generative AI Models with Hugging Face's Rajiv Shah, https://www.youtube.com/watch?v=PtXOQDHPddE&ab_channel=ArizeAI
-
-* LLM Evaluation Essentials: Benchmarking and Analyzing Retrieval Approaches, https://www.youtube.com/watch?v=ExO3U0M3y_0&ab_channel=ArizeAI
 
 * Building And Troubleshooting An Advanced LLM Query Engine, https://www.youtube.com/watch?v=_zDDErOaUqc&ab_channel=ArizeAI
 
@@ -404,7 +395,7 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
-* Gorilla
+* **Gorilla**
   
 Gorilla is a LLM that can provide appropriate API calls. It is trained on three massive machine learning hub datasets: Torch Hub, TensorFlow Hub and HuggingFace. We are rapidly adding new domains, including Kubernetes, GCP, AWS, OpenAPI, and more. Zero-shot Gorilla outperforms GPT-4, Chat-GPT and Claude. 
 
@@ -723,11 +714,52 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     In contrast to the top k and top p parameters, changing the temperature actually alters the predictions that the model will make. If you choose a low value of temperature, say less than one, the resulting probability distribution from the softmax layer is more strongly peaked with the probability being concentrated in a smaller number of words. 
 
 
+
+
+
 # Generative AI Lifge Cycle
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/2785ed16-6385-40fb-a1d0-e4b7af75f745)
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/52d7cbdf-d666-4429-9706-865fd96a117f)
+
+
+
+
+
+
+
+# LLM Evalution and LLM Benchmark
+
+
+* A Gentle Introduction to LLM Evaluation, https://www.confident-ai.com/blog/a-gentle-introduction-to-llm-evaluation
+  
+* LLM Evaluation Essentials: Statistical Analysis of Hallucination LLM Evaluations, https://www.youtube.com/watch?v=IH45ltIMC3k&ab_channel=ArizeAI
+
+  https://docs.arize.com/phoenix/llm-evals/running-pre-tested-evals/hallucinations
+
+* Advanced LLM Evaluation: Synthetic Data Generation, https://www.youtube.com/watch?v=AYehm7q6Oks&ab_channel=ArizeAI
+
+* Constructing an Evaluation Approach for Generative AI Models with Hugging Face's Rajiv Shah, https://www.youtube.com/watch?v=PtXOQDHPddE&ab_channel=ArizeAI
+
+* LLM Evaluation Essentials: Benchmarking and Analyzing Retrieval Approaches, https://www.youtube.com/watch?v=ExO3U0M3y_0&ab_channel=ArizeAI
+
+* The Ultimate Guide to Fine-Tune LLaMA 2, With LLM Evaluations, https://www.confident-ai.com/blog/the-ultimate-guide-to-fine-tune-llama-2-with-llm-evaluations
+
+* LLM Evaluation Metrics: Everything You Need for LLM Evaluation, https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/f3dce006-a460-4a48-be27-33476c647db0)
+
+    A simplified taxonomy of different metrics used in LLM evaluation
+
+* LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond, https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond
+  
+* LLM Evaluation Metrics: Everything You Need for LLM Evaluation, https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation
+
+* How to Evaluate LLM Applications: The Complete Guide, https://www.confident-ai.com/blog/how-to-evaluate-llm-applications
+  
+* A Step-By-Step Guide to Evaluating an LLM Text Summarization Task, https://www.confident-ai.com/blog/a-step-by-step-guide-to-evaluating-an-llm-text-summarization-task
+
 
 
 
@@ -1491,6 +1523,7 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
   * Optimizing RAG With LLMS: Exploring Chunking Techniques and Reranking for Enhanced Results, https://youtube.com/watch?v=QpRTdZDR4tE&ab_channel=ArizeAI
 
   * Check Hallucination of LLMs and RAGs using Open Source Evaluation Model by Vectara, https://www.youtube.com/watch?v=O-VYDADgc68&ab_channel=AIAnytime
+  * How to Evaluate RAG Applications in CI/CD Pipelines with DeepEval, https://www.confident-ai.com/blog/how-to-evaluate-rag-applications-in-ci-cd-pipelines-with-deepeval
  
   * Learn to Evaluate LLMs and RAG Approaches, https://www.youtube.com/watch?v=97ftVtITKfo&ab_channel=AIAnytime
  
@@ -2318,7 +2351,9 @@ https://colab.research.google.com/drive/1LdamGKR2oacrDk-kYwz_Wfc1-RBUdzcO?usp=sh
 
    The distribution of data sources for building Cosmopedia prompts (left plot) and the distribution of sources inside the Curated sources category (right plot).
 
+* Generating synthetic data with LLMs - Part 1
 
+  https://www.confident-ai.com/blog/how-to-generate-synthetic-data-using-llms-part-1
 
 
 * **Lavita's Collections Medical QA Datasets**
