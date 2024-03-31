@@ -3630,9 +3630,69 @@ https://lnkd.in/giQrUzfq
   * How to Run Multi-LLM Agents on Raspberry Pi with CrewAI
 
     https://fleetstack.io/blog/run-multi-llm-agents-raspberry-pi-crewai-guide
+
+
+=====================================================================================================
+
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1c5463d2-3efc-4fa1-a0c2-22d9838fcda8)
+
+           **Philippe Charrière's Blog** **https://k33g.hashnode.dev/series/ai-experiments**
+
+
+  * Run Ollama on a Pi5 : Host Ollama and TinyDolphin LLM on a Pi5 with Docker Compose
+
+    https://k33g.hashnode.dev/run-ollama-on-a-pi5
+
+       **https://github.com/bots-garden/pi-genai-stack**
+ 
+  * Ollama on my Pi5: The Python dev environment : First Steps with LangChain and the Python toolkit
+
+    https://k33g.hashnode.dev/ollama-on-my-pi5-the-python-dev-environment?source=more_series_bottom_blogs
+
+  * Let's talk with a GenAI French cook How to use RAG with LangChain, Chroma, Ollama and Gemma (on a Pi 5)
+
+    https://k33g.hashnode.dev/lets-talk-with-a-genai-french-cook
+
+  * Prompts and Chains with Ollama and LangChain And, of course, it runs on my 🥰 Pi5.
+
+    https://k33g.hashnode.dev/prompts-and-chains-with-ollama-and-langchain
+    
+  * Make a GenAI Web app in less than 40 lines of code. With Ollama, LangChain & StreamLit. And, again, it runs on my 🥰 Pi5.
+
+    https://k33g.hashnode.dev/make-a-genai-web-app-in-less-than-40-lines-of-code
+    
+  * Make a GenAI Conversational Chatbot with memory. With Ollama, LangChain & StreamLit. And, again, it runs on my 🥰 Pi5.
+
+    https://k33g.hashnode.dev/make-a-genai-conversational-chatbot-with-memory
+
+  * Create a GenAI Rust Teacher How to learn Rust with Ollama and DeepSeek Coder Instruct
+
+    https://k33g.hashnode.dev/create-a-genai-rust-teacher
+
+  * Let's chat about programming with LangChainJS and Ollama And this is still happening on a Pi 5 (and propelled by 🐳 Docker Compose)
+
+    https://k33g.hashnode.dev/lets-chat-about-programming-with-langchainjs-and-ollama
+
+  * GenAI streaming API with LangChainJS, Ollama and Fastify And this is still happening on a Pi 5 (and propelled by 🐳 Docker Compose)
+
+    https://k33g.hashnode.dev/genai-streaming-api-with-langchainjs-ollama-and-fastify
+
+  * Create a Web UI to use the GenAI streaming API With LangChainJS, Ollama and Fastify, still on a Pi 5 (and propelled by 🐳 Docker Compose)
+
+    https://k33g.hashnode.dev/create-a-web-ui-to-use-the-genai-streaming-api
+
+  * Add memory to our GenAI application With LangChainJS, Ollama and Fastify, still on a Pi 5 (and propelled by 🐳 Docker Compose)
+
+    https://k33g.hashnode.dev/add-memory-to-our-genai-application
+
+  * Connect your LLM to the world with the Ollama functions With LangChainJS, Ollama, still on a Pi 5 (and propelled by 🐳 Docker Compose)
+
+    https://k33g.hashnode.dev/connect-your-llm-to-the-world-with-the-ollama-functions
     
 
 
+    
 
 
   * **Raspberr Pi Forum Discussions**
