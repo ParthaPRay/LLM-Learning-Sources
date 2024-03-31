@@ -786,6 +786,7 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
+
   
 
 # Ollama
@@ -914,6 +915,14 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   https://www.youtube.com/watch?v=kfbTZFAikcE&ab_channel=AIProductBuilders
 
   https://www.linkedin.com/pulse/how-build-rag-chatbot-using-ollama-serve-llms-locally-sri-laxmi-beapc/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
+
+* Ollama v0.1.27 AI benchmark
+  
+  https://jasonchuang.substack.com/p/ollama-v0127-ai-benchmark
+
+
+
+
 
 
 
@@ -3693,6 +3702,14 @@ https://lnkd.in/giQrUzfq
 
     https://fleetstack.io/blog/run-multi-llm-agents-raspberry-pi-crewai-guide
 
+  * Ollama benchmark on Raspberry Pi 5 RAM 8GB
+
+    https://aidatatools.com/2024/01/ollama-benchmark-on-raspberry-pi-5-ram-8gb/
+
+    https://youtu.be/F3avMe8NvJk
+
+
+      
 
 ===========================================================================================
 
