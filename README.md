@@ -2316,6 +2316,16 @@ https://colab.research.google.com/drive/1LdamGKR2oacrDk-kYwz_Wfc1-RBUdzcO?usp=sh
 
 
 
+* **Lavita's Collections Medical QA Datasets**
+
+  https://huggingface.co/collections/lavita/medical-qa-datasets-6540b9b1992b1c560eda935c
+
+   Medical Foundation Models Evaluation: A collection of work on evaluating LLMs and Foundation Models on medical tasks (e.g., Medical Question Answering, etc.)
+
+   - Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine, https://huggingface.co/papers/2311.16452
+   - Towards Generalist Biomedical AI, https://huggingface.co/papers/2307.14334
+   - Almanac: Retrieval-Augmented Language Models for Clinical Medicine, https://huggingface.co/papers/2303.01229
+
 
 
 # Vector Database and Embeddings 
