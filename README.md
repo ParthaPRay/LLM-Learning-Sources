@@ -2267,6 +2267,9 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
  https://cookbook.openai.com/examples/fine-tuned_qa/olympics-2-create-qa
 
 
+* Create your own fine tuning datasets in @HuggingFace
+
+  https://www.youtube.com/watch?v=PGSkyUDzqx8&ab_channel=SuperLazyCoder
  
 
 * **Detecting Issues in a Text Dataset with Cleanlab**
@@ -3311,7 +3314,9 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
  * LangGraph + function call + Yahoofinance = Multi-agent application, https://youtu.be/r2PvHdkaXWc?si=alEiCMZwy0xAwNwG
    
+ * Visual Question Answering with Google Deplot #huggingface
 
+   https://www.youtube.com/watch?v=n_h_XWM2vzg&ab_channel=SuperLazyCoder
 
    
  * CrewAI agents for stock analysis (works with local Ollama LLMs),
@@ -3973,6 +3978,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Underfitted**, https://www.youtube.com/@underfitted
 * **Nodematic Tutorials**, https://www.youtube.com/@nodematic/
 
+* **Super Lazy Coder**, https://www.youtube.com/@superlazycoder1984/
 
 
 
