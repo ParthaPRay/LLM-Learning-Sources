@@ -81,6 +81,7 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
   
 * How to Build an LLM from Scratch | An Overview,
  https://www.youtube.com/watch?v=ZLbVdvOoTKM&pp=ygUdQ3JlYXRlIGEgTGFyZ2UgTGFuZ3VhZ2UgTW9kZWw%3D
+
   
 * Train your own language model with nanoGPT | Let’s build a songwriter, https://www.youtube.com/watch?v=XS8eRtlcCGU&ab_channel=SophiaYang
 
@@ -2874,6 +2875,27 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   https://github.com/mobiusml/hqq
 
 
+* Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval
+  
+  https://huggingface.co/blog/embedding-quantization
+
+  [mixedbread-ai/mxbai-embed-large-v1](https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1)
+  [SentenceTransformer.encode](https://sbert.net/docs/package_reference/SentenceTransformer.html#sentence_transformers.SentenceTransformer.encode)
+  [quantize_embeddings](https://sbert.net/docs/package_reference/quantization.html#sentence_transformers.quantization.quantize_embeddings)
+
+
+ | Vector Databases | Support                      |
+|------------------|------------------------------|
+| Faiss            | [Yes](https://github.com/facebookresearch/faiss/wiki/Binary-indexes)                     |
+| USearch          | [Yes](https://github.com/unum-cloud/usearch)                          |
+| Vespa AI         | [Yes](https://docs.vespa.ai/en/reference/schema-reference.html)                         |
+| Milvus           | [Yes](https://milvus.io/docs/index.md)                          |
+| Qdrant           | Through [Binary Quantization](https://qdrant.tech/documentation/guides/quantization/#binary-quantization) |
+| Weaviate         | Through [Binary Quantization](https://weaviate.io/developers/weaviate/configuration/bq-compression)  |
+
+
+
+  
 
 **Sharding**
 
@@ -3225,6 +3247,11 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   https://github.com/ultralytics/ultralytics
   
+* How to Build AI Chatbot with Hugging Face Quickly and Easily using blenderbot-400M-distill
+
+  https://www.youtube.com/watch?v=FXbSdspVtNE&ab_channel=FahdMirza
+  
+  https://huggingface.co/facebook/blenderbot-400M-distill
 
 
 
@@ -3314,7 +3341,22 @@ https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
   https://youtu.be/MvNdgmM7uyc?si=b78VIhFapFo2U8NV
   
 
+* Pollen-Vision: Unified interface for Zero-Shot vision models in robotics
 
+  https://huggingface.co/blog/pollen-vision
+
+  https://github.com/pollen-robotics/pollen-vision
+
+  https://www.pollen-robotics.com/
+
+* Experiments with Bitnet 1.5
+
+  https://huggingface.co/blog/pollen-vision
+
+  https://huggingface.co/blog/joey00072/arxiv.org/abs/2402.17764
+
+  https://github.com/joey00072/ohara/tree/master/experiments/bitnet
+  
 
 
 # Pipepline
