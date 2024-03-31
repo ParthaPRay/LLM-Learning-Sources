@@ -3616,7 +3616,9 @@ https://lnkd.in/giQrUzfq
 
     https://itsfoss.com/raspberry-pi-ollama-ai-setup/
 
+  * Run Llama on your Raspberry Pi 5 without using Ollama
 
+    https://medium.com/@wesselbraakman/run-llama-on-your-raspberry-pi-5-without-using-ollama-7ebc128ff34e
 
 
 
