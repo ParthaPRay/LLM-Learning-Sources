@@ -1227,7 +1227,7 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
   https://github.com/nodematiclabs/mistral-fine-tune
 
 
-* Fine-Tuning Gemma (Easiest Method with Unsloth & Colab)
+* Fine-Tuning Gemma (Easiest Method with **Unsloth** & Colab)
 
   https://www.youtube.com/watch?v=pWZfufhF45o&ab_channel=NodematicTutorials
 
@@ -1235,6 +1235,10 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free
 
+
+* Fine-Tune and Align LLMs Easily with NVIDIA NeMo Customizer
+
+  https://developer.nvidia.com/blog/fine-tune-and-align-llms-easily-with-nvidia-nemo-customizer/
 
 * ​**Direct Preference Optimization (DPO)**
 
@@ -1314,7 +1318,7 @@ https://youtu.be/6kkJGkPZP88?si=CJf02_4Ub91Zz75I
 
 
   
-*  How to fine tune LLMs?
+*  **How to fine tune LLMs?**
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a4b04d0d-05ec-410e-b367-1c3b3869423a)
 
@@ -1346,7 +1350,7 @@ To gain even more space, we may want to quantize the float parameters into integ
 That is worth a read: https://lnkd.in/d8sXWD_X
 
 
-*  How to fine-tune LLMs for text encoding
+*  **How to fine-tune LLMs for text encoding ?**
 
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/98c37c7e-c276-4dcc-995e-9bc8675b179e)
 
@@ -1363,7 +1367,7 @@ Vector(question) x Vector(answer) ~ 1
 To do that, we need to construct a data set where pairs of related (Question, answer) are labeled 1 (similar) and 0 otherwise (dissimilar). We can train the model using contrastive learning where the weights are updated, such that the vector representations of the related (Question, answer) are similar.
 
 
-*  Fine-tuning large language models (LLMs) in 2024
+*  **Fine-tuning large language models (LLMs) in 2024**
 
    Life Cycle of LLM
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ed9f1bcc-f61b-4d93-b46f-e2c299cf13a1)
@@ -3969,7 +3973,7 @@ Once trained, you just keep the connections with the highest probabilities and r
 DARTS is the seminal work on differential architecture search and has seen a lot of improvement since then. You can read more about it here: https://lnkd.in/ggwr9afT. If you are interested in learning more about Neural Architecture Search, I would advise reading this review: https://lnkd.in/geAA-c8f.
 
 
-* ML model optimization
+* **ML model optimization**
 
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/dea23cd1-c759-486e-bb52-a602977b7578)
@@ -3986,7 +3990,7 @@ Now that you have a model that understands the relationship between the learning
 
 This is a good read to get started on the subject: https://lnkd.in/e9VafpST
 
-* What happens when your Machine Learning model breaks?
+* **What happens when your Machine Learning model breaks?**
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d8237ece-b458-4595-90d6-1604533495a9)
 
@@ -4005,7 +4009,7 @@ Reliability for ML systems can be tricky and it is important to adopt ML specifi
 
 
 
-* Machine Learning: Data Gone Wrong
+* **Machine Learning: Data Gone Wrong**
 
   
   ![1692035126608](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/22cb165a-8aae-4110-86e6-d5539baa2a83)
@@ -4299,7 +4303,16 @@ Google Cloud Generative AI Learning Path
      - Transformer Models and BERT Model  https://www.cloudskillsboost.google/course_templates/538
      - Generative AI Explorer - Vertex AI  https://www.cloudskillsboost.google/quests/299
 
-* **Microsoft Resesrch Blog**
-  https://www.microsoft.com/en-us/research/blog/
+
+* **Blogs**
+
+ -  Microsoft Resesrch Blog, https://www.microsoft.com/en-us/research/blog/
+ -  Philippe Charrière's Blogm, https://k33g.hashnode.dev/series/ai-experiments
+ -  Confident AI blog, https://www.confident-ai.com/blog
+ -  Huggingface blog, https://huggingface.co/blog
+ -  Langchain blog, https://blog.langchain.dev/
+ -  LlamaIndex blog, https://www.llamaindex.ai/blog
+
+  
 
 
