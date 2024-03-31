@@ -566,7 +566,11 @@ specified merging technique within the system’s framework.
   https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
 
 
+* Create Mixtures of Experts with MergeKit
 
+   https://huggingface.co/blog/mlabonne/frankenmoe
+
+  [LazyMergeKit](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb#scrollTo=d5mYzDo1q96y)
   
 
 
