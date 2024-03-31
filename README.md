@@ -1559,6 +1559,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     
  * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
 
+  * Langchain + Qdrant Local | Server (Docker) | Cloud | Groq | Tutorial
+
+    https://www.youtube.com/watch?v=JSKZYgARffg&ab_channel=DataScienceBasics
+
+    https://github.com/sudarshan-koirala/youtube-stuffs
 
 * Semantic Chunking for RAG
 
