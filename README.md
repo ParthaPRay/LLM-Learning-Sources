@@ -2814,9 +2814,7 @@ This is extremely beneficial when we have a low request volume for some of the t
 
 OpenAI can easily measure the adapter utilization and the customers’ request volume for the different fine-tuned models. If the volume is low, it can be deployed along with other low-utilization adapters on the same base model, and if it is high, the adapter can be allocated its own base model such that the users don’t wait too long for their requests to be completed.
      
-   *  Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
-      
-        https://huggingface.co/blog/4bit-transformers-bitsandbytes
+
 
 
    * Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation **(DoRA)** from Scratch
@@ -2953,6 +2951,9 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
 * bistandbytes 4-bit quantization blogpost - This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach
 
   This blogpost introduces 4-bit quantization and QLoRa, an efficient finetuning approach.
+
+    ![lora-animated](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/55a960af-5439-4747-9dbf-67865a33f48b)
+
 
   https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
