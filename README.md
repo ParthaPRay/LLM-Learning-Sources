@@ -3612,7 +3612,9 @@ https://lnkd.in/giQrUzfq
   * World's Easiest GPT-like Voice Assistant
     https://github.com/nickbild/local_llm_assistant?tab=readme-ov-file
 
+  * Run LLMs Locally on Raspberry Pi Using Ollama AI
 
+    https://itsfoss.com/raspberry-pi-ollama-ai-setup/
 
 
 
