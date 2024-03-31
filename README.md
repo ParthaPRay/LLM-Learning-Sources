@@ -424,6 +424,13 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
 
 
 
+* Benchmarking LLMs and what is the best LLM?
+
+   https://msandbu.org/benchmarking-llms-and-what-is-the-best-llm/
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5f5b99f4-e863-4f00-896a-243e8344cf07)
+
+
 
 
 * **Mixture of Experts (MoEs)**
@@ -547,7 +554,9 @@ specified merging technique within the system’s framework.
   https://www.youtube.com/watch?v=W5ep1oJb3ME&ab_channel=FahdMirza
 
 
+* A brief analysis of automerger data, feat. SLERP and DARE-TIES LLM merging
 
+  https://huggingface.co/blog/kgourgou/a-first-look-at-automerger-data
 
 
 
@@ -2122,6 +2131,16 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
    
 
     https://colab.research.google.com/drive/1XBohRbAQchvxXVMi1Nap7JuRihjX-N9e?usp=sharing
+
+
+* Elevate Responses: RAG with LlamaIndex & MongoDB
+
+  https://huggingface.co/blog/Andyrasika/mongodb-llamaindex-rag
+
+  [LlamaIndex-MongoDB](https://www.mongodb.com/developer/products/atlas/rag-with-polm-stack-llamaindex-openai-mongodb/)
+
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/bef8934c-4695-4243-9d5e-e207888273f3)
 
 
 * **Retrieval Augmented Fine Tuning (RAFT)**
