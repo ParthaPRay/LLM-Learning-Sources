@@ -776,6 +776,14 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 * A Step-By-Step Guide to Evaluating an LLM Text Summarization Task, https://www.confident-ai.com/blog/a-step-by-step-guide-to-evaluating-an-llm-text-summarization-task
 
 
+* LLM Testing in 2024: Top Methods and Strategies, https://www.confident-ai.com/blog/llm-testing-in-2024-top-methods-and-strategies
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1de709aa-584b-4a08-b8ea-d9c8d79e876e)
+
+    Unit tests make up functional, performance, and responsibility tests, which in turn makes up a regression test
+
+
+
 
 
   
