@@ -730,17 +730,19 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/52d7cbdf-d666-4429-9706-865fd96a117f)
 
 
+
   
 
 # Ollama
 
+
   * Ollama, https://github.com/ollama/ollama
     
+  * **Importing Open Source Models to Ollama**, https://www.youtube.com/watch?v=fnvZJU5Fj3Q&ab_channel=Decoder**
+  
   * Installing Ollama to Customize My Own LLM,    https://www.youtube.com/watch?v=xa8pTD16SnM&ab_channel=Decoder
   
   * Use Your Self-Hosted LLM Anywhere with Ollama Web UI,   https://www.youtube.com/watch?v=syR0fT0rkgY&ab_channel=Decoder
-
-  * Importing Open Source Models to Ollama, https://www.youtube.com/watch?v=fnvZJU5Fj3Q&ab_channel=Decoder
  
   * Ollama has a Python library!, https://www.youtube.com/watch?v=JwYwPiOh72w&ab_channel=LearnDatawithMark
     
