@@ -921,6 +921,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   https://jasonchuang.substack.com/p/ollama-v0127-ai-benchmark
 
 
+* Building AI Apps in Python with Ollama
+
+  https://www.youtube.com/watch?v=_4K20tOsXK8&ab_channel=MattWilliams
 
 
 
