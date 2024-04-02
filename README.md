@@ -3715,7 +3715,12 @@ https://lnkd.in/giQrUzfq
  * Comparing recent smaller large language models (LLMs) locally on an OrangePi5b
    
    https://youtu.be/VWDy8kIU4zw?si=abbKTWtx0Rmp0s2E
-      
+
+ 
+ * Practical AI - Local LLM and machine learning for plant care with OrangePi5
+
+   https://www.viam.com/post/practical-ai-local-llm-and-machine-learning-for-plant-care
+   
 
 ===========================================================================================
 
