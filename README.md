@@ -3712,7 +3712,9 @@ https://lnkd.in/giQrUzfq
 
     https://youtu.be/F3avMe8NvJk
 
-
+ * Comparing recent smaller large language models (LLMs) locally on an OrangePi5b
+   
+   https://youtu.be/VWDy8kIU4zw?si=abbKTWtx0Rmp0s2E
       
 
 ===========================================================================================
