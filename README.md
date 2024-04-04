@@ -378,6 +378,7 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
+
 * V-JEPA: Video Joint Embedding Predictive Architecture
   
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/fead596e-d9fd-4029-9fd5-add93f3e8f82)
@@ -420,6 +421,7 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
    https://msandbu.org/benchmarking-llms-and-what-is-the-best-llm/
 
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5f5b99f4-e863-4f00-896a-243e8344cf07)
+
 
 
 
@@ -563,6 +565,14 @@ specified merging technique within the system’s framework.
 
   [LazyMergeKit](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb#scrollTo=d5mYzDo1q96y)
   
+
+* Create Mixtures of Experts with MergeKit
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b5838b23-fad5-463a-ac34-b2cbd530b709)
+
+  https://huggingface.co/blog/mlabonne/frankenmoe
+
+
 
 
 # Transformers
@@ -2234,6 +2244,7 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/bef8934c-4695-4243-9d5e-e207888273f3)
 
 
+
 * **Retrieval Augmented Fine Tuning (RAFT)**
 
   🦍 RAFT: Adapting Language Model to Domain Specific RAG
@@ -3529,7 +3540,17 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
       3 .Deploy Zephyr 7B to Amazon SageMaker
       4. Run inference and chat with the model
 
+* Custom architectures with HuggingFace 🤗
 
+   https://huggingface.co/blog/not-lain/custom-architectures-with-huggingface
+
+* Train Custom Models on Hugging Face Spaces with AutoTrain SpaceRunner
+
+  https://huggingface.co/blog/abhishek/autotrain-spacerunner
+
+  https://github.com/huggingface/autotrain-advanced
+  
+  
 * Pushing Models and Adapters to HuggingFace | Free Notebook, 
 
   https://www.youtube.com/watch?v=Kd4JL7GnR8Y&ab_channel=TrelisResearch
@@ -3653,12 +3674,23 @@ https://lnkd.in/giQrUzfq
 
 
 
-# LLM Threats
+# Security and Threats
 
 * Navigating LLM Threats: Detecting Prompt Injections and Jailbreaks
 
  https://www.youtube.com/watch?v=kH4ZoZSvddM&ab_channel=DeepLearningAI
 
+* Many-shot Jailbreaking
+
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/3aa0754e-f399-4956-8640-94987a015b76)
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/35a2b668-8f6e-4799-b3f4-61d0fa03fe4e)
+
+
+  https://huggingface.co/blog/vladbogo/many-shot-jailbreaking
+
+  https://www.anthropic.com/research/many-shot-jailbreaking
 
 
 
