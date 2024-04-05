@@ -847,6 +847,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
  
   * Using Ollama To Build a FULLY LOCAL "ChatGPT Clone", https://www.youtube.com/watch?v=rIRkxZSn-A8&ab_channel=MatthewBerman
 
+  * Build a RAG app in Python with Ollama in minutes, https://www.youtube.com/watch?v=GxLoMquHynY&ab_channel=MattWilliams
+
+ 
   * Hugging Face GGUF Models locally with Ollama, https://www.youtube.com/watch?v=7BH4C6-HP14&t=8s&ab_channel=LearnDatawithMark
  
   * Using the Chat Endpoint in the Ollama API, https://www.youtube.com/watch?v=QUJHEvCqhdw&ab_channel=MattWilliams
