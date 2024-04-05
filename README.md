@@ -1550,7 +1550,23 @@ For example:
 Once the information is parsed, we can store it in a graph database. The information stored is the knowledge base, not the original text. For information retrieval, the LLM needs to come up with an Entity query related to the question to retrieve the related entities and relationships. The retrieved information is much more concise and to the point than in the case of vector databases. This context should provide much more useful information for the LLM to answer the question. The problem is that the query matching needs to be exact, and if the entities captured in the database are slightly semantically or lexically different, the query will not return the right information.
 
 I wonder if there is a possibility to merge the advantages of vector and graph databases. We could parse the entities and relationships, but we index them by their vector representations in a graph database. This way, the information retrieval could be performed using approximate nearest neighbor search instead of exact matching. Does that exist already?
-     
+
+ * **SUPERHUMAN RAG**
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/93a634d9-40cb-4a6b-9100-3b54c2e98333)
+
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/8321ffa2-35bf-4f30-999e-86bf5f1b961e)
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5b093e4b-1b18-49d5-bc9c-0e4b364b00aa)
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/642d1491-5704-418f-9cff-195004e093a1)
+
+
+   https://www.youtube.com/watch?v=bek8AGvt7dg&ab_channel=code_your_own_AI
+ 
+
+  
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
   * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
@@ -1853,7 +1869,7 @@ https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index
 
  https://mlnotes.substack.com/p/advanced-rag-technique-subdoc-summary?r=164sm1&utm_campaign=post&utm_medium=web&triedRedirect=true
 
- 
+
 
 * **Command-R**
   
