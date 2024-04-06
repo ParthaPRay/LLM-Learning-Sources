@@ -1661,8 +1661,24 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_evaluation.ipynb
     
     
-  * Getting started with RAG in DSPy!,
-  https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
+  * Getting started with RAG in DSPy!, https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
+
+
+  * Advanced RAG Techniques by Pinecone
+
+     ![fb964f1b6043413802c66a76de27fa2a6906889a-786x1347](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1c49fe7e-dcbf-4076-8e02-9112b655d0e2)
+
+     | Feature       | Self RAG                                                                                       | Corrective RAG                                                                                                               | RAG Fusion                                                                                                         |
+|---------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Overview**      | Enhances LM's quality and factuality through retrieval and self-reflection. Uses special tokens for adaptive retrieval and critique of its own generations. | Improves robustness of generation with a lightweight retrieval evaluator and a decompose-then-recompose algorithm for document refinement. Utilizes large-scale web searches for augmentation. | Combines RAG and Reciprocal Rank Fusion (RRF) by generating multiple queries, reranking with reciprocal scores, and fusing documents and scores for more accurate and comprehensive answers. |
+| **Key Mechanism** | Fine-tuned with reflection tokens and critique tokens for on-demand retrieval and generation quality assessment.                                            | Employs a retrieval evaluator to assess document quality and triggers actions (Correct, Incorrect, Ambiguous) based on confidence scores.                                               | Generates multiple queries from the original query, reranks documents using RRF, and fuses them for the final output.                                                |
+| **Advantages**    | Increases factuality and versatility of responses. Adaptable to diverse task requirements.                                                                  | Significantly improves the performance of RAG-based approaches in both short- and long-form generation tasks.                                                                         | Provides more accurate and comprehensive answers by contextualizing the original query from various perspectives.                                                    |
+
+
+    https://www.pinecone.io/learn/advanced-rag-techniques/
+
+    https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/advanced-rag-with-canopy.ipynb
+
 
   * RAG Time! Evaluate RAG with LLM Evals and Benchmarking
 
@@ -1855,6 +1871,15 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
   https://huggingface.co/learn/cookbook/rag_with_hugging_face_gemma_mongodb
 
   https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_with_hugging_face_gemma_mongodb.ipynb
+
+
+* Claude 3 Opus RAG Chatbot (Full Walkthrough)
+
+  https://www.youtube.com/watch?v=rbzYZLfQbAM&ab_channel=JamesBriggs
+
+  https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/v1/claude-3-agent.ipynb
+
+
 
 
 * How to Improve LLMs with RAG (Overview + Python Code)
@@ -3381,6 +3406,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 
   * Steerable AI with Pinecone + Semantic router, https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
+
+  
 
   * Constitutional AI with Open LLMs
 
