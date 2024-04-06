@@ -1660,7 +1660,17 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_evaluation.ipynb
     
-    
+  * AI Agent Evaluation with RAGAS (Retrieval Augmented Generation Assessment) 
+
+    https://www.youtube.com/watch?v=-_52DIIOsCE&ab_channel=JamesBriggs
+
+    https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/03-ragas-evaluation.ipynb
+
+    https://www.pinecone.io/learn/series/rag/ragas/
+
+
+
+       
   * Getting started with RAG in DSPy!, https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
 
@@ -3327,7 +3337,14 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
     https://www.youtube.com/watch?v=HN96PTdiseo&ab_channel=YeyuLab
 
-   
+  * Speech-to-Code - The Future of Programming with AI? | feat Claude 3 Haiku
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a43f7ada-1530-4039-9a0f-8cfec5d7cc10)
+
+    https://www.youtube.com/watch?v=gW0RmrhoSyA&ab_channel=AllAboutAI
+    
+
+    
   * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
 
     https://www.youtube.com/watch?v=xZDB1naRUlk
@@ -3481,6 +3498,13 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
    
  * CrewAI agents for stock analysis (works with local Ollama LLMs),
  https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
+
+ * CrewAI + Claude 3 Haiku, https://www.youtube.com/watch?v=K0mb-pXdqsI&ab_channel=SamWitteveen
+
+   Sequential Colab: https://colab.research.google.com/drive/1npc4TpcqC_LxKaU8Nv9HQUvtn02QG7pv?usp=sharing
+
+   Hierarchical Colab: https://colab.research.google.com/drive/1hn6XJwnGUJHlkHAYzrtys2-i7Eo3Tq3j?usp=sharing
+  
 
  * Build an LLM powered chrome extension, https://youtu.be/9RKXffJsJhs?si=Ly_ocxdSttphdhKk
 
@@ -4458,6 +4482,7 @@ Google Cloud Generative AI Learning Path
  -  Huggingface blog, https://huggingface.co/blog
  -  Langchain blog, https://blog.langchain.dev/
  -  LlamaIndex blog, https://www.llamaindex.ai/blog
+ -  Pinecone, https://www.pinecone.io/learn/
 
   
 
