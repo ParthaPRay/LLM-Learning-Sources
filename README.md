@@ -1097,6 +1097,18 @@ https://colab.research.google.com/drive/17fmNaq-2KwqJLHt4ZZ0X6FbmMlssq_vR?usp=sh
 
 https://colab.research.google.com/drive/1NLmQqbiXc-dU9C0ulNsUuubB3vbhaJbi?usp=sharing
 
+
+* **DreamBooth** - Fine Tuning Text-to-Image Diffusion Models
+
+ https://www.youtube.com/watch?v=_bFPL3ZD4Ko&ab_channel=FahdMirza
+ 
+ https://huggingface.co/papers/2208.12242
+
+ https://huggingface.co/docs/diffusers/v0.27.2/training/dreambooth
+
+ 
+
+ 
 * Assessing Health Data with ML and Becoming More Aware
   
 https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sharing
@@ -2443,6 +2455,15 @@ https://colab.research.google.com/drive/1LdamGKR2oacrDk-kYwz_Wfc1-RBUdzcO?usp=sh
    - Almanac: Retrieval-Augmented Language Models for Clinical Medicine, https://huggingface.co/papers/2303.01229
 
 
+* How to Convert Any Dataset to DPO Dataset
+
+   https://www.youtube.com/watch?v=GGnBgpe1UiQ&ab_channel=FahdMirza
+
+    https://huggingface.co/docs/trl/main/en/dpo_trainer
+
+
+
+
 
 # Vector Database and Embeddings 
 
@@ -3444,6 +3465,12 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a0853d80-410f-4f36-99b4-00762ebbfd1f)
 
+* Anthropic Tools for Seamless Automation: 3 Use Cases Explained
+
+ https://www.youtube.com/watch?v=nv_Ghb5i1jU&ab_channel=MervinPraison
+
+https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
+ 
   
 * I Created AI Assistants to Automate Recruitment Process: Crew AI
 
@@ -3719,6 +3746,12 @@ https://lnkd.in/giQrUzfq
   https://www.anthropic.com/research/many-shot-jailbreaking
 
 
+
+* Beware of Contaminated AI Models - Contaminated Proof 7B
+
+  https://www.youtube.com/watch?v=VABZSdFXtD4&ab_channel=FahdMirza
+
+  https://huggingface.co/Contamination/contaminated_proof_7b_v1.0
 
 
 
