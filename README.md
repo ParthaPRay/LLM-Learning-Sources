@@ -4264,6 +4264,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Ian Wootten** https://youtube.com/@IanWootten?si=4xbHzdFIIX7n9SMS
 * **AI for Devs** https://youtube.com/@ai-for-devs?si=4TrsM8CP7VBO-2a_
 * **code_your_own_AI** https://www.youtube.com/@code4AI
+* **Sebastian Raschka** https://www.youtube.com/@SebastianRaschka
   
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
 
