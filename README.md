@@ -954,6 +954,13 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
+  * Finetuning Open-Source LLMs, https://www.youtube.com/watch?v=gs-IDg-FoIQ&ab_channel=SebastianRaschka
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/01b2bc89-8745-41c7-bb4c-2c7f7809aebb)
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/19da5a96-e77e-45bc-a08a-b3953ec8bc97)
+
+
     
   * Fine-tuning Tiny LLM on Your Data | Sentiment Analysis with TinyLlama and LoRA on a Single GPU, https://www.youtube.com/watch?v=_KPEoCSKHcU&ab_channel=VenelinValkov
     
@@ -1359,6 +1366,7 @@ https://youtu.be/6kkJGkPZP88?si=CJf02_4Ub91Zz75I
 
 
 
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/13ff82ca-5ffb-4dad-99d3-9c3c50be0ee2)
 
 
   
@@ -1392,6 +1400,9 @@ Therefore A and B combined have 120K elements which is 1666 times less elements 
 To gain even more space, we may want to quantize the float parameters into integers while applying LoRA (QLoRA). Now, the number of fine-tuned weights is just a fraction of the original model size and we can more easily store those weights for each of the learning tasks we needed fine-tuning for. When we need to deploy an inference server, we can use the original pre-trained model and combine it with the fine-tuned LoRA adapters for the specific learning task needed on that server. 
 
 That is worth a read: https://lnkd.in/d8sXWD_X
+
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/33dfcb1c-2694-4609-aaca-7aa44585d5f7)
 
 
 *  **How to fine-tune LLMs for text encoding ?**
