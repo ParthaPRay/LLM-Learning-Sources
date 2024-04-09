@@ -544,6 +544,12 @@ specified merging technique within the system’s framework.
 
   https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing
 
+
+* Deep dive: model merging using Mergekit
+
+  https://www.youtube.com/watch?v=cvOpX75Kz4M&ab_channel=JulienSimon
+
+
 * Merge LLMs with Mergekit: create your own medical mixture of experts
   
   https://youtu.be/eKDz-K3UvbY?si=limrl7Raf86bdqS7
@@ -1082,8 +1088,10 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   https://www.youtube.com/watch?v=K_8a056X4ys&ab_channel=AIMakerspace
   
 
-
-
+* Combined Preference and Supervised Fine Tuning with ORPO
+  
+   https://www.youtube.com/watch?v=OWMJ0rBUj04&ab_channel=TrelisResearch
+  
 * Dickens: an LLM that writes Great Expectations
 
 https://colab.research.google.com/drive/1MdZvYtm3xrkPrxzD71SZ6H9GTkG46VRF?usp=sharing
@@ -1747,7 +1755,13 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
       https://github.com/huggingface/cookbook/tree/main/notebooks/en
 
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/a3b7c78b-c349-481c-a7c7-94191c00ea19)
+   
 
+* Advance RAG: LlamaParse + Reranker = Better RAG
+
+   https://www.youtube.com/watch?v=wCFXae8hiYA&ab_channel=DataScienceBasics
+
+   https://github.com/sudarshan-koirala/youtube-stuffs/blob/main/llamaindex/llamaindex_advanced_rag.ipynb
 
 * LangChain RAG featuring Shopify's Madhav Thaker, https://www.youtube.com/watch?v=IUEny5cbys8&ab_channel=ArizeAI
 
@@ -1880,6 +1894,12 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
   https://mer.vin/2024/03/chunking-strategy/
 
+* Building RAG with Command R+ from Cohere, DSPy, and Weaviate!
+
+ https://www.youtube.com/watch?v=6dgXALb_5Ag&ab_channel=ConnorShorten 
+
+ https://github.com/weaviate/recipes/blob/main/integrations/dspy/llms/Command-R-Plus.ipynb
+   
 
 * Building a RAG system with Google Gemma, Huggingface and MongoDB
 
@@ -2662,6 +2682,11 @@ https://docs.google.com/presentation/d/1sS-bxJ-k9EuESH2VhpwnybY3QyV_9FdxHLmZLCSp
 
   https://huggingface.co/nomic-ai/nomic-embed-text-v1
 
+* Visualising embeddings with t-SNE
+
+  https://www.youtube.com/watch?v=MgayYUdI4is&ab_channel=LearnDatawithMark
+
+  https://github.com/mneedham/LearnDataWithMark/blob/main/tsne-playground/app.py
 
 * From HuggingFace dataset to Qdrant vector database in 12 minutes flat
 
@@ -3234,6 +3259,15 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   * LLM Chat App in Python w/ Ollama-py and Streamlit, https://www.youtube.com/watch?v=ZHZKPmzlBUY&ab_channel=Decoder
 
+  *  Claude 3 Opus in ML Pipelines (Python & Kubeflow Example)
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/40632cf9-461c-40f6-8a36-a181c4f6e9d2)
+
+     https://www.youtube.com/watch?v=VEjlxzvEV88&ab_channel=NodematicTutorials
+
+      https://github.com/nodematiclabs/claude-pipelines
+     
+
   * Visual Question Answering with IDEFICS 9B Multimodal LLM, https://www.youtube.com/watch?v=hyP1ekLKtiI&ab_channel=AIAnytime
   
   * Outfit Anyone: A Diffusion Project for Virtual Try On, https://www.youtube.com/watch?v=V21GfgSFuGk&ab_channel=AIAnytime
@@ -3577,7 +3611,6 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
 
 * Microsoft PHI-2 + Huggine Face + Langchain = Super Tiny Chatbot 
         
-  
   https://youtu.be/_WmH2WSuT_8?si=Jq-r8eib1G9bVjrj
 
 
@@ -3595,6 +3628,15 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   https://huggingface.co/facebook/blenderbot-400M-distill
 
 
+* Automatically extract phone call insights with LLMs and Python | Full tutorial
+
+  https://www.youtube.com/watch?v=5ZII6vvRFes&ab_channel=AssemblyAI
+
+  https://github.com/AssemblyAI-Examples/extract-call-insights
+
+  https://www.assemblyai.com/blog/extract-call-insights-llms-python/
+
+  https://www.assemblyai.com/blog/ai-powered-call-analytics-how-to-extract-insights-customer-conversations/
 
 # LPU
 
@@ -3635,7 +3677,10 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   https://colab.research.google.com/drive/1Iz_aoskOMYqdFWfpwk5YJWuBPfJkGxao?usp=sharing
 
 
-  
+* Build a real AI model that can try any cloth
+
+  https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason
+   
 
 
 # HuggingFace
@@ -3787,6 +3832,12 @@ https://lnkd.in/giQrUzfq
 
 
 
+
+  * Build Real-World Machine Learning Project: Step-by-Step Guide using FastAPI, DVC & Poetry
+
+    https://www.youtube.com/watch?v=ug1FA7qzWSc&ab_channel=VenelinValkov
+
+    https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
 
 
 # Security and Threats
