@@ -1066,6 +1066,8 @@ The idea is to build visual tokens by breaking down the image into patches of pi
      https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
      
   * Fine Tune pre-trained GPT and BERT models with the Huggingface library, https://www.youtube.com/watch?v=g1dAsgibRcw&ab_channel=RicardoCalix
+
+    https://github.com/rcalix1/TransferLearning
  
   * Fine-Tuning HF examples on GPU Scholar, scratch disk space, https://www.youtube.com/watch?v=_S01y-JY8k4&ab_channel=RicardoCalix
 
