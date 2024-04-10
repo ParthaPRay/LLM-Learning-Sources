@@ -1864,6 +1864,13 @@ workshop with LlamaIndex,
 https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
 
+* How to chat with your PDFs using local Large Language Models [Ollama RAG]
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/79ae2ccd-14e4-470e-bd4b-a7eac2b4fd4b)
+
+ https://www.youtube.com/watch?v=ztBJqzBU5kc&ab_channel=TonyKipkemboi
+
+
 * RAGArch: Building a No-Code RAG Pipeline Configuration & One-Click RAG Code Generation Tool Powered by LlamaIndex
 
   https://www.llamaindex.ai/blog/ragarch-building-a-no-code-rag-pipeline-configuration-one-click-rag-code-generation-tool-powered-b6e8eeb70089
