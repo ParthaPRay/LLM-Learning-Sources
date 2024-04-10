@@ -4361,7 +4361,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Fahd Mirza** https://www.youtube.com/@fahdmirza
 * **Gao Dalie** https://www.youtube.com/@GaoDalie97
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
-
+* **Oxen ai** https://youtube.com/@oxen-ai?si=3xbhuzM3-tVx_n3v
 * **Entry Point AI** https://www.youtube.com/@EntryPointAI
 * **Steve (Builder.io)** https://www.youtube.com/@Steve8708
 * **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
