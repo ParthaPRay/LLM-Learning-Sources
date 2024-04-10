@@ -1077,6 +1077,15 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
    https://huggingface.co/blog/gemma-peft
 
+ * Your Ultimate Guide to Instinct Fine-Tuning and Optimizing Google’s Gemma 2B Using LoRA
+   https://medium.com/@mohammed97ashraf/your-ultimate-guide-to-instinct-fine-tuning-and-optimizing-googles-gemma-2b-using-lora-51ac81467ad2
+
+
+ * Part 2: Fine Tune — Gemma 2b-it model
+   
+   https://aashi-dutt3.medium.com/part-2-fine-tune-gemma-2b-it-model-a26246c530e7
+   
+     
  
   * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
 
@@ -2457,6 +2466,10 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
   https://www.youtube.com/watch?v=kWooqJKJO7k&t=14s&ab_channel=FahdMirza
 
+* Part 1: Step-by-Step Dataset Creation- Unstructured to Structured
+
+  https://aashi-dutt3.medium.com/part-1-step-by-step-dataset-creation-unstructured-to-structured-70abdc98abf0
+  
 
 * Fine-Tuned Q&A - create Q&A (Some Part Deprecated)
 
