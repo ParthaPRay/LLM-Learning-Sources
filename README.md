@@ -959,7 +959,16 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 
 
+  * A code repository that cointains all the code for finetuning some of the popular LLMs on medical data
 
+    This repository contains all the code necessary to fine-tune(PEFT using LoRA/QLoRa) the most popular 7B parameters instruct LLMs(Mistral, Llama, Gemma), specifically on medical data by utilizing. The code repository is based on two parts:
+
+     - preparing the instruct medical datasets
+     - fine-tuning the instruct LLMs on the prepared datasets
+
+     https://github.com/Shekswess/LLM-7B-Medical-Finetuning
+
+    
   * Finetuning Open-Source LLMs, https://www.youtube.com/watch?v=gs-IDg-FoIQ&ab_channel=SebastianRaschka
 
      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/01b2bc89-8745-41c7-bb4c-2c7f7809aebb)
