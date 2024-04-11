@@ -1093,7 +1093,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
  * Part 2: Fine Tune — Gemma 2b-it model
    
    https://aashi-dutt3.medium.com/part-2-fine-tune-gemma-2b-it-model-a26246c530e7
-   
+
+
+ * Instruction Fine-Tuning Gemma-2B on Medical Reasoning and Convert the finetuned model into GGUF format using Llama.cpp
+
+   https://medium.com/the-ai-forum/instruction-fine-tuning-gemma-2b-on-medical-reasoning-and-convert-the-finetuned-model-into-gguf-844191f8d329
      
  
   * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
