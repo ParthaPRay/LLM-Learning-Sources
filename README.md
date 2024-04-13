@@ -1099,11 +1099,19 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
    https://medium.com/the-ai-forum/instruction-fine-tuning-gemma-2b-on-medical-reasoning-and-convert-the-finetuned-model-into-gguf-844191f8d329
      
+ * Fine Tune Vision Model LlaVa on Custom Dataset
+
+   https://www.youtube.com/watch?v=rbof1eYekvA&ab_channel=FahdMirza
+
+   https://colab.research.google.com/drive/10NLrfBKgt9ntPoQYQ24rEVWU-2rr1xf1
  
-  * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
+ * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
 
     https://newsletter.theaiedge.io/p/the-aiedge-how-to-fine-tune-large
+ 
+* Train, Fine-Tune Models for Free on Lightning AI
 
+  https://www.youtube.com/watch?v=b6Pzgj9EQv8&ab_channel=FahdMirza
 
 * ReFT: Reasoning with Reinforced Fine-Tuning
   
@@ -3360,6 +3368,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
   * Serve a Custom LLM for Over 100 Customers, https://www.youtube.com/watch?v=1TU9ZrZhqw0&ab_channel=TrelisResearch
 
   * Long Context Summarization, https://www.youtube.com/watch?v=I83TH4x9keo&ab_channel=TrelisResearch
+
+  * Install OpenUI Locally on Windows - Create User Interface Using Text or image with AI, https://www.youtube.com/watch?v=6S57NYqaO4g&ab_channel=FahdMirza
 
   * Function Calling Datasets, Training and Inference, https://www.youtube.com/watch?v=hHn_cV5WUDI&ab_channel=TrelisResearch
  
