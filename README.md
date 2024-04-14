@@ -1104,6 +1104,13 @@ The idea is to build visual tokens by breaking down the image into patches of pi
    https://www.youtube.com/watch?v=rbof1eYekvA&ab_channel=FahdMirza
 
    https://colab.research.google.com/drive/10NLrfBKgt9ntPoQYQ24rEVWU-2rr1xf1
+
+ * Vision Language Models Explained and fine tuning
+
+
+    Fine-tuning Vision Language Models with TRL: We are excited to announce that TRL’s SFTTrainer now includes experimental support for Vision Language Models! We provide an example here of how to perform SFT on a ]Llava 1.5 VLM](https://huggingface.co/llava-hf/llava-1.5-7b-hf) using the [llava-instruct](https://huggingface.co/datasets/HuggingFaceH4/llava-instruct-mix-vsft) dataset which contains 260k image-conversation pairs. The dataset contains user-assistant interactions formatted as a sequence of messages. For example, each conversation is paired with an image that the user asks questions about.
+   
+   https://huggingface.co/blog/vlms
  
  * The AiEdge+: How to fine-tune Large Language Models with Intermediary models
 
