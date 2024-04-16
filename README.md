@@ -227,6 +227,49 @@ When we train LLMs, we apply the batched backpropagation algorithm. To paralleli
 Those [PAD] tokens are semantically meaningless, and they should not contribute to the computed attentions within the transformer architecture. The trick is to add a padding mask to the attention computations by setting the elements related to the [PAD] tokens within the attention matrix to zero. This way, they don't contribute to the overall prediction process and text generation. We just need to make sure not to use the hidden states related to those [PAD] tokens for anything other than getting a tensor of the right size!
 
 
+* BERT explained: Training, Inference, BERT vs GPT/LLamA, Fine tuning, [CLS] token
+
+  https://www.youtube.com/watch?v=90mGPxR2GgY&ab_channel=UmarJamil
+
+  https://github.com/hkproj/bert-from-scratch
+
+
+* Variational Autoencoder - Model, ELBO, loss function and maths explained easily!
+
+    https://www.youtube.com/watch?v=iwEzwTTalbg&ab_channel=UmarJamil
+
+   https://github.com/hkproj/vae-from-scratch-notes
+
+
+* LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU
+
+  https://www.youtube.com/watch?v=Mn_9W1nCFLo&ab_channel=UmarJamil
+
+  https://github.com/hkproj/pytorch-llama-notes/
+
+
+*  Mistral / Mixtral Explained: Sliding Window Attention, Sparse Mixture of Experts, Rolling Buffer
+
+  https://www.youtube.com/watch?v=UiX8K-xBUpE&ab_channel=UmarJamil
+
+  https://github.com/hkproj/mistral-src-commented
+
+  https://github.com/hkproj/mistral-llm-notes
+
+ *  Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math
+
+   https://www.youtube.com/watch?v=8Q_tqwpTpVU&ab_channel=UmarJamil
+
+   https://github.com/hkproj/mamba-notes
+
+ * Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm
+
+     https://www.youtube.com/watch?v=oM4VmoabDAI&ab_channel=UmarJamil
+
+     https://github.com/hkproj/pytorch-llama
+
+     https://github.com/meta-llama/llama
+
 * How to create tokens from words in LLMs?
 
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/3495dd90-7ce0-4d97-882d-10709db2fcdb)
@@ -377,7 +420,15 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
+* 1-Bit LLM INSTALLATION| 7B LOCAL LLMs in 1-Bit + Test Demo
 
+  https://www.youtube.com/watch?v=InMicVYVw-I&ab_channel=DataInsightEdge
+
+  https://colab.research.google.com/drive/1GODyuOcrj5ADkxqIN-F5L2FnTSO5C3cf?usp=sharing
+
+  https://mobiusml.github.io/1bit_blog/
+
+  https://huggingface.co/mobiuslabsgmbh/Llama-2-7b-chat-hf_2bitgs8_hqq
 
 * V-JEPA: Video Joint Embedding Predictive Architecture
   
@@ -394,7 +445,19 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
   https://github.com/facebookresearch/jepa
 
 
+* Generate Summaries with Topic Focus using CPU-friendly Model SLIM
 
+  https://www.youtube.com/watch?v=yNg_KH5cPSk&ab_channel=llmware
+
+  https://huggingface.co/llmware/slim-summary
+
+  https://huggingface.co/llmware/slim-summary-tool
+
+  https://github.com/llmware-ai/llmware
+
+* Get Yes/No Answers from Text using Small Language Model (SLIM Boolean, CPU-friendly)
+
+   https://www.youtube.com/watch?v=jZQZMMqAJXs&ab_channel=llmware 
 
 * **Gorilla**
   
@@ -951,6 +1014,16 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
   https://www.youtube.com/watch?v=_4K20tOsXK8&ab_channel=MattWilliams
 
+* Easy 100% Local RAG Tutorial (Ollama) + Full Code
+
+  https://www.youtube.com/watch?v=Oe-7dGDyzPM&ab_channel=AllAboutAI
+
+  https://github.com/AllAboutAI-YT/easy-local-rag
+
+
+* Create a New Ollama Model
+
+  https://www.youtube.com/watch?v=bXf2Cxf3Wk0&ab_channel=MattWilliams
 
 
 
@@ -1152,6 +1225,10 @@ https://colab.research.google.com/drive/17fmNaq-2KwqJLHt4ZZ0X6FbmMlssq_vR?usp=sh
 https://colab.research.google.com/drive/1NLmQqbiXc-dU9C0ulNsUuubB3vbhaJbi?usp=sharing
 
 
+* Mistral-7B : EASIET WAY To FINE-TUNE ON YOUR DATA Using Direct Preference Optimization(DPO)
+
+  https://www.youtube.com/watch?v=XFudZy11FJI&ab_channel=WhisperingAI
+
 * **DreamBooth** - Fine Tuning Text-to-Image Diffusion Models
 
  https://www.youtube.com/watch?v=_bFPL3ZD4Ko&ab_channel=FahdMirza
@@ -1183,11 +1260,11 @@ https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sh
    https://pbase.ai/ZephyrCustomerSupport
 
 
-* Building an LLM fine-tuning dataset,
+ * Building an LLM fine-tuning dataset,
   
-https://youtu.be/pCX_3p40Efc?si=UKvB7DSVb366Zzbe
+  https://youtu.be/pCX_3p40Efc?si=UKvB7DSVb366Zzbe
 
-https://github.com/Sentdex/LLM-Finetuning
+   https://github.com/Sentdex/LLM-Finetuning
 
 
   * Fine tuning LLMs for Memorization
@@ -1200,7 +1277,7 @@ https://github.com/Sentdex/LLM-Finetuning
     
   *  Fine-tuning a large language model on Kaggle Notebooks (or even on your own computer) for solving real-world tasks
   
-    https://huggingface.co/blog/lmassaron/fine-tuning-llms-on-kaggle-notebooks
+     https://huggingface.co/blog/lmassaron/fine-tuning-llms-on-kaggle-notebooks
 
          Code references:
 
@@ -1234,6 +1311,14 @@ https://github.com/Sentdex/LLM-Finetuning
 
     https://colab.research.google.com/drive/1AErkPgDderPW0dgE230OOjEysd0QV1sR?usp=sharing
 
+
+ * Fine-Tuning GPT for Automatic Email Responses: A Python Tutorial
+
+   https://www.youtube.com/watch?v=M46KvnbhkFI&ab_channel=AIFORDEVS
+
+   https://platform.openai.com/docs/guides/fine-tuning
+
+   https://github.com/AI-FOR-DEVS/GPTFinetuning
 
   * Preference Tuning LLMs with **Direct Preference Optimization** Methods
 
@@ -1346,6 +1431,13 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   https://huggingface.co/blog/pref-tuning
 
+
+* Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math
+
+  https://www.youtube.com/watch?v=hvGa5Mba4c8&ab_channel=UmarJamil
+
+  https://github.com/hkproj/dpo-notes
+
 * **Reinforcement Learning with AI Feedback - RLAIF** Github Link
 
   Reinforcement Learning from AI Feedback (RLAIF) is a concept that describes a type of machine learning approach where an AI agent learns by receiving feedback or guidance from another AI system. This concept is closely related to the field of Reinforcement Learning (RL), which is a type of machine learning where an agent learns to make a sequence of decisions in an environment to maximize a cumulative reward.
@@ -1381,6 +1473,12 @@ https://youtu.be/ae2lbmtTY5A?si=0NXaw8tOXqh800x2
 
   https://huggingface.co/blog/rlhf
 
+
+ * Reinforcement Learning from Human Feedback (RLHF) explained with math derivations and the PyTorch code
+
+   https://www.youtube.com/watch?v=qGyFrqc34yc&ab_channel=UmarJamil
+
+   https://github.com/hkproj/rlhf-ppo
 
  _Open-source tools for RLHF_
  
@@ -1581,6 +1679,12 @@ We can also index the document by the questions that the document answers. As pa
 We could also index the document by its summary. Again, as part of the indexing pipeline, we could have an LLM tasked to summarize the incoming documents. The resulting text will be more concise and "semantically purer", so it could be a better option for a similarity search. This is a great option when your document contains tables (like .csv). Tables contain numbers, and it might be difficult to get a question whose vector representation could be similar to the table's. However, if, as part of the indexing pipeline, we have an LLM tasked to provide a text description of the table data, we can then index the table data using its text description. This will make it much easier on the similarity search! The retrieved data will be the original table data as it contains more information to answer the question. 
 
 
+ * Retrieval Augmented Generation (RAG) Explained: Embedding, Sentence BERT, Vector Database (HNSW)
+
+   https://www.youtube.com/watch?v=rhZgXNdhWDY&ab_channel=UmarJamil
+
+   https://github.com/hkproj/retrieval-augmented-generation-notes
+   
 
  * Problems with RAG
 
@@ -1678,6 +1782,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://github.com/ambarishg/llama-index
 
+  * How to evaluate an LLM-powered RAG application automatically.
+
+    https://www.youtube.com/watch?v=ZPX3W77h_1E&t=492s&ab_channel=Underfitted
+
+    https://github.com/svpino/llm/tree/main/evaluation
 
   * Search-in-the-Chain with LlamaIndex
 
@@ -1689,7 +1798,12 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
      https://github.com/DJC-GO-SOLO/llama_index/blob/main/llama-index-packs/llama-index-packs-searchain/examples/searchain.ipynb
 
+  * How I Built the Fastest FULLY LOCAL RAG PDF Chatbot Using GroqChat|Chainlit|Ollama
 
+    https://www.youtube.com/watch?v=UwKGBvFldho&ab_channel=DataInsightEdge
+
+    https://github.com/InsightEdge01/GroqPDFFastChatbot/tree/main
+    
   * LLM Search & Retrieval Systems with Arize and LlamaIndex: Powering LLMs on Your Proprietary Data, https://www.youtube.com/watch?v=hbQYDpJayFw&ab_channel=ArizeAI
  
   * Building A RAG System With OpenAI Latest Embeddings, https://www.youtube.com/watch?v=OvvgaR1S4Xc&ab_channel=RichmondAlake
@@ -1727,11 +1841,26 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     https://www.pinecone.io/learn/series/rag/ragas/
 
 
+ * Build an On-Device RAG App using Open Source AI Stack, https://www.youtube.com/watch?v=-ACc-NVjI5g&ab_channel=AIAnytime
 
-       
+   https://github.com/AIAnytime/On-device-real-time-RAG-App
+
+ * Jina Reader API: Build better AI Agents and RAG systems with Reader, https://www.youtube.com/watch?v=GllAqZE6uws&ab_channel=AIAnytime
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/744bd208-15b8-425c-88a1-9a899db33db8)
+
+   https://github.com/jina-ai/reader
+  
+
+  * How I Built a Medical RAG Chatbot Using BioMistral|Langchain | FREE Colab|ALL OPENSOURCE
+
+    https://www.youtube.com/watch?v=E53hc-jcUeE&ab_channel=DataInsightEdge
+
+    https://colab.research.google.com/drive/1Jk7M4N8O4kUEhHQSk5-J7bKFg0nod43k?usp=sharing
+   
   * Getting started with RAG in DSPy!, https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
-
+  
   * Advanced RAG Techniques by Pinecone
 
      ![fb964f1b6043413802c66a76de27fa2a6906889a-786x1347](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1c49fe7e-dcbf-4076-8e02-9112b655d0e2)
@@ -1760,7 +1889,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
   * Unlock AI Agents, Function Calls and Multi-Step RAG with LLMWare
     https://www.youtube.com/watch?v=cQfdaTcmBpY&ab_channel=llmware
 
+ * RAG ipynb: CRAG, LlamaIndex, Ollama, ReAct Agent
 
+   https://www.youtube.com/watch?v=qPsmRk14BNM&ab_channel=code_your_own_AI
+
+ 
  * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
     
  * How I created AI Research Assistantand it costs 0$ to run, Ollama + qdrant + Gptforall + langchain, https://youtu.be/f1ihg20fQiU?si=VjaYv9yr9g-Ujvdk
@@ -1779,7 +1912,12 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 * Adding Semantic Caching and Memory to Your RAG Application Using MongoDB and LangChain
 
   https://www.mongodb.com/developer/products/atlas/advanced-rag-langchain-mongodb/
-  
+
+* I didn't know RAG could be this easy using Gradient
+
+  https://www.youtube.com/watch?v=Hkgz1ysv9Fk&ab_channel=GregKamradt%28DataIndy%29
+
+  https://github.com/gkamradt/RAGWithGradient
 
  * Question Answer Generator App using Mistral LLM, Langchain, and FastAPI, https://www.youtube.com/watch?v=Hcqmhhx30Pg&ab_channel=AIAnytime
 
@@ -1966,7 +2104,11 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
   https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/v1/claude-3-agent.ipynb
 
+* But, How is Chunking Done ? Splitting Basics Using LangChain
 
+   https://www.youtube.com/watch?v=tMwdl9hFPns&ab_channel=DataScienceBasics
+
+   https://github.com/sudarshan-koirala/youtube-stuffs
 
 
 * How to Improve LLMs with RAG (Overview + Python Code)
@@ -2968,7 +3110,11 @@ Optimizing pre-trained models can be done easily with Optimum Intel; many simple
         https://lightning.ai/pages/community/lora-insights/
 
 
-   
+   * LoRA: Low-Rank Adaptation of Large Language Models - Explained visually + PyTorch code from scratch
+
+     https://www.youtube.com/watch?v=PXWYUTMt-AU&ab_channel=UmarJamil
+
+     https://github.com/hkproj/pytorch-lora
       
    * Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)
       
@@ -3028,7 +3174,15 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
 
 **Quantization**
 
-         The Two Types of LLM Quantization: PTQ and QAT
+     
+    * Quantization explained with PyTorch - Post-Training Quantization, Quantization-Aware Training
+
+      https://www.youtube.com/watch?v=0VdNflU08yA&ab_channel=UmarJamil
+
+      https://github.com/hkproj/quantization-notes
+     
+     
+     The Two Types of LLM Quantization: PTQ and QAT
          
          While there are several quantization techniques, the most notable of which we detail later in this guide, generally speaking, LLM quantization falls into two categories:
          
@@ -3476,7 +3630,9 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
       https://www.youtube.com/watch?v=wdF-0CGkoeQ&ab_channel=AssemblyAI
 
       
-  
+  * Unmatched Accuracy and Lightning Speed in Python for Speech Recognition by AssemblyAI
+
+    https://www.youtube.com/watch?v=5Uw-r36XQYk&ab_channel=AssemblyAI
     
   * vector search, RAG, and Azure AI search,
 
@@ -3518,10 +3674,17 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
     https://youtu.be/A_m3tCqdts4?si=23s00oY8opM8i2PR
 
+  * AnythingLLM - Chat with Any Docs with full Privacy|Runs Offline|FREE LOCAL LLMs + NO Code
 
+   https://www.youtube.com/watch?v=J6NJCg-hI9c&ab_channel=DataInsightEdge
+   
+   https://github.com/Mintplex-Labs/anything-llm
+    
   * Steerable AI with Pinecone + Semantic router, https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
 
-  
+  * AutoGen + Ollama + Gemma: How to Create LLM Agents Locally
+
+    https://www.youtube.com/watch?v=bkBOuBxsxeM&ab_channel=YeyuLab
 
   * Constitutional AI with Open LLMs
 
@@ -3544,6 +3707,9 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  
    https://youtu.be/D8PM89Xry7Q?si=N52WpnQn-CsUqHex
 
+ * How to Implement a Simple UI for CrewAI applications
+
+   https://www.youtube.com/watch?v=gWrqfnTGtl8&ab_channel=YeyuLab
 
  * PhiData: How to Seamlessly Integrate AI into Your Application
 
@@ -3689,6 +3855,19 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   https://www.assemblyai.com/blog/extract-call-insights-llms-python/
 
   https://www.assemblyai.com/blog/ai-powered-call-analytics-how-to-extract-insights-customer-conversations/
+
+
+* Create AI News Channel for FREE in Minutes | Make Money with AI News (CAPCUT 2024)
+
+  https://www.youtube.com/watch?v=K6w3vU2_i3U&ab_channel=SkillCurb
+
+
+ * I built a AI Investment Property Bot in 15 Minutes (to automate deals)
+
+   https://www.youtube.com/watch?v=2IGbkWm0cNo&ab_channel=NicholasRenotte
+
+   https://github.com/nicknochnack/CrewAIPropertyBot
+
 
 # LPU
 
@@ -4381,6 +4560,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Sebastian Raschka** https://www.youtube.com/@SebastianRaschka
   
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
+
+* **Umar Jamil** https://www.youtube.com/@umarjamilai/videos
 
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
 * **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
