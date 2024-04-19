@@ -1149,7 +1149,12 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     https://www.youtube.com/watch?v=BA9kcVofRNI&ab_channel=FahdMirza
 
     https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing 
-    
+
+
+  * Fine-tune Llama 3 with ORPO
+
+    https://colab.research.google.com/drive/1eHNWg9gnaXErdAa8_mcvjMupbSS6rDvi?usp=sharing
+        
   * Fine tuning with LlamaIndex
 
     https://docs.llamaindex.ai/en/stable/optimizing/fine-tuning/fine-tuning.html
