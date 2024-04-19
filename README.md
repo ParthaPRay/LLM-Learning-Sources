@@ -1138,6 +1138,17 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
     Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
 
+  * How to Fine Tune Llama 3 for Better Instruction Following?
+
+    https://www.youtube.com/watch?v=WxQbWTRNTxY&ab_channel=MervinPraison
+
+    https://mer.vin/2024/04/llama-3-fine-tune-with-custom-data/
+
+ * Fine-Tune Llama 3 Model on Custom Dataset - Step-by-step Tutorial
+
+    https://www.youtube.com/watch?v=BA9kcVofRNI&ab_channel=FahdMirza
+
+    https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing 
     
   * Fine tuning with LlamaIndex
 
@@ -3173,6 +3184,8 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
 
 
 **Quantization**
+
+  ![1713513303289](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ca50bc1b-5126-4a01-81c1-3c92190a1d17)
 
      
     * Quantization explained with PyTorch - Post-Training Quantization, Quantization-Aware Training
