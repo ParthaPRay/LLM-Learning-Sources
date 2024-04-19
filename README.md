@@ -4792,6 +4792,7 @@ Google Cloud Generative AI Learning Path
  -  Langchain blog, https://blog.langchain.dev/
  -  LlamaIndex blog, https://www.llamaindex.ai/blog
  -  Pinecone, https://www.pinecone.io/learn/
+ -  Maxime Labonne, https://mlabonne.github.io/blog/
 
   
 
