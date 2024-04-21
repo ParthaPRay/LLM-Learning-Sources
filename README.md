@@ -1214,7 +1214,12 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   Aligning LLMs: ReFT
 
   https://www.youtube.com/watch?v=K_8a056X4ys&ab_channel=AIMakerspace
-  
+
+* Fine Tune Multimodal LLM "Idefics 2" using QLoRA
+
+  https://www.youtube.com/watch?v=8GWmu99-sjA&ab_channel=AIAnytime
+
+  https://github.com/AIAnytime/Fine-Tune-Multimodal-LLM-Idefics-2
 
 * Combined Preference and Supervised Fine Tuning with ORPO
   
@@ -1874,8 +1879,8 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://colab.research.google.com/drive/1Jk7M4N8O4kUEhHQSk5-J7bKFg0nod43k?usp=sharing
    
-  * Getting started with RAG in DSPy!, https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
 
+  
   
   * Advanced RAG Techniques by Pinecone
 
@@ -2094,11 +2099,17 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
   https://mer.vin/2024/03/chunking-strategy/
 
-* Building RAG with Command R+ from Cohere, DSPy, and Weaviate!
+ * Getting started with RAG in DSPy!, https://youtu.be/CEuUG4Umfxs?si=Dz_S5uOXSlo3yiIN
+
+ * Building RAG with Command R+ from Cohere, DSPy, and Weaviate!
 
  https://www.youtube.com/watch?v=6dgXALb_5Ag&ab_channel=ConnorShorten 
 
  https://github.com/weaviate/recipes/blob/main/integrations/dspy/llms/Command-R-Plus.ipynb
+
+* Llama 3 RAG Demo with DSPy Optimization, Ollama, and Weaviate!
+
+  https://www.youtube.com/watch?v=1h3_h8t3L14&ab_channel=ConnorShorten
    
 
 * Building a RAG system with Google Gemma, Huggingface and MongoDB
@@ -3729,6 +3740,10 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
    https://www.youtube.com/watch?v=gWrqfnTGtl8&ab_channel=YeyuLab
 
+ * Build Anything with Llama 3 Agents CrewAI, Ollama
+
+  https://www.youtube.com/watch?v=i-txsBoTJtI&ab_channel=DavidOndrej
+   
  * PhiData: How to Seamlessly Integrate AI into Your Application
 
    https://www.youtube.com/watch?v=fLGj63fiYfM&ab_channel=MervinPraison
