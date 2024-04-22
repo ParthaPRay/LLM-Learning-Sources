@@ -1116,6 +1116,7 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
   *  To Fine Tune or not Fine Tune? That is the question, https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
 
+
   * Fine-tune TinyLlama 1.1B locally on own custom dataset, https://youtu.be/VoDHpnCN6PA?si=Aq7soXO6k83mJJVs
     
   * Llama Factory: How to Fine-Tune LLMs easily?, https://youtu.be/G5ENOwfPHFE?si=2BZ6Zh5x55TDr2dl
@@ -1193,6 +1194,14 @@ The idea is to build visual tokens by breaking down the image into patches of pi
    https://www.youtube.com/watch?v=rbof1eYekvA&ab_channel=FahdMirza
 
    https://colab.research.google.com/drive/10NLrfBKgt9ntPoQYQ24rEVWU-2rr1xf1
+
+ * Tiny Text + Vision Models - Fine tuning and API Setup on Server using Moondream
+
+   https://www.youtube.com/watch?v=5rH_VjKXuzg&ab_channel=TrelisResearch
+
+   https://github.com/TrelisResearch/one-click-llms
+
+   https://docs.google.com/presentation/d/1LTF8PLe2kwLaddeqwgCRWnTabt7b5EEviFq29x3zlyw/edit
 
  * Vision Language Models Explained and fine tuning
 
