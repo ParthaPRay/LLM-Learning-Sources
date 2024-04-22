@@ -4190,6 +4190,11 @@ https://lnkd.in/giQrUzfq
    https://www.viam.com/post/practical-ai-local-llm-and-machine-learning-for-plant-care
    
 
+  * GenAI on the Edge Forum: Running an LLM on a Raspberry Pi
+    https://www.youtube.com/watch?v=bU5F0bVOMIA
+
+    https://github.com/ee292d/labs/tree/main/lab1
+    
 ===========================================================================================
 
   * **Raspberr Pi Forum Discussions**
@@ -4200,8 +4205,10 @@ https://lnkd.in/giQrUzfq
     - **OpenVINO**: https://docs.openvino.ai/2024/home.html;  https://docs.openvino.ai/2024/learn-openvino/interactive-tutorials-python.html
     - 
 
-============================================================================================
 
+    
+
+======================================================================================
 
    ![Screenshot 2024-03-31 222937](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/bcca7047-4be7-425c-b77c-bfb999abcf7b)
 
@@ -4259,11 +4266,7 @@ https://lnkd.in/giQrUzfq
     https://k33g.hashnode.dev/connect-your-llm-to-the-world-with-the-ollama-functions
     
 
-  * GenAI on the Edge Forum: Running an LLM on a Raspberry Pi
-    https://www.youtube.com/watch?v=bU5F0bVOMIA
 
-    https://github.com/ee292d/labs/tree/main/lab1
-    
 
 
 
