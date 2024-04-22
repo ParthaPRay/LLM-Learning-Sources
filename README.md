@@ -4259,7 +4259,10 @@ https://lnkd.in/giQrUzfq
     https://k33g.hashnode.dev/connect-your-llm-to-the-world-with-the-ollama-functions
     
 
+  * GenAI on the Edge Forum: Running an LLM on a Raspberry Pi
+    https://www.youtube.com/watch?v=bU5F0bVOMIA
 
+    https://github.com/ee292d/labs/tree/main/lab1
     
 
 
