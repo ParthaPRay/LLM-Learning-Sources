@@ -2119,7 +2119,12 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 * Llama 3 RAG Demo with DSPy Optimization, Ollama, and Weaviate!
 
   https://www.youtube.com/watch?v=1h3_h8t3L14&ab_channel=ConnorShorten
-   
+
+* Llama 3 RAG: Create Chat with PDF App using PhiData, Here is how..
+
+  https://www.youtube.com/watch?v=ucGvz7y-QPw&ab_channel=MervinPraison
+
+  https://github.com/phidatahq/phidata/tree/main/cookbook/llms/groq/rag
 
 * Building a RAG system with Google Gemma, Huggingface and MongoDB
 
