@@ -3684,7 +3684,11 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
     https://github.com/Azure-Samples/azure-search-openai-demo
 
+  * META LLAMA 3 8B INSTRUCT LLM – How to Create Medical Chatbot with LlamaIndex FastEmbed Colab Demo
 
+    https://www.youtube.com/watch?v=yGk_eVQdjSU&ab_channel=RitheshSreenivasan
+    https://colab.research.google.com/drive/1LgYtDgJlseOe78fauU8DXMawShL8YiQg?usp=sharing
+    
   * Manage vector databases and long term memory in flowwise, AI vector tools Review part 1
   
    https://youtu.be/d7nAcshOe4w?si=kArGQ_Ua8pFdvzFy
