@@ -648,7 +648,11 @@ specified merging technique within the system’s framework.
 
   https://huggingface.co/blog/mlabonne/frankenmoe
 
+* Merge LLMs with No Code Mergekit GUI
 
+  https://www.youtube.com/watch?v=TkKAmwO8oOY&ab_channel=AIAnytime
+
+  https://huggingface.co/spaces/arcee-ai/mergekit-gui
 
 
 # Transformers
@@ -2152,6 +2156,12 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
    https://github.com/sudarshan-koirala/youtube-stuffs
 
 
+* Build a RAG Based LLM App in 20 Minutes! | Full Langflow Tutorial
+
+  https://www.youtube.com/watch?v=rz40ukZ3krQ&ab_channel=TechWithTim
+
+  https://github.com/techwithtim/Langflow-RAG-Tutorial
+
 * How to Improve LLMs with RAG (Overview + Python Code)
 
  https://www.youtube.com/watch?v=Ylz779Op9Pw&ab_channel=ShawTalebi
@@ -3367,12 +3377,18 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
  * Quantize any LLM with GGUF and Llama.cpp, https://www.youtube.com/watch?v=wxQgGK5K0rE&ab_channel=AIAnytime
 
 
-  * Quanto: a pytorch quantization toolkit
+ * Quanto: a pytorch quantization toolkit
     https://huggingface.co/blog/quanto-introduction
 
     https://github.com/huggingface/quanto
 
-    
+
+ * Quantize LLMs with AWQ: Faster and Smaller Llama 3
+
+   https://www.youtube.com/watch?v=OMkyocVyEpQ&ab_channel=AIAnytime
+
+   https://github.com/AIAnytime/Quantize-LLM-using-AWQ
+   
   
  * **Half Quadratic Quantization (HQQ)**
    
@@ -3442,6 +3458,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   A video deep dive on model quantization: [part 1](https://youtu.be/kw7S-3s50uk), [part 2](https://youtu.be/fXBBwCIA0Ds)
 
+
+ 
   
 
 **Sharding**
@@ -3503,6 +3521,16 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
 
 # LLM Apps
+
+  
+  
+  * Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/3ceaeb2d-32f4-4671-b2a9-2bfeb103474c)
+
+    https://www.youtube.com/watch?v=sVcwVQRHIc8&ab_channel=freeCodeCamp.org
+
+    https://github.com/langchain-ai/rag-from-scratch
 
   * LLM Chat App in Python w/ Ollama-py and Streamlit, https://www.youtube.com/watch?v=ZHZKPmzlBUY&ab_channel=Decoder
 
@@ -3818,7 +3846,12 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
    Sequential Colab: https://colab.research.google.com/drive/1npc4TpcqC_LxKaU8Nv9HQUvtn02QG7pv?usp=sharing
 
    Hierarchical Colab: https://colab.research.google.com/drive/1hn6XJwnGUJHlkHAYzrtys2-i7Eo3Tq3j?usp=sharing
-  
+
+ * How to Create an Interactive Web UI for CrewAI Applications By Panel
+
+   https://www.youtube.com/watch?v=pODI1SWTVeo&ab_channel=YeyuLab
+   
+   https://github.com/yeyu2/Youtube_demos
 
  * Build an LLM powered chrome extension, https://youtu.be/9RKXffJsJhs?si=Ly_ocxdSttphdhKk
 
