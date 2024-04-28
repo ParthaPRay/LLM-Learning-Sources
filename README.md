@@ -1030,6 +1030,12 @@ The idea is to build visual tokens by breaking down the image into patches of pi
   https://www.youtube.com/watch?v=bXf2Cxf3Wk0&ab_channel=MattWilliams
 
 
+* Chat with multiple PDFs, using Ollama and LlamaIndex
+  
+  https://github.com/datvodinh/rag-chatbot
+
+ https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
+
 
 
 # Fine Tuning
