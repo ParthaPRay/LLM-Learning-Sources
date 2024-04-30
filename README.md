@@ -4705,8 +4705,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **LLmware** https://www.youtube.com/@llmware
 
 * **AI Papers Academy**  https://www.youtube.com/@aipapersacademy
-* **Predibase**
-  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+* **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
   
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 * **Underfitted**, https://www.youtube.com/@underfitted
@@ -4714,6 +4713,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 * **Super Lazy Coder**, https://www.youtube.com/@superlazycoder1984/
 
+* **DataMListic**, https://www.youtube.com/@datamlistic/videos
 
 
 
