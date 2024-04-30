@@ -1135,6 +1135,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
   *  To Fine Tune or not Fine Tune? That is the question, https://www.youtube.com/watch?v=XPU8PH0_d6g&ab_channel=SethJuarez
 
+  * Get your own custom Phi-3-mini for your use cases, https://www.youtube.com/watch?v=U5jU4YJodJo&ab_channel=PromptEngineering
+
+     https://colab.research.google.com/drive/1zral6IXIwSd3nQGQSE_5WM_4RyqLFKYA?usp=sharing
 
   * Fine-tune TinyLlama 1.1B locally on own custom dataset, https://youtu.be/VoDHpnCN6PA?si=Aq7soXO6k83mJJVs
     
@@ -1148,6 +1151,10 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     
   * LLAMA-2 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=LslC2nKEEGU&t=2s&ab_channel=PromptEngineering
  
+  * LLAMA-3 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=aQmoog_s8HE&t=0s&ab_channel=PromptEngineering
+
+    https://colab.research.google.com/drive/1mPw6P52cERr93w3CMBiJjocdTnyPiKTX#scrollTo=6bZsfBuZDeCL
+  
   * The EASIEST way to finetune LLAMA-v2 on local machine!, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
     
   * Stable Diffusion XL (SDXL) DreamBooth: Easy, Fast & Free | Beginner Friendly, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
