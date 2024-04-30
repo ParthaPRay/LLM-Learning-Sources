@@ -459,6 +459,15 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
    https://www.youtube.com/watch?v=jZQZMMqAJXs&ab_channel=llmware 
 
+
+* Overcoming Hallucinations with the Trustworthy Language Model
+
+  https://cleanlab.ai/blog/trustworthy-language-model/
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/61d46e84-dcb6-4132-97a3-dd364f0e3b95)
+
+
+
 * **Gorilla**
   
 Gorilla is a LLM that can provide appropriate API calls. It is trained on three massive machine learning hub datasets: Torch Hub, TensorFlow Hub and HuggingFace. We are rapidly adding new domains, including Kubernetes, GCP, AWS, OpenAPI, and more. Zero-shot Gorilla outperforms GPT-4, Chat-GPT and Claude. 
