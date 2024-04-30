@@ -1794,7 +1794,10 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
 
-    
+  * "I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3, LlamaParse, Firecrawl, Corrective RAG agent
+
+      https://www.youtube.com/watch?v=u5Vcrwpzoz8&t=982s&ab_channel=AIJason
+  
   * User-Selected metadata in RAG Applications with Qdrant, https://www.youtube.com/watch?v=qcn7YAJfCeE&ab_channel=LearnDatawithMark
   
   * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
