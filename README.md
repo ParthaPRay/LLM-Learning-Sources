@@ -3693,6 +3693,12 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     https://github.com/yeyu2/Youtube_demos
 
 
+  * Build a Full Stack AI Web App: AI Website Reviewer With Python, Django, Voiceflow, JS & Tailwind
+    
+    https://www.youtube.com/watch?v=tN9iVDppx2A&ab_channel=CodeWithTomi
+
+    https://github.com/tomitokko/ai-portfolio-reviewer
+    
   * Create Full Function UI for AutoGen Powered by Panel (Human Input Enabled)
 
     https://www.youtube.com/watch?v=9lSaRP9GLCY
