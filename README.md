@@ -580,8 +580,9 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
 
           https://huggingface.co/blog/alirezamsh/leeroo-multi-model-system
 
-          
-
+       * Mergoo: Efficiently Build Your Own MoE LLM         
+         
+         https://huggingface.co/blog/alirezamsh/mergoo
 
 
 * How to play a Chess Game ChatGPT and Llama 2
@@ -670,6 +671,15 @@ specified merging technique within the system’s framework.
   https://www.youtube.com/watch?v=TkKAmwO8oOY&ab_channel=AIAnytime
 
   https://huggingface.co/spaces/arcee-ai/mergekit-gui
+
+* Token Merging for fast LLM inference : Background and first trials with Mistral
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/0d270244-fb32-4c67-a7e7-aaae567cf1a3)
+
+  https://huggingface.co/blog/samchain/token-merging-fast-inference
+
+
+
 
 
 # Transformers
