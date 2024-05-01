@@ -1804,7 +1804,10 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
   * "I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3, LlamaParse, Firecrawl, Corrective RAG agent
 
       https://www.youtube.com/watch?v=u5Vcrwpzoz8&t=982s&ab_channel=AIJason
-  
+
+  * Meta Llama 3 Fine tuning, RAG, and Prompt Engineering for Drug Discovery
+    https://www.youtube.com/watch?v=CS1O2ZCHsbY&ab_channel=ChemicalQDevice
+    
   * User-Selected metadata in RAG Applications with Qdrant, https://www.youtube.com/watch?v=qcn7YAJfCeE&ab_channel=LearnDatawithMark
   
   * Ollama Python Library Released! How to implement Ollama RAG? https://www.youtube.com/watch?v=4HfSfFvLn9Q&ab_channel=MervinPraison
@@ -2121,6 +2124,12 @@ https://youtu.be/VEvFPRlCcvI?si=rz_TMnuNrQuncusa
 
   https://github.com/run-llama/llama_index/blob/main/docs/examples/multi_modal/multi_modal_video_RAG.ipynb
 
+
+* Llama3 local RAG | Step by step chat with websites and PDFs
+
+   https://www.youtube.com/watch?v=-8NVHaKKNkM&ab_channel=Phidata
+
+  https://github.com/phidatahq/phidata/tree/main/cookbook/llms/ollama/rag
 
 * Introducing LlamaCloud and LlamaParse for production-grade context-augmentation to LLM and RAG applications
 
