@@ -1097,7 +1097,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     https://huggingface.co/learn/cookbook/prompt_tuning_peft
 
     https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/prompt_tuning_peft.ipynb
- 
+
+  * Very Few Parameter Fine tuning with ReFT and LoRA
+    https://www.youtube.com/watch?v=TIUkONyNAb4&ab_channel=TrelisResearch
+
+    https://github.com/stanfordnlp/pyreft
 
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
  
@@ -3870,7 +3874,10 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  * Visual Question Answering with Google Deplot #huggingface
 
    https://www.youtube.com/watch?v=n_h_XWM2vzg&ab_channel=SuperLazyCoder
+* Google’s Med-Gemini Multimodal LLM: The Best Medical AI Model
+  https://www.youtube.com/watch?v=GA5i5M_Bh50&ab_channel=AIAnytime
 
+  https://arxiv.org/pdf/2404.18416
    
  * CrewAI agents for stock analysis (works with local Ollama LLMs),
  https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
