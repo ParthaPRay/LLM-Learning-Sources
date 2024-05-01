@@ -915,6 +915,12 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
 # LLM Leaderboards
 
+There are two types of leaderboards for all competitions: 
+
+  - Public Leaderboard: This leaderboard is calculated on X% of the test dataset, and is what you see on the competition page all the time. The value of X will be mentioned in the problem statement by the organizers.
+
+  - Private Leaderboard: This leaderboard is calculated on the remaining (100-X)% of the test dataset, and is made public only after the competition is over. Your final ranking is based on the private leaderboard.
+
 *  Leaderboard Explorer, https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer
   
 *  Leaderboard on Huggingface, https://huggingface.co/spaces?sort=trending&search=leaderboard
