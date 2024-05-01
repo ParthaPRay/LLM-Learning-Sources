@@ -368,6 +368,14 @@ Why is that called a diffusion model? What does that have to do with the diffusi
 Those diffusion models are generative models as data is generated using a Gaussian prior, and they are the core of the text-to-image generative models such as Stable Diffusion, DALL-E 2, and MidJourney.
 
 
+* How To Train an LLM With Diffusion From Scratch
+
+  https://www.youtube.com/watch?v=jMizUI8Ki1I&ab_channel=Oxen
+
+  https://www.oxen.ai/blog/arxiv-dives-text-diffusion-with-sedd
+
+  https://arxiv.org/abs/2310.16834
+
 * How to summarize texts with LLMs
   
  ![1692207869281](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/92c5ff75-e4fa-499f-a039-65dcb5424fca)
