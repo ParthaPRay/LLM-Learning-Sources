@@ -428,6 +428,17 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
+* seemore: Implement a Vision Language Model from Scratch
+
+  https://huggingface.co/blog/AviSoori1x/seemore-vision-language-model
+
+  https://github.com/AviSoori1x/seemore
+
+
+* Vision Language Models Explained
+
+  https://huggingface.co/blog/vlms
+
 * 1-Bit LLM INSTALLATION| 7B LOCAL LLMs in 1-Bit + Test Demo
 
   https://www.youtube.com/watch?v=InMicVYVw-I&ab_channel=DataInsightEdge
@@ -542,7 +553,7 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
       
         * Depliy your AI Streamlit App, https://youtu.be/74c3KaAXPvk?si=mHuW18-fvW1sJswn
 
-        * makemore
+        * **makemore**
   
           It takes one text file as input, where each line is assumed to be one training thing, and generates more things like it. Under the hood, it is an autoregressive character-level language model, with a wide choice of models from bigrams all the way to a Transformer (exactly as seen in GPT). For example, we can feed it a database of names, and makemore will generate cool baby name ideas that all sound name-like, but are not already existing names. Or if we feed it a database of company names then we can generate new ideas for a name of a company. Or we can just feed it valid scrabble words and generate english-like babble.
 
@@ -898,6 +909,43 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1de709aa-584b-4a08-b8ea-d9c8d79e876e)
 
     Unit tests make up functional, performance, and responsibility tests, which in turn makes up a regression test
+
+
+
+
+# LLM Leaderboards
+
+*  Leaderboard Explorer, https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer
+  
+*  Leaderboard on Huggingface, https://huggingface.co/spaces?sort=trending&search=leaderboard
+  
+*  Open LLM Leaderboard, https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
+*  MTEB, https://huggingface.co/spaces/mteb/leaderboard
+
+* LMSys Chatbot Arena Leaderboard, https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
+* Open Medical-LLM Leaderboard, https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard
+
+* LiveCodeBench Leaderboard, https://huggingface.co/spaces/livecodebench/leaderboard
+
+* OpenVLM Leaderboard, https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+
+* Big Code Models Leaderboard, https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
+
+* Open ASR Leaderbaord, https://huggingface.co/spaces/hf-audio/open_asr_leaderboard
+  
+* LLM-Perf Leaderboard, https://huggingface.co/spaces/optimum/llm-perf-leaderboard
+
+* LLM Safety Leaderboard, https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard
+  
+* Hallucinations Leaderboard, https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard
+  
+* Powered-by-Intel LLM Leaderboard, https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard
+
+* Deep[ Reinforcement Learning leaderboard, https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard
+
+Many more...
 
 
 
@@ -2808,6 +2856,10 @@ https://colab.research.google.com/drive/1LdamGKR2oacrDk-kYwz_Wfc1-RBUdzcO?usp=sh
 
   https://www.confident-ai.com/blog/how-to-generate-synthetic-data-using-llms-part-1
 
+
+* 🦙⚗️ Using Llama3 and distilabel to build fine-tuning datasets
+
+  https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel
 
 * **Lavita's Collections Medical QA Datasets**
 
