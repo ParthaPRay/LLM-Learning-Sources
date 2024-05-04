@@ -1502,6 +1502,7 @@ https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sh
 
    https://huggingface.co/blog/fine-tune-w2v2-bert
 
+ 
  * Google Gemma Finetuning: how to teach a large language model?,
     https://youtu.be/RevZAM9taFk?si=QuNJAVrLdqs7SUgE
 
@@ -4200,7 +4201,12 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
 
   https://github.com/joey00072/ohara/tree/master/experiments/bitnet
   
+* Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints
 
+  https://huggingface.co/blog/asr-diarization
+
+
+  
 
 # Pipepline
 
