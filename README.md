@@ -950,6 +950,8 @@ There are two types of leaderboards for all competitions:
 * Powered-by-Intel LLM Leaderboard, https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard
 
 * Deep[ Reinforcement Learning leaderboard, https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard
+  
+* Artificial Analysis LLM Performance Leaderboard, https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
 
 Many more...
 
