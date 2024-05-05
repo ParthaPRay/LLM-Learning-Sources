@@ -1267,11 +1267,17 @@ Many more...
     
   * D2SLM (Doc to Dataset to Fine-Tune Small Language Model), https://www.youtube.com/watch?v=khIDeJwBf4k&ab_channel=AIMakerspace
     
-  * LLAMA-2 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=LslC2nKEEGU&t=2s&ab_channel=PromptEngineering
+  * LLAMA2 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=LslC2nKEEGU&t=2s&ab_channel=PromptEngineering
  
-  * LLAMA-3 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=aQmoog_s8HE&t=0s&ab_channel=PromptEngineering
+  * LLAMA3 🦙: EASIET WAY To FINE-TUNE ON YOUR DATA 🙌, https://www.youtube.com/watch?v=aQmoog_s8HE&t=0s&ab_channel=PromptEngineering
 
     https://colab.research.google.com/drive/1mPw6P52cERr93w3CMBiJjocdTnyPiKTX#scrollTo=6bZsfBuZDeCL
+
+  * Llama 3 Fine Tuning for Dummies
+
+    https://www.youtube.com/watch?v=3eq84KrdTWY&ab_channel=NodematicTutorials
+
+    https://github.com/nodematiclabs/llama-3-finetune-unsloth
   
   * The EASIEST way to finetune LLAMA-v2 on local machine!, https://www.youtube.com/watch?v=3fsn19OI_C8&ab_channel=AbhishekThakur
     
@@ -1410,6 +1416,8 @@ https://colab.research.google.com/drive/1NLmQqbiXc-dU9C0ulNsUuubB3vbhaJbi?usp=sh
 
  https://huggingface.co/docs/diffusers/v0.27.2/training/dreambooth
 
+
+
  
 * Track autotrain finetuning in real time with WANDB
 
@@ -1462,6 +1470,11 @@ https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sh
          LSTM Baseline for Sentiment Analysis): https://www.kaggle.com/code/lucamassaron/lstm-baseline-for-sentiment-analysis
 
 
+  * How to hack a LLM using PyReft (using your own data for Fine Tuning!)
+
+    https://www.youtube.com/watch?v=iy9Z4DyHxvE&ab_channel=NicholasRenotte
+
+    https://github.com/nicknochnack/PyReft
 
   * Phinetuning 2.0
 
@@ -5015,7 +5028,6 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **llmware** https://www.youtube.com/@llmware/videos
 * **DataInsightEdge** https://www.youtube.com/@DataInsightEdge01
-* **LLmware** https://www.youtube.com/@llmware
 
 * **AI Papers Academy**  https://www.youtube.com/@aipapersacademy
 * **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
