@@ -1105,6 +1105,17 @@ Many more...
   
   https://jasonchuang.substack.com/p/ollama-v0127-ai-benchmark
 
+* Design Your Own Ollama Model Now!
+
+  https://www.youtube.com/watch?v=bXf2Cxf3Wk0&t=55s&ab_channel=MattWilliams
+
+* Is Open Webui The Ultimate Ollama Frontend Choice?
+
+  https://www.youtube.com/watch?v=16fWf0VVeIo&ab_channel=MattWilliams
+  
+* Ask Ollama Many Questions at the SAME TIME! Concurrency
+
+  https://www.youtube.com/watch?v=MDbdb-W4x4w&ab_channel=MattWilliams
 
 * Building AI Apps in Python with Ollama
 
@@ -1127,6 +1138,13 @@ Many more...
   https://github.com/datvodinh/rag-chatbot
 
  https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
+
+
+
+
+
+
+
 
 
 
