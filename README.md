@@ -1220,7 +1220,12 @@ Many more...
     https://huggingface.co/spaces/hiyouga/LLaMA-Board
 
     https://colab.research.google.com/drive/1hNp9_ibG1qf7PT8NyW3TJiQ5I9IwXYOG?usp=sharing
-    
+
+ * LLAMA-3 🦙: The Best Open Source LLM - Easiest Finetuning For Custom Usecases with DPO.
+
+   https://www.youtube.com/watch?v=XFudZy11FJI&t=1s&ab_channel=WhisperingAI
+
+    https://arxiv.org/abs/2305.18290
     
   * Building Production-Ready RAG Applications: Jerry Liu, https://www.youtube.com/watch?v=TRjq7t2Ms5I&t=10s&ab_channel=AIEngineer
 
@@ -1326,7 +1331,6 @@ Many more...
 
  * Vision Language Models Explained and fine tuning
 
-
     Fine-tuning Vision Language Models with TRL: We are excited to announce that TRL’s SFTTrainer now includes experimental support for Vision Language Models! We provide an example here of how to perform SFT on a ]Llava 1.5 VLM](https://huggingface.co/llava-hf/llava-1.5-7b-hf) using the [llava-instruct](https://huggingface.co/datasets/HuggingFaceH4/llava-instruct-mix-vsft) dataset which contains 260k image-conversation pairs. The dataset contains user-assistant interactions formatted as a sequence of messages. For example, each conversation is paired with an image that the user asks questions about.
    
    https://huggingface.co/blog/vlms
@@ -1389,7 +1393,9 @@ https://colab.research.google.com/drive/1NLmQqbiXc-dU9C0ulNsUuubB3vbhaJbi?usp=sh
  https://huggingface.co/docs/diffusers/v0.27.2/training/dreambooth
 
  
+* Track autotrain finetuning in real time with WANDB
 
+  https://www.youtube.com/watch?v=NfY28WXlHOs&ab_channel=SuperLazyCoder
  
 * Assessing Health Data with ML and Becoming More Aware
   
@@ -1908,6 +1914,13 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
       https://www.youtube.com/watch?v=u5Vcrwpzoz8&t=982s&ab_channel=AIJason
 
+  * End-to-end Prototyping with Llama 3
+
+    https://www.youtube.com/watch?v=anIBtQNn1G0&ab_channel=AIMakerspace
+
+    https://colab.research.google.com/drive/1TX-N9E7lESNkxIrFEC6sn0rMMfYRCmKg#scrollTo=iRGG0QCNwT6J
+
+
   * Building corrective RAG from scratch with open source, local LLMs, https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
 
   * RAG from scratch, https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=BtJ6KCTMfqBzIGya
@@ -1999,9 +2012,7 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     
 
     
-  * CrewAI RAG: How I Created AI Assistants to Run My News Agency, https://www.youtube.com/watch?v=77xSbC-9yn4&ab_channel=MervinPraison
-
-    
+   
   * RAG Evaluation Using Synthetic data and LLM-As-A-Judge, https://github.com/huggingface/cookbook/tree/main/notebooks/en
     
   * Bert Score for Contextual Similarity for RAG Evaluation, https://youtube.com/watch?v=7AVjk2k8Mbs&ab_channel=AIAnytime
@@ -3946,13 +3957,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  
    https://youtu.be/D8PM89Xry7Q?si=N52WpnQn-CsUqHex
 
- * How to Implement a Simple UI for CrewAI applications
-
-   https://www.youtube.com/watch?v=gWrqfnTGtl8&ab_channel=YeyuLab
-
- * Build Anything with Llama 3 Agents CrewAI, Ollama
-
-  https://www.youtube.com/watch?v=i-txsBoTJtI&ab_channel=DavidOndrej
    
  * PhiData: How to Seamlessly Integrate AI into Your Application
 
@@ -3962,12 +3966,7 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/80c10a2b-66fd-4968-a2a5-a1374b22a057)
 
- * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
-
-    https://www.youtube.com/watch?v=o4-4NvrcOvs&ab_channel=AIFORDEVS 
-
-    https://github.com/joaomdmoura/crewAI
-    
+ 
   * Create Complex Research Analysis with AI Agents using SLIM models on CPU with LLMWare
 
     https://www.youtube.com/watch?v=y4WvwHqRR60&ab_channel=llmware
@@ -4000,26 +3999,13 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  * Visual Question Answering with Google Deplot #huggingface
 
    https://www.youtube.com/watch?v=n_h_XWM2vzg&ab_channel=SuperLazyCoder
-* Google’s Med-Gemini Multimodal LLM: The Best Medical AI Model
+ * Google’s Med-Gemini Multimodal LLM: The Best Medical AI Model
   https://www.youtube.com/watch?v=GA5i5M_Bh50&ab_channel=AIAnytime
 
   https://arxiv.org/pdf/2404.18416
    
- * CrewAI agents for stock analysis (works with local Ollama LLMs),
- https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
 
- * CrewAI + Claude 3 Haiku, https://www.youtube.com/watch?v=K0mb-pXdqsI&ab_channel=SamWitteveen
-
-   Sequential Colab: https://colab.research.google.com/drive/1npc4TpcqC_LxKaU8Nv9HQUvtn02QG7pv?usp=sharing
-
-   Hierarchical Colab: https://colab.research.google.com/drive/1hn6XJwnGUJHlkHAYzrtys2-i7Eo3Tq3j?usp=sharing
-
- * How to Create an Interactive Web UI for CrewAI Applications By Panel
-
-   https://www.youtube.com/watch?v=pODI1SWTVeo&ab_channel=YeyuLab
    
-   https://github.com/yeyu2/Youtube_demos
-
  * Build an LLM powered chrome extension, https://youtu.be/9RKXffJsJhs?si=Ly_ocxdSttphdhKk
 
   * LangGraph and OpenGPTs: building agent forward applications with Langchain
@@ -4037,10 +4023,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
  
   
-* I Created AI Assistants to Automate Recruitment Process: Crew AI
-
-   https://www.youtube.com/watch?v=OQJ4gp70Zg0&ab_channel=MervinPraison
-
 * Building Production-Grade LLM Apps
 
   https://www.youtube.com/watch?v=fo0F-DAum7E&ab_channel=DeepLearningAI
@@ -4113,11 +4095,6 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   https://www.youtube.com/watch?v=K6w3vU2_i3U&ab_channel=SkillCurb
 
 
- * I built a AI Investment Property Bot in 15 Minutes (to automate deals)
-
-   https://www.youtube.com/watch?v=2IGbkWm0cNo&ab_channel=NicholasRenotte
-
-   https://github.com/nicknochnack/CrewAIPropertyBot
 
 
 # LPU
@@ -4327,6 +4304,173 @@ https://lnkd.in/giQrUzfq
     https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain
 
 
+
+
+
+# Agents
+
+
+ * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
+
+    https://www.youtube.com/watch?v=o4-4NvrcOvs&ab_channel=AIFORDEVS 
+
+    https://github.com/joaomdmoura/crewAI
+
+ * How to Implement a Simple UI for CrewAI applications
+
+   https://www.youtube.com/watch?v=gWrqfnTGtl8&ab_channel=YeyuLab
+
+ * Build Anything with Llama 3 Agents CrewAI, Ollama
+
+  https://www.youtube.com/watch?v=i-txsBoTJtI&ab_channel=DavidOndrej
+
+  * CrewAI RAG: How I Created AI Assistants to Run My News Agency, https://www.youtube.com/watch?v=77xSbC-9yn4&ab_channel=MervinPraison
+
+ * I built a AI Investment Property Bot in 15 Minutes (to automate deals)
+
+   https://www.youtube.com/watch?v=2IGbkWm0cNo&ab_channel=NicholasRenotte
+
+   https://github.com/nicknochnack/CrewAIPropertyBot
+
+
+
+* I Created AI Assistants to Automate Recruitment Process: Crew AI
+
+   https://www.youtube.com/watch?v=OQJ4gp70Zg0&ab_channel=MervinPraison
+
+ * CrewAI agents for stock analysis (works with local Ollama LLMs),
+ https://youtu.be/U_Sg3Odf1vk?si=gzDboL0gLYTPn7Q6
+
+ * CrewAI + Claude 3 Haiku, https://www.youtube.com/watch?v=K0mb-pXdqsI&ab_channel=SamWitteveen
+
+   Sequential Colab: https://colab.research.google.com/drive/1npc4TpcqC_LxKaU8Nv9HQUvtn02QG7pv?usp=sharing
+
+   Hierarchical Colab: https://colab.research.google.com/drive/1hn6XJwnGUJHlkHAYzrtys2-i7Eo3Tq3j?usp=sharing
+
+ * How to Create an Interactive Web UI for CrewAI Applications By Panel
+
+   https://www.youtube.com/watch?v=pODI1SWTVeo&ab_channel=YeyuLab
+   
+   https://github.com/yeyu2/Youtube_demos
+
+ * CrewAI - A Smartly Designed Multi-agent Framework for LLM App Development
+   https://www.youtube.com/watch?v=tKYr0fgkSPo&ab_channel=YeyuLab
+
+   https://github.com/yeyu2/Youtube_demos
+   
+ * Creating an AI Agent with LangGraph Llama 3 & Groq
+
+   https://www.youtube.com/watch?v=lvQ96Ssesfk&ab_channel=SamWitteveen
+
+   https://colab.research.google.com/drive/1WemHvycYcoNTDr33w7p2HL3FF72Nj88i?usp=sharing
+
+* Llama3 + CrewAI + Groq = Email AI Agent
+
+  https://www.youtube.com/watch?v=1D4YoAUpjlg&ab_channel=SamWitteveen
+
+  https://colab.research.google.com/drive/1eT82D9g3bp1-uf4HDv_PPWaK2keZKS4K?usp=sharing
+
+  https://github.com/samwit/langchain-tutorials
+
+* How to Implement a Simple UI for CrewAI applications
+
+  https://www.youtube.com/watch?v=gWrqfnTGtl8&t=6s&ab_channel=YeyuLab
+  https://github.com/yeyu2/Youtube_demos
+
+* How to Create an Interactive Web UI for CrewAI Applications By Panel
+
+   https://www.youtube.com/watch?v=pODI1SWTVeo&ab_channel=YeyuLab
+
+  https://github.com/yeyu2/Youtube_demos
+
+
+* * CrewAI with Open LLM (Llama 3) using Groq API: AI Agents for Data Analysis with Custom Tools
+
+ https://www.youtube.com/watch?v=N5sos1X30Rw&ab_channel=VenelinValkov   
+   
+  https://github.com/curiousily/AI-Bootcamp
+
+
+
+
+* AutoGen + Custom Model + Gemma (or Any Model), Here is the Ultimate Solution
+  https://www.youtube.com/watch?v=H0h78EBzz0o&ab_channel=YeyuLab
+
+  https://github.com/yeyu2/Youtube_demos
+
+ * AutoGen + Ollama + Gemma: How to Create LLM Agents Locally
+
+    https://www.youtube.com/watch?v=bkBOuBxsxeM&t=1s&ab_channel=YeyuLab
+
+   https://github.com/yeyu2/Youtube_demos
+
+ * Is Gemma Capable of Building Multi-agent Applications in AutoGen?
+
+    https://www.youtube.com/watch?v=L7ABsqsPN_A&ab_channel=YeyuLab
+
+   https://github.com/yeyu2/Youtube_demos
+
+  * AutoGen + Function Calling + Open Source LLMs, Here is How
+
+   https://www.youtube.com/watch?v=UIBerUGqHjc&t=5s&ab_channel=YeyuLab
+
+   https://colab.research.google.com/drive/18p6j0R4fj9q7DnuiIIxEIGl_6fT4FkKV?usp=sharing
+
+  * AutoGen Technique - Use `Description` Field to Manage the Conversation Between Multiple Agents
+    https://www.youtube.com/watch?v=2YACB_N2bI8&ab_channel=YeyuLab
+
+    https://github.com/yeyu2/Youtube_demos
+
+ * How to Use Open Source LLMs in AutoGen Powered by vLLM
+
+   https://www.youtube.com/watch?v=ds032PYcpgs&ab_channel=YeyuLab
+
+   https://levelup.gitconnected.com/adding-one-function-your-autogen-app-can-use-open-source-llms-locally-b1074639685f
+
+   Colab notebook for AutoGen w/ GPT-4  https://colab.research.google.com/drive/1nq20eu_T3vFklHIv8781zfnW2d3BgISZ?usp=sharing
+
+   Colab notebook for AutoGen w/ Phi-2 https://colab.research.google.com/drive/1xee3xdatViM4pespvLVVOrHJ8sB1MgO5?usp=sharing 
+
+ * AI Agents with GPT-4 Turbo and CrewAI | Cryptocurrency Market Report with News
+
+  https://www.youtube.com/watch?v=Ev0uzdzesjU&ab_channel=VenelinValkov
+
+  https://github.com/curiousily/AI-Bootcamp
+
+
+* AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
+
+  https://www.youtube.com/watch?v=98Ri4VVBP_8&t=432s&ab_channel=YeyuLab
+
+  https://github.com/yeyu2/Youtube_demos
+  
+ * How to Create a Web UI for AutoGen by Using Panel
+
+   https://www.youtube.com/watch?v=mFmPDyLlj1E&t=1s&ab_channel=YeyuLab
+
+   https://github.com/yeyu2/Youtube_demos
+
+   https://levelup.gitconnected.com/how-to-create-a-web-ui-for-autogen-132df43fb2ed
+
+
+
+
+
+
+* Building Agents: Copilot Streaming an Agentic Workflow w/ Fast Inference (Llama 3, Groq, LangGraph)
+
+  https://www.youtube.com/watch?v=YIdvcKHovjo&ab_channel=DeployingAI
+  
+  https://github.com/christianrice/ai-demos/tree/c5fe0f5bc11a622163a118d8630b58439eeb28e5/2024_05_01%20-%20Streaming%20Graph%20Nodes
+
+
+
+
+
+
+
+
+
 # Security and Threats
 
 * Navigating LLM Threats: Detecting Prompt Injections and Jailbreaks
@@ -4352,6 +4496,10 @@ https://lnkd.in/giQrUzfq
   https://www.youtube.com/watch?v=VABZSdFXtD4&ab_channel=FahdMirza
 
   https://huggingface.co/Contamination/contaminated_proof_7b_v1.0
+
+
+
+
 
 
 
