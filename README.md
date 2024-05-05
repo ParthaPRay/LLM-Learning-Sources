@@ -897,11 +897,11 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
    
   
-* LLM Evaluation Metrics: Everything You Need for LLM Evaluation, https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation
+ * LLM Evaluation Metrics: Everything You Need for LLM Evaluation, https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation
 
-* How to Evaluate LLM Applications: The Complete Guide, https://www.confident-ai.com/blog/how-to-evaluate-llm-applications
+ * How to Evaluate LLM Applications: The Complete Guide, https://www.confident-ai.com/blog/how-to-evaluate-llm-applications
   
-* A Step-By-Step Guide to Evaluating an LLM Text Summarization Task, https://www.confident-ai.com/blog/a-step-by-step-guide-to-evaluating-an-llm-text-summarization-task
+ * A Step-By-Step Guide to Evaluating an LLM Text Summarization Task, https://www.confident-ai.com/blog/a-step-by-step-guide-to-evaluating-an-llm-text-summarization-task
 
 
 * LLM Testing in 2024: Top Methods and Strategies, https://www.confident-ai.com/blog/llm-testing-in-2024-top-methods-and-strategies
@@ -909,6 +909,15 @@ The idea is to build visual tokens by breaking down the image into patches of pi
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1de709aa-584b-4a08-b8ea-d9c8d79e876e)
 
     Unit tests make up functional, performance, and responsibility tests, which in turn makes up a regression test
+
+* Evaluate LLMs with Prometheus LLM and Prometheus-Eval Locally
+
+   https://www.youtube.com/watch?v=YJ_jDZPj4V4&ab_channel=FahdMirza
+
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/abf8dbb8-debe-4df9-9d75-282f3721447f)
+
+   https://github.com/prometheus-eval/prometheus-eval
+
 
 
 
@@ -1204,6 +1213,14 @@ Many more...
     
     https://uclaml.github.io/SPIN/
 
+  * Fastest finetuning of Phi3 with LlaMa-Factory in 15 mins
+
+    https://www.youtube.com/watch?v=gcZ1EBNNi3E&ab_channel=SuperLazyCoder
+
+    https://huggingface.co/spaces/hiyouga/LLaMA-Board
+
+    https://colab.research.google.com/drive/1hNp9_ibG1qf7PT8NyW3TJiQ5I9IwXYOG?usp=sharing
+    
     
   * Building Production-Ready RAG Applications: Jerry Liu, https://www.youtube.com/watch?v=TRjq7t2Ms5I&t=10s&ab_channel=AIEngineer
 
@@ -1860,6 +1877,13 @@ Once the information is parsed, we can store it in a graph database. The informa
 
 I wonder if there is a possibility to merge the advantages of vector and graph databases. We could parse the entities and relationships, but we index them by their vector representations in a graph database. This way, the information retrieval could be performed using approximate nearest neighbor search instead of exact matching. Does that exist already?
 
+
+ * Semantic Chunking for RAG
+
+  https://www.youtube.com/watch?v=TcRRfcbsApw&ab_channel=JamesBriggs
+
+  https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
+
  * **SUPERHUMAN RAG**
 
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/93a634d9-40cb-4a6b-9100-3b54c2e98333)
@@ -1884,6 +1908,16 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
       https://www.youtube.com/watch?v=u5Vcrwpzoz8&t=982s&ab_channel=AIJason
 
+  * Building corrective RAG from scratch with open source, local LLMs, https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
+
+  * RAG from scratch, https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=BtJ6KCTMfqBzIGya
+
+ * Production RAG Must-have: Corrective RAG (CRAG)
+
+   https://www.youtube.com/watch?v=Har-Pzwx_8I&ab_channel=TwoSetAI
+
+   https://arxiv.org/pdf/2401.15884
+
   * Meta Llama 3 Fine tuning, RAG, and Prompt Engineering for Drug Discovery
     https://www.youtube.com/watch?v=CS1O2ZCHsbY&ab_channel=ChemicalQDevice
     
@@ -1903,7 +1937,17 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://github.com/svpino/youtube-rag
  
+* Adding RAG to LangGraph Agents
 
+  https://www.youtube.com/watch?v=WyIWaopiUEo&ab_channel=SamWitteveen
+
+  https://colab.research.google.com/drive/1TSke71zmtkmwv83JOmaplNWXDisf8jHG?usp=sharing
+
+ * Build an End-to-End RAG API with AWS Bedrock & Azure OpenAI
+
+   https://www.youtube.com/watch?v=r6AeD-CH1Uw&ab_channel=AIAnytime
+
+   https://github.com/AIAnytime/RAG-using-AWS-Bedrock-and-Azure-OpenAI
  
   * Building a RAG application from scratch using Python, LangChain, and the OpenAI API, https://www.youtube.com/watch?v=BrsocJb-fAo&ab_channel=Underfitted
 
@@ -1953,10 +1997,7 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   * Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking, https://www.youtube.com/watch?v=BvnOln6YZ_8&ab_channel=SethJuarez
     
-  * Building corrective RAG from scratch with open source, local LLMs, https://youtu.be/E2shqsYwxck?si=LEeA5KXOQ6idzDd2
 
-  * RAG from scratch, https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=BtJ6KCTMfqBzIGya
- 
     
   * CrewAI RAG: How I Created AI Assistants to Run My News Agency, https://www.youtube.com/watch?v=77xSbC-9yn4&ab_channel=MervinPraison
 
