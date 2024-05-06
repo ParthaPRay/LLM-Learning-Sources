@@ -514,6 +514,11 @@ https://colab.research.google.com/drive/1DEBPsccVLF_aUnmD0FwPeHFrtdC0QIUP?usp=sh
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/5f5b99f4-e863-4f00-896a-243e8344cf07)
 
 
+* **Multimodal LLMs**
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/0df5352f-1e5d-4fe2-9a75-a16e50136944)
+
+  https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 
 
 
