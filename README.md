@@ -3832,12 +3832,11 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     
   * Your LLM Powered Financial Analyst, https://www.youtube.com/watch?v=JeruKKuMxCg&ab_channel=PromptEngineering
  
+  * How I built the FASTEST Multiple CSV Chat App using LLAMA3+GROQ+PANDASAI
 
-  * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
+    https://www.youtube.com/watch?v=FiCsuN7aPF8&ab_channel=DataInsightEdge
 
-    https://www.youtube.com/watch?v=98Ri4VVBP_8&t=431s
-
-     https://github.com/yeyu2/Youtube_demos
+    https://github.com/InsightEdge01/GroqMultiCSVChatPandasAI
 
 
   * How to Create a Web UI for AutoGen by Using Panel
@@ -4484,7 +4483,11 @@ https://lnkd.in/giQrUzfq
    https://levelup.gitconnected.com/how-to-create-a-web-ui-for-autogen-132df43fb2ed
 
 
+ * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
 
+    https://www.youtube.com/watch?v=98Ri4VVBP_8&t=431s
+
+     https://github.com/yeyu2/Youtube_demos
 
 
 
