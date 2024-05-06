@@ -4943,7 +4943,11 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
   
 
+* Simplify Model AI Model Training With AutoGluon
 
+  https://www.youtube.com/watch?v=H90z30dO6hM&ab_channel=FahdMirza
+
+  https://auto.gluon.ai/stable/api/autogluon.tabular.TabularPredictor.html
 
 
 
@@ -4952,10 +4956,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
    * All metrics on the Hugging Face Hub
   
-  https://huggingface.co/metrics
+     https://huggingface.co/metrics
   
-
-   * MTEB 
 
 
 
