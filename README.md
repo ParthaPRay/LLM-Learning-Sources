@@ -4125,6 +4125,13 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   https://www.youtube.com/watch?v=K6w3vU2_i3U&ab_channel=SkillCurb
 
 
+* Voice to Text Transcription with CPU-Friendly AI (Whisper CPP)
+
+  https://www.youtube.com/watch?v=YG5u5AOU9MQ&ab_channel=llmware
+
+  https://github.com/llmware-ai/llmware
+
+
 
 
 # LPU
