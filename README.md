@@ -5007,7 +5007,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **AssemblyAI** https://www.youtube.com/@AssemblyAI     ****************
 * **Venelin Valkov** https://www.youtube.com/@venelin_valkov  ****************
 * **Trelus Research** https://youtube.com/@TrelisResearch?si=We9ORBTjY3teMpq4  ****************
-* **Ricardo Calix**, https://www.youtube.com/@ricardocalix188  ****************
+
 * **Connor Shorten** https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy ****************
 * **Julien Simon** https://www.youtube.com/@juliensimonfr    ****************
 * **Matthew Berman** https://www.youtube.com/@matthew_berman  ****************
@@ -5074,8 +5074,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 * **DataMListic**, https://www.youtube.com/@datamlistic/videos
 
-* **Stanford Online**, https://www.youtube.com/@stanfordonline/videos
-
+* **Stanford Online**, https://www.youtube.com/@stanfordonline/videos   **********
+* **Ricardo Calix**, https://www.youtube.com/@ricardocalix188  ****************
 
 
 # Prompt Engineeing
