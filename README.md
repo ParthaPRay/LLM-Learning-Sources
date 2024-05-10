@@ -5074,6 +5074,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 * **DataMListic**, https://www.youtube.com/@datamlistic/videos
 
+* **Stanford Online**, https://www.youtube.com/@stanfordonline/videos
+
 
 
 # Prompt Engineeing
