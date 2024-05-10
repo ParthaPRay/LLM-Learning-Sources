@@ -5020,6 +5020,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
   
 * **Prompt Engineering** https://www.youtube.com/@engineerprompt
 
+* **Umar Jamil** https://www.youtube.com/@umarjamilai/videos   ***********
+
 * **WorldofAI** https://www.youtube.com/@intheworldofai
 
 * **AlejzndroAO Software and AI**, https://youtube.com/@alejandro_ao?si=1TRHMqnIpQGUjJG6
@@ -5035,8 +5037,6 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Sebastian Raschka** https://www.youtube.com/@SebastianRaschka
   
 * **Jeremy Howard** https://www.youtube.com/@howardjeremyp
-
-* **Umar Jamil** https://www.youtube.com/@umarjamilai/videos
 
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
 * **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
