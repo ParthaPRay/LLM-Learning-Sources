@@ -4143,6 +4143,11 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
 
   https://github.com/llmware-ai/llmware
 
+* Voice Transcription with CPU Friendly AI Models Example (Greatest Speeches of 20th Century)
+
+   https://www.youtube.com/watch?v=5y0ez5ZBpPE&ab_channel=llmware
+
+  https://github.com/llmware-ai/llmware
 
 
 
@@ -4356,7 +4361,7 @@ https://lnkd.in/giQrUzfq
 
 
 
-# Agents
+# LLM Agents
 
 
  * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
@@ -4517,6 +4522,9 @@ https://lnkd.in/giQrUzfq
   https://github.com/christianrice/ai-demos/tree/c5fe0f5bc11a622163a118d8630b58439eeb28e5/2024_05_01%20-%20Streaming%20Graph%20Nodes
 
 
+* Create AI Chatbot from Tabular Data using VectorShift AI Agent
+
+  https://www.youtube.com/watch?v=gFn2tINuKIU&ab_channel=MervinPraison
 
 
 
