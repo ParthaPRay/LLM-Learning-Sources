@@ -427,6 +427,8 @@ How simple is that? Because the model was not trained for that position embeddin
 You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to extend LLama's context window by 16 times while keeping the performance at the same level!
 
 
+* Aligning Open Language Models, https://docs.google.com/presentation/d/1quMyI4BAx4rvcDfk8jjv063bmHg4RxZd9mhQloXpMn0/edit#slide=id.g2ca00c5c0f9_0_0
+  https://www.youtube.com/watch?v=AdLgPmcrXwQ&ab_channel=StanfordOnline
 
 * seemore: Implement a Vision Language Model from Scratch
 
