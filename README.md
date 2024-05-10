@@ -3759,7 +3759,14 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  * How to Build a RAG Application for Multi-Speaker Audio Data AssemblyAI, 
   https://www.youtube.com/watch?v=Rh9Jl0hJSws&ab_channel=AssemblyAI
 
-  
+  * Extract Table Info From PDF & Summarise It Using Llama3 via Ollama | LangChain, https://www.youtube.com/watch?v=hQu8WN8NuVg&ab_channel=DataScienceBasics
+
+    https://github.com/sudarshan-koirala/youtube-stuffs
+
+  * Extract Image & Image Info From PDF & Use LlaVa via Ollama To Explain Image | LangChain, https://www.youtube.com/watch?v=Ad-87wzJouk&ab_channel=DataScienceBasics
+
+    https://github.com/sudarshan-koirala/youtube-stuffs
+
   * Deploy RAG App built using Create Llama on Vercel: Free and Easy Method, https://www.youtube.com/watch?v=euYa4iesOm8&ab_channel=AIAnytime
     
   * Create a LlamaIndex App with Create Llama: No Code tool for RAG, https://www.youtube.com/watch?v=JkGU3d8IM1c&ab_channel=AIAnytime
