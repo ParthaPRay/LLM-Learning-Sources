@@ -1317,7 +1317,8 @@ Many more...
 
     https://docs.llamaindex.ai/en/stable/optimizing/fine-tuning/fine-tuning.html
     
-  * Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab instance!
+  * Fine tuning Google Colab notebook - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune _GPT-neo-X 20B_ on a Google Colab 
+    instance!
 
      https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing
      
@@ -1362,7 +1363,8 @@ Many more...
 
  * Vision Language Models Explained and fine tuning
 
-    Fine-tuning Vision Language Models with TRL: We are excited to announce that TRL’s SFTTrainer now includes experimental support for Vision Language Models! We provide an example here of how to perform SFT on a ]Llava 1.5 VLM](https://huggingface.co/llava-hf/llava-1.5-7b-hf) using the [llava-instruct](https://huggingface.co/datasets/HuggingFaceH4/llava-instruct-mix-vsft) dataset which contains 260k image-conversation pairs. The dataset contains user-assistant interactions formatted as a sequence of messages. For example, each conversation is paired with an image that the user asks questions about.
+    Fine-tuning Vision Language Models with TRL: We are excited to announce that TRL’s SFTTrainer now includes experimental support for Vision Language Models! We provide an example here of how to perform SFT on a ]Llava 1.5 
+  VLM](https://huggingface.co/llava-hf/llava-1.5-7b-hf) using the [llava-instruct](https://huggingface.co/datasets/HuggingFaceH4/llava-instruct-mix-vsft) dataset which contains 260k image-conversation pairs. The dataset contains user-assistant interactions formatted as a sequence of messages. For example, each conversation is paired with an image that the user asks questions about.
    
    https://huggingface.co/blog/vlms
  
@@ -1374,6 +1376,11 @@ Many more...
 
   https://www.youtube.com/watch?v=b6Pzgj9EQv8&ab_channel=FahdMirza
 
+* Fine-tune Idefics2 Multimodal LLM
+  https://www.youtube.com/watch?v=4MzCpZLEQJs&ab_channel=DLExplorers
+
+  https://colab.research.google.com/drive/1NtcTgRbSBKN7pYD3Vdx1j9m8pt3fhFDB?usp=sharing#scrollTo=LA2wmpbqKyiw
+  
 * ReFT: Reasoning with Reinforced Fine-Tuning
   
   Aligning LLMs: ReFT
