@@ -1146,7 +1146,17 @@ Many more...
 
  https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
 
+* Ollama can run LLMs in parallel! (Concurrent) 0.1.33 version
 
+  https://www.youtube.com/watch?v=Cd6f86zsAyg&ab_channel=LearnDatawithMark
+
+  https://github.com/mneedham/LearnDataWithMark/blob/main/ollama-parallel/app.py
+
+  https://www.markhneedham.com/blog/2024/05/11/side-by-side-local-llms-ollama-streamlit/
+
+*  Run multiple instances of Ollama in Parallel (Concurrent) 0.1.33 version
+
+  https://www.youtube.com/watch?v=8r_8CZqt5yk&ab_channel=PromptEngineer
 
 
 
