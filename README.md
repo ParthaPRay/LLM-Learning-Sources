@@ -489,7 +489,7 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
-* **Gorilla**
+* Gorilla
   
 Gorilla is a LLM that can provide appropriate API calls. It is trained on three massive machine learning hub datasets: Torch Hub, TensorFlow Hub and HuggingFace. We are rapidly adding new domains, including Kubernetes, GCP, AWS, OpenAPI, and more. Zero-shot Gorilla outperforms GPT-4, Chat-GPT and Claude. 
 
@@ -695,6 +695,35 @@ specified merging technique within the system’s framework.
    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/0d270244-fb32-4c67-a7e7-aaae567cf1a3)
 
   https://huggingface.co/blog/samchain/token-merging-fast-inference
+
+
+
+
+# LLM Operating System
+
+* Intro to Large Language Models by Andrej Karpathy
+
+   https://twitter.com/karpathy/status/1723140519554105733?lang=en
+  
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/f193606c-b914-471a-af70-350a5fffc842)
+
+   https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy  @ 42:
+   
+* AIOS: LLM Agent Operating System
+
+  AIOS embeds large language model into Operating Systems (OS) as the brain of the OS, enabling an operating system "with soul" -- an important step towards AGI. AIOS is designed to optimize resource allocation, facilitate context switch across agents, enable concurrent execution of agents, provide tool service for agents, maintain access control for agents, and provide a rich set of toolkits for LLM Agent developers.
+  
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/c08ce4ec-983f-440c-9625-dac3669e8008)
+
+  https://github.com/agiresearch/AIOS
+
+* Build the LLM OS | Autonomous LLMs as the new Operating System,  https://www.youtube.com/watch?v=YMZm7LdGQp8&ab_channel=Phidata
+
+    ![Untitled1](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/7dd7a398-b5e6-49e5-90bd-72172b2b1f88)
+
+  https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os
+
+
 
 
 
