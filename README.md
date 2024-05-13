@@ -730,6 +730,17 @@ specified merging technique within the system’s framework.
     - Part 3 : Implementation and technology of LLM OS, https://medium.com/@protegeigdtuw/part3-implementation-and-technology-of-llm-os-a3d296a2ab73
     - Part 4 : Use cases and User experiences -LLM OS, https://medium.com/@protegeigdtuw/part-4-use-cases-and-user-experiences-llm-os-71f6d0763773
 
+ * Illustrated LLM OS: An Implementational Perspective,  https://huggingface.co/blog/shivance/illustrated-llm-os
+
+ * LLM agent operating system (AIOS) and the future of LLM-powered agents, https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34
+ 
+ * MemGPT: Towards LLMs as Operating Systems, https://arxiv.org/abs/2310.08560
+
+   https://github.com/cpacker/MemGPT
+
+
+
+
 
 
 
