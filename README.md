@@ -699,7 +699,7 @@ specified merging technique within the system’s framework.
 
 
 
-# LLM Operating System
+# LLM OS
 
 * Intro to Large Language Models by Andrej Karpathy
 
@@ -737,6 +737,9 @@ specified merging technique within the system’s framework.
     ![Untitled1](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/7dd7a398-b5e6-49e5-90bd-72172b2b1f88)
 
   https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os
+
+* LLM OS with gpt-4o, https://www.youtube.com/watch?v=6g2KLvwHZlU&ab_channel=Phidata
+
 
  * LLM OS Blogs
 
