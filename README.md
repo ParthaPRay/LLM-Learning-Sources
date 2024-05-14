@@ -722,11 +722,13 @@ specified merging technique within the system’s framework.
 
  * MemGPT: Towards LLMs as Operating Systems, https://arxiv.org/abs/2310.08560
 
+   Create LLM agents with long-term memory and custom tools.
+   
    https://github.com/cpacker/MemGPT
 
 
  * TinyChatEngine
-
+   TinyChatEngine: On-Device LLM Inference Library
    https://github.com/mit-han-lab/TinyChatEngine
 
 
