@@ -719,6 +719,17 @@ specified merging technique within the system’s framework.
 
     - LLM agent operating system (AIOS) and the future of LLM-powered agents, https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34
 
+
+ * MemGPT: Towards LLMs as Operating Systems, https://arxiv.org/abs/2310.08560
+
+   https://github.com/cpacker/MemGPT
+
+
+ * TinyChatEngine
+
+   https://github.com/mit-han-lab/TinyChatEngine
+
+
 * Build the LLM OS | Autonomous LLMs as the new Operating System,  https://www.youtube.com/watch?v=YMZm7LdGQp8&ab_channel=Phidata
 
     ![Untitled1](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/7dd7a398-b5e6-49e5-90bd-72172b2b1f88)
@@ -733,11 +744,6 @@ specified merging technique within the system’s framework.
     - Part 4 : Use cases and User experiences -LLM OS, https://medium.com/@protegeigdtuw/part-4-use-cases-and-user-experiences-llm-os-71f6d0763773
 
  * Illustrated LLM OS: An Implementational Perspective,  https://huggingface.co/blog/shivance/illustrated-llm-os
-
- * MemGPT: Towards LLMs as Operating Systems, https://arxiv.org/abs/2310.08560
-
-   https://github.com/cpacker/MemGPT
-
 
 
 
