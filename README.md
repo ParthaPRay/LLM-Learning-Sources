@@ -4696,7 +4696,8 @@ https://lnkd.in/giQrUzfq
  * Practical AI - Local LLM and machine learning for plant care with OrangePi5
 
    https://www.viam.com/post/practical-ai-local-llm-and-machine-learning-for-plant-care
-   
+
+      
 
   * GenAI on the Edge Forum: Running an LLM on a Raspberry Pi
     https://www.youtube.com/watch?v=bU5F0bVOMIA
