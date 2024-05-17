@@ -4700,7 +4700,13 @@ https://lnkd.in/giQrUzfq
 
    https://www.viam.com/post/practical-ai-local-llm-and-machine-learning-for-plant-care
 
-      
+ * OpenAI Whisper C++ Raspberry Pi 5 Voice Assistant
+
+   https://www.youtube.com/watch?v=jpW9foRIwv0&ab_channel=SamWechsler
+
+   https://github.com/solarsamuel/pi5_whisper_voice_assistant
+
+   https://github.com/ggerganov/whisper.cpp
 
   * GenAI on the Edge Forum: Running an LLM on a Raspberry Pi
     https://www.youtube.com/watch?v=bU5F0bVOMIA
