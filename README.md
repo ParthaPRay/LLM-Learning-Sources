@@ -1460,7 +1460,10 @@ Many more...
 
   https://github.com/AIAnytime/Fine-Tune-Multimodal-LLM-Idefics-2
 
-* Combined Preference and Supervised Fine Tuning with ORPO
+* Fine-tune Multi-modal Video + Text Models, IDEFICS 2
+  https://www.youtube.com/watch?v=0cgCFRrPHtY&ab_channel=TrelisResearch
+
+*  Combined Preference and Supervised Fine Tuning with ORPO
   
    https://www.youtube.com/watch?v=OWMJ0rBUj04&ab_channel=TrelisResearch
   
