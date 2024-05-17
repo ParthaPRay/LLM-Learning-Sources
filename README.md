@@ -4708,6 +4708,10 @@ https://lnkd.in/giQrUzfq
 
    https://github.com/ggerganov/whisper.cpp
 
+ * LLM-ollama-webui-Raspberry-Pi5  using using Docker + Ollama + WebUI
+   
+   https://github.com/adijayainc/LLM-ollama-webui-Raspberry-Pi5/
+  
   * GenAI on the Edge Forum: Running an LLM on a Raspberry Pi
     https://www.youtube.com/watch?v=bU5F0bVOMIA
 
