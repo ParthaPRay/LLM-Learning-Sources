@@ -4929,6 +4929,12 @@ w_1 * ( x_1 - E[x_1]).
 You can find the original SHAP papers here: https://lnkd.in/gWfEGkHt, https://lnkd.in/gDhHeQJP. SHAP is obviously, for most people, a [Python package](https://shap.readthedocs.io/en/latest/), and make sure to check it out if you haven't. 
 
 
+* ML Interpretability: feature visualization, adversarial example, interp. for language models
+
+  https://www.youtube.com/watch?v=lg1-M8hEX50
+
+
+  
 # Responsible AI
 
   https://youtube.com/playlist?list=PL8P_Z6C4GcuVMxhwT9JO_nKuW0QMSJ-cZ&si=vtxnKLMZwB8SGz6y
@@ -4963,10 +4969,12 @@ You can find the original SHAP papers here: https://lnkd.in/gWfEGkHt, https://ln
 
   https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf
 
-* ML Interpretability: feature visualization, adversarial example, interp. for language models
 
-  https://www.youtube.com/watch?v=lg1-M8hEX50
+* Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
 
+  https://www.youtube.com/watch?v=-PFIkkwWdnM&t=220s
+
+  https://github.com/hkproj/kan-notes/blob/main/Slides.pdf
 
 
 * **Full Stack Deep Learning Course for Free**
