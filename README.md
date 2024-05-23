@@ -4963,6 +4963,12 @@ You can find the original SHAP papers here: https://lnkd.in/gWfEGkHt, https://ln
 
   https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf
 
+* ML Interpretability: feature visualization, adversarial example, interp. for language models
+
+  https://www.youtube.com/watch?v=lg1-M8hEX50
+
+
+
 * **Full Stack Deep Learning Course for Free**
       
          - [FSDL 2022 (Online)](https://fullstackdeeplearning.com/course/2022/): A fully online course, taught via YouTube, Crowdcast, and Discord.
