@@ -4638,7 +4638,14 @@ https://lnkd.in/giQrUzfq
   https://huggingface.co/Contamination/contaminated_proof_7b_v1.0
 
 
+* Atacks on LLMs
+  
+  ![1716829426458](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/864b115b-ae82-4f12-923f-704d1f45bf35) Ref: (Peter Gostev)[https://www.linkedin.com/in/peter-gostev?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAN3UfQB6o49_7GyUESrYmKdZQgXfwzAkaE&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIYMhIp9CS%2BSfvCxyDqKK3w%3D%3D]
 
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/8efd9985-f7f0-4c48-946f-a958f86a3897)
+   A Taxonomical Ontology of Prompt Hacking techniques. Blank lines are hypernyms (i.e., typos are an instance of obfuscation), while grey arrows are meronyms (i.e., Special Case attacks usually contain a Simple Instruction). Purple nodes are not attacks themselves but can be a part of attacks. Red nodes are specific examples. Ref: [Article: Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition] (https://arxiv.org/pdf/2311.16119)
+
+  - [Simon Willison’s Weblog](https://simonwillison.net/series/prompt-injection/)
 
 
 
