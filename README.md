@@ -4638,7 +4638,7 @@ https://lnkd.in/giQrUzfq
   https://huggingface.co/Contamination/contaminated_proof_7b_v1.0
 
 
-* Atacks on LLMs
+* Attacks on LLMs
   
   ![1716829426458](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/864b115b-ae82-4f12-923f-704d1f45bf35) Ref: (Peter Gostev)[https://www.linkedin.com/in/peter-gostev?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAN3UfQB6o49_7GyUESrYmKdZQgXfwzAkaE&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIYMhIp9CS%2BSfvCxyDqKK3w%3D%3D]
 
