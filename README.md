@@ -1126,96 +1126,100 @@ Many more...
 
      https://tailscale.com/
 
- *  Using Ollama as a local LLM for chat apps
+  *  Using Ollama as a local LLM for chat apps
+ 
+   https://www.youtube.com/watch?v=zEN_oKrttK0&ab_channel=PamelaFox
+ 
+ * How to Access Ollama Model with Public IP Remotely
+ 
+  https://www.youtube.com/watch?v=QSfvLWaJc2s&t=20s&ab_channel=FahdMirza
+ 
+ 
+ * Let's use Ollama's Embeddings to Build an App
+ 
+   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/48225956-67b8-431b-9f03-bc6f88e2ff1e)
+ 
+  https://www.youtube.com/watch?v=6QAIbThWomc&ab_channel=MattWilliams
+ 
+  https://github.com/technovangelist/videoprojects
+ 
+ 
+ * JSON agents with Ollama & LangChain
+ 
+   Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
+ 
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/100767aa-5125-4a47-b2f4-cd2c3177675d)
+ 
+   https://blog.langchain.dev/json-based-agents-with-ollama-and-langchain/
+ 
+ 
+ * RAG from the Ground Up with Python and Ollama
+ 
+   https://www.youtube.com/watch?v=V1Mz8gMBDMo&ab_channel=Decoder
+ 
+   https://decoder.sh/videos/rag-from-the-ground-up-with-python-and-ollama
+ 
+ * FREE Local RAG Chatbot with Ollama - Streamlit and Langchain. Build with open-source Mistral ai
+ 
+   https://www.youtube.com/watch?v=kfbTZFAikcE&ab_channel=AIProductBuilders
+ 
+   https://www.linkedin.com/pulse/how-build-rag-chatbot-using-ollama-serve-llms-locally-sri-laxmi-beapc/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
+ 
+ * Ollama v0.1.27 AI benchmark
+   
+   https://jasonchuang.substack.com/p/ollama-v0127-ai-benchmark
+ 
+ * Design Your Own Ollama Model Now!
+ 
+   https://www.youtube.com/watch?v=bXf2Cxf3Wk0&t=55s&ab_channel=MattWilliams
+ 
+ * Is Open Webui The Ultimate Ollama Frontend Choice?
+ 
+   https://www.youtube.com/watch?v=16fWf0VVeIo&ab_channel=MattWilliams
+   
+ * Ask Ollama Many Questions at the SAME TIME! Concurrency
+ 
+   https://www.youtube.com/watch?v=MDbdb-W4x4w&ab_channel=MattWilliams
+ 
+ * Building AI Apps in Python with Ollama
+ 
+   https://www.youtube.com/watch?v=_4K20tOsXK8&ab_channel=MattWilliams
+ 
+ * Easy 100% Local RAG Tutorial (Ollama) + Full Code
+ 
+   https://www.youtube.com/watch?v=Oe-7dGDyzPM&ab_channel=AllAboutAI
+ 
+   https://github.com/AllAboutAI-YT/easy-local-rag
+ 
+ 
+ * Create a New Ollama Model
+ 
+   https://www.youtube.com/watch?v=bXf2Cxf3Wk0&ab_channel=MattWilliams
+ 
+ 
+ * Chat with multiple PDFs, using Ollama and LlamaIndex
+   
+   https://github.com/datvodinh/rag-chatbot
+ 
+  https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
+ 
+ * Ollama can run LLMs in parallel! (Concurrent) 0.1.33 version
+ 
+   https://www.youtube.com/watch?v=Cd6f86zsAyg&ab_channel=LearnDatawithMark
+ 
+   https://github.com/mneedham/LearnDataWithMark/blob/main/ollama-parallel/app.py
+ 
+   https://www.markhneedham.com/blog/2024/05/11/side-by-side-local-llms-ollama-streamlit/
+ 
+ *  Run multiple instances of Ollama in Parallel (Concurrent) 0.1.33 version
+ 
+   https://www.youtube.com/watch?v=8r_8CZqt5yk&ab_channel=PromptEngineer
 
-  https://www.youtube.com/watch?v=zEN_oKrttK0&ab_channel=PamelaFox
+ * Hugging Face SafeTensors LLMs in Ollama
+   
+   https://www.youtube.com/watch?v=DSLwboFJJK4&ab_channel=LearnDatawithMark
 
-* How to Access Ollama Model with Public IP Remotely
-
- https://www.youtube.com/watch?v=QSfvLWaJc2s&t=20s&ab_channel=FahdMirza
-
-
-* Let's use Ollama's Embeddings to Build an App
-
-  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/48225956-67b8-431b-9f03-bc6f88e2ff1e)
-
- https://www.youtube.com/watch?v=6QAIbThWomc&ab_channel=MattWilliams
-
- https://github.com/technovangelist/videoprojects
-
-
-* JSON agents with Ollama & LangChain
-
-  Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
-
-   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/100767aa-5125-4a47-b2f4-cd2c3177675d)
-
-  https://blog.langchain.dev/json-based-agents-with-ollama-and-langchain/
-
-
-* RAG from the Ground Up with Python and Ollama
-
-  https://www.youtube.com/watch?v=V1Mz8gMBDMo&ab_channel=Decoder
-
-  https://decoder.sh/videos/rag-from-the-ground-up-with-python-and-ollama
-
-* FREE Local RAG Chatbot with Ollama - Streamlit and Langchain. Build with open-source Mistral ai
-
-  https://www.youtube.com/watch?v=kfbTZFAikcE&ab_channel=AIProductBuilders
-
-  https://www.linkedin.com/pulse/how-build-rag-chatbot-using-ollama-serve-llms-locally-sri-laxmi-beapc/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
-
-* Ollama v0.1.27 AI benchmark
-  
-  https://jasonchuang.substack.com/p/ollama-v0127-ai-benchmark
-
-* Design Your Own Ollama Model Now!
-
-  https://www.youtube.com/watch?v=bXf2Cxf3Wk0&t=55s&ab_channel=MattWilliams
-
-* Is Open Webui The Ultimate Ollama Frontend Choice?
-
-  https://www.youtube.com/watch?v=16fWf0VVeIo&ab_channel=MattWilliams
-  
-* Ask Ollama Many Questions at the SAME TIME! Concurrency
-
-  https://www.youtube.com/watch?v=MDbdb-W4x4w&ab_channel=MattWilliams
-
-* Building AI Apps in Python with Ollama
-
-  https://www.youtube.com/watch?v=_4K20tOsXK8&ab_channel=MattWilliams
-
-* Easy 100% Local RAG Tutorial (Ollama) + Full Code
-
-  https://www.youtube.com/watch?v=Oe-7dGDyzPM&ab_channel=AllAboutAI
-
-  https://github.com/AllAboutAI-YT/easy-local-rag
-
-
-* Create a New Ollama Model
-
-  https://www.youtube.com/watch?v=bXf2Cxf3Wk0&ab_channel=MattWilliams
-
-
-* Chat with multiple PDFs, using Ollama and LlamaIndex
-  
-  https://github.com/datvodinh/rag-chatbot
-
- https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
-
-* Ollama can run LLMs in parallel! (Concurrent) 0.1.33 version
-
-  https://www.youtube.com/watch?v=Cd6f86zsAyg&ab_channel=LearnDatawithMark
-
-  https://github.com/mneedham/LearnDataWithMark/blob/main/ollama-parallel/app.py
-
-  https://www.markhneedham.com/blog/2024/05/11/side-by-side-local-llms-ollama-streamlit/
-
-*  Run multiple instances of Ollama in Parallel (Concurrent) 0.1.33 version
-
-  https://www.youtube.com/watch?v=8r_8CZqt5yk&ab_channel=PromptEngineer
-
-
+   Code: https://github.com/mneedham/LearnDataWithMark/tree/main/ollama-own-model
 
 
 
