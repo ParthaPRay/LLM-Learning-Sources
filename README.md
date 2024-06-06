@@ -1064,7 +1064,12 @@ Many more...
 
   * Build a RAG app in Python with Ollama in minutes, https://www.youtube.com/watch?v=GxLoMquHynY&ab_channel=MattWilliams
 
+  * Gollama - Manage Ollama Models Locally with Go
 
+    https://github.com/sammcj/gollama
+
+     https://www.youtube.com/watch?v=24yqFrQV-4Q&ab_channel=FahdMirza
+     
   * Hugging Face GGUF Models locally with Ollama, https://www.youtube.com/watch?v=7BH4C6-HP14&t=8s&ab_channel=LearnDatawithMark
  
   * Using the Chat Endpoint in the Ollama API, https://www.youtube.com/watch?v=QUJHEvCqhdw&ab_channel=MattWilliams
@@ -1531,7 +1536,9 @@ https://colab.research.google.com/drive/1NLmQqbiXc-dU9C0ulNsUuubB3vbhaJbi?usp=sh
  https://huggingface.co/docs/diffusers/v0.27.2/training/dreambooth
 
 
+* Fine-Tuning PaliGemma With Custom Data
 
+  https://www.youtube.com/watch?v=XKBxZk48Le8&ab_channel=MoslehMahamud
  
 * Track autotrain finetuning in real time with WANDB
 
@@ -2956,22 +2963,21 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 # Dataset 
 
 
- *  **Augmentoolkit**
-   
-    Convert Compute And Books Into Instruct-Tuning Datasets.
 
-    Turn any raw text into a high-quality dataset using local models. Make data gathering a painless step of the model creation process. Augmentoolkit is the easy-to-use, 
-    customizable, open-source, and cost-effective data generation solution. No OpenAI needed.
+   * FineWeb and FineWeb-Edu - All Time Best Quality Dataset for Free
 
-     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/297cb4b6-9a40-4b74-9724-cd531eab0602)
+     15 T tokens and takes 44 TB disk space. Best for pre-training LLMs.
+     
 
-
-    https://github.com/e-p-armstrong/augmentoolkit
-
-   
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/ae23a61d-e3a7-45e0-9fed-c1fb682b7381)
 
 
- * Convert Any Text to LLM Dataset Locally - Demo with Example
+     https://www.youtube.com/watch?v=UUwilmud5v8&ab_channel=FahdMirza
+
+     https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+
+
+   * Convert Any Text to LLM Dataset Locally - Demo with Example
 
 
    https://www.youtube.com/watch?v=ZiyCe_dRksM&ab_channel=FahdMirza
@@ -3002,6 +3008,17 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
   https://arxiv.org/abs/2310.04484
 
+ *  Augmentoolkit
+   
+    Convert Compute And Books Into Instruct-Tuning Datasets.
+
+    Turn any raw text into a high-quality dataset using local models. Make data gathering a painless step of the model creation process. Augmentoolkit is the easy-to-use, 
+    customizable, open-source, and cost-effective data generation solution. No OpenAI needed.
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/297cb4b6-9a40-4b74-9724-cd531eab0602)
+
+
+    https://github.com/e-p-armstrong/augmentoolkit
 
 
 * H2O LLM DataStudio Part II: Convert Documents to QA Pairs for fine tuning of LLMs
@@ -5507,6 +5524,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 * **AI Papers Academy**  https://www.youtube.com/@aipapersacademy   ***
   
+* **Mosleh Mahamud** https://www.youtube.com/@moslehmahamud9574 ***
 
   
 
