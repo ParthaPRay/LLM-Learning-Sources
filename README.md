@@ -1201,6 +1201,11 @@ Many more...
    Code: https://github.com/mneedham/LearnDataWithMark/tree/main/ollama-own-model
 
 
+*  Secrets to Self-Hosting Ollama on a Remote Server
+
+    https://www.youtube.com/watch?v=a329vAPgpaE&ab_channel=MervinPraison
+
+   https://mer.vin/2024/05/ollama-remote-server-setup-chainlit/
 
 
 
@@ -4671,6 +4676,9 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
   https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-code-hierarchy
 
 
+ * Llama Index AI Agents: How to Get Started for Beginners?
+
+  https://www.youtube.com/watch?v=jnWaUtS2Fr8&ab_channel=MervinPraison
 
 
 
