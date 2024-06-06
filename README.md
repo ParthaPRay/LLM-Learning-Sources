@@ -1177,6 +1177,12 @@ Many more...
    https://github.com/datvodinh/rag-chatbot
  
   https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
+
+* Marker: This Open-Source Tool will make your PDFs LLM Ready
+
+  https://www.youtube.com/watch?v=mdLBr9IMmgI&ab_channel=PromptEngineering
+
+  https://github.com/VikParuchuri/marker
  
  * Ollama can run LLMs in parallel! (Concurrent) 0.1.33 version
  
@@ -1620,7 +1626,9 @@ https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sh
 
  https://colab.research.google.com/github/sanchit-gandhi/notebooks/blob/main/fine_tune_whisper.ipynb
 
- 
+ * Fine-tuning on Wikipedia Datasets
+
+  https://www.youtube.com/watch?v=bo49U3iC7qY&ab_channel=TrelisResearch
 
  * Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
 
@@ -2016,7 +2024,9 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
    https://www.youtube.com/watch?v=bek8AGvt7dg&ab_channel=code_your_own_AI
  
+  * Real Time RAG with Haystack 2 0 and Bytewax
 
+    https://www.youtube.com/watch?v=_Rx7cnarGWE&ab_channel=AIMakerspace
   
   * What is Retrieval-Augmented Generation (RAG)?, https://www.youtube.com/watch?v=T-D1OfcDW1M&t=265s&ab_channel=IBMTechnology
 
@@ -2073,6 +2083,10 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
    https://github.com/AIAnytime/RAG-using-AWS-Bedrock-and-Azure-OpenAI
  
   * Building a RAG application from scratch using Python, LangChain, and the OpenAI API, https://www.youtube.com/watch?v=BrsocJb-fAo&ab_channel=Underfitted
+
+  * How to build Multimodal Retrieval-Augmented Generation (RAG) with Gemini
+
+    https://www.youtube.com/watch?v=LF7I6raAIL4&ab_channel=GoogleforDevelopers
 
 
   * Pinecone + LlamaIndex on Retrieval Augmented Generation (RAG) Systems, https://www.youtube.com/watch?v=FgLf5HjxI8w&ab_channel=ArizeAI
@@ -2551,6 +2565,7 @@ KGs.
   https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf
 
 
+    
 
 * AI RAG Chat App Evaluation,
 
@@ -2575,6 +2590,24 @@ KGs.
   https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_llamaindex_librarian.ipynb
 
 
+* Metadata Extraction & Chunking Using Unstructured | ChromaDB
+
+  https://www.youtube.com/watch?v=JjSCezpZbI0&ab_channel=DataScienceBasics
+
+* Build Your Own RAG Using Unstructured, Llama3 via Groq, Qdrant & LangChain
+
+  https://www.youtube.com/watch?v=m_3q3XnLlTI&list=PLz-qytj7eIWXyYDZuFI89w8WE-pcwI06d&ab_channel=DataScienceBasics
+
+  https://github.com/sudarshan-koirala/youtube-stuffs
+
+
+* Extract Image & Image Info From PDF & Use LlaVa via Ollama To Explain Image | LangChain
+
+  https://www.youtube.com/watch?v=Ad-87wzJouk&list=PLz-qytj7eIWXyYDZuFI89w8WE-pcwI06d&index=4&ab_channel=DataScienceBasics
+
+* Extract Table Info From PDF & Summarise It Using Llama3 via Ollama | LangChain
+
+  https://www.youtube.com/watch?v=hQu8WN8NuVg&list=PLz-qytj7eIWXyYDZuFI89w8WE-pcwI06d&index=5&ab_channel=DataScienceBasics
 
 * Build applications with LLMs: LangChain
 
@@ -2741,7 +2774,7 @@ While Large Language Models (LLMs) excel with text, they fall short in helping y
 In this notebook, we introduce VideoDBRetriever, a tool specifically designed to simplify the creation of RAG pipelines for video content, without any hassle of dealing with complex video infrastructure.
 
 
-* S**treamRAG**: GPT-Powered Video Retrieval & Streaming 🚀
+* **StreamRAG**: GPT-Powered Video Retrieval & Streaming 🚀
 
   Video Search Agent for ChatGPT
 
@@ -2790,7 +2823,9 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
    https://www.youtube.com/watch?v=biJmRQF8bmY&ab_channel=TrelisResearch
 
 
-   
+* Build a RAG Based LLM App in 20 Minutes! | Full Langflow Tutorial
+
+  https://www.youtube.com/watch?v=rz40ukZ3krQ&ab_channel=TechWithTim
 
 * Building STORM from scratch with LangGraph, https://www.youtube.com/watch?v=1uUORSZwTz4&ab_channel=LangChain
 
@@ -2853,7 +2888,23 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
 
      https://github.com/ShishirPatil/gorilla/tree/main/raft
+
+***************************************************************************************************************************
   
+
+* Langchain: Chat with PDF | ChatGPT for Your PDF FILES | PDF Question Answering | Python
+
+  https://www.youtube.com/watch?v=WmuSEfgzcJo&ab_channel=PythonCodeCamp
+
+
+* Python RAG Tutorial (with Local LLMs): AI For Your PDFs
+
+  https://www.youtube.com/watch?v=2TJxpyO3ei4&ab_channel=pixegami
+
+
+
+***************************************************************************************************************************
+
 
 
 
@@ -3014,7 +3065,9 @@ https://colab.research.google.com/drive/1LdamGKR2oacrDk-kYwz_Wfc1-RBUdzcO?usp=sh
 
     https://huggingface.co/docs/trl/main/en/dpo_trainer
 
+* Preparing Fineweb - A Finely Cleaned Common Crawl Dataset
 
+  https://www.youtube.com/watch?v=20wbA_ijjmg&ab_channel=TrelisResearch
 
 
 
@@ -3795,6 +3848,10 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  
   * Investment Banker RAG Chatbot using Intel's Neural Chat LLM, https://www.youtube.com/watch?v=d9wCHH3iknM&ab_channel=AIAnytime
 
+  * Build A Talking AI with LLAMA 3 (Python tutorial) using  AssemblyAI, using LLAMA 3 as the language model with Ollama, and ElevenLabs for text-to-speech
+
+    https://www.youtube.com/watch?v=6ghNRkVNODo&ab_channel=AssemblyAI 
+  
  * How to Build a RAG Application for Multi-Speaker Audio Data AssemblyAI, 
   https://www.youtube.com/watch?v=Rh9Jl0hJSws&ab_channel=AssemblyAI
 
@@ -3859,6 +3916,10 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  
   * Amazon Bedrock: Generative AI on AWS without the Headaches, https://www.youtube.com/watch?v=Yj_7FuFgPyI
 
+  * Chat With Documents | Fully Managed RAG on Amazon Bedrock | NO-CODE, https://www.youtube.com/watch?v=Qtn_LDVW6Ww&ab_channel=DataScienceBasics
+
+
+  
   * FULLY LOCAL Mistral AI PDF Processing Hands-on Tutorial, https://www.youtube.com/watch?v=wZDVgy_14PE&pp=ygUNb2xsYW1hIG9uIEFXUw%3D%3D
 
   * PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more), https://www.youtube.com/watch?v=XFiof0V3nhA&ab_channel=MatthewBerman
@@ -4377,6 +4438,11 @@ https://lnkd.in/giQrUzfq
 
     https://github.com/joaomdmoura/crewAI
 
+  * How to do Web Scraping in 2024 with LLM Agents
+
+    https://www.youtube.com/watch?v=od6AaKhKYmg&ab_channel=PromptEngineering
+
+     
  * How to Implement a Simple UI for CrewAI applications
 
    https://www.youtube.com/watch?v=gWrqfnTGtl8&ab_channel=YeyuLab
@@ -4481,6 +4547,18 @@ https://lnkd.in/giQrUzfq
      - Sequential Colab: https://colab.research.google.com/drive/1ycQILZ4Ym5YlyK-NcIxaVkYJq21JcvTd?usp=sharing
      - Hierarchical Colab: https://colab.research.google.com/drive/1hgdM8bG_NGyOageiYNVsoLR38qMkMFwn?usp=sharing
 
+
+* AI Agents with LangChain, CrewAI and Llama 3: Build an AI Tweet Writing App | Step-by-Step Tutorial
+
+  https://www.youtube.com/watch?v=fzqSP3vTZ4E&ab_channel=VenelinValkov
+
+  https://github.com/curiousily/AI-Bootcamp
+
+* CrewAI with Open LLM (Llama 3) using Groq API: AI Agents for Data Analysis with Custom Tools
+
+    https://www.youtube.com/watch?v=N5sos1X30Rw&ab_channel=VenelinValkov
+
+  https://github.com/curiousily/AI-Bootcamp
 
 * Crew AI: The Future of Travel Planning with AI Agents!
 
@@ -4802,6 +4880,12 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
    A Taxonomical Ontology of Prompt Hacking techniques. Blank lines are hypernyms (i.e., typos are an instance of obfuscation), while grey arrows are meronyms (i.e., Special Case attacks usually contain a Simple Instruction). Purple nodes are not attacks themselves but can be a part of attacks. Red nodes are specific examples. Ref: [Article: Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition] (https://arxiv.org/pdf/2311.16119)
 
   - [Simon Willison’s Weblog](https://simonwillison.net/series/prompt-injection/)
+
+
+
+* Anonymizing Sensitive Data in LLM Prompts
+
+  https://www.youtube.com/watch?v=7NrzPuICLtg&ab_channel=TrelisResearch
 
 
 
@@ -5267,7 +5351,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **AI Anytime** https://www.youtube.com/@AIAnytime      ****************
 * **All About AI** https://www.youtube.com/@AllAboutAI    ****************
 * **Sam Witteveen** https://www.youtube.com/@samwitteveenai     ****************
-* **AutoGPT Tutorials** https://www.youtube.com/@AutoGPTTutorial     ****************
+* **AutoGPT Tutorials** ManuAGI - AutoGPT Tutorials    ****************
 * **AI Makerspace** https://www.youtube.com/@AI-Makerspace     ****************
 * **AssemblyAI** https://www.youtube.com/@AssemblyAI     ****************
 * **Venelin Valkov** https://www.youtube.com/@venelin_valkov  ****************
@@ -5373,6 +5457,36 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
   * Prompt Templates, Functions and Prompt Window Management, https://www.youtube.com/watch?v=YaYaZu6NbS0&ab_channel=ArizeAI
   
   * ChatGPT Prompt Engineering for Developers, https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+
+
+
+
+# LLM Production
+
+
+* Deploy (Tiny) LLM to Production: Merge Lora Adapter, Push to HF Hub, Rest API with FastAPI & Docker
+
+  https://www.youtube.com/watch?v=c10rsQkczu0&ab_channel=VenelinValkov
+
+* Hamel Husain - Building LLM Apps in Production
+
+  https://www.youtube.com/watch?v=MFSd-_pMExI&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+* Building Julius AI to 500.000 users w/ Rahul (founder)
+
+    https://www.youtube.com/watch?v=CX2VLowIOXE&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+* DeepMind's TacticAI: an AI assistant for football tactics | Petar Veličković
+
+  https://www.youtube.com/watch?v=BRbUikWdXhI&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+
+* Ishan Misra (Meta) - Emu Video Generation
+
+  https://www.youtube.com/watch?v=dLcsreHRF1s&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+
 
 
 
