@@ -966,7 +966,9 @@ The idea is to build visual tokens by breaking down the image into patches of pi
 
    https://github.com/prometheus-eval/prometheus-eval
 
+* MMLU-Pro : A New LLM Benchmark
 
+  https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
 
 
 
@@ -1644,6 +1646,12 @@ https://colab.research.google.com/drive/16Ofyeg2wse1UFEMwROCN5qqWHKgWZNIR?usp=sh
     https://huggingface.co/blog/ram-efficient-pytorch-fsdp
 
 
+ * Fine-Tune or Train LLMs on Intel GPUs Locally on Custom Dataset - IPEX-LLM
+
+  https://www.youtube.com/watch?v=MTK4UBccmLQ&ab_channel=FahdMirza
+
+  https://ipex-llm.readthedocs.io/en/latest/index.html
+ 
  * How to fine tune a model locally on mistralai/Mistral-7B-Instruct-v0.2 using HuggingFaceTB/cosmopedia-20k or Elriggs/openwebtext-100k dataset
 
    https://youtu.be/9GjLAyn12MU?si=NYd1BmNv4vfVtde4
@@ -4941,7 +4949,9 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
 
   https://www.youtube.com/watch?v=7NrzPuICLtg&ab_channel=TrelisResearch
 
+* How to Un-censor Any LLM Locally - LLM Abliteration
 
+  https://www.youtube.com/watch?v=ojtWa-mU1qI&ab_channel=FahdMirza
 
 
 # Pervasive Generative AI
