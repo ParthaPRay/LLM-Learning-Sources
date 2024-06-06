@@ -1064,7 +1064,7 @@ Many more...
 
   * Build a RAG app in Python with Ollama in minutes, https://www.youtube.com/watch?v=GxLoMquHynY&ab_channel=MattWilliams
 
- 
+
   * Hugging Face GGUF Models locally with Ollama, https://www.youtube.com/watch?v=7BH4C6-HP14&t=8s&ab_channel=LearnDatawithMark
  
   * Using the Chat Endpoint in the Ollama API, https://www.youtube.com/watch?v=QUJHEvCqhdw&ab_channel=MattWilliams
@@ -1309,6 +1309,11 @@ Many more...
  
   * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU, https://www.youtube.com/watch?v=g68qlo9Izf0&t=17s&ab_channel=DeepLearningAI
 
+ * How To Implement SetFit For Few-Shot Fine-Tuning of Sentence Transformers
+
+   https://www.youtube.com/watch?v=pTGr643h5VE&ab_channel=FahdMirza
+
+   https://github.com/huggingface/setfit
 
    
   * Direct Preference Optimization (DPO), https://www.youtube.com/watch?v=E5kzAbD8D0w&ab_channel=TrelisResearch
