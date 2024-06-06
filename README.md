@@ -734,7 +734,11 @@ specified merging technique within the system’s framework.
  * Illustrated LLM OS: An Implementational Perspective,  https://huggingface.co/blog/shivance/illustrated-llm-os
 
 
+* Here is How You Create AI Operating System from Scratch
 
+ https://www.youtube.com/watch?v=GEQTooW02-E&ab_channel=MervinPraison
+
+ https://mer.vin/2024/05/phidata-llm-os/
 
 
 
@@ -1983,6 +1987,8 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
   https://www.youtube.com/watch?v=TcRRfcbsApw&ab_channel=JamesBriggs
 
   https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
+
+  
 
  * **SUPERHUMAN RAG**
 
@@ -4475,6 +4481,8 @@ https://lnkd.in/giQrUzfq
   https://www.youtube.com/watch?v=Ev0uzdzesjU&ab_channel=VenelinValkov
 
   https://github.com/curiousily/AI-Bootcamp
+
+
 
 
 * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
