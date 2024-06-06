@@ -2063,6 +2063,12 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
 
 
+* Realtime Powerful RAG Pipeline using Neo4j(Knowledge Graph Db) and Langchain
+
+  https://www.youtube.com/watch?v=Ik8gNjJ-13I&ab_channel=SunnySavita
+
+  https://github.com/sunnysavita10/Indepth-GENAI/blob/main/RAG_With_Knowledge_graph(Neo4j).ipynb
+
  * Chat and RAG with Tabular Databases Using Knowledge Graph and LLM Agents
 
      https://www.youtube.com/watch?v=3NP1llvtrbI&ab_channel=AIRoundTable
@@ -5589,6 +5595,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 * **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+
+* **Sunny Savita**  https://www.youtube.com/@sunnysavita10    ****
 
 * **MG** https://www.youtube.com/@MG_cafe/  ***
   
