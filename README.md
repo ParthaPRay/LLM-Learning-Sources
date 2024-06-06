@@ -88,6 +88,7 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 * A Hackers' Guide to Language Models, https://www.youtube.com/watch?v=jkrNMKz9pWU&ab_channel=JeremyHoward
 
 * Create your own Local Chatgpt for FREE, Full Guide: PDF, Image, & Audiochat (Langchain, Streamlit), https://www.youtube.com/watch?v=CUjO8b6_ZuM&t=452s&ab_channel=LeonExplainsAI
+
   
 
 * Fine Tuning and Evaluating LLMs with Anyscale and Arize, https://www.youtube.com/watch?v=b-MfkFz-A2E&ab_channel=ArizeAI
@@ -1178,11 +1179,39 @@ Many more...
  
   https://youtu.be/BRHfHDXlk1U?si=KnVNoCejy70BELlm
 
+*  How I built a Multi-PDF Chat App with FASTEST Inference using LLAMA3+OLLAMA+Groq|FULLY LOCAL Option
+
+   https://www.youtube.com/watch?v=WjoTAzuf1Dg&ab_channel=DataInsightEdge
+
+   https://github.com/InsightEdge01/Multi-PDF-llama3Chat
+
+ 
+* Build Your Own RAG for Unstructured PDF, Website via chatgpt & LangChain
+
+  https://www.youtube.com/watch?v=5ModxAjKI3w&ab_channel=WhisperingAI
+
 * Marker: This Open-Source Tool will make your PDFs LLM Ready
 
   https://www.youtube.com/watch?v=mdLBr9IMmgI&ab_channel=PromptEngineering
 
   https://github.com/VikParuchuri/marker
+
+ * LlamaParse: Convert PDF (with tables) to Markdown
+
+   https://www.youtube.com/watch?v=7DJzHncUlpI&ab_channel=AlejandroAO-Software%26Ai
+
+   https://colab.research.google.com/drive/18KB9yXxDUeQGrEZEP1eCrXQ0dNB-Oazm?usp=sharing
+
+*  Marker:Get Your PDFs Ready for RAG & LLMs|High Accuracy Open-Source Tool
+
+   https://www.youtube.com/watch?v=QmTtU-qbjUA&ab_channel=DataInsightEdge
+
+   https://github.com/VikParuchuri/marker
+
+* How I built a Multiple CSV Chat App using LLAMA 3+OLLAMA+PANDASAI|FULLY LOCAL RAG #ai #llm
+
+  https://www.youtube.com/watch?v=QmTtU-qbjUA&ab_channel=DataInsightEdge
+
  
  * Ollama can run LLMs in parallel! (Concurrent) 0.1.33 version
  
@@ -1234,7 +1263,9 @@ Many more...
 
      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/19da5a96-e77e-45bc-a08a-b3953ec8bc97)
 
+  * Efficient DiT Fine-Tuning with PixART for Text to Image Generation
 
+    https://www.youtube.com/watch?v=D-CKIpRDuXc&ab_channel=Oxen
     
   * Fine-tuning Tiny LLM on Your Data | Sentiment Analysis with TinyLlama and LoRA on a Single GPU, https://www.youtube.com/watch?v=_KPEoCSKHcU&ab_channel=VenelinValkov
     
@@ -4432,7 +4463,19 @@ https://lnkd.in/giQrUzfq
 # LLM Agent
 
 
- * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
+  * Have You Picked the Wrong AI Agent Framework?
+
+   https://www.youtube.com/watch?v=jLVl5V8roMU&ab_channel=MattWilliams
+
+   * "Make Agent 10x cheaper, faster & better?" - LLM System Evaluation 101
+
+      https://www.youtube.com/watch?v=MGkByeDm-90&ab_channel=AIJason
+
+   * “Wait, this Agent can Scrape ANYTHING?!” - Build universal web scraping agent
+
+     https://www.youtube.com/watch?v=dSX5eoD4-u4&ab_channel=AIJason
+   
+   * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
 
     https://www.youtube.com/watch?v=o4-4NvrcOvs&ab_channel=AIFORDEVS 
 
@@ -4442,7 +4485,7 @@ https://lnkd.in/giQrUzfq
 
     https://www.youtube.com/watch?v=od6AaKhKYmg&ab_channel=PromptEngineering
 
-     
+    
  * How to Implement a Simple UI for CrewAI applications
 
    https://www.youtube.com/watch?v=gWrqfnTGtl8&ab_channel=YeyuLab
@@ -4589,6 +4632,17 @@ https://lnkd.in/giQrUzfq
   https://github.com/curiousily/AI-Bootcamp
 
 
+* Build a Web App (GUI) for your CrewAI Automation (Easy with Python)
+
+  https://www.youtube.com/watch?v=vhbfs38XmKk&ab_channel=AlejandroAO-Software%26Ai
+
+
+* Python: Automating a Marketing Team with AI Agents | Planning and Implementing CrewAI
+
+  https://www.youtube.com/watch?v=LHXujQ19Euo&ab_channel=AlejandroAO-Software%26Ai
+
+  https://github.com/alejandro-ao/crewai-instagram-example
+   
 
 * Llama Index AI Agents: How to Get Started for Beginners?
 
@@ -5339,6 +5393,36 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 
 
+
+
+# LLM Production
+
+
+* Deploy (Tiny) LLM to Production: Merge Lora Adapter, Push to HF Hub, Rest API with FastAPI & Docker
+
+  https://www.youtube.com/watch?v=c10rsQkczu0&ab_channel=VenelinValkov
+
+* Hamel Husain - Building LLM Apps in Production
+
+  https://www.youtube.com/watch?v=MFSd-_pMExI&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+* Building Julius AI to 500.000 users w/ Rahul (founder)
+
+    https://www.youtube.com/watch?v=CX2VLowIOXE&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+* DeepMind's TacticAI: an AI assistant for football tactics | Petar Veličković
+
+  https://www.youtube.com/watch?v=BRbUikWdXhI&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+
+* Ishan Misra (Meta) - Emu Video Generation
+
+  https://www.youtube.com/watch?v=dLcsreHRF1s&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
+
+
+
+
+
 * **OpenAI Cook Book**
 
   https://github.com/openai/openai-cookbook/tree/main
@@ -5360,7 +5444,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Connor Shorten** https://youtube.com/@connorshorten6311?si=YA9lHWPqWaAdOtSy ****************
 * **Julien Simon** https://www.youtube.com/@juliensimonfr    ****************
 * **Matthew Berman** https://www.youtube.com/@matthew_berman  ****************
-* **DataScience Basics** https://youtube.com/@datasciencebasics?si=7jtQNnu2ovM0p_ge
+* **DataScience Basics** https://youtube.com/@datasciencebasics 
 * **Aleksa Gordić - The AI Epiphany** https://www.youtube.com/@TheAIEpiphany    ****************
   https://github.com/gordicaleksa
 
@@ -5385,46 +5469,48 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **code_your_own_AI** https://www.youtube.com/@code4AI
 * **Sebastian Raschka** https://www.youtube.com/@SebastianRaschka
   
-* **Jeremy Howard** https://www.youtube.com/@howardjeremyp
+* **Jeremy Howard** https://www.youtube.com/@howardjeremyp *************
 
 * **Leon Explains AI** https://www.youtube.com/@leonsaiagency
-* **Skill Leap AI** https://www.youtube.com/@AppOfTheDay
+* **Skill Leap AI** https://www.youtube.com/@SkillLeapAI/  
 * **AI Flux**  https://www.youtube.com/@aifluxchannel
 * **AI Jason** https://www.youtube.com/@AIJasonZ
 * **Abhishek Thakur** https://www.youtube.com/@abhishekkrthakur
 * **Decoder** https://youtube.com/@decoder-sh?si=OtRKUHqzVgSDT8BC
-* **Fahd Mirza** https://www.youtube.com/@fahdmirza
-* **Gao Dalie** https://www.youtube.com/@GaoDalie97
+* **Fahd Mirza** https://www.youtube.com/@fahdmirza   *****
 * **Yeyu Lab** https://www.youtube.com/@yeyulab
 * **Oxen ai** https://youtube.com/@oxen-ai?si=3xbhuzM3-tVx_n3v
-* **Entry Point AI** https://www.youtube.com/@EntryPointAI
 * **Steve (Builder.io)** https://www.youtube.com/@Steve8708
 * **Andrej Karpathy** https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 * **AI Engineer** https://www.youtube.com/@aiDotEngineer
-* **Kurdiez** https://www.youtube.com/@kurdiez_en
 * **Whispering AI** https://www.youtube.com/@WhisperingAI/videos
-* **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
 * **Greg Kamradt (Data Indy)** https://www.youtube.com/@DataIndependent
-* **Deci Ai** https://youtube.com/@deciai?si=udeFtVlH6uTJYMfo
 * **Rob Mulla** https://www.youtube.com/@robmulla
-* **Edward Hu** https://edwardjhu.com/
-* **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
+
 * **llmware** https://www.youtube.com/@llmware/videos
 * **DataInsightEdge** https://www.youtube.com/@DataInsightEdge01
 
-* **AI Papers Academy**  https://www.youtube.com/@aipapersacademy
-* **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+* **AI Papers Academy**  https://www.youtube.com/@aipapersacademy   ***
   
-* **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
+
+  
+
 * **Underfitted**, https://www.youtube.com/@underfitted
-* **Nodematic Tutorials**, https://www.youtube.com/@nodematic/
+* **Nodematic Tutorials**, https://www.youtube.com/@nodematic/  ****
 
 * **Super Lazy Coder**, https://www.youtube.com/@superlazycoder1984/
 
-* **DataMListic**, https://www.youtube.com/@datamlistic/videos
-
+* **DataMListic**, https://www.youtube.com/@datamlistic/videos  ****
+  
+* **Entry Point AI** https://www.youtube.com/@EntryPointAI
+* **Shaw Talebi** https://www.youtube.com/@ShawhinTalebi
+* **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
+* **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
+* **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+  
 * **Stanford Online**, https://www.youtube.com/@stanfordonline/videos   **********
 * **Ricardo Calix**, https://www.youtube.com/@ricardocalix188  ****************
+
 
 
 # Prompt Engineeing
@@ -5460,31 +5546,6 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 
 
 
-
-
-# LLM Production
-
-
-* Deploy (Tiny) LLM to Production: Merge Lora Adapter, Push to HF Hub, Rest API with FastAPI & Docker
-
-  https://www.youtube.com/watch?v=c10rsQkczu0&ab_channel=VenelinValkov
-
-* Hamel Husain - Building LLM Apps in Production
-
-  https://www.youtube.com/watch?v=MFSd-_pMExI&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
-
-* Building Julius AI to 500.000 users w/ Rahul (founder)
-
-    https://www.youtube.com/watch?v=CX2VLowIOXE&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
-
-* DeepMind's TacticAI: an AI assistant for football tactics | Petar Veličković
-
-  https://www.youtube.com/watch?v=BRbUikWdXhI&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
-
-
-* Ishan Misra (Meta) - Emu Video Generation
-
-  https://www.youtube.com/watch?v=dLcsreHRF1s&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
 
 
 
@@ -5635,7 +5696,7 @@ Google Cloud Generative AI Learning Path
  -  LlamaIndex blog, https://www.llamaindex.ai/blog
  -  Pinecone, https://www.pinecone.io/learn/
  -  Maxime Labonne, https://mlabonne.github.io/blog/
-
+ -  AI by Hand ✍️, https://aibyhand.substack.com/
   
 
 
