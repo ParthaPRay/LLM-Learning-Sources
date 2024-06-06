@@ -465,11 +465,7 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
    https://www.youtube.com/watch?v=jZQZMMqAJXs&ab_channel=llmware 
 
 
-* Overcoming Hallucinations with the Trustworthy Language Model
 
-  https://cleanlab.ai/blog/trustworthy-language-model/
-
-    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/61d46e84-dcb6-4132-97a3-dd364f0e3b95)
 
 
 
@@ -2065,7 +2061,15 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
    https://github.com/aurelio-labs/semantic-chunkers/blob/main/docs/00-chunkers-intro.ipynb
 
-   
+
+
+ * Chat and RAG with Tabular Databases Using Knowledge Graph and LLM Agents
+
+     https://www.youtube.com/watch?v=3NP1llvtrbI&ab_channel=AIRoundTable
+
+ * Chat With Knowledge Graph Data | Improved RAG
+
+    https://www.youtube.com/watch?v=GU0LZ8JzdEM&ab_channel=MG
 
  * **SUPERHUMAN RAG**
 
@@ -2365,6 +2369,7 @@ https://youtu.be/IPbv5Fs3mis?si=5_frUdnXNLoVJEpM
   https://docs.google.com/presentation/d/1EJqIvYGbF5IGHX7orXaUSKVN3PVbQh7kOP7m5BEoyKQ/edit?usp=sharing
 
   https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
+
 
 
 
@@ -2961,6 +2966,18 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 * Python RAG Tutorial (with Local LLMs): AI For Your PDFs
 
   https://www.youtube.com/watch?v=2TJxpyO3ei4&ab_channel=pixegami
+
+***************************************************************************************************************
+
+* * How to add Trustworthiness Score To RAG Answers
+
+  https://www.youtube.com/watch?v=-7IUwVlG7v8&ab_channel=MG
+
+ Overcoming Hallucinations with the Trustworthy Language Model
+
+  https://cleanlab.ai/blog/trustworthy-language-model/
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/61d46e84-dcb6-4132-97a3-dd364f0e3b95)
 
 
 
@@ -4187,6 +4204,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  
  * Gemini Pro + LangChain - Chains, Mini RAG, PAL + Multimodal, https://www.youtube.com/watch?v=G3-YOEVg-xc&ab_channel=SamWitteveen
 
+ * AutoVector | Chat With Your Both SQL and Free Text Data Simultaneously, https://www.youtube.com/watch?v=KWidGdSi2AE&ab_channel=MG
+
    
  * Visual Question Answering with Google Deplot #huggingface
 
@@ -4966,6 +4985,16 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
   https://huggingface.co/Contamination/contaminated_proof_7b_v1.0
 
 
+* Avoid Attacks to Your LLM Generative AI Apps with PyRIT
+
+  https://www.youtube.com/watch?v=3U1i6SdBM48&ab_channel=MG
+
+ * Python Risk Identification Tool for generative AI (PyRIT)
+
+   It is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+
+   https://github.com/Azure/PyRIT 
+
 * Attacks on LLMs
   
   ![1716829426458](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/864b115b-ae82-4f12-923f-704d1f45bf35) Ref: (Peter Gostev)[https://www.linkedin.com/in/peter-gostev?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAN3UfQB6o49_7GyUESrYmKdZQgXfwzAkaE&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIYMhIp9CS%2BSfvCxyDqKK3w%3D%3D]
@@ -5550,6 +5579,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 * **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+
+* **MG** https://www.youtube.com/@MG_cafe/  ***
   
 * **Stanford Online**, https://www.youtube.com/@stanfordonline/videos   **********
 * **Ricardo Calix**, https://www.youtube.com/@ricardocalix188  ****************
