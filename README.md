@@ -2069,6 +2069,19 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   https://github.com/sunnysavita10/Indepth-GENAI/blob/main/RAG_With_Knowledge_graph(Neo4j).ipynb
 
+
+ * Powerful RAG Using Hybrid Search(Keyword+vVector search) | Ensemble Retrieval
+
+   https://www.youtube.com/watch?v=Wwuz1l-PCgQ&ab_channel=SunnySavita
+
+   https://github.com/sunnysavita10/Indepth-GENAI/blob/main/Hybrid_Search_in_RAG.ipynb
+
+ * RAG using Hybrid Search (Keyword + Vector search) And Reranking With Cohere API | Ensemble Retrieval
+
+   https://www.youtube.com/watch?v=ZzJoD9JzQcc&ab_channel=SunnySavita
+
+   https://github.com/sunnysavita10/Indepth-GENAI/blob/main/Hybrid_Search_and_reranking_in_RAG.ipynb
+
  * Chat and RAG with Tabular Databases Using Knowledge Graph and LLM Agents
 
      https://www.youtube.com/watch?v=3NP1llvtrbI&ab_channel=AIRoundTable
