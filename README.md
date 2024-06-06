@@ -734,11 +734,7 @@ specified merging technique within the system’s framework.
  * Illustrated LLM OS: An Implementational Perspective,  https://huggingface.co/blog/shivance/illustrated-llm-os
 
 
-* Here is How You Create AI Operating System from Scratch
 
- https://www.youtube.com/watch?v=GEQTooW02-E&ab_channel=MervinPraison
-
- https://mer.vin/2024/05/phidata-llm-os/
 
 
 
@@ -1200,12 +1196,14 @@ Many more...
 
    Code: https://github.com/mneedham/LearnDataWithMark/tree/main/ollama-own-model
 
+* ChatTTS - Best Quality Open Source Text-to-Speech Model? | Tutorial + Ollama Setup
 
-*  Secrets to Self-Hosting Ollama on a Remote Server
+  https://www.youtube.com/watch?v=MpVNZA6__3o&ab_channel=AllAboutAI
 
-    https://www.youtube.com/watch?v=a329vAPgpaE&ab_channel=MervinPraison
+  https://github.com/2noise/ChatTTS
 
-   https://mer.vin/2024/05/ollama-remote-server-setup-chainlit/
+
+
 
 
 
@@ -1993,7 +1991,16 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
 
+  https://www.aurelio.ai/learn/semantic-chunkers-intro
   
+
+  * Semantic Chunking - 3 Methods for Better RAG
+
+   https://www.youtube.com/watch?v=7JS0pqXvha8&ab_channel=JamesBriggs
+
+   https://github.com/aurelio-labs/semantic-chunkers/blob/main/docs/00-chunkers-intro.ipynb
+
+   
 
  * **SUPERHUMAN RAG**
 
@@ -2015,7 +2022,11 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
 
+  * Build a RAG Evaluation Tool and Python Library
 
+    https://www.youtube.com/watch?v=IMN_bDVRZ1M&ab_channel=AIAnytime
+
+    https://pypi.org/project/rag-evaluator/
 
   * End-to-end Prototyping with Llama 3
 
@@ -4434,7 +4445,34 @@ https://lnkd.in/giQrUzfq
   https://github.com/yeyu2/Youtube_demos
 
 
-* * CrewAI with Open LLM (Llama 3) using Groq API: AI Agents for Data Analysis with Custom Tools
+* Llama3 + CrewAI + Groq = Email AI Agent
+
+  https://www.youtube.com/watch?v=1D4YoAUpjlg&ab_channel=SamWitteveen
+
+  https://colab.research.google.com/drive/1eT82D9g3bp1-uf4HDv_PPWaK2keZKS4K?usp=sharing
+
+* CrewAI + Claude 3 Haiku
+
+  https://www.youtube.com/watch?v=K0mb-pXdqsI&ab_channel=SamWitteveen
+
+   - Sequential Colab: https://colab.research.google.com/drive/1npc4TpcqC_LxKaU8Nv9HQUvtn02QG7pv?usp=sharing
+   - Hierarchical Colab: https://colab.research.google.com/drive/1hn6XJwnGUJHlkHAYzrtys2-i7Eo3Tq3j?usp=sharing
+
+* CrewAI - Building a Custom Crew
+
+  https://www.youtube.com/watch?v=2Uar1fDKYpQ&ab_channel=SamWitteveen
+
+     - Sequential Colab: https://colab.research.google.com/drive/1ycQILZ4Ym5YlyK-NcIxaVkYJq21JcvTd?usp=sharing
+     - Hierarchical Colab: https://colab.research.google.com/drive/1hgdM8bG_NGyOageiYNVsoLR38qMkMFwn?usp=sharing
+
+
+* Crew AI: The Future of AI-Powered Research and Writing Agents!
+
+   https://www.youtube.com/watch?v=qFNge4IrERk&ab_channel=MervinPraison
+   https://mer.vin/2024/01/crewai-example-code/
+
+
+ * * CrewAI with Open LLM (Llama 3) using Groq API: AI Agents for Data Analysis with Custom Tools
 
  https://www.youtube.com/watch?v=N5sos1X30Rw&ab_channel=VenelinValkov   
    
@@ -4486,8 +4524,6 @@ https://lnkd.in/giQrUzfq
   https://www.youtube.com/watch?v=Ev0uzdzesjU&ab_channel=VenelinValkov
 
   https://github.com/curiousily/AI-Bootcamp
-
-
 
 
 * AutoGen + Panel Ep.3 - Web UI for Multi-agent with Document Retrieval
@@ -4591,6 +4627,8 @@ agent -> prompt with past steps -> LLM -> next steps -> tool -> reponse -> agent
     https://www.pinecone.io/learn/series/rag/ragas/
 
 
+
+
  * Jina Reader API: Build better AI Agents and RAG systems with Reader, https://www.youtube.com/watch?v=GllAqZE6uws&ab_channel=AIAnytime
 
     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/744bd208-15b8-425c-88a1-9a899db33db8)
@@ -4676,9 +4714,14 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
   https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-code-hierarchy
 
 
- * Llama Index AI Agents: How to Get Started for Beginners?
+
+
+* Llama Index AI Agents: How to Get Started for Beginners?
 
   https://www.youtube.com/watch?v=jnWaUtS2Fr8&ab_channel=MervinPraison
+
+
+
 
 
 
