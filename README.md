@@ -1263,6 +1263,12 @@ Many more...
 
      https://github.com/Shekswess/LLM-7B-Medical-Finetuning
 
+
+  * Fine Tuning LLaVA
+
+     https://www.youtube.com/watch?v=cambXXq9mrs&ab_channel=FourthBrainAI
+
+    https://colab.research.google.com/drive/1LFcri1CHxNWXG6W4DnTXorUvRT_xY0kd?usp=sharing
     
   * Finetuning Open-Source LLMs, https://www.youtube.com/watch?v=gs-IDg-FoIQ&ab_channel=SebastianRaschka
 
@@ -5526,7 +5532,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
   
 * **Mosleh Mahamud** https://www.youtube.com/@moslehmahamud9574 ***
 
-  
+* **FourthBrainAI** https://www.youtube.com/@FourthBrainAI  ***
 
 * **Underfitted**, https://www.youtube.com/@underfitted
 * **Nodematic Tutorials**, https://www.youtube.com/@nodematic/  ****
