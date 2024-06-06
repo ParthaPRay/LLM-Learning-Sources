@@ -336,24 +336,7 @@ Repeat this process multiple times with multiple attention layers, and this give
 The original Transformer block is just an attention layer followed by a set of feed-forward layers with a couple of residual units and layer normalizations. A "Transformer" model is usually multiple Transformer blocks, one after the other. Most language models follow this basic architecture. I hope this explanation helps people trying to get into the field!
 
 
-* How to augment LLMs with Agents and Tools
 
-  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/4ba94d10-1248-4c8b-9e96-080cfd40b0a5)
-
- ere is how to augment LLMs with tools!
-
-We build a prompt with the following items:
-
-- a list of the possible and description of what they are and how to use them
-- the template of the Reasoning-Act (ReAct) prompt technique
-- the scratch book showing the results of the previous steps
-- the output indicator to guide the LLM in formatting its output correctly
-
-The ReAct technique forces the LLM to think about the next step to solve the question and choose a tool and a tool input to get more information based on that thought. We then extract the tool name and input with Regex and programmatically call the tool with the input and get the response. For example, one tool could be the Python package of the Wikipedia search engine.
-
-We use the tool response to help further the LLM investigation to find the right answer. An agent is a wrapper around an LLM that is augmented with a bunch of tools. The agent iterates until the answer is found:
-
-agent -> prompt with past steps -> LLM -> next steps -> tool -> reponse -> agent -> ...
 
 * Diffusion Models
   
@@ -1144,15 +1127,7 @@ Many more...
   https://github.com/technovangelist/videoprojects
  
  
- * JSON agents with Ollama & LangChain
- 
-   Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
- 
-    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/100767aa-5125-4a47-b2f4-cd2c3177675d)
- 
-   https://blog.langchain.dev/json-based-agents-with-ollama-and-langchain/
- 
- 
+
  * RAG from the Ground Up with Python and Ollama
  
    https://www.youtube.com/watch?v=V1Mz8gMBDMo&ab_channel=Decoder
@@ -2029,9 +2004,7 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   * Community Paper Reading: RAG vs Fine-tuning, https://www.youtube.com/watch?v=EbEPHOABgSY&ab_channel=ArizeAI
 
-  * "I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3, LlamaParse, Firecrawl, Corrective RAG agent
 
-      https://www.youtube.com/watch?v=u5Vcrwpzoz8&t=982s&ab_channel=AIJason
 
   * End-to-end Prototyping with Llama 3
 
@@ -2069,11 +2042,7 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://github.com/svpino/youtube-rag
  
-* Adding RAG to LangGraph Agents
 
-  https://www.youtube.com/watch?v=WyIWaopiUEo&ab_channel=SamWitteveen
-
-  https://colab.research.google.com/drive/1TSke71zmtkmwv83JOmaplNWXDisf8jHG?usp=sharing
 
  * Build an End-to-End RAG API with AWS Bedrock & Azure OpenAI
 
@@ -2144,25 +2113,13 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_evaluation.ipynb
     
-  * AI Agent Evaluation with RAGAS (Retrieval Augmented Generation Assessment) 
-
-    https://www.youtube.com/watch?v=-_52DIIOsCE&ab_channel=JamesBriggs
-
-    https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/03-ragas-evaluation.ipynb
-
-    https://www.pinecone.io/learn/series/rag/ragas/
 
 
  * Build an On-Device RAG App using Open Source AI Stack, https://www.youtube.com/watch?v=-ACc-NVjI5g&ab_channel=AIAnytime
 
    https://github.com/AIAnytime/On-device-real-time-RAG-App
 
- * Jina Reader API: Build better AI Agents and RAG systems with Reader, https://www.youtube.com/watch?v=GllAqZE6uws&ab_channel=AIAnytime
-
-    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/744bd208-15b8-425c-88a1-9a899db33db8)
-
-   https://github.com/jina-ai/reader
-  
+ 
 
   * How I Built a Medical RAG Chatbot Using BioMistral|Langchain | FREE Colab|ALL OPENSOURCE
 
@@ -2197,14 +2154,6 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
   * Gemma with transformers: how to teach structured English quotes to LLM
     https://youtu.be/qeJgBkPLCxo?si=YzFFkJop1ptC_YBM
-
-  * Unlock AI Agents, Function Calls and Multi-Step RAG with LLMWare
-    https://www.youtube.com/watch?v=cQfdaTcmBpY&ab_channel=llmware
-
- * RAG ipynb: CRAG, LlamaIndex, Ollama, ReAct Agent
-
-   https://www.youtube.com/watch?v=qPsmRk14BNM&ab_channel=code_your_own_AI
-
  
  * Chat with documents with Chainlit, Langchain, Ollama & Mistral, https://youtu.be/2IL0Sd3neWc?si=eXSH7WZa_bczTfTv
     
@@ -2617,10 +2566,6 @@ KGs.
 * LangGraph python, https://youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg&si=haMafIbDjtLZ9hFU
 
   
-* Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
- 
-    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
-
 
 * RAG from Scratch
 
@@ -2761,17 +2706,6 @@ Here they provide cookbooks for building LLM applications using Anthropic and Ll
   https://github.com/anthropics/anthropic-cookbook/tree/main/third_party/LlamaIndex
    
 
-* **CodeHierarchyAgentPack** from LlamaIndex
-
-  The CodeHierarchyAgentPack is useful to split long code files into more reasonable chunks, while creating an agent on top to navigate the code. What this will do is create a "Hierarchy" of sorts, where sections of the code are made more reasonable by replacing the scope body with short comments telling the LLM to search for a referenced node if it wants to read that context body.
-
-Nodes in this hierarchy will be split based on scope, like function, class, or method scope, and will have links to their children and parents so the LLM can traverse the tree.
-
-  https://llamahub.ai/l/llama-packs/llama-index-packs-code-hierarchy?from=llama-packs
-
-  https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-code-hierarchy
-
-
 * **VideoDB Retriever** from LlamaIndex: RAG: Instantly Search and Stream Video Results 📺
   
   RAG: Instantly Search and Stream Video Results
@@ -2785,7 +2719,7 @@ While Large Language Models (LLMs) excel with text, they fall short in helping y
 In this notebook, we introduce VideoDBRetriever, a tool specifically designed to simplify the creation of RAG pipelines for video content, without any hassle of dealing with complex video infrastructure.
 
 
-* StreamRAG: GPT-Powered Video Retrieval & Streaming 🚀
+* S**treamRAG**: GPT-Powered Video Retrieval & Streaming 🚀
 
   Video Search Agent for ChatGPT
 
@@ -3870,7 +3804,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   * ComfyUI GUI for Image and Video Generation: Google Colab Setup, https://www.youtube.com/watch?v=PYEnK_iQeZU&ab_channel=AIAnytime
 
-  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
 
   * Build a Containerized Transcription API using Whisper Model and FastAPI, https://www.youtube.com/watch?v=NU406wZz1eU&ab_channel=AIAnytime
 
@@ -3916,7 +3849,7 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     
   * AutoGen Studio with 100% Local LLMs (LM Studio), https://www.youtube.com/watch?v=ob45YmYD2KI&ab_channel=PromptEngineering
   
-  * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
+  
   
   * This is a lightweight app using the Web Research Retriever. It uses langchain to search and chat on web data on streamlit.
 
@@ -3966,10 +3899,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     https://www.youtube.com/watch?v=gW0RmrhoSyA&ab_channel=AllAboutAI
     
 
-    
-  * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
-
-    https://www.youtube.com/watch?v=xZDB1naRUlk
 
   * Make an offline GPT voice assistant in Python
   
@@ -3985,7 +3914,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     
   * Deploy and Use any Open Source LLMs using RunPod, https://www.youtube.com/watch?v=nHuHGoLSXb0&ab_channel=AIAnytime
 
-  * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
 
   * Function Calling using Open Source LLM (Mistral 7B), https://www.youtube.com/watch?v=MQmfSBdIfno&t=337s&ab_channel=AIAnytime
 
@@ -4057,9 +3985,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
     
   * Steerable AI with Pinecone + Semantic router, https://youtu.be/qjRrMxT20T0?si=hQj7YxUJAj2Y2unV
 
-  * AutoGen + Ollama + Gemma: How to Create LLM Agents Locally
-
-    https://www.youtube.com/watch?v=bkBOuBxsxeM&ab_channel=YeyuLab
 
   * Constitutional AI with Open LLMs
 
@@ -4092,18 +4017,7 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
       ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/80c10a2b-66fd-4968-a2a5-a1374b22a057)
 
  
-  * Create Complex Research Analysis with AI Agents using SLIM models on CPU with LLMWare
-
-    https://www.youtube.com/watch?v=y4WvwHqRR60&ab_channel=llmware
-    
-      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d6bdb92a-21e1-4ca6-9324-83bf63f352ac)
-
-    https://huggingface.co/llmware
-
-    https://github.com/llmware-ai/llmware
-
-    https://github.com/llmware-ai/llmware/tree/main/examples/SLIM-Agents/
-
+ 
 
   * Taipy: Creating Production-Grade Apps with Taipy vs Streamlit, https://www.youtube.com/watch?v=MgAIrGxnN-8&ab_channel=WorldofAI
 
@@ -4119,7 +4033,6 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
  
  * Gemini Pro + LangChain - Chains, Mini RAG, PAL + Multimodal, https://www.youtube.com/watch?v=G3-YOEVg-xc&ab_channel=SamWitteveen
 
- * LangGraph + function call + Yahoofinance = Multi-agent application, https://youtu.be/r2PvHdkaXWc?si=alEiCMZwy0xAwNwG
    
  * Visual Question Answering with Google Deplot #huggingface
 
@@ -4129,12 +4042,8 @@ https://huggingface.co/macadeliccc/Nous-Hermes-2-Mixtral-8x7B-DPO-HQQ
 
   https://arxiv.org/pdf/2404.18416
    
-
    
  * Build an LLM powered chrome extension, https://youtu.be/9RKXffJsJhs?si=Ly_ocxdSttphdhKk
-
-  * LangGraph and OpenGPTs: building agent forward applications with Langchain
-, https://www.youtube.com/live/NdF609kO8FY?si=OLcaLpy3ALBUeOUF
 
 
 * Claude 3 Function Calling: How to Integrate your own Software?, https://www.youtube.com/watch?v=LuBROahHvfo&ab_channel=MervinPraison
@@ -4171,9 +4080,7 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   https://www.youtube.com/watch?v=alHnQjyn7hg&ab_channel=LangChain
 
 
-* VectorShift + Pipelines + System Prompt = Ai Agent Chatbot
 
-  https://youtu.be/0HxHkNT4_EU?si=qeOsaRbRC6gt-rtA
 
 
 * AutoGen + Knowledge Graph + GPT-4 = Graph Chatbot
@@ -4245,8 +4152,6 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
   * Groq API: Make your AI Applications Lighting Speed, https://www.youtube.com/watch?v=vKWtFVqr6Wc&t=96s&ab_channel=MervinPraison
 
 
-  * Builx an Agent with Long-Term personalized memory,
-    https://youtu.be/oPCKB9MUP6c?si=FGDDaDm1KuXVazhP
 
   * Build the fastest AI chatbot with memory using Groq, gradio, Langchain 
 
@@ -4254,14 +4159,11 @@ https://mer.vin/2024/04/anthropic-tools-stock-price-integration/
     
   https://github.com/InsightEdge01/GroqchatbotwithMemory/tree/main
   
-  * **Fastest talking AI I could build
-    deepgram + groq**
-  
-  
-  https://youtu.be/J2sbC8X5Pp8?si=6L4sqm2izVXkDgR7
+  * Fastest talking AI I could build deepgram + groq*
+   
+   https://youtu.be/J2sbC8X5Pp8?si=6L4sqm2izVXkDgR7
    
     https://aura-tts-demo.deepgram.com
-
 
     Code: https://github.com/gkamradt/QuickAgent
 
@@ -4444,7 +4346,7 @@ https://lnkd.in/giQrUzfq
 
 
 
-# LLM Agents
+# LLM Agent
 
 
  * Boost Gmail Efficiency with AI: Python Tutorial (CrewAI, LangChain, LangGraph)
@@ -4608,6 +4510,159 @@ https://lnkd.in/giQrUzfq
 * Create AI Chatbot from Tabular Data using VectorShift AI Agent
 
   https://www.youtube.com/watch?v=gFn2tINuKIU&ab_channel=MervinPraison
+
+
+ * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
+
+  * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
+
+    
+  * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
+
+    https://www.youtube.com/watch?v=xZDB1naRUlk
+
+  * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
+
+
+  * AutoGen + Ollama + Gemma: How to Create LLM Agents Locally
+
+    https://www.youtube.com/watch?v=bkBOuBxsxeM&ab_channel=YeyuLab
+
+
+ * JSON agents with Ollama & LangChain
+ 
+   Learn to implement an open-source Mixtral agent that interacts with a graph database Neo4j through a semantic layer
+ 
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/100767aa-5125-4a47-b2f4-cd2c3177675d)
+ 
+   https://blog.langchain.dev/json-based-agents-with-ollama-and-langchain/
+
+  * "I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3, LlamaParse, Firecrawl, Corrective RAG agent
+
+      https://www.youtube.com/watch?v=u5Vcrwpzoz8&t=982s&ab_channel=AIJason
+
+
+* How to augment LLMs with Agents and Tools
+
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/4ba94d10-1248-4c8b-9e96-080cfd40b0a5)
+
+ ere is how to augment LLMs with tools!
+
+We build a prompt with the following items:
+
+- a list of the possible and description of what they are and how to use them
+- the template of the Reasoning-Act (ReAct) prompt technique
+- the scratch book showing the results of the previous steps
+- the output indicator to guide the LLM in formatting its output correctly
+
+The ReAct technique forces the LLM to think about the next step to solve the question and choose a tool and a tool input to get more information based on that thought. We then extract the tool name and input with Regex and programmatically call the tool with the input and get the response. For example, one tool could be the Python package of the Wikipedia search engine.
+
+We use the tool response to help further the LLM investigation to find the right answer. An agent is a wrapper around an LLM that is augmented with a bunch of tools. The agent iterates until the answer is found:
+
+agent -> prompt with past steps -> LLM -> next steps -> tool -> reponse -> agent -> ...
+
+
+* Adding RAG to LangGraph Agents
+
+  https://www.youtube.com/watch?v=WyIWaopiUEo&ab_channel=SamWitteveen
+
+  https://colab.research.google.com/drive/1TSke71zmtkmwv83JOmaplNWXDisf8jHG?usp=sharing
+
+
+  * AI Agent Evaluation with RAGAS (Retrieval Augmented Generation Assessment) 
+
+    https://www.youtube.com/watch?v=-_52DIIOsCE&ab_channel=JamesBriggs
+
+    https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/03-ragas-evaluation.ipynb
+
+    https://www.pinecone.io/learn/series/rag/ragas/
+
+
+ * Jina Reader API: Build better AI Agents and RAG systems with Reader, https://www.youtube.com/watch?v=GllAqZE6uws&ab_channel=AIAnytime
+
+    ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/744bd208-15b8-425c-88a1-9a899db33db8)
+
+   https://github.com/jina-ai/reader
+
+
+
+  * Unlock AI Agents, Function Calls and Multi-Step RAG with LLMWare
+    https://www.youtube.com/watch?v=cQfdaTcmBpY&ab_channel=llmware
+
+ * RAG ipynb: CRAG, LlamaIndex, Ollama, ReAct Agent
+
+   https://www.youtube.com/watch?v=qPsmRk14BNM&ab_channel=code_your_own_AI
+
+
+
+* Hands on with LangGraph Agent Workflows: Build a LangChain Coding Agent with Custom Tools
+ 
+    https://www.youtube.com/watch?v=oMRJ--GJCKQ&ab_channel=DeployingAI
+
+
+
+  * Build Generative AI Agents using Dialogflow CX and Vertex AI on GCP, https://www.youtube.com/watch?v=cDY8lm6vg7w&ab_channel=AIAnytime
+
+  * AutoGen Studio UI 2.0: Easiest Way to Create Custom Agents, https://www.youtube.com/watch?v=KIvl-VY8H0Y&ab_channel=PromptEngineering
+
+
+    
+  * Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
+
+    https://www.youtube.com/watch?v=xZDB1naRUlk
+
+
+  * CPU-based SLMs for AI Agents and Function Calling by LLMWare, https://www.youtube.com/watch?v=0MOMBJjytkQ&ab_channel=AIAnytime
+
+
+
+  * AutoGen + Ollama + Gemma: How to Create LLM Agents Locally
+
+    https://www.youtube.com/watch?v=bkBOuBxsxeM&ab_channel=YeyuLab
+
+
+ * Create Complex Research Analysis with AI Agents using SLIM models on CPU with LLMWare
+
+    https://www.youtube.com/watch?v=y4WvwHqRR60&ab_channel=llmware
+    
+      ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/d6bdb92a-21e1-4ca6-9324-83bf63f352ac)
+
+    https://huggingface.co/llmware
+
+    https://github.com/llmware-ai/llmware
+
+    https://github.com/llmware-ai/llmware/tree/main/examples/SLIM-Agents/
+
+
+
+ * LangGraph + function call + Yahoofinance = Multi-agent application, https://youtu.be/r2PvHdkaXWc?si=alEiCMZwy0xAwNwG
+
+
+  * LangGraph and OpenGPTs: building agent forward applications with Langchain
+, https://www.youtube.com/live/NdF609kO8FY?si=OLcaLpy3ALBUeOUF
+
+
+* VectorShift + Pipelines + System Prompt = Ai Agent Chatbot
+
+  https://youtu.be/0HxHkNT4_EU?si=qeOsaRbRC6gt-rtA
+
+
+  * Builx an Agent with Long-Term personalized memory,
+    https://youtu.be/oPCKB9MUP6c?si=FGDDaDm1KuXVazhP
+
+
+
+* CodeHierarchyAgentPack from LlamaIndex
+
+  The CodeHierarchyAgentPack is useful to split long code files into more reasonable chunks, while creating an agent on top to navigate the code. What this will do is create a "Hierarchy" of sorts, where sections of the code are made more reasonable by replacing the scope body with short comments telling the LLM to search for a referenced node if it wants to read that context body.
+
+Nodes in this hierarchy will be split based on scope, like function, class, or method scope, and will have links to their children and parents so the LLM can traverse the tree.
+
+  https://llamahub.ai/l/llama-packs/llama-index-packs-code-hierarchy?from=llama-packs
+
+  https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-code-hierarchy
+
+
 
 
 
