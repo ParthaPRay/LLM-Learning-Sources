@@ -733,7 +733,7 @@ specified merging technique within the system’s framework.
 
  * Illustrated LLM OS: An Implementational Perspective,  https://huggingface.co/blog/shivance/illustrated-llm-os
 
-
+ 
 
 
 
@@ -4393,8 +4393,24 @@ https://lnkd.in/giQrUzfq
 
    https://github.com/nicknochnack/CrewAIPropertyBot
 
+* Automate Recruitment Process using AI Agents: Crew AI
 
+  https://www.youtube.com/watch?v=OQJ4gp70Zg0&ab_channel=MervinPraison
 
+  https://mer.vin/2024/03/crew-ai-job-posting/
+
+* Crew AI 2.0: How AI Agents Perform Healthcare Research Simultaneously
+
+  https://www.youtube.com/watch?v=3siqEzMeWdM&ab_channel=MervinPraison
+
+  https://mer.vin/2024/02/crewai-2-0/
+
+ * CrewAI: AI-Powered LinkedIn Posts Creator Agents using Azure, Gemini & Mistral
+
+   https://www.youtube.com/watch?v=U5TAI_SGllA&ab_channel=MervinPraison
+
+   https://mer.vin/2024/01/crew-ai-linkedin-post-creator/
+  
 * I Created AI Assistants to Automate Recruitment Process: Crew AI
 
    https://www.youtube.com/watch?v=OQJ4gp70Zg0&ab_channel=MervinPraison
@@ -4466,11 +4482,27 @@ https://lnkd.in/giQrUzfq
      - Hierarchical Colab: https://colab.research.google.com/drive/1hgdM8bG_NGyOageiYNVsoLR38qMkMFwn?usp=sharing
 
 
+* Crew AI: The Future of Travel Planning with AI Agents!
+
+  https://www.youtube.com/watch?v=zAjcPRjnORg&list=PLYQsp-tXX9w6dCJBsgZfddg5pAuWXapU4&ab_channel=MervinPraison
+  https://mer.vin/2024/01/crew-ai-travel-agents/
+
+* Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq)
+
+  https://www.youtube.com/watch?v=vWukuS48RbY&ab_channel=MervinPraison
+  https://mer.vin/2024/03/crewai-groq-create-story-books/
+
 * Crew AI: The Future of AI-Powered Research and Writing Agents!
 
    https://www.youtube.com/watch?v=qFNge4IrERk&ab_channel=MervinPraison
    https://mer.vin/2024/01/crewai-example-code/
 
+
+ * CrewAI Code Interpreter: How I Made AI Agents to Generate Execute Code (Vs AutoGen)
+
+   https://www.youtube.com/watch?v=DDDXO_Y_YAI&ab_channel=MervinPraison
+
+  https://mer.vin/2024/02/crewai-open-interpreter/
 
  * * CrewAI with Open LLM (Llama 3) using Groq API: AI Agents for Data Analysis with Custom Tools
 
@@ -4479,6 +4511,12 @@ https://lnkd.in/giQrUzfq
   https://github.com/curiousily/AI-Bootcamp
 
 
+
+* Llama Index AI Agents: How to Get Started for Beginners?
+
+  https://www.youtube.com/watch?v=jnWaUtS2Fr8&list=PLYQsp-tXX9w6dCJBsgZfddg5pAuWXapU4&index=12&ab_channel=MervinPraison
+
+  https://mer.vin/2024/05/llama-index-agents-ollama/
 
 
 * AutoGen + Custom Model + Gemma (or Any Model), Here is the Ultimate Solution
