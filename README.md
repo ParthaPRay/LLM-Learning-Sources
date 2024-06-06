@@ -3004,7 +3004,17 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
      https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 
 
-   * Convert Any Text to LLM Dataset Locally - Demo with Example
+* 🦙⚗️ Using Llama3 and distilabel to build fine-tuning datasets
+
+  https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel
+
+* ⚗️ 🔥 Building High-Quality Datasets with distilabel and Prometheus 2
+
+  https://huggingface.co/blog/burtenshaw/distilabel-prometheus-2
+
+
+
+* Convert Any Text to LLM Dataset Locally - Demo with Example
 
 
    https://www.youtube.com/watch?v=ZiyCe_dRksM&ab_channel=FahdMirza
