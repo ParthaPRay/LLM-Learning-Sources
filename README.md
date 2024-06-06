@@ -2095,6 +2095,10 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
 
     https://pypi.org/project/rag-evaluator/
 
+ * Elevated RAG with LangChain
+
+   https://www.youtube.com/watch?v=XXnc55zypU0&ab_channel=FourthBrainAI
+
   * End-to-end Prototyping with Llama 3
 
     https://www.youtube.com/watch?v=anIBtQNn1G0&ab_channel=AIMakerspace
