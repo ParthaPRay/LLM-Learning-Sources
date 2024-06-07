@@ -5614,6 +5614,7 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Deploying AI** https://youtube.com/@deployingai?si=pXZDOETUDdqiB_9I
 * **JakeEh**, https://youtube.com/@jakeeh?si=m1gSOQIkJbhPxJmt
 * **Predibase**  https://youtube.com/@Predibase?si=HbdO89yPruuKJp6I
+* **GaoDalie_AI**    https://www.youtube.com/@GaoDalie_AI ***
 
 * **Sunny Savita**  https://www.youtube.com/@sunnysavita10    ****
 
