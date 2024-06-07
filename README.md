@@ -4573,6 +4573,12 @@ https://lnkd.in/giQrUzfq
 
     https://www.youtube.com/watch?v=od6AaKhKYmg&ab_channel=PromptEngineering
 
+ * OpenAGI aims to make **human-like agents** accessible to everyone, thereby paving the way towards open agents and, eventually, AGI for everyone.
+
+     ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/72bff814-965d-4110-a631-9e0639d2cd8e)
+
+   
+   https://github.com/aiplanethub/openagi/
     
  * How to Implement a Simple UI for CrewAI applications
 
