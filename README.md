@@ -124,12 +124,22 @@ https://www.youtube.com/watch?v=zR1X5R_1TUw&ab_channel=SethJuarez
 * Flash Attention 2.0 with Tri Dao (author)! | Discord server talks, https://www.youtube.com/watch?v=IoMSGuiwV3g&ab_channel=AleksaGordi%C4%87-TheAIEpiphany
 
 
+
+* Train a language model from scratch
+
+  https://colab.research.google.com/github/neuml/txtai/blob/master/examples/41_Train_a_language_model_from_scratch.ipynb#scrollTo=53bvB9c6MbPS
+
+  https://neuml.github.io/txtai/examples/
+
 * Outcome-based reward model (ORM)
 
   Meet Stepwise ORMs (SORMs)
 
  https://arxiv.org/abs/2402.10963
   ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/1ef40ceb-e53f-48d4-a4a4-29a45cb328c1)
+
+
+
 
 
 * Datasets for Large Language Models: A Comprehensive Survey
