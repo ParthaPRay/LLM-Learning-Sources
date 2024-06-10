@@ -66,7 +66,18 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
        https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing
 
        https://github.com/karpathy/minbpe
+
+     * Let's reproduce GPT-2 (124M)
+
+       https://www.youtube.com/watch?v=l8pRSuU81PU&ab_channel=AndrejKarpathy
+
+       https://github.com/karpathy/build-nanogpt
+
+       https://github.com/karpathy/nanoGPT
+
+       https://github.com/karpathy/llm.c
        
+ 
         
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
