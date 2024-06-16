@@ -1292,6 +1292,10 @@ Many more...
    https://www.youtube.com/watch?v=lJDxkjE9SSY
 
    https://www.youtube.com/watch?v=lJDxkjE9SSY
+
+
+  * Fine-tuning Mistral on Your Dataset
+    https://huggingface.co/blog/nroggendorff/finetune-mistral 
    
   * Fine Tuning LLaVA
 
@@ -5075,6 +5079,15 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
   https://www.anthropic.com/research/many-shot-jailbreaking
 
 
+* CryptGPT: Privacy-Preserving Language Models Using Vigenere Cipher (Part 1)
+
+  https://huggingface.co/blog/diwank/cryptgpt-part1
+
+  https://github.com/creatorrr/cryptgpt
+  
+* Uncensor any LLM with abliteration
+
+  https://huggingface.co/blog/mlabonne/abliteration
 
 * Beware of Contaminated AI Models - Contaminated Proof 7B
 
