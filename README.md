@@ -1064,7 +1064,13 @@ Many more...
   * Writing Better Code with Ollama, https://www.youtube.com/watch?v=NNBWmIve3fQ&ab_channel=MattWilliams
  
   * Ollama meets LangChain, https://www.youtube.com/watch?v=k_1pOF1mj8k&ab_channel=SamWitteveen
+
+  * Instructor: The Best Way to get Typed Data from Ollama
     
+    https://www.youtube.com/watch?v=1gaYHLO54TE
+
+    https://useinstructor.com/
+        
   * Running Mixtral on your machine with Ollama, https://www.youtube.com/watch?v=rfr4p0srlqs&ab_channel=LearnDatawithMark
     
   * Running Mistral AI on your machine with Ollama, https://www.youtube.com/watch?v=NFgEgqua-fg&ab_channel=LearnDatawithMark
@@ -1281,6 +1287,12 @@ Many more...
      https://github.com/Shekswess/LLM-7B-Medical-Finetuning
 
 
+ * Top Ten Fine Tuning Tips
+
+   https://www.youtube.com/watch?v=lJDxkjE9SSY
+
+   https://www.youtube.com/watch?v=lJDxkjE9SSY
+   
   * Fine Tuning LLaVA
 
      https://www.youtube.com/watch?v=cambXXq9mrs&ab_channel=FourthBrainAI
@@ -1331,6 +1343,15 @@ Many more...
 
     https://github.com/stanfordnlp/pyreft
 
+ * LoRA & QLoRA Fine-tuning Explained In-Depth
+
+   https://www.youtube.com/watch?v=t1caDsMzWBk&ab_channel=EntryPointAI
+
+ * RLHF, DPO, & KTO Explained
+
+   https://www.youtube.com/watch?v=nSrj1J6ODoM&ab_channel=EntryPointAI
+   
+   
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
  
   * Fine tuning Whisper for Speech Transcription, https://www.youtube.com/watch?v=anplUNnkM68&ab_channel=TrelisResearch
@@ -4572,6 +4593,9 @@ https://lnkd.in/giQrUzfq
 # LLM Agent
 
 
+  ![image](https://github.com/ParthaPRay/LLM-Learning-Sources/assets/1689639/b8b449c5-0345-426e-a92e-a12ffda634dc)
+
+
   * Have You Picked the Wrong AI Agent Framework?
 
    https://www.youtube.com/watch?v=jLVl5V8roMU&ab_channel=MattWilliams
@@ -4600,6 +4624,14 @@ https://lnkd.in/giQrUzfq
 
    
    https://github.com/aiplanethub/openagi/
+
+
+ * Qwen-Agent: Build Autonomous Agents with The Best Open Weight Model
+
+   https://github.com/QwenLM/Qwen-Agent
+
+   https://www.youtube.com/watch?v=CdWGS0VT9gQ
+   
     
  * How to Implement a Simple UI for CrewAI applications
 
@@ -4757,7 +4789,17 @@ https://lnkd.in/giQrUzfq
   https://www.youtube.com/watch?v=LHXujQ19Euo&ab_channel=AlejandroAO-Software%26Ai
 
   https://github.com/alejandro-ao/crewai-instagram-example
-   
+
+ * Build a Research Assistant AI Agent using CrewAI
+
+   https://www.youtube.com/watch?v=f2g24bt_P6Q
+
+   https://github.com/AIAnytime/AI-Agents-using-Crew-AI
+
+* CrewAI + Exa: Generate a Newsletter with Research Agents (Part 1)
+
+  https://www.youtube.com/watch?v=gXET04dJ66A&ab_channel=AlejandroAO-Software%26Ai
+  
 
 * Llama Index AI Agents: How to Get Started for Beginners?
 
