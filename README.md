@@ -5199,6 +5199,10 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
     https://www.youtube.com/watch?v=bU5F0bVOMIA
 
     https://github.com/ee292d/labs/tree/main/lab1
+
+  * Running Large Language Models on Raspberry Pi at the Edge
+
+    https://www.hackster.io/mjrobot/running-large-language-models-on-raspberry-pi-at-the-edge-63bb11
     
 ===========================================================================================
 
