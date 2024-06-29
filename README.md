@@ -1415,6 +1415,9 @@ Many more...
      https://colab.research.google.com/drive/1zral6IXIwSd3nQGQSE_5WM_4RyqLFKYA?usp=sharing
 
   * Fine-tune TinyLlama 1.1B locally on own custom dataset, https://youtu.be/VoDHpnCN6PA?si=Aq7soXO6k83mJJVs
+
+  * Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
+    https://huggingface.co/blog/finetune-florence2
     
   * Llama Factory: How to Fine-Tune LLMs easily?, https://youtu.be/G5ENOwfPHFE?si=2BZ6Zh5x55TDr2dl
     
