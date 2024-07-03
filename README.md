@@ -5206,7 +5206,10 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
   * Running Large Language Models on Raspberry Pi at the Edge
 
     https://www.hackster.io/mjrobot/running-large-language-models-on-raspberry-pi-at-the-edge-63bb11
-    
+
+
+  * Harnessing AI at the Edge: Building a RAG System with Ollama, Qdrant and Raspberry Pi
+      https://blog.gopenai.com/harnessing-ai-at-the-edge-building-a-rag-system-with-ollama-qdrant-and-raspberry-pi-45ac3212cf75
 ===========================================================================================
 
   * **Raspberr Pi Forum Discussions**
