@@ -77,9 +77,17 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
        https://github.com/karpathy/llm.c
        
+    * Storyteller AI Large Language Model (LLM)
+ 
+      LLM building course by hand scratch
+      https://github.com/karpathy/LLM101n
+
  
         
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
+
+
+
 
 * [Build a Large Language Model (From Scratch)] (https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka, MEAP publications 2025.
 
