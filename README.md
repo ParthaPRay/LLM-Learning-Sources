@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
         
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
-
+* Train a Llama model from scratch, https://huggingface.co/blog/nroggendorff/train-with-llama-architecture
 
 
 * [Build a Large Language Model (From Scratch)] (https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka, MEAP publications 2025.
@@ -5218,6 +5218,12 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
 
   * Harnessing AI at the Edge: Building a RAG System with Ollama, Qdrant and Raspberry Pi
       https://blog.gopenai.com/harnessing-ai-at-the-edge-building-a-rag-system-with-ollama-qdrant-and-raspberry-pi-45ac3212cf75
+
+   * SmolLM - blazingly fast and remarkably powerful
+
+      https://huggingface.co/blog/smollm
+
+     
 ===========================================================================================
 
   * **Raspberr Pi Forum Discussions**
