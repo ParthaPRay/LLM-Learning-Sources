@@ -5223,6 +5223,14 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
 
       https://huggingface.co/blog/smollm
 
+  * Build your own LLM AI on a Raspberry Pi
+
+    https://www.youtube.com/watch?v=6NCjTof5snk&ab_channel=WiseCat
+    https://github.com/adamjenkins/pillama
+    
+  * Best ChatGPT AI on Raspberry Pi 5 - Qwen2 1.5b
+
+    https://www.youtube.com/watch?v=y2HRaBlzQCM&ab_channel=alby13  
      
 ===========================================================================================
 
