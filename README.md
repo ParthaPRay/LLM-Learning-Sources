@@ -5230,7 +5230,9 @@ Nodes in this hierarchy will be split based on scope, like function, class, or m
     
   * Best ChatGPT AI on Raspberry Pi 5 - Qwen2 1.5b
 
-    https://www.youtube.com/watch?v=y2HRaBlzQCM&ab_channel=alby13  
+    https://www.youtube.com/watch?v=y2HRaBlzQCM&ab_channel=alby13
+
+     https://ollama.com/CognitiveComputations
      
 ===========================================================================================
 
