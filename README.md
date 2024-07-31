@@ -108,7 +108,8 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
 
 * Create your own Local Chatgpt for FREE, Full Guide: PDF, Image, & Audiochat (Langchain, Streamlit), https://www.youtube.com/watch?v=CUjO8b6_ZuM&t=452s&ab_channel=LeonExplainsAI
 
-  
+* Train a Llama model from scratch, https://huggingface.co/blog/nroggendorff/train-with-llama-architecture
+    
 
 * Fine Tuning and Evaluating LLMs with Anyscale and Arize, https://www.youtube.com/watch?v=b-MfkFz-A2E&ab_channel=ArizeAI
 
@@ -213,6 +214,9 @@ For text classification, we want to associate the input text data with some cate
 
 The token classification learning task is often used for applications such as Named Entity Recognition (NER). We want to categorize each of the tokens in the input sentence. For example, we may want to associate each of the words with their grammatical categories: [NOUN], [VERB], and [ADJECTIVE]. For each of the inputs in the sequence, we need a prediction vector of the size of the number of categories we want to predict. At training time, we compare that prediction matrix for all the tokens to their categories in the labels with a cross-entropy loss function and update the model weights.
 
+* Transformers
+
+  https://huggingface.co/blog/Esmail-AGumaan/attention-is-all-you-need
   
 * How LLMs generate text?
   
@@ -263,6 +267,7 @@ Those [PAD] tokens are semantically meaningless, and they should not contribute 
 
   https://github.com/hkproj/bert-from-scratch
 
+* Introduction to State Space Models (SSM), https://huggingface.co/blog/lbourdois/get-on-the-ssm-train
 
 * Variational Autoencoder - Model, ELBO, loss function and maths explained easily!
 
@@ -1362,7 +1367,15 @@ Many more...
  * RLHF, DPO, & KTO Explained
 
    https://www.youtube.com/watch?v=nSrj1J6ODoM&ab_channel=EntryPointAI
-   
+
+
+ * Fine Tuning TinyLlama for Text Generation with TRL, https://huggingface.co/blog/nroggendorff/finetune-tinyllama
+
+ * Fine-tuning Mistral on Your Dataset, https://huggingface.co/blog/nroggendorff/finetune-mistral
+
+ * Finetuning PaliGemma with AutoTrain, https://huggingface.co/blog/abhishek/paligemma-finetuning-autotrain
+ 
+ https://huggingface.co/blog/mlabonne/sft-llama3* Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth, 
    
   * Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial, https://www.youtube.com/watch?v=1ILVm4IeNY8&ab_channel=AIAnytime
  
@@ -1376,7 +1389,9 @@ Many more...
 
    https://github.com/huggingface/setfit
 
-   
+
+  * Preference Optimization for Vision Language Models with TRL, https://huggingface.co/blog/dpo_vlm
+     
   * Direct Preference Optimization (DPO), https://www.youtube.com/watch?v=E5kzAbD8D0w&ab_channel=TrelisResearch
 
  
@@ -2291,6 +2306,9 @@ I wonder if there is a possibility to merge the advantages of vector and graph d
     https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_evaluation.ipynb
     
 
+  * Evaluate RAG pipeline using HuggingFace Open Source Models
+
+    https://huggingface.co/blog/lucifertrj/evaluate-rag
 
  * Build an On-Device RAG App using Open Source AI Stack, https://www.youtube.com/watch?v=-ACc-NVjI5g&ab_channel=AIAnytime
 
@@ -3088,7 +3106,7 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 
   https://huggingface.co/blog/burtenshaw/distilabel-prometheus-2
 
-
+* Create a Diffusers-compatible Dataset for Stable Diffusion Fine-tuning, https://huggingface.co/blog/nroggendorff/create-diffusers-dataset
 
 * Convert Any Text to LLM Dataset Locally - Demo with Example
 
@@ -3691,7 +3709,9 @@ OpenAI can easily measure the adapter utilization and the customers’ request v
       
         https://huggingface.co/blog/lcm_lora
 
+   * Deploy hundreds of open source models on one GPU using LoRAX
 
+     https://huggingface.co/blog/macadeliccc/deploy-hundreds-of-models-on-one-gpu
 
 
 **Quantization**
