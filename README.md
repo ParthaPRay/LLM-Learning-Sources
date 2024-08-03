@@ -5938,6 +5938,7 @@ Google Cloud Generative AI Learning Path
  -  LlamaIndex blog, https://www.llamaindex.ai/blog
  -  Pinecone, https://www.pinecone.io/learn/
  -  Maxime Labonne, https://mlabonne.github.io/blog/
+ -  LLM Watch, https://www.llmwatch.com/
  -  AI by Hand ✍️, https://aibyhand.substack.com/
   
 
