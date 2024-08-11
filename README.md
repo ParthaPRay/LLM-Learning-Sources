@@ -5761,6 +5761,8 @@ There definitively is no shortage of ways Data can go wrong when it comes to Mac
 * **Stanford Online**, https://www.youtube.com/@stanfordonline/videos   **********
 * **Ricardo Calix**, https://www.youtube.com/@ricardocalix188  ****************
 
+* **3Blue1Brown**
+https://www.youtube.com/@3blue1brown
 
 
 # Prompt Engineeing
