@@ -3084,6 +3084,9 @@ https://youtu.be/2Id2KTrES2s?si=44IA8s3qHQYEUTkR
 # Dataset 
 
 
+   * LLM Datasets
+
+     https://github.com/mlabonne/llm-datasets
 
    * FineWeb and FineWeb-Edu - All Time Best Quality Dataset for Free
 
