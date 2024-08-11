@@ -82,7 +82,12 @@ https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
       LLM building course by hand scratch
       https://github.com/karpathy/LLM101n
 
- 
+
+ * A Survey of Techniques for Maximizing LLM Performance
+
+    ![image](https://github.com/user-attachments/assets/36f5e632-f79d-4403-b248-af7c7c91c407)
+
+   https://www.youtube.com/watch?v=ahnGLM-RC1Y&t=217s
         
 * Create a Large Language Model from Scratch with Python – Tutorial, https://www.youtube.com/watch?v=UU1WVnMk4E8&t=24s&ab_channel=freeCodeCamp.org
 
