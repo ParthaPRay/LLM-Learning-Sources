@@ -505,7 +505,9 @@ You can look at the method here: https://lnkd.in/gPUzdBPi. They were able to ext
 
 
 
+* Introduction to ggml
 
+  https://huggingface.co/blog/introduction-to-ggml
 
 
 * Gorilla
