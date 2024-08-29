@@ -722,6 +722,17 @@ specified merging technique within the system’s framework.
 
 
 
+* **LLM-as-a-judge**
+
+  LLM-evaluators, also known as “LLM-as-a-Judge”, are large language models (LLMs) that evaluate the quality of another LLM’s response to an instruction or query.
+
+Their growing adoption is partly driven by necessity. LLMs can now solve increasingly complex and open-ended tasks such as long-form summarization, translation, and multi-turn dialogue. As a result, conventional evals that rely on n-grams, semantic similarity, or a gold reference have become less effective at distinguishing good responses from the bad. And while we can rely on human evaluation or finetuned task-specific evaluators, they require significant effort and high-quality labeled data, making them difficult to scale.
+
+  ![image](https://github.com/user-attachments/assets/98bed698-1333-40e0-a379-88463523e265)
+
+  https://eugeneyan.com/writing/llm-evaluators/
+
+
 # LLM OS
 
 * Intro to Large Language Models by Andrej Karpathy
