@@ -2045,6 +2045,11 @@ To do that, we need to construct a data set where pairs of related (Question, an
 # RAG
 
 
+**Various Types of RAGs**
+
+  ![image](https://github.com/user-attachments/assets/1eefaba4-accb-4185-bc92-a53caf3f89f7)
+
+
 **RAG = Dense vector Retrieval (R) + In-Contsxt learning (AG)**
 
 
